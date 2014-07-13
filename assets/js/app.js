@@ -238,7 +238,7 @@ var theaters = L.geoJson(null, {
  "</ul>"+
  
  "<div class='tab-content'>"+
- "<div class='tab-pane active' id='home'>"
+ "<div class='tab-pane active' id='home'>" +
 "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.TEL + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.ADDRESS1 + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>" + "</div>" + "</div>";
       layer.on({
         click: function (e) {
