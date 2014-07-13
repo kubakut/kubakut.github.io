@@ -242,7 +242,7 @@ var theaters = L.geoJson(null, {
         "a"+
       "</div>"+
       "<div class='tab-pane fade' id='profile'>"
-       "b"+
+       "bada"+
       "</div>"+
       
      "</div>"+
