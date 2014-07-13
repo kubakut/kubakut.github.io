@@ -170,7 +170,19 @@ var subwayLines = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Division</th><td>" + feature.properties.Division + "</td></tr>" + "<tr><th>Line</th><td>" + feature.properties.Line + "</td></tr>" + "<table>";
+      var content = "<ul class='nav nav-tabs' id='aboutTabs'>" +
+              "<li class='active'><a href='#about' data-toggle='tab'><i class='fa fa-question-circle'></i>&nbsp;About the project</a></li>" +
+              "<li><a href='#contact' data-toggle='tab'><i class='fa fa-envelope'></i>&nbsp;Contact us</a></li>" +
+              "<li><a href='#disclaimer' data-toggle='tab'><i class='fa fa-exclamation-circle'></i>&nbsp;Disclaimer</a></li>" +             
+            "</ul>" +
+            "<div class='tab-content' id='aboutTabsContent' style='padding-top: 10px;'>" +
+              "<div class='tab-pane fade active in' id='about'>" +
+                "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Division</th><td>" + feature.properties.Division + "</td></tr>" + "<tr><th>Line</th><td>" + feature.properties.Line + "</td></tr>" + "<table>" +
+              "</div>" +
+              "<div id='disclaimer' class='tab-pane fade text-danger'>" +
+                "<p>The data provided on this site is for informational and planning purposes only.</p>" +
+                "<p>Absolutely no accuracy or completeness guarantee is implied or intended. All information on this map is subject to such variations and corrections as might result from a complete title search and/or accurate field survey.</p>"+
+              "</div>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.Line);
