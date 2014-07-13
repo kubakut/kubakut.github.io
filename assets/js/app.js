@@ -312,7 +312,7 @@ $.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
 
 map = L.map("map", {
   zoom: 5,
-  center: [50.702222, 14.979378],
+  center: [14.702222, 50.979378],
   layers: [mapquestOSM, boroughs, markerClusters, highlight],
   zoomControl: false,
   attributionControl: false
