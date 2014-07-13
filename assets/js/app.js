@@ -69,7 +69,7 @@ var highlight = L.geoJson(null);
 var boroughs = L.geoJson(null, {
   style: function (feature) {
     return {
-      color: "black",
+      color: "grey",
       fill: false,
       opacity: 1,
       clickable: false
