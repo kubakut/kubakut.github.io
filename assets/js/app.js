@@ -244,12 +244,7 @@ var theaters = L.geoJson(null, {
 "<div class='tab-pane active' id='profile'>" +
 "auto"+ 
 "</div>" + 
-"</div>"+
-"<script>" +
-  $(function () {
-    $('#myTab a:last').tab('show')
-  })
-"</script>";
+"</div>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
