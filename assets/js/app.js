@@ -232,7 +232,7 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<ul class='nav nav-tabs' role='tablist' id='myTab'>" +
+      var content = "<ul class='nav nav-tabs' role='tablist'>" +
   "<li class='active'><a href='#home' role='tab' data-toggle='tab'>Home</a></li>" +
   "<li><a href='#profile' role='tab' data-toggle='tab'>Profile</a></li>" +
  "</ul>"+
@@ -244,13 +244,7 @@ var theaters = L.geoJson(null, {
 "<div class='tab-pane active' id='profile'>" +
 "auto"+ 
 "</div>" + 
-"</div>"+
-<script>
-  $(function () {
-    $('#myTab a:last').tab('show')
-  })
-</script>
-;
+"</div>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
