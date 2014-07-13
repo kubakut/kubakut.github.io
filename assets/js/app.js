@@ -232,21 +232,7 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<div class='bs-example bs-example-tabs'>"+
-    "<ul id='myTab' class=¨'nav nav-tabs' role='tablist'>"+
-      "<li class='active'><a href='#home' role='tab' data-toggle='tab'>Home</a></li>"+
-      "<li><a href='#profile' role='tab' data-toggle='tab'>Profile</a></li>"+
-     "</ul>"
-    "<div id='myTabContent' class='tab-content'>"+
-      "<div class='tab-pane fade in active' id='home'>"+
-        "a"+
-      "</div>"+
-      "<div class='tab-pane fade' id='profile'>"
-       "bada"+
-      "</div>"+
-      
-     "</div>"+
-  "</div>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.TEL + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.ADDRESS1 + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
