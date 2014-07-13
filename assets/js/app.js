@@ -170,7 +170,11 @@ var subwayLines = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Division</th><td>" + feature.properties.Division + "</td></tr>" + "<tr><th>Line</th><td>" + feature.properties.Line + "</td></tr>" + "<table>";
+      var content = "<ul class='nav nav-tabs' role='tablist'>" +
+  "<li class='active'><a href='#'>Home</a></li>" +
+  "<li><a href='#'>Profile</a></li>" +
+  "<li><a href='#'>Messages</a></li>" +
+"</ul>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Division</th><td>" + feature.properties.Division + "</td></tr>" + "<tr><th>Line</th><td>" + feature.properties.Line + "</td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.Line);
