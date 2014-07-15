@@ -5,6 +5,7 @@
       "type": "Feature",
       "id": 81,
       "properties": {
+	  	"IMG": "queens",
         "NAME": "Queens Theatre in the Park",
         "TEL": "(718) 760-0064",
         "URL": "http://www.queenstheatre.org/web/",
