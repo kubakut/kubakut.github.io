@@ -242,7 +242,7 @@ var theaters = L.geoJson(null, {
  $('#slider-main').directorySlider({
    animation: 'fade',
    filebase: 'slide_',
-   directory: src='img/{feature.properties.IMG}/',
+   directory: src='img/queens/',
    extension: 'png',
    numslides: 2,
    height: 200
