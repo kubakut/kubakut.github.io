@@ -237,15 +237,7 @@ var theaters = L.geoJson(null, {
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
           $("#feature-info").html(content);
-          $('#slider-main').directorySlider({
-    animation: 'fade',
-    filebase: 'slide_',
-    directory: '/img/{feature.properties.IMG}',
-    extension: 'jpg',
-    numslides: 6,
-    height: 200
-});
-
+      
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
             stroke: false,
