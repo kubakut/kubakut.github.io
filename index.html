@@ -25,6 +25,20 @@
     <!-- directorySlider Javascript file -->
     <script src="assets/js/directorySlider.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+    $('#slider-main').directorySlider({
+    animation: 'fade',
+    filebase: 'slide_',
+    directory: src='img/queens',
+    extension: 'png',
+    numslides: 2,
+    height: 200
+  });
+  });
+    </script>
+
   </head>
 
   <body>

@@ -239,15 +239,15 @@ var theaters = L.geoJson(null, {
           $("#feature-info").html(content);
 
   $(document).ready(function(){
- $('#slider-main').directorySlider({
-   animation: 'fade',
-   filebase: 'slide_',
-   directory: src='../img/queens/',
-   extension: 'png',
-   numslides: 2,
-   height: 200
-});
-});
+    $('#slider-main').directorySlider({
+    animation: 'fade',
+    filebase: 'slide_',
+    directory: src='img/queens',
+    extension: 'png',
+    numslides: 2,
+    height: 200
+  });
+  });
 
 
           $("#featureModal").modal("show");
