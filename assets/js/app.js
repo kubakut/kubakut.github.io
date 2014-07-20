@@ -242,7 +242,7 @@ var theaters = L.geoJson(null, {
 
   
   
-  });
+ 
 
 
           $("#featureModal").modal("show");
