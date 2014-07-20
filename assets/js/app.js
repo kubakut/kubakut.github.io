@@ -425,8 +425,8 @@ if (document.body.clientWidth <= 767) {
 }
 
 var baseLayers = {
-  "Street Map": mapquestOSM,
-  "Aerial Imagery": mapquestOAM,
+  "Mapa A": mapquestOSM,
+  "Mapa B": mapquestOAM,
   "Imagery with Streets": mapquestHYB
 };
 
