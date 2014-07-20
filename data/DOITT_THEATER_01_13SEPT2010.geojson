@@ -24,7 +24,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"NAME": "ZK",},
       "geometry": {
         "type": "Point",
         "coordinates": [
