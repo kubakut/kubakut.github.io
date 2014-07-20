@@ -233,21 +233,14 @@ var theaters = L.geoJson(null, {
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
       var content = "<strong><i>" + feature.properties.INFO + "</i></strong>" + "<br></br>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Místo</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>" + "<tr><th>Doporučujeme</th><td>" + feature.properties.DOPORUCENI + "</td></tr>" + "<tr><th>Sociální zařízení</th><td>" + feature.properties.SOCIALNI + "</td></tr>" + "<tr><th>Občerstvení</th><td>" + feature.properties.OBCERSTVENI + "</td></tr>" + "<tr><th>Doprava</th><td>" + feature.properties.DOPRAVA + "</td></tr>" + "<table>";
-      var galerie =   "<img src='/img/" + feature.properties.IMG +"/1.JPG' height='auto' max-width: 95%; class='img-responsive rounded'>" + "<img src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 95%; class='img-responsive'>";
+      var galerie =   "<img src='/img/" + feature.properties.IMG +"/1.JPG' height='auto' max-width: 95%; vspace="5" class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 95%; class='img-responsive'>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
           $("#feature-info").html(content);
           $("#feature-gal").html(galerie);
 
-  $(document).ready(function(){
-    $('#slider-main').directorySlider({
-    animation: 'fade',
-    filebase: 'slide_',
-    directory: src='img/queens',
-    extension: 'png',
-    numslides: 2,
-    height: 200
+ 
   });
   });
 
