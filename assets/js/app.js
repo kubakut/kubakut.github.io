@@ -54,14 +54,16 @@ var mapquestOSM = L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roads/x={x}&
   maxZoom: 19,
   attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 });
-var mapquestHYB = L.layerGroup([L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.jpg", {
-  maxZoom: 18,
-  subdomains: ["oatile1", "oatile2", "oatile3", "oatile4"]
-}), L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/hyb/{z}/{x}/{y}.png", {
-  maxZoom: 19,
-  subdomains: ["oatile1", "oatile2", "oatile3", "oatile4"],
-  attribution: 'Labels courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA. Portions Courtesy NASA/JPL-Caltech and U.S. Depart. of Agriculture, Farm Service Agency'
-})]);
+var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day.mobile/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
+  attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>',
+  subdomains: '1234',
+  mapID: 'newest',
+  app_id: 'CnMYdeDMhPqbw8Y4jvBu',
+  app_code: '9EJrU_Za45utGoXRQXyGXw',
+  base: 'aerial',
+  minZoom: 0,
+  maxZoom: 20
+});
 
 /* Overlay Layers */
 var highlight = L.geoJson(null);
@@ -427,7 +429,7 @@ if (document.body.clientWidth <= 767) {
 var baseLayers = {
   "Mapa A": mapquestOSM,
   "Mapa B": mapquestOAM,
-  "Imagery with Streets": mapquestHYB
+  "Satelitní": mapquestHYB
 };
 
 var groupedOverlays = {
