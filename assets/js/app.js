@@ -241,7 +241,7 @@ var theaters = L.geoJson(null, {
           $("#feature-gal").html(galerie);
 
   
-  });
+  
   });
 
 
