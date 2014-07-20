@@ -237,6 +237,7 @@ var theaters = L.geoJson(null, {
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
           $("#feature-info").html(content);
+          //$("#feature-gal").html(content);
 
   $(document).ready(function(){
     $('#slider-main').directorySlider({

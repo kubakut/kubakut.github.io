@@ -27,16 +27,13 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 
     <script>
-      $(document).ready(function(){
-    $('#slider-main').directorySlider({
-    animation: 'fade',
-    filebase: 'slide_',
-    directory: src='img/queens',
-    extension: 'png',
-    numslides: 2,
-    height: 200
-  });
-  });
+     $('.thumbnail').click(function(){
+    $('.modal-body').empty();
+    var title = $(this).attr("title");
+    $('.modal-title').html(title);
+    $(this.innerHTML).appendTo('.modal-body');
+    $('#myModal').modal({show:true});
+});
     </script>
 
   </head>
@@ -299,6 +296,34 @@
           <strong><strong></strong></strong>
           
           <div class="modal-body" id="feature-info"></div>
+          <div class="container">
+  <div class="row">
+    <h1>Bootstrap Lightbox using Modal</h1>
+    <ul class="thumbnails">
+      <li><a href="#" class="thumbnail" title="Image 1"><img src="//img/frantis_zahrada/1.jpg"></a></li>
+      <li><a href="#" class="thumbnail" title="Image 2"><img src="//img/frantis_zahrada/1.jpg"></a></li>
+      <li><a href="#" class="thumbnail" title="Image 3"><img src="//img/frantis_zahrada/1.jpg"></a></li>
+      <li><a href="#" class="thumbnail" title="Image 4"><img src="//img/frantis_zahrada/1.jpg"></a></li>
+      <li><a href="#" class="thumbnail" title="Image 5"><img src="//img/frantis_zahrada/1.jpg"></a></li>
+     
+    </ul>
+    <hr>
+    <a href="http://bootply.com/68668">Edit on Bootply</a>
+  </div>
+</div>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+      <h3 class="modal-title">Heading</h3>
+  </div>
+  <div class="modal-body">
+    
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal">Close</button>
+  </div>
+</div>
+         <!--  <div class="modal-body" id="feature-gal"></div> -->
 
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Zavřít</button>
