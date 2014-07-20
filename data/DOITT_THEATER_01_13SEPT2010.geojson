@@ -6,7 +6,7 @@
       "id": 81,
       "properties": {
 	  	"IMG": "queens",
-        "NAME": "Queens Theatre in the Park",
+        "NAME": "Františkánská zahrada",
         "TEL": "(718) 760-0064",
         "URL": "http://www.queenstheatre.org/web/",
         "ADDRESS1": "Flushing Meadows Corona Park",
@@ -17,8 +17,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.444618225097656,
-          50.083967555153635
+          14.4237822,
+          50.0825092
         ]
       }
     },
