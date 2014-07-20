@@ -240,7 +240,14 @@ var theaters = L.geoJson(null, {
           $("#feature-info").html(content);
           $("#feature-gal").html(galerie);
 
- 
+  $(document).ready(function(){
+    $('#slider-main').directorySlider({
+    animation: 'fade',
+    filebase: 'slide_',
+    directory: src='img/queens',
+    extension: 'png',
+    numslides: 2,
+    height: 200
   });
   });
 
