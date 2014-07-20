@@ -232,7 +232,7 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<strong>" + feature.properties.INFO + "</strong>" + "<br/>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Místo</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>" + "<tr><th>Doporučujeme</th><td>" + feature.properties.DOPORUCENI + "</td></tr>" + "<tr><th>Sociální zařízení</th><td>" + feature.properties.SOCIALNI + "</td></tr>" + "<tr><th>Občerstvení</th><td>" + feature.properties.OBCERSTVENI + "</td></tr>" + "<tr><th>Doprava</th><td>" + feature.properties.DOPRAVA + "</td></tr>" + "<table>";
+      var content = "<strong>" + feature.properties.INFO + "</strong>" + "<br></br>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Místo</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>" + "<tr><th>Doporučujeme</th><td>" + feature.properties.DOPORUCENI + "</td></tr>" + "<tr><th>Sociální zařízení</th><td>" + feature.properties.SOCIALNI + "</td></tr>" + "<tr><th>Občerstvení</th><td>" + feature.properties.OBCERSTVENI + "</td></tr>" + "<tr><th>Doprava</th><td>" + feature.properties.DOPRAVA + "</td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
