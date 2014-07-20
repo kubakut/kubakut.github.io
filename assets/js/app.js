@@ -221,7 +221,7 @@ var theaters = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.icon({
-        iconUrl: "assets/img/theater.png",
+        iconUrl: "assets/img/hriste.png",
         iconSize: [24, 28],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
@@ -233,7 +233,7 @@ var theaters = L.geoJson(null, {
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
       var content = "<strong><i>" + feature.properties.INFO + "</i></strong>" + "<br></br>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Místo</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>" + "<tr><th>Doporučujeme</th><td>" + feature.properties.DOPORUCENI + "</td></tr>" + "<tr><th>Sociální zařízení</th><td>" + feature.properties.SOCIALNI + "</td></tr>" + "<tr><th>Občerstvení</th><td>" + feature.properties.OBCERSTVENI + "</td></tr>" + "<tr><th>Doprava</th><td>" + feature.properties.DOPRAVA + "</td></tr>" + "<table>";
-      var galerie =   "<img style='margin: 5px 0px' src='/img/" + feature.properties.IMG +"/1.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 95%; class='img-responsive'>";
+      var galerie =   "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/1.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 95%; class='img-responsive'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 95%; class='img-responsive'>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
@@ -432,7 +432,7 @@ var baseLayers = {
 
 var groupedOverlays = {
   "Points of Interest": {
-    "<img src='assets/img/theater.png' width='24' height='28'>&nbsp;Theaters": theaterLayer,
+    "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Theaters": theaterLayer,
     "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer
   },
   "Reference": {
@@ -540,7 +540,7 @@ $(document).one("ajaxStop", function () {
     displayKey: "name",
     source: theatersBH.ttAdapter(),
     templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/theater.png' width='24' height='28'>&nbsp;Theaters</h4>",
+      header: "<h4 class='typeahead-header'><img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Theaters</h4>",
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
     }
   }, {
