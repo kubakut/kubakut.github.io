@@ -6,19 +6,25 @@
       "id": 81,
       "properties": {
 	  	"IMG": "queens",
-        "NAME": "Queens Theatre in the Park",
-        "TEL": "(718) 760-0064",
-        "URL": "http://www.queenstheatre.org/web/",
-        "ADDRESS1": "Flushing Meadows Corona Park",
-        "ADDRES2": null,
-        "CITY": "Queens",
-        "ZIP": 11352
+        "NAME": "Františkánská zahrada",
+        "UVOD": "V samém srdci města najdeme hřiště určené spíše pro mladší děti. Není unikátní velikostí, 
+ale polohou na okraji Františkánské zahrady. 
+",
+        "POPIS": "Zahrada sama nabízí příjemné posezení mezi upravenými keři i prostor ke hrám. 
+Na hřišti (1) se nachází kolem 10 atrakcí. Jedná se např. o pedálový kolotoč, větší pískoviště s herní sestavou ve tvaru věže, menší lanovou pyramidu atd. Hřiště je částečně oploceno, nechybí pítko a automatické mlžidlo, povrch tvoří převážně litá guma. V odpoledních 
+hodinách je tady ale málo stínu. 
+Nad hřištěm se majestátně vypíná kostel Panny Marie Sněžné, postavený za Karla IV. Kostel se měl stát největší křesťanskou stavbou světa. Z finančních důvodů však nebyl dokončen.
+",
+        "DOPOR": "Pokud budete unaveni z ruchu Václavského náměstí, Františkánská zahrada je ideálním místem pro odpočinek.",
+        "SOC": Voda ano, veřejné WC ve Františkánské zahradě.,
+        "OBCER": "Václavské náměstí a přilehlé ulice nabízí nepřeberné množství restaurací, cukráren atd. Proslulá výběrem zmrzlin je cukrárna v pasáži Světozor.",
+        "DOPR": "Metro A/B, stanice Můstek. Tramvaje č. 3, 9, 14, 24, zastávka Václavské náměstí. Možnost parkovat je omezená."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.444618225097656,
-          50.083967555153635
+          14.4237822,
+          50.0825092
         ]
       }
     },

@@ -232,22 +232,13 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.TEL + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.ADDRESS1 + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>" + "<div class='directorySlider' id='slider-main'></div>";
+      var content ="feature.properties.UVOD" + "<br>" + "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Místo</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>" + "<tr><th>Doporučujeme</th><td>" + feature.properties.DOPOR + "</td></tr>" + "<tr><th>Sociální zařízení</th><td>" + feature.properties.SOC + "</td></tr>" + "<tr><th>Občerstvení</th><td>" + feature.properties.OBCER + "</td></tr>" + "<tr><th>Doprava</th><td>" + feature.properties.DOPR + "</td></tr>" + "<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
           $("#feature-info").html(content);
 
-  $(document).ready(function(){
-    $('#slider-main').directorySlider({
-    animation: 'fade',
-    filebase: 'slide_',
-    directory: src='img/queens',
-    extension: 'png',
-    numslides: 2,
-    height: 200
-  });
-  });
+  
 
 
           $("#featureModal").modal("show");
