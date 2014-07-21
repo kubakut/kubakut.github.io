@@ -228,7 +228,7 @@ var theaters = L.geoJson(null, {
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
-      title: feature.properties.ID +". " + feature.properties.NAME,
+      title: feature.properties.NAME,
       riseOnHover: true
     });
   },
@@ -284,9 +284,10 @@ var theaters = L.geoJson(null, {
 "</div>"
  ;
       var galerie =  "<center>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "</center>";
+      var nadpis = feature.properties.ID + ". " + feature.properties.NAME;
       layer.on({
         click: function (e) {
-          $("#feature-title").html(feature.properties.NAME);
+          $("#feature-title").html(nadpis);
           $("#feature-info").html(content);
           $("#feature-gal").html(galerie);
 
