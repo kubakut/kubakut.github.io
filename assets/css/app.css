@@ -121,7 +121,6 @@ input[type="radio"], input[type="checkbox"] {
 @media (max-width: 992px) {
   .navbar .navbar-brand {
     font-size: 18px;
-    background-color: #0a5a9c;
   }
 }
 @media (max-width: 767px){
