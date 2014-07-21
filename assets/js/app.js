@@ -242,7 +242,7 @@ var theaters = L.geoJson(null, {
         feature.properties.NAME +
       "</div>"+
 "</div>"+
-"<div class='panel panel-primary'>" +
+"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Popis</h3>"+
       "</div>"+
@@ -250,7 +250,7 @@ var theaters = L.geoJson(null, {
         feature.properties.POPIS +
       "</div>"+
 "</div>"+
-"<div class='panel panel-primary'>" +
+"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Doporučujeme</h3>"+
       "</div>"+
@@ -258,7 +258,7 @@ var theaters = L.geoJson(null, {
         feature.properties.DOPORUCENI +
       "</div>"+
 "</div>"+
-"<div class='panel panel-primary'>" +
+"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Sociální zařízení</h3>"+
       "</div>"+
@@ -266,7 +266,7 @@ var theaters = L.geoJson(null, {
         feature.properties.SOCIALNI +
       "</div>"+
 "</div>"+
-"<div class='panel panel-primary'>" +
+"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Občerstvení</h3>"+
       "</div>"+
@@ -274,7 +274,7 @@ var theaters = L.geoJson(null, {
         feature.properties.OBCERSTVENI +
       "</div>"+
 "</div>"+
-"<div class='panel panel-primary'>" +
+"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Doprava</h3>"+
       "</div>"+
