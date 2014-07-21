@@ -72,7 +72,6 @@ input[type="radio"], input[type="checkbox"] {
 }
 .navbar-collapse.in {
   overflow-y: hidden;
-  background-color: #0a5a9c;
 }
 .typeahead {
   background-color: #FFFFFF;
