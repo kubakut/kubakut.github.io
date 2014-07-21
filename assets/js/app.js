@@ -222,11 +222,10 @@ var theaterLayer = L.geoJson(null);
 var theaters = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
-      icon: L.icon({
-        iconUrl: "assets/img/hriste.png",
+      icon: L.divIcon({
+        html: feature.id ,
         iconSize: [24, 28],
-        iconAnchor: [12, 28],
-        popupAnchor: [0, -25]
+        iconAnchor: [12, 28],        
       }),
       title: feature.properties.NAME,
       riseOnHover: true
