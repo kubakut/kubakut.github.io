@@ -94,7 +94,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 .tt-suggestion.tt-cursor {
   background-color: #0097CF;
-  color: #FFFFFF;
+  color: #0a5a9c;
   cursor: pointer;
 }
 .tt-suggestion p {
