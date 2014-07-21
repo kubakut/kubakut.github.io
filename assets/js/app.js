@@ -223,10 +223,10 @@ var theaters = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.divIcon({
-        html: "<span style='font-size=18px';>" +feature.id+ "</span>" ,
+        html: "<span style='font-size=18px''" +feature.id+ "</span>" ,
         iconSize: [24, 28],
         iconAnchor: [12, 28],
-        className: 'label label-danger',        
+        className: 'label-danger',        
       }),
       title: feature.properties.NAME,
       riseOnHover: true
