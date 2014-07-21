@@ -234,7 +234,7 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<div style='font-size: 16px; margin:2px; padding: 1em 1em 1em 1em;' class='bg-primary'><i>" + feature.properties.INFO + "</i></div>" + "<br></br>" +"<div class='panel panel-primary'>" +
+      var content = "<div style='font-size: 16px; margin:2px; padding: 1em 1em 1em 1em;' class='bg-primary'><i>" + feature.properties.INFO + "</i></div>" + "<br></br>" +"<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Místo</h3>"+
       "</div>"+
