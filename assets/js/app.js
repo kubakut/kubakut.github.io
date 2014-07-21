@@ -226,7 +226,7 @@ var theaters = L.geoJson(null, {
         html: "<h4><span class='label label-danger'>"+feature.id+"</span></h4>" ,
         iconSize: [26, 30],
         iconAnchor: [12, 28],
-             
+        className:'label-danger',        
       }),
       title: feature.properties.NAME,
       riseOnHover: true
