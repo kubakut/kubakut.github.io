@@ -224,8 +224,7 @@ var theaters = L.geoJson(null, {
     return L.marker(latlng, {
       icon: L.divIcon({
         html: "<span class='badge'>" +feature.id+"</span>" ,
-        iconSize: [24, 28],
-        iconAnchor: [12, 28],        
+               
       }),
       title: feature.properties.NAME,
       riseOnHover: true
