@@ -94,7 +94,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 .tt-suggestion.tt-cursor {
   background-color: #0097CF;
-  color: #0a5a9c;
+  color: #FFFFFF;
   cursor: pointer;
 }
 .tt-suggestion p {
@@ -121,6 +121,7 @@ input[type="radio"], input[type="checkbox"] {
 @media (max-width: 992px) {
   .navbar .navbar-brand {
     font-size: 18px;
+    background-color: #0a5a9c;
   }
 }
 @media (max-width: 767px){
