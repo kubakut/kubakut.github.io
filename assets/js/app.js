@@ -444,9 +444,9 @@ var locateControl = L.control.locate({
   icon: "icon-direction",
   metric: false,
   strings: {
-    title: "My location",
-    popup: "You are within {distance} {unit} from this point",
-    outsideMapBoundsMsg: "You seem located outside the boundaries of the map"
+    title: "Moje lokace",
+    popup: "Nacházíte se {distance} {unit} od tohoto bodu.",
+    outsideMapBoundsMsg: "Nacházíte se mimo hranice mapové zóny"
   },
   locateOptions: {
     maxZoom: 18,
