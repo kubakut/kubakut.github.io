@@ -67,6 +67,8 @@ input[type="radio"], input[type="checkbox"] {
   font-weight: bold;
   font-size: 25px;
   color: white;
+  background-color: #0a5a9c;
+}
 }
 .navbar-collapse.in {
   overflow-y: hidden;
