@@ -38,13 +38,13 @@
         </button>
         <a class="navbar-brand" href="#">Pražská hřiště</a>
       </div>
-      <div class="navbar-collapse collapse">
+      <!--<div class="navbar-collapse collapse">
         <form class="navbar-form navbar-right" role="search">
           <div class="form-group has-feedback navbar-right">
               <input id="searchbox" type="text" placeholder="Hledat" class="form-control">
               <span id="searchicon" class="fa fa-search form-control-feedback"></span>
           </div>
-        </form>
+        </form>-->
         <ul class="nav navbar-nav">
           <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="$('#aboutModal').modal('show'); return false;"><i class="fa fa-question-circle" style="color: white"></i>&nbsp;&nbsp;About</a></li>
           <li class="dropdown">
@@ -56,15 +56,15 @@
               <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="$('#loginModal').modal('show'); return false;"><i class="fa fa-user"></i>&nbsp;&nbsp;Login</a></li>
             </ul>
           </li>
-          <li class="dropdown">
+          <!--<li class="dropdown">
               <a class="dropdown-toggle" id="downloadDrop" href="#" role="button" data-toggle="dropdown"><i class="fa fa-cloud-download" style="color: white"></i>&nbsp;&nbsp;Download <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="data/boroughs.geojson" download="boroughs.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Boroughs</a></li>
                 <li><a href="data/subways.geojson" download="subways.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Subway Lines</a></li>
                 <li><a href="data/DOITT_THEATER_01_13SEPT2010.geojson" download="theaters.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Hřiště</a></li>
-                <li><a href="data/DOITT_MUSEUM_01_13SEPT2010.geojson" download="museums.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Museums</a></li>
+                <li><a href="data/DOITT_MUSEUM_01_13SEPT2010.geojson" download="museums.geojson" target="_blank" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-download"></i>&nbsp;&nbsp;Občerstvení</a></li>
               </ul>
-          </li>
+          </li>-->
           <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="sidebar.toggle(); return false;"><i class="fa fa-list" style="color: white"></i>&nbsp;&nbsp;POI List</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
@@ -81,7 +81,7 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" id="poi-tabs">
               <li class="active"><a href="#theaters" onclick="$('#poi-tabs a[href=\'#theaters\']').tab('show'); return false;"><img src="assets/img/hriste.png" height="16px" width="14px">&nbsp;Hřiště</a></li>
-              <li><a href="#museums" onclick="$('#poi-tabs a[href=\'#museums\']').tab('show'); return false;"><img src="assets/img/museum.png" height="16px" width="14px">&nbsp;Museums</a></li>
+              <li><a href="#museums" onclick="$('#poi-tabs a[href=\'#museums\']').tab('show'); return false;"><img src="assets/img/museum.png" height="16px" width="14px">&nbsp;Občerstvení</a></li>
             </ul>
             <!-- Tab panes -->
             <div class="tab-content">
@@ -89,7 +89,7 @@
                 <p>
                   <div class="row">
                     <div class="col-xs-8 col-md-8">
-                      <input type="text" class="form-control search" placeholder="Search" />
+                      <input type="text" class="form-control search" placeholder="Hledat" />
                     </div>
                     <div class="col-xs-4 col-md-4">
                       <button type="button" class="btn btn-primary pull-right sort" data-sort="theater-name"><i class="fa fa-sort"></i>&nbsp;&nbsp;Seřadit</button>
@@ -111,10 +111,10 @@
                 <p>
                   <div class="row">
                     <div class="col-xs-8 col-md-8">
-                      <input type="text" class="form-control search" placeholder="Search" />
+                      <input type="text" class="form-control search" placeholder="Hledat" />
                     </div>
                     <div class="col-xs-4 col-md-4">
-                      <button type="button" class="btn btn-primary pull-right sort" data-sort="museum-name"><i class="fa fa-sort"></i>&nbsp;&nbsp;Sort</button>
+                      <button type="button" class="btn btn-primary pull-right sort" data-sort="museum-name"><i class="fa fa-sort"></i>&nbsp;&nbsp;Seřadit</button>
                     </div>
                   </div>
                 </p>
@@ -160,7 +160,7 @@
                   <li><a href="#boroughs-tab" data-toggle="tab">Boroughs</a></li>
                   <li><a href="#subway-lines-tab" data-toggle="tab">Subway Lines</a></li>
                   <li><a href="#theaters-tab" data-toggle="tab">Hřiště</a></li>
-                  <li><a href="#museums-tab" data-toggle="tab">Museums</a></li>
+                  <li><a href="#museums-tab" data-toggle="tab">Občerstvení</a></li>
                 </ul>
               </li>
             </ul>

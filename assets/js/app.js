@@ -50,7 +50,7 @@ var mapquestOAM = L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.
   attribution: 'Tiles courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png">. Map data (c) <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors, CC-BY-SA.'
 });
 var mapquestOSM =  L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
-    maxZoom: 20,
+    maxZoom: 19,
     subdomains: ["a", "b", "c"],
 	attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
 });
@@ -223,7 +223,7 @@ var theaters = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.divIcon({
-        html: "<h4><span class='label label-danger'>"+feature.id+"</span></h4><img style='margin: -8px -3px' src='/assets/img/hriste.png'>" ,
+        html: "<table><tr><th style='font-size:13px;' class='label label-danger'>"+feature.id+"</th></tr><tr><td><img style='margin: 0px 0px' src='/assets/img/hriste.png'></td></tr></table>",
         iconSize: [24, 27],
         iconAnchor: [12, 28],
         className:'text-center',        
@@ -283,13 +283,13 @@ var theaters = L.geoJson(null, {
       "</div>"+
 "</div>"
  ;
-      var galerie =  "<center>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/2.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/3.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/4.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "<img style='margin: 10px 0px' src='/img/" + feature.properties.IMG +"/5.JPG' height='auto' max-width: 100%; class='img-responsive img-thumbnail'>" + "</center>";
+      
       var nadpis = feature.id + ". " + feature.properties.NAME;
       layer.on({
         click: function (e) {
           $("#feature-title").html(nadpis);
           $("#feature-info").html(content);
-          $("#feature-gal").html(galerie);
+          $("#feature-gal").html(feature.properties.GALERIE);
 
   
   
@@ -305,7 +305,7 @@ var theaters = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+ feature.id + ". " +layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#theater-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+ "<b>" + feature.id + "</b>. " +layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
       theaterSearch.push({
         name: layer.feature.properties.NAME,
         address: layer.feature.properties.ADDRESS1,
@@ -329,7 +329,7 @@ var museums = L.geoJson(null, {
     return L.marker(latlng, {
       icon: L.icon({
         iconUrl: "assets/img/museum.png",
-        iconSize: [24, 28],
+        iconSize: [32, 37],
         iconAnchor: [12, 28],
         popupAnchor: [0, -25]
       }),
@@ -339,7 +339,7 @@ var museums = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Name</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Phone</th><td>" + feature.properties.TEL + "</td></tr>" + "<tr><th>Address</th><td>" + feature.properties.ADRESS1 + "</td></tr>" + "<tr><th>Website</th><td><a class='url-break' href='" + feature.properties.URL + "' target='_blank'>" + feature.properties.URL + "</a></td></tr>" + "<table>";
+      var content = "<table class='table table-striped table-bordered table-condensed'>" + "<tr><th>Název</th><td>" + feature.properties.NAME + "</td></tr>" + "<tr><th>Popis</th><td>" + feature.properties.POPIS + "</td></tr>"+"<table>";
       layer.on({
         click: function (e) {
           $("#feature-title").html(feature.properties.NAME);
@@ -353,11 +353,11 @@ var museums = L.geoJson(null, {
           }));
         }
       });
-      $("#museum-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="museum-name">'+layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#museum-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="museum-name">'+ "<b>" + feature.id + "</b>. "+layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
       museumSearch.push({
         name: layer.feature.properties.NAME,
         address: layer.feature.properties.ADRESS1,
-        source: "Museums",
+        source: "Občerstvení",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
         lng: layer.feature.geometry.coordinates[0]
@@ -484,7 +484,7 @@ var baseLayers = {
 var groupedOverlays = {
   "Points of Interest": {
     "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště": theaterLayer,
-    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer
+    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Občerstvení": museumLayer
   },
   "Reference": {
     "Boroughs": boroughs,
@@ -529,7 +529,7 @@ $(document).one("ajaxStop", function () {
   var theaterList = new List("theaters", {valueNames: ["theater-name"]}).sort("theater-name", {order:"asc"});
 
   var museumsBH = new Bloodhound({
-    name: "Museums",
+    name: "Občerstvení",
     datumTokenizer: function (d) {
       return Bloodhound.tokenizers.whitespace(d.name);
     },
@@ -595,11 +595,11 @@ $(document).one("ajaxStop", function () {
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
     }
   }, {
-    name: "Museums",
+    name: "Občerstvení",
     displayKey: "name",
     source: museumsBH.ttAdapter(),
     templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums</h4>",
+      header: "<h4 class='typeahead-header'><img src='assets/img/museum.png' width='24' height='28'>&nbsp;Občerstvení</h4>",
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
     }
   }, {
@@ -622,7 +622,7 @@ $(document).one("ajaxStop", function () {
         map._layers[datum.id].fire("click");
       }
     }
-    if (datum.source === "Museums") {
+    if (datum.source === "Občerstvení") {
       if (!map.hasLayer(museumLayer)) {
         map.addLayer(museumLayer);
       }
