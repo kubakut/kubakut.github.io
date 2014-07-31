@@ -417,7 +417,7 @@ var attributionControl = L.control({
 });
 attributionControl.onAdd = function (map) {
   var div = L.DomUtil.create("div", "leaflet-control-attribution");
-  div.innerHTML = "Developed by <a href='http://bryanmcbride.com'>bryanmcbride.com</a> | <a href='#' onclick='$(\"#attributionModal\").modal(\"show\"); return false;'>Attribution</a>";
+  div.innerHTML = "Mapa od <a href='http://www.openstreetmap.org/'>OpenStreetMap.org</a> | <a href='#' onclick='$(\"#attributionModal\").modal(\"show\"); return false;'>Zdroje</a>";
   return div;
 };
 map.addControl(attributionControl);
@@ -482,14 +482,14 @@ var baseLayers = {
 };
 
 var groupedOverlays = {
-  "Points of Interest": {
+  "Seznam míst": {
     "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště": theaterLayer,
     "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Občerstvení": museumLayer
   },
-  "Reference": {
-    "Boroughs": boroughs,
-    "Subway Lines": subwayLines
-  }
+  //"Reference": {
+  //  "Boroughs": boroughs,
+   // "Subway Lines": subwayLines
+  //}
 };
 
 var layerControl = L.control.groupedLayers(baseLayers, groupedOverlays, {

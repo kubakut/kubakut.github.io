@@ -127,6 +127,132 @@
           50.092599703512654
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "properties": {
+        "NAME": "U Vodárny, Praha 2",
+        "INFO": "Hřiště U Vodárny <b>(5)</b> patří k nejkrásnějším v Praze a po právu také získalo titul  „Nejlepší dřevěné hřiště“.",
+        "POPIS": "Nepřehlédnutelnou dominantu představuje ústřední hrací prvek ve tvaru věže, která  ve zmenšeném měřítku kopíruje nedalekou věž vodárenskou. Věž je spojená se skluzavkou sítěmi, šplhadly a lanovkou. Kromě toho najdeme v komplexu více než deset dalších prvků-houpačku „hnízdo“, různá houpadla atd.  Většina z nich (včetně stojanů na kola) je samozřejmě vyrobena ze dřeva. Povrch hřiště pokrývá litá guma.  Areál obklopují vzrostlé stromy, ale většina atrakcí stojí mimo stín. V samostatné části se nachází velká trampolína  ve tvaru obloukové střechy a hřiště na basketbal nebo malý fotbal.  Na hřišti také stojí domek správce a toalety. U správce si můžete vypůjčit míče. Před vstupem lze využít úvaziště pro psy. Vzhledem k tomu, že hřiště je součástí sportovního komplexu, jeho návštěva je vhodná i pro rodiny se staršími dětmi.",
+        "DOPORUCENI": "Na dohled (u stanice tramvaje) si povšimněte originální vodárenské věžeNa dohled (u stanice tramvaje) si povšimněte originální vodárenské věže  a srovnejte její podobu s replikou na hřišti.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "V bezprostředním okolí je několik restaurací, včetně indické.  Na Vinohradské ulici můžete navštívit také pizzerii vybavenou dětským koutkem.",
+        "DOPRAVA": "Tramvaje č. <b>10</b> a <b>16</b>, stanice <b>Vinohradská vodárna</b>. Možnost parkovat máte v přilehlých ulicích. Stání ale bývají obsazená.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/5/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448362588882445,
+          50.07583993730661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "properties": {
+        "NAME": "Kostelní",
+        "INFO": "Na okraji Letenských sadů leží rozlehlý areál určený spíše starším dětem.",
+        "POPIS": ": Dětské hřiště <b>(6)</b> je situováno mezi Kostelní ulicí a Letenskými sady. Hlavní vchod je z Kostelní, ale dostanete se sem i zadní brankou z parku. Rozlehlá plocha je porostlá trávou, pod atrakcemi leží kačírek. Na okrajích hřiště rostou stromy, které poskytují částečný stín. Hracích prvků je asi deset. Dominantu představuje mohutná lanová lezecká sestava  se skluzavkou a lanová pyramida. Kromě toho zde najdete několik houpaček a menších multifunkčních sestav. Ve spodní části areálu se rozkládá rozlehlá asfaltová sportovní plocha  se čtyřmi koši na basketbal a brankami na malou kopanou. V rohu areálu stojí opuštěný objekt, kde zřejmě pobýval správce. Protože se hřiště svažuje a pokrývá ho převážně tráva, není vhodné ho navštěvovat za vlhkého počasí. Na okraji parku, cca 100 od hřiště, můžete obdivovat panorama Prahy. Je odtud opravdu krásný výhled a děti potěší i parníky na Vltavě. Zájemci o architektury si mohou prohlédnout technickou památku „Restauraci EXPO 58“, která nás reprezentovala na Světové výstavě v Bruselu v roce 1958.",
+        "DOPORUCENI": "V Kostelní ulici stojí budova Národního technického muzea. Více informací najdete na: <a href='http://www.ntm.cz/cs/' target='_blank'>www.ntm.cz</a>",
+        "SOCIALNI": "Voda ano-hydrant, chemické WC.",
+        "OBCERSTVENI": "Lokalita nabízí širokou škálu možností. Nejvíce obchodů a restaurací najdete  na ulici Milady Horákové, ale najíst se lze i v nedalekém Letenském zámečku.",
+        "DOPRAVA": "Tramvaje č. <b>1,8,12,25,26</b>, zastávka <b>Kamenická</b> nebo tramvaje č. <b>1,8,12,17,24,25,26</b> a autobus č. <b>156</b>, zastávka <b>Strossmayerovo náměstí</b>. Možnost zaparkovat je omezená, neboť  v ulicích chybí parkovací místa. Nejlepší volbou proto může být prostor  u Národního technického muzea.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/6/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.428972899913788,
+          50.09696337180414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "properties": {
+        "NAME": "Vrchlického sady (Hlavní nádraží)",
+        "INFO": "Před Hlavním nádražím vyrostlo moderní, rozsáhlé hřiště <b>(7)</b>, vhodné pro všechny věkové kategorie dětí.",
+        "POPIS": "Nalézá se na okraji parku (Vrchlického sady), od něhož je odděleno vysokým plotem, což dětem poskytuje dostatek klidu. Unikátní je vstup, který zajištuje brána otevíraná automaticky prostřednictvím tlačítek. Na hřišti také najdeme pódium a menší stupňovité hlediště. Pořádají se zde programy pro děti.  Výčet herních prvků je bohatý, celkem jich můžeme napočítat kolem 20. Jedná se  např. o lanovou pyramidu a síť, visutý most, dům labyrint, loď atd. Vyhledávanou atrakci představuje lanovka, dlouhá kolem 15 m. Jsou zde také dvě pumpy, WC, hodiny a budka správce. Povrch hřiště tvoří písek, kačírek a pryžové desky. Roste zde i několik vzrostlých stromů. Některé atrakce jsou chráněny před přímým sluncem prostřednictvím zatahovacích plachet na vodících lištách. O to se stará správce. ",
+        "DOPORUCENI": "Navštivte Hlavní nádraží, jež se díky rekonstrukci změnilo v moderní nákupní zónu. ",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Na Hlavním nádraží se nachází restaurace, řetězce rychlého občerstvení, stánky s pečivem, zmrzlinou i supermarket. ",
+        "DOPRAVA": "Metro <b>C</b> a tramvaje č. <b>5, 9, 26</b>, vše stanice Hlavní nádraží. Zaparkovat lze přímo před hřištěm, kde jsou parkovací automaty.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/7/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.434423148632048,
+          50.08526695120447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "properties": {
+        "NAME": "Vyšehrad",
+        "INFO": "Návštěvu bájemi opředeného místa byste si neměli nechat ujít!",
+        "POPIS": "Vyšehrad je místo, kterým tzv. „kráčela historie“. Proto nepřekvapí, že dětské hřiště (určené spíše mladším dětem) připomíná staroslovanské hradiště a říká se mu „Ze starých pověstí českých“ <b>(8)</b>. Prvky jsou provedeny ze dřeva a najdeme tady především různé typy prolézacích domků a houpadel. Nechybí ale ani dvě lanovky (jedna uvnitř hradiště, druhá  o pár desítek metrů dál). Na „Staré pověsti české“ upomínají dřevěné sošky, zpodobňující bájné postavy naší historie, např. Přemysla Oráče. U kasemat Gorlice se rozkládá ještě jedno hřiště, tvořené pouze točidlem, takže za návštěvu nestojí. ",
+        "DOPORUCENI": "Vyšehrad, to je ale hlavně pevnost, náboženské centrum a pohřebiště známých osobností. Nic z toho byste si neměli nechat ujít a prohlídce byste měli věnovat alespoň půl dne. Více o areálu na: <a href='http://www.praha-vysehrad.cz' target='_blank'>www.praha-vysehrad.cz</a> Z hradeb je velkolepý panoramatický výhled na Prahu. V celou hodinu se můžete zaposlouchat do melodie zvonů Kapitulního chrámu sv. Petra a Pavla. Dětem se bude líbit  i možnost projít si chodby v hradbách. A pokud bude pěkné počasí, zelené plochy vybízí k pikniku.",
+        "SOCIALNI": "Voda ano (u dětského hřiště a na několika dalších místech areálu), veřejné WC u chrámu.",
+        "OBCERSTVENI": ": V areálu je několik možností: zahradní restaurace, kavárny i rychlé občerstvení. V Barbecue restaurantu u rotundy mají dětské židle.",
+        "DOPRAVA": "Metro <b>C</b>, stanice <b>Vyšehrad</b>. Parkovací možnosti jsou omezené (parkuje se např. v ulici Čiklova).",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/8/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/11.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42103624343872,
+          50.06347891127487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9.A",
+      "properties": {
+        "NAME": "Gröbovka-hřiště Bezručovy sady",
+        "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
+        "POPIS": "Ve velmi členitém terénu je umístěn jeden z nejromantičtějších parků na území města. V parku roste přes 120 druhů listnatých i jehličnatých dřevin, takže i v parných dnech zde panuje stín. Louky se naopak hodí k opalování. Na jižním svahu byla založena rozsáhlá vinice, v parku je vybudována umělá jeskyně – grotta, najdeme tady vodní plochy,  Gröbovu vilu, Viniční altán atd.  V horní části parku (u křižovatky ulic Rybalkova a U Havlíčkových sadů) se nalézá dětské hřiště <b>(9.A)</b>. Napočítáme na něm kolem deseti, vesměs klasických atrakcí: multifunkční lezeckou sestavu, kolotoč a drobné prvky. Neobvyklé je houpadlo ve tvaru terénního automobilu. Povrch hřiště tvoří písek. Součástí areálu je basketbalové hřiště s umělým povrchem a tribunami.  V areálu pracuje správce. Problémem pro návštěvníky ovšem může být nedostatek stínu.  Pokud by děti chtěly vyzkoušet další hřiště <b>(9.B)</b>, přibližně stejné velikosti, leží nedaleko, u křižovatky ulic Slovenské a Francouzské (tzv. Bezručovy sady). Ústředním prvkem je velký prvek s prolézacím tubusem, šplhadly, skluzavkou atd. Kromě toho lze vyzkoušet točidlo  pro čtyři, houpačky atd.  Na povrchu leží kačírek a stromy poskytují částečný stín. Nedaleko hřiště na Slovenské ulici si povšimněte velmi neobvyklého funkcionalistického kostela z 30. let 20. století (architekt Pavel Janák). Zaujme především kostelní věž.",
+        "DOPORUCENI": "(tentokrát pro dospělé): Máte-li rádi víno, navštivte sklípek a Viniční altán  u vinohradu. Více informací: <a href='http://www.vinicni-altan.cz/800/uvod.asp' target='_blank'>www.vinicni-altan.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
+        "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/9_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>",
+        "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.445243179798126,
+          50.07255200882523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9.B",
+      "properties": {
+        "NAME": "Gröbovka-hřiště Havlíčkovy sady",
+        "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
+        "POPIS": "Ve velmi členitém terénu je umístěn jeden z nejromantičtějších parků na území města. V parku roste přes 120 druhů listnatých i jehličnatých dřevin, takže i v parných dnech zde panuje stín. Louky se naopak hodí k opalování. Na jižním svahu byla založena rozsáhlá vinice, v parku je vybudována umělá jeskyně – grotta, najdeme tady vodní plochy,  Gröbovu vilu, Viniční altán atd.  V horní části parku (u křižovatky ulic Rybalkova a U Havlíčkových sadů) se nalézá dětské hřiště <b>(9.A)</b>. Napočítáme na něm kolem deseti, vesměs klasických atrakcí: multifunkční lezeckou sestavu, kolotoč a drobné prvky. Neobvyklé je houpadlo ve tvaru terénního automobilu. Povrch hřiště tvoří písek. Součástí areálu je basketbalové hřiště s umělým povrchem a tribunami.  V areálu pracuje správce. Problémem pro návštěvníky ovšem může být nedostatek stínu.  Pokud by děti chtěly vyzkoušet další hřiště <b>(9.B)</b>, přibližně stejné velikosti, leží nedaleko, u křižovatky ulic Slovenské a Francouzské (tzv. Bezručovy sady). Ústředním prvkem je velký prvek s prolézacím tubusem, šplhadly, skluzavkou atd. Kromě toho lze vyzkoušet točidlo  pro čtyři, houpačky atd.  Na povrchu leží kačírek a stromy poskytují částečný stín. Nedaleko hřiště na Slovenské ulici si povšimněte velmi neobvyklého funkcionalistického kostela z 30. let 20. století (architekt Pavel Janák). Zaujme především kostelní věž.",
+        "DOPORUCENI": "(tentokrát pro dospělé): Máte-li rádi víno, navštivte sklípek a Viniční altán  u vinohradu. Více informací: <a href='http://www.vinicni-altan.cz/800/uvod.asp' target='_blank'>www.vinicni-altan.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
+        "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
+        "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/9_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.444430470466614,
+          50.070558484814576
+        ]
+      }
     }
   ]
 }
