@@ -253,6 +253,27 @@
           50.070558484814576
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "22",
+      "properties": {
+        "NAME": "Sacré-Coeur",
+        "INFO": "Za nákupním centrem Nový Smíchov objevíte park, v něm pěkné dětské hřiště <b>(22)</b> a stanici přírodovědců.",
+        "POPIS": "Do parku se nejlépe dostanete z 1. patra nákupního centra. U toalet začíná přechodová lávka nad Kartouzskou ulicí, po níž dojdete do parku, kde najdete dětské atrakce. Oplocení má pouze hřiště s drobnými prvky pro nejmenší. Další atrakce jsou rozptýleny po parku. Tvoří je multifunkční lezecké sestavy, zařízení pro nácvik jízdy na skatu, opičí most atd. Nejvíc upoutá dlouhá kovová skluzavka na svahu. Pod většinou atrakcí leží písek a bohužel nejsou ve stínu. V horní části parku si starší děti a dospělí mohou vyzkoušet několik cvičebních strojů programu LifeTrail. U cvičebních stojů leží malé hřiště s umělým povrchem (bez branek a basketbalových košů).",
+        "DOPORUCENI": "Pár desítek metrů pod hřištěm pro nejmenší se rozkládá areál stanice přírodovědců. Můžete si prohlédnout upravené zahrady, jezírko, skleníky s akvárii  a terárii, v nichž najdete desítky druhů akvarijních ryb, obojživelníků a plazů-mj. také velkého krokodýla a několikametrové krajty. Atraktivní také bude venkovní minizoo (chovají tady např. klokany, andulky, poníky, prasata, lamu, pštrosy emu, kunu atd.), menší dřevěné dětské hřiště s půltuctem prvků, geologická expozice nebo meteorologická zahrádka. Zájemci se dozvědí užitečné informace z tabulí věnovaných převážně ekologii, flóře, fauně, geologii  a meteorologii. Informace o otevírací době najdete na stránkách Stanice přírodovědců  Praha 5: <a href='http://www.ddmpraha.cz/stanice-prirodovedcu' target='_blank'>www.ddmpraha.cz</a> Pokud pojedete nakupovat, návštěva parku může být pro děti skvělou odměnou.",
+        "SOCIALNI": "Voda ne, WC chemické (lze ale také použít toalety v 1. patře nákupního centra u přechodové lávky).",
+        "OBCERSTVENI": "Druhé patro komplexu Nový Smíchov nabízí široký výběr gastronomických zařízení.",
+        "DOPRAVA": "Metro <b>B</b>, tramvaje č. <b>4, 6, 7, 9, 10, 12, 14, 16, 20</b>, autobusy č. <b>167, 191</b>, vše stanice <b>Anděl</b>. Parkování v garážích nákupního centra.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/22/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/11.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/12.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/13.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/14.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/15.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/16.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/17.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.399433732032774,
+          50.07461947079426
+        ]
+      }
     }
   ]
 }
