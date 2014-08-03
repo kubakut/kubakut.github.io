@@ -406,7 +406,7 @@
       "id": "13.C",
       "properties": {
         "NAME": "Vítkov - Vítkov pro mládež a dospělé",
-       "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
+        "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
         "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
         "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
@@ -419,6 +419,174 @@
         "coordinates": [
           14.454880356788635,
           50.089557289569576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.A",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - Vrch sv. kříže západ",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<strong>14.A</strong>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek     a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<strong>14.B</strong>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<strong>14.C</strong>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<strong>14.A)</strong>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45864886045456,
+          50.085217041278185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.B",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - Vrch sv. kříže východ",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<strong>14.A</strong>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek     a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho     dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<strong>14.B</strong>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<strong>14.C</strong>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<strong>14.A)</strong>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.463318604071045,
+          50.085504445195255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.C",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - 14.C",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<strong>14.A</strong>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho     dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<strong>14.B</strong>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<strong>14.C</strong>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<strong>14.A)</strong>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_C/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.460893955908201,
+          50.08491780167278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15",
+      "properties": {
+        "NAME": "Braník, Na Mlejnku",
+        "INFO": "V blízkosti Barrandovského mostu v Braníku se rozkládá jedno s nejrozsáhlejších dětských hřišť v Praze.",
+        "POPIS": " Hřiště (<strong>15</strong>) je situováno u ulice Na Mlejnku, do těsného sousedství mostu, od něhož je odděleno bariérou a pásem křovin a stromů. Dostanete     se k němu od zastávky MHD „Pobřežní cesta“, podchodem pod Jižní spojkou. Je zde rozmístěno na patnáct převážně dřevěných a barevně výrazných prvků. Jedná     se zejména o různé typy domků spojených se šplhacími prvky a skluzavkami. Nechybí ale ani lanovka (v době naší návštěvy na ní ovšem chyběla závěsná kotva)     nebo velká lokomotiva pojatá jako skluzavka. Přirozeně oddělená je část pro předškoláky s drobnými prvky. Na ploše uvidíte také několik převážně březových     a borových remízků a skupin keřů. Povrch hřiště tvoří tráva, pod atrakcemi leží písek. Přestože tady roste dost zeleně, většina prvků stojí mimo stín.     Rušivě může působit hluk dopravy na Barrandovském mostě. Na mostě si všimněte mohutných betonových plastik od J. Klimeše.",
+        "DOPORUCENI": "Areál je vhodný ke hře na schovávanou a v letních dnech i k opalování.",
+        "SOCIALNI": "Voda ne, chemické WC vně hřiště.",
+        "OBCERSTVENI": "U křižovatky ulic Modřanské a Ke Krči najdete pizzerii a restauraci s venkovním posezením.",
+        "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>253</strong>, zastávka <strong>Pobřežní cesta</strong>, nebo autobusy č. <strong>170,</strong>    <strong>196, 197</strong>, stanice <strong>U&nbsp;Staré pošty</strong>. Parkování v ulici Na Mlejnku.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/15/0.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409045383822631,
+          50.03515811668704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18",
+      "properties": {
+        "NAME": "Aréna",
+        "INFO": " Na vltavském nábřeží Smíchova leží komplex několika hřišť.",
+        "POPIS": "Dětské hřiště (<strong>18</strong>) je umístěno pod stromy, mezi řekou a Hořejším nábřežím. Povrch je travnatý nebo písčitý, stromy zajišťují dostatek     stínu. Na hřišti najdete kolem 15, vesměs klasických atrakcí, jako houpačky a skluzavky. Za klad pokládáme, že atrakce jsou rozmístěny na velké ploše,     takže se nebudete cítit stísněně. Hřišti by ale slušela větší péče o úklid a rekonstrukce několika neudržovaných objektů, které tu jsou. U hřiště se     nachází skate park s několika rampami a hřiště s házenkářskými brankami. Od hřiště se nabízí velmi pěkný pohled na Vyšehrad a lákavá může být i procházka     podél řeky.",
+        "DOPORUCENI": "Na Andělu navštivte s dětmi unikátní soubor modelových kolejišť, nádraží nebo model Prahy v měřítku 1:1000. Více informací na: <a href='http://www.kralovstvi-zeleznic.cz/' target='_blank'>www.kralovstvi-zeleznic.cz</a> ",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "V ulici Vltavská naleznete několik restaurací. Bohaté možnosti stravování ovšem nabízí celá lokalita Anděla.",
+        "DOPRAVA": " Metro <strong>B</strong>, tramvaje č.&nbsp;<strong>&nbsp;4, 6, 7, 9, 10, 12, 14, 16, 20</strong>, autobusy č. <strong>167, 191</strong>, vše stanice <strong>Anděl</strong>, nebo     tramvaje č.&nbsp;<strong>4, 7, 14</strong>, zastávka <strong>Zborovská</strong>. Doporučujeme parkování v garážích nákupního centra Nový Smíchov.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/18/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.410854701960753,
+          50.06902282453061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17.A",
+      "properties": {
+        "NAME": "Podolská vodárna - dětské hřiště",
+        "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
+        "POPIS": "Dětské hřiště (<strong>17.A</strong>) se nachází v bezprostřední blízkosti tramvajové zastávky. Děti mohou zkusit asi tucet atrakcí, jako multifunkční     domek s opičím mostem a skluzavkou, hrazdy, kolotoč, houpačky nebo menší horolezecké stěny. Na povrch hřiště navezli kačírek, plocha je bohužel bez stínu.     U hřiště vede cyklostezka a in-line stezka podél řeky. Budete-li pokračovat podle budovy vodárny směrem do Braníku, dojdete za chvilku do parku, v němž se     rozkládá senior park (<strong>17.B</strong>), který se ale hodí pro všechny dospělé i starší děti. Zacvičit si můžete na více než deseti moderních     posilovacích strojích z kovových trubek. Na tabulích najdete návod jak cvičit. Vedle se nachází oplocené hřiště na fotbal a tenisový kurt. V areálu uvidíte     také lanovou pyramidu a moderní lezeckou sestavu. Sportovní areál je od listopadu do března uzavřen, Další měsíce je otvírací doba proměnlivá: O víkendech     jednotně od 11.&nbsp;hodin. V pracovní dny od 16. hodin (od dubna do června), od&nbsp;11.&nbsp;hodin v červenci-srpnu a od 15. hodin v září a říjnu. Senior park je volně přístupný kdykoliv. Opravená budova Podolské vodárny je perlou neoklasicistní architektury. V případě zájmu si lze prohlédnout muzeum vodárenství. Více na:    <a href='http://www.pvk.cz/muzeum-prazskeho-vodarenstvi.html'>www.pvk.cz</a>",
+        "DOPORUCENI": "O pár set metrů dál se nachází plavecký stadion Podolí a nedaleko se rozkládá také areál Žlutých lázní.",
+        "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
+        "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
+        "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>121</strong>, vše zastávka <strong>Podolská vodárna</strong>. Možnost parkovat před plaveckým    stadionem.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/17_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.418906569480894,
+          50.05868169973739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17.B",
+      "properties": {
+        "NAME": "Podolská vodárna - senior park a sportoviště",
+        "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
+        "POPIS": "Dětské hřiště (<strong>17.A</strong>) se nachází v bezprostřední blízkosti tramvajové zastávky. Děti mohou zkusit asi tucet atrakcí, jako multifunkční     domek s opičím mostem a skluzavkou, hrazdy, kolotoč, houpačky nebo menší horolezecké stěny. Na povrch hřiště navezli kačírek, plocha je bohužel bez stínu.     U hřiště vede cyklostezka a in-line stezka podél řeky. Budete-li pokračovat podle budovy vodárny směrem do Braníku, dojdete za chvilku do parku, v němž se     rozkládá senior park (<strong>17.B</strong>), který se ale hodí pro všechny dospělé i starší děti. Zacvičit si můžete na více než deseti moderních     posilovacích strojích z kovových trubek. Na tabulích najdete návod jak cvičit. Vedle se nachází oplocené hřiště na fotbal a tenisový kurt. V areálu uvidíte     také lanovou pyramidu a moderní lezeckou sestavu. Sportovní areál je od listopadu do března uzavřen, Další měsíce je otvírací doba proměnlivá: O víkendech     jednotně od 11.&nbsp;hodin. V pracovní dny od 16. hodin (od dubna do června), od&nbsp;11.&nbsp;hodin v červenci-srpnu a od 15. hodin v září a říjnu. Senior park je volně přístupný kdykoliv. Opravená budova Podolské vodárny je perlou neoklasicistní architektury. V případě zájmu si lze prohlédnout muzeum vodárenství. Více na:    <a href='http://www.pvk.cz/muzeum-prazskeho-vodarenstvi.html'>www.pvk.cz</a>",
+        "DOPORUCENI": "O pár set metrů dál se nachází plavecký stadion Podolí a nedaleko se rozkládá také areál Žlutých lázní.",
+        "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
+        "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
+        "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>121</strong>, vše zastávka <strong>Podolská vodárna</strong>. Možnost parkovat před plaveckým    stadionem.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/17_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41930890083313,
+          50.055234161056575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16",
+      "properties": {
+        "NAME": "Suchdol",
+        "INFO": "Areál na Výhledském náměstí zahrnuje dětské hřiště a sportoviště. Nedaleko se rozkládá rozlehlý komplex České zemědělské univerzity.",
+        "POPIS": "Hřiště (<strong>16</strong>) je situováno v nevelkém parčíku. Stromy, které rostou kolem, poskytují částečný stín. Hracích prvků je asi tucet. Najdete     tady nezbytné houpačky a houpadla, točidlo, kolotoč, multifunkční sestavu se skluzavkou a keramické pískoviště. Na povrchu leží kačírek. Projdete-li     brankou do další části, kde je položen umělý povrch, můžete vyzkoušet kladinu, další houpačky, menší lezeckou sestavu a k děti mají dispozici také tabuli     na kreslení. Mimo oplocený areál se nachází menší senior park vybavený několika cvičebními stroji. Pojedete-li na Suchdol autobusem, můžete na zpáteční     cestě vystoupit na zastávce V Podbabě a přejít na přívoz, který vás přepraví do blízkosti zoologické zahrady. Plavba přívozem bude pro děti určitě     zajímavá.",
+        "DOPORUCENI": "Pár set metrů od hřiště se nachází rozsáhlý komplex České zemědělské univerzity. Před budovou Agronomické fakulty mohou děti obdivovat sluneční hodiny     z leštěné žuly a za budovou Rektorátu najdete růžovou a japonskou zahradu. Obdivovat můžete spojení kamenů a jehličnanů. Hned vedle uvidíte umělé jezírko,     kde žijí mj. japonští kapři a v létě jsou v provozu vodotrysky.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U zastávky autobusu Výhledské náměstí jsou potraviny, na nedalekém Brandejském náměstí můžete navštívit creperii s kavárnou. Najíst se lze také v areálu     vysokoškolské menzy (cca 100 metrů od japonské zahrady), kde jsou restaurace.",
+        "DOPRAVA": "Autobusy č. <strong>147</strong> a <strong>160</strong>, zastávka <strong>Výhledské náměstí</strong> nebo č. <strong>107</strong> a <strong>160</strong>, stanice <strong>Zemědělská univerzita</strong>     a dojít pár set metrů pěšky. Zaparkovat můžete u hřiště.",
+        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/16/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.372724294662474,
+          50.13415885801283
         ]
       }
     }
