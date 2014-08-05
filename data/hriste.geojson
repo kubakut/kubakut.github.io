@@ -12,7 +12,7 @@
         "SOCIALNI": "Voda ano, veřejné WC ve Františkánské zahradě.",
         "OBCERSTVENI": "Václavské náměstí a přilehlé ulice nabízí nepřeberné množství restaurací, cukráren atd. Proslulá výběrem zmrzlin je cukrárna v pasáži Světozor.",
         "DOPRAVA": "Metro <b>A/B</b>, stanice <b>Můstek</b>. Tramvaje č. <b>3, 9, 14, 24</b>, zastávka <b>Václavské náměstí</b>. Možnost parkovat je omezená.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/1/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/1/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/1/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/1/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/1/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +49,7 @@
       "id": "3",
       "properties": {
         "NAME": "Lannova ulice - nábřeží Ludvíka Svobody",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/3/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/3/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>",
+        "GALERIE": 8,
         "INFO": "Přímo u Vltavy najdeme moderní hřiště, sportoviště a pěkný park.",
         "POPIS": "V upraveném parku, kde pěstují především růže, leží pěkné dětské hřiště <b>(3)</b>. Část  pro malé děti (s atrakcemi jako houpačky, prolézací domky se skluzavkami atd.) je oplocená. U hřiště se nalézá také prostor pro děti starší s velkou herní lezeckou soustavou a lanovou pyramidou. Povrch tvoří pryžové desky. Bohužel zcela chybí stín, což&nbsp;je částečně kompenzováno dvěma slunečníky. K vybavení parku patří také hřiště na basketbal, pergola, WC a objekt správce, u něhož si lze vypůjčit sportovní vybavení a také branky několika velikostí. V parku, kterým prochází široké převážně písčité cesty, dále uvidíte několik pítek  a pod jednou z pergol speciální šachový stolek. V zadní části prostoru pak bylo instalováno sedm strojů pro cvičení (senior park).",
         "DOPORUCENI": "Pár desítek metrů od parku se nachází Poštovní muzeum.  Informace: <a href='http://www.postovnimuzeum.cz' target='_blank'>www.postovnimuzeum.cz</a>",
@@ -76,7 +76,7 @@
         "SOCIALNI": "Voda ne, chemické WC.",
         "OBCERSTVENI": "Na ulicích <b>Komunardů</b> a <b>Tusarova</b> najdete několik restaurací a mnoho drobných obchodů.",
         "DOPRAVA": "Tramvaje č. <b>1, 14, 25</b>, zastávka <b>Tusarova</b>. Parkovat můžete u hřiště, ale parkovací místa bývají v této lokalitě obsazena.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/2/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/2/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +88,7 @@
     },
     {
       "type": "Feature",
-      "id": "4.B",
+      "id": "4.A",
       "properties": {
         "NAME": "Na Františku - komplex v Masné ulici",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -97,7 +97,7 @@
         "SOCIALNI": "Voda ano, WC ano, sprchy.",
         "OBCERSTVENI": "Nápoje, párek v rohlíku, balená zmrzlina atd. se prodávají přímo v objektu správce sportoviště Na Františku. Bohaté možnosti stravování nabízí <b>Palladium</b>  na <b>náměstí Republiky</b> i restaurace v přilehlých ulicích.",
         "DOPRAVA": "Tramvaje č. <b>5, 8, 24, 26</b>, zastávka <b>Dlouhá třída</b>, a autobus č. <b>207</b>, zastávka <b>Nemocnice Na Františku</b>. Parkování je možné na menším, obvykle však plném parkovišti hned u sportoviště Na Františku",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/4_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 3
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +109,7 @@
     },
     {
       "type": "Feature",
-      "id": "4.A",
+      "id": "4.B",
       "properties": {
         "NAME": "Na Františku - komplex Na Františku",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -118,7 +118,7 @@
         "SOCIALNI": "Voda ano, WC ano, sprchy.",
         "OBCERSTVENI": "Nápoje, párek v rohlíku, balená zmrzlina atd. se prodávají přímo v objektu správce sportoviště Na Františku. Bohaté možnosti stravování nabízí <b>Palladium</b>  na <b>náměstí Republiky</b> i restaurace v přilehlých ulicích.",
         "DOPRAVA": "Tramvaje č. <b>5, 8, 24, 26</b>, zastávka <b>Dlouhá třída</b>, a autobus č. <b>207</b>, zastávka <b>Nemocnice Na Františku</b>. Parkování je možné na menším, obvykle však plném parkovišti hned u sportoviště Na Františku",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/4_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/4_A/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
@@ -139,7 +139,7 @@
         "SOCIALNI": "Voda ano, WC ano.",
         "OBCERSTVENI": "V bezprostředním okolí je několik restaurací, včetně indické.  Na Vinohradské ulici můžete navštívit také pizzerii vybavenou dětským koutkem.",
         "DOPRAVA": "Tramvaje č. <b>10</b> a <b>16</b>, stanice <b>Vinohradská vodárna</b>. Možnost parkovat máte v přilehlých ulicích. Stání ale bývají obsazená.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/5/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/5/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +160,7 @@
         "SOCIALNI": "Voda ano-hydrant, chemické WC.",
         "OBCERSTVENI": "Lokalita nabízí širokou škálu možností. Nejvíce obchodů a restaurací najdete  na ulici Milady Horákové, ale najíst se lze i v nedalekém Letenském zámečku.",
         "DOPRAVA": "Tramvaje č. <b>1,8,12,25,26</b>, zastávka <b>Kamenická</b> nebo tramvaje č. <b>1,8,12,17,24,25,26</b> a autobus č. <b>156</b>, zastávka <b>Strossmayerovo náměstí</b>. Možnost zaparkovat je omezená, neboť  v ulicích chybí parkovací místa. Nejlepší volbou proto může být prostor  u Národního technického muzea.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/6/1.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/2.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/3.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/4.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/5.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/6.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/6/7.jpg'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -181,7 +181,7 @@
         "SOCIALNI": "Voda ano, WC ano.",
         "OBCERSTVENI": "Na Hlavním nádraží se nachází restaurace, řetězce rychlého občerstvení, stánky s pečivem, zmrzlinou i supermarket. ",
         "DOPRAVA": "Metro <b>C</b> a tramvaje č. <b>5, 9, 26</b>, vše stanice Hlavní nádraží. Zaparkovat lze přímo před hřištěm, kde jsou parkovací automaty.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/7/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/7/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
@@ -202,7 +202,7 @@
         "SOCIALNI": "Voda ano (u dětského hřiště a na několika dalších místech areálu), veřejné WC u chrámu.",
         "OBCERSTVENI": ": V areálu je několik možností: zahradní restaurace, kavárny i rychlé občerstvení. V Barbecue restaurantu u rotundy mají dětské židle.",
         "DOPRAVA": "Metro <b>C</b>, stanice <b>Vyšehrad</b>. Parkovací možnosti jsou omezené (parkuje se např. v ulici Čiklova).",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/8/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/8/11.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 11
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +222,7 @@
         "DOPORUCENI": "(tentokrát pro dospělé): Máte-li rádi víno, navštivte sklípek a Viniční altán  u vinohradu. Více informací: <a href='http://www.vinicni-altan.cz/800/uvod.asp' target='_blank'>www.vinicni-altan.cz</a>",
         "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
         "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/9_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>",
+        "GALERIE": 5,
         "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná."
       },
       "geometry": {
@@ -244,7 +244,7 @@
         "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
         "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
         "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/9_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/9_B/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 10
       },
       "geometry": {
         "type": "Point",
@@ -265,7 +265,7 @@
         "SOCIALNI": "Voda ne, WC chemické (lze ale také použít toalety v 1. patře nákupního centra u přechodové lávky).",
         "OBCERSTVENI": "Druhé patro komplexu Nový Smíchov nabízí široký výběr gastronomických zařízení.",
         "DOPRAVA": "Metro <b>B</b>, tramvaje č. <b>4, 6, 7, 9, 10, 12, 14, 16, 20</b>, autobusy č. <b>167, 191</b>, vše stanice <b>Anděl</b>. Parkování v garážích nákupního centra.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/22/0.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/9.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/10.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/11.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/12.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/13.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/14.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/15.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/16.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/22/17.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 15
       },
       "geometry": {
         "type": "Point",
@@ -286,7 +286,7 @@
         "SOCIALNI": "Voda ano, WC ano. ",
         "OBCERSTVENI": "V budově celnice se nachází restaurace a v bezprostřední blízkosti také kavárna.",
         "DOPRAVA": "Tramvaje č. <b>3, 7, 17,</b> stanice <b>Výtoň</b>. V okolních ulicích je většina parkovacích míst rezervovaná.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/10/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/10/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +307,7 @@
         "SOCIALNI": "Hřiště „U draka“: Voda ano, WC ano; hřiště v Rajské zahradě: Voda i WC jsou k dispozici v kavárně, v bezprostřední blízkosti dětského hřiště.",
         "OBCERSTVENI": "V Riegrových sadech (hned u hřiště) stojí velká restaurace s venkovním posezením. V Rajské zahradě kavárna s terasou, slunečníky a velkým dětským koutkem. ",
         "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, zastávka Husinecká, nebo č. <b>11</b> a <b>13</b>, zastávka <b>Vinohradská tržnice</b>. Parkování v okolních ulicích – možnosti omezené.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/11_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_A/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
@@ -328,7 +328,7 @@
         "SOCIALNI": "Hřiště „U draka“: Voda ano, WC ano; hřiště v Rajské zahradě: Voda i WC jsou k dispozici v kavárně, v bezprostřední blízkosti dětského hřiště.",
         "OBCERSTVENI": "V Riegrových sadech (hned u hřiště) stojí velká restaurace s venkovním posezením. V Rajské zahradě kavárna s terasou, slunečníky a velkým dětským koutkem. ",
         "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, zastávka Husinecká, nebo č. <b>11</b> a <b>13</b>, zastávka <b>Vinohradská tržnice</b>. Parkování v okolních ulicích – možnosti omezené.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/11_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/11_B/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 8
       },
       "geometry": {
         "type": "Point",
@@ -349,7 +349,7 @@
         "SOCIALNI": "Voda ano, WC ano.",
         "OBCERSTVENI": "Správce hřiště prodává chlazené nápoje a zmrzliny. ",
         "DOPRAVA": "Metro <b>A</b>, tramvaje č. <b>5, 10, 13, 16, 26,</b> autobusy č. <b>124, 139, 150, 163, 188, 213, 297,</b> vše zastávka <b>Želivského</b>. Pak asi 500 m pěšky podél hřbitovní zdi. Parkování v přilehlých ulicích.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/12/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/12/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/12/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/12/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/12/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/12/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
@@ -370,7 +370,7 @@
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/13_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 2
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +391,7 @@
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/13_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 3
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +412,7 @@
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/13_C/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_C/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_C/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/13_C/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 4
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +433,7 @@
         "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
         "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
         "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_A/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -454,7 +454,7 @@
         "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
         "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
         "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 2
       },
       "geometry": {
         "type": "Point",
@@ -475,7 +475,7 @@
         "SOCIALNI": "Voda ano (vně hřišť <strong>14.A</strong> a <strong>14.B</strong>), WC chemické-pouze u hřiště <strong>(14.A)</strong>.",
         "OBCERSTVENI": "Nedaleko hřiště (<strong>14.A)</strong> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
         "DOPRAVA": "Tramvaje č. <strong>5, 9, 26</strong>, autobusy č. <strong>136</strong> a <strong>175</strong>, vše zastávka <strong>Olšanské náměstí</strong>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/14_C/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/14_C/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -496,7 +496,7 @@
         "SOCIALNI": "Voda ne, chemické WC vně hřiště.",
         "OBCERSTVENI": "U křižovatky ulic Modřanské a Ke Krči najdete pizzerii a restauraci s venkovním posezením.",
         "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>253</strong>, zastávka <strong>Pobřežní cesta</strong>, nebo autobusy č. <strong>170,</strong>    <strong>196, 197</strong>, stanice <strong>U&nbsp;Staré pošty</strong>. Parkování v ulici Na Mlejnku.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/15/0.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/15/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 7
       },
       "geometry": {
         "type": "Point",
@@ -517,7 +517,7 @@
         "SOCIALNI": "Voda ne, chemické WC.",
         "OBCERSTVENI": "V ulici Vltavská naleznete několik restaurací. Bohaté možnosti stravování ovšem nabízí celá lokalita Anděla.",
         "DOPRAVA": " Metro <strong>B</strong>, tramvaje č.&nbsp;<strong>&nbsp;4, 6, 7, 9, 10, 12, 14, 16, 20</strong>, autobusy č. <strong>167, 191</strong>, vše stanice <strong>Anděl</strong>, nebo     tramvaje č.&nbsp;<strong>4, 7, 14</strong>, zastávka <strong>Zborovská</strong>. Doporučujeme parkování v garážích nákupního centra Nový Smíchov.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/18/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/18/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -538,7 +538,7 @@
         "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
         "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
         "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>121</strong>, vše zastávka <strong>Podolská vodárna</strong>. Možnost parkovat před plaveckým    stadionem.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/17_A/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_A/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 4
       },
       "geometry": {
         "type": "Point",
@@ -559,7 +559,7 @@
         "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
         "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
         "DOPRAVA": "Tramvaje č. <strong>3, 17</strong>, autobus č. <strong>121</strong>, vše zastávka <strong>Podolská vodárna</strong>. Možnost parkovat před plaveckým    stadionem.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/17_B/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_B/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/17_B/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 3
       },
       "geometry": {
         "type": "Point",
@@ -580,7 +580,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "U zastávky autobusu Výhledské náměstí jsou potraviny, na nedalekém Brandejském náměstí můžete navštívit creperii s kavárnou. Najíst se lze také v areálu     vysokoškolské menzy (cca 100 metrů od japonské zahrady), kde jsou restaurace.",
         "DOPRAVA": "Autobusy č. <strong>147</strong> a <strong>160</strong>, zastávka <strong>Výhledské náměstí</strong> nebo č. <strong>107</strong> a <strong>160</strong>, stanice <strong>Zemědělská univerzita</strong>     a dojít pár set metrů pěšky. Zaparkovat můžete u hřiště.",
-        "GALERIE": "<center><img style='margin: 10px 0px' src='/img/16/1.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/2.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/3.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/4.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/5.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/6.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/7.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'><img style='margin: 10px 0px' src='/img/16/8.JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail'></center>"
+        "GALERIE": 8
       },
       "geometry": {
         "type": "Point",

@@ -285,11 +285,25 @@ var theaters = L.geoJson(null, {
  ;
       
       var nadpis = feature.id + ". " + feature.properties.NAME;
+      
       layer.on({
         click: function (e) {
+          var galerie ="";
           $("#feature-title").html(nadpis);
           $("#feature-info").html(content);
-          $("#feature-gal").html(feature.properties.GALERIE);
+        for ( var i = 0; i < feature.properties.GALERIE; i++ ) {
+            galerie = galerie+'<obr>';
+    
+}    
+            
+          $("#feature-gal").html(galerie);
+            
+          $(document).ready( function() {
+              $("obr").each( function(i) {
+                  $(this).prepend("<center><img style='margin: 10px 0px' src='img/"+feature.id+"/"+(++i)+".JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail' /></center>");	
+        });
+ 
+});   
 
   
   
