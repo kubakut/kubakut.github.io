@@ -1,0 +1,762 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "properties": {
+        "NAME": "Františkánská zahrada",
+        "INFO": "V samém srdci města najdeme hřiště určené spíše pro mladší děti. Není unikátní velikostí,  ale polohou na okraji Františkánské zahrady.",
+        "POPIS": "Zahrada sama nabízí příjemné posezení mezi upravenými keři i prostor ke hrám.  Na hřišti <b>(1)</b> se nachází kolem 10 atrakcí. Jedná se např. o pedálový kolotoč, větší pískoviště s herní sestavou ve tvaru věže, menší lanovou pyramidu atd. Hřiště je částečně oploceno, nechybí pítko a automatické mlžidlo, povrch tvoří převážně litá guma. V odpoledních  hodinách je tady ale málo stínu.  Nad hřištěm se majestátně vypíná kostel Panny Marie Sněžné, postavený za Karla IV. Kostel se měl stát největší křesťanskou stavbou světa. Z&nbsp;finančních důvodů však nebyl dokončen.",
+        "DOPORUCENI": "Pokud budete unaveni z ruchu Václavského náměstí, Františkánská zahrada je ideálním místem&nbsp;pro odpočinek.",
+        "SOCIALNI": "Voda ano, veřejné WC ve Františkánské zahradě.",
+        "OBCERSTVENI": "Václavské náměstí a přilehlé ulice nabízí nepřeberné množství restaurací, cukráren atd. Proslulá výběrem zmrzlin je cukrárna v pasáži Světozor.",
+        "DOPRAVA": "Metro <b>A/B</b>, stanice <b>Můstek</b>. Tramvaje č. <b>3, 9, 14, 24</b>, zastávka <b>Václavské náměstí</b>. Možnost parkovat je omezená.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42376673221588,
+          50.082540760506255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28",
+      "properties": {
+        "IMG": "stromovka",
+        "NAME": "Stromovka",
+        "INFO": "V orientaci nám pomohou přehledné mapy instalované na několika místech před vstupy do parku. U rybníků a dalších objektů najdeme také informační tabule.  V bezprostřední blízkosti Šlechtovy restaurace funguje v sezóně informační centrum  a od 11. hodin také půjčovna koloběžek, elektrokol a skateboardů, pomůcek pro různé hry či potřeb pro piknik (více na: <a href='http://www.slechtovka.com' target='_blank'>slechtovka.com</a> )",
+        "POPIS": "<p>Stromovku tvoří rozlehlý park s hustou sítí asfaltových cest, které se hodí pro cyklistiku i in-line bruslení. Najdeme tam pár zajímavých objektů, jako Planetárium nebo Šlechtovu restauraci. Atraktivní pro děti bude vodotrysk a rybníčky s hejny lysek, racků, kachen atd. Rybníky jsou propojeny. Zajímavá je i zdejší flóra - mohutné vrby nebo porosty orobince (tzv.„doutníky“).</p>  <p>Na dvou místech parku jsou instalovány fitness prvky pro dospělé. Přímo dětem je určeno  6 hřišť. Nejhezčí najdeme blízko Planetária a říká se mu Tramvaj <b>(28.A)</b>.  Důvodem je nejznámější atrakce - 2 dřevěné tramvajové vozy se skluzavkou. Hřiště je rekonstruované, moderní. Je zde lanovka, lanové pyramidy, multifunkční sestavy atd. Není oploceno, povrch tvoří kačírek. Stromy poskytují dostatek stínu.  Nedaleko leží hřiště Koníček <b>(28.B)</b>, nazvané podle plastové sošky červeného koně. Kromě koně zde nejdete i mravenečníka nebo slona. Hřiště je menší, atrakce jsou rozptýleny mezi stromy. I dospělým udělá radost  dřevěná houpačka.</p>  <p>Další hřiště jsou rozeseta po areálu. Na hřišti U platanu <b>(28.C)</b> najdete malý pohyblivý most  a několik drobných prvků. Na povrchu leží kačírek a stromy poskytují dostatek stínu. V těsné blízkosti leží torzo velkého stromu, který slouží dětem jako přirozený lezecký prvek.</p>  <p>To U malé říčky <b>(28.D)</b> je na druhé straně železniční trati a tvoří ho velká lezecká soustava, s lany propojených provazových jehlanů. Podél cesty jsou navíc rozesety fitness prvky. Není třeba vracet se stejnou cestou. Budete-li pokračovat pár set metrů směrem k Bubenči, přijdete k druhému podchodu pod železniční tratí a zakrátko dorazíte k hřišti U psí louky (28.E). Zaujme především díky lanovce, krásné louce vhodné k pohybovým aktivitám a blízkým fitness prvkům. Další, před Šlechtovou restaurací, ani nestojí za vidění - má pouze 1 malý prvek.  Rozlehlé, byť ne zrovna nové, je oplocené hřiště Kaštánek <b>(28.A)</b> na okraji parku. Má tři části. První pro malé děti, s klasickými prvky (kolotoč, skluzavky, tabule), druhá pro větší, kde atrakce rozvíjí obratnost na atrakcích jako kladina, lanová pyramida nebo lezecká stěna, a třetí tvoří menší fotbalové a basketbalové hřiště s umělým povrchem. Na hřišti je také objekt správce a toalety.</p> ",
+        "DOPORUCENI": "Na okraji Stromovky lze podle zájmu navštívit několik objektů. K nejzajímavějším patří Planetárium ( <a href='http://www.planetarium.cz' target='_blank'>planetarium.cz</a>), Mořský svět na Výstavišti s největšími akvárii v ČR (<a href='http://www.morsky-svet.cz' target='_blank'>morsky-svet.cz</a>) a muzeum moderního umění  ve Veletržním paláci (<a href='http://www.ngprague.cz/vystavy/?from=&to=&location=525bb60eb90607.787006908&time=now' target='_blank'>ngprague.cz</a>). A pokud se chcete projet historickou tramvají č. <b>91</b>, máte o víkendech možnost. Vyjíždí od Výstaviště.",
+        "SOCIALNI": "Voda a WC pouze hřiště Kaštánek. Toalety najdete také u Šlechtovy restaurace nebo v restauraci u hřiště Tramvaj. Po parku jsou navíc umístěna chemická mobilní WC.",
+        "OBCERSTVENI": "U hřiště Tramvaj je poměrně drahá restaurace s venkovním posezením a grilem. Další možností je stánek u Šlechtovy restaurace.",
+        "DOPRAVA": "Tramvaje č. <b>12, 17, 24</b>, vše zastávka Výstaviště Holešovice. Před Výstavištěm je parkoviště.",
+        "GALERIE": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.417581558227539,
+          50.10637763033234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "properties": {
+        "NAME": "Lannova ulice - nábřeží Ludvíka Svobody",
+        "GALERIE": 8,
+        "INFO": "Přímo u Vltavy najdeme moderní hřiště, sportoviště a pěkný park.",
+        "POPIS": "V upraveném parku, kde pěstují především růže, leží pěkné dětské hřiště <b>(3)</b>. Část  pro malé děti (s atrakcemi jako houpačky, prolézací domky se skluzavkami atd.) je oplocená. U hřiště se nalézá také prostor pro děti starší s velkou herní lezeckou soustavou a lanovou pyramidou. Povrch tvoří pryžové desky. Bohužel zcela chybí stín, což&nbsp;je částečně kompenzováno dvěma slunečníky. K vybavení parku patří také hřiště na basketbal, pergola, WC a objekt správce, u něhož si lze vypůjčit sportovní vybavení a také branky několika velikostí. V parku, kterým prochází široké převážně písčité cesty, dále uvidíte několik pítek  a pod jednou z pergol speciální šachový stolek. V zadní části prostoru pak bylo instalováno sedm strojů pro cvičení (senior park).",
+        "DOPORUCENI": "Pár desítek metrů od parku se nachází Poštovní muzeum.  Informace: <a href='http://www.postovnimuzeum.cz' target='_blank'>www.postovnimuzeum.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Restaurace v nejbližším okolí jsou vzhledem k silnému turistickému ruchu drahé. Kompletní nabídku občerstvení poskytuje nákupní galerie Palladium vzdálená  několik set metrů.",
+        "DOPRAVA": "Tramvaje č. <b>5, 8, 24, 26</b>, autobus č. <b>207</b>, vše zastávka Dlouhá třída. U Štefánikova mostu funguje hlídané parkoviště. Parkovat je možné i v přilehlých ulicích, kde jsou umístěny parkovací automaty."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.430622458457947,
+          50.09310904805708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "properties": {
+        "NAME": "Holešovice, Jateční",
+        "INFO": "Nedaleko Holešovické tržnice, skryté za vysokou zdí, je situováno dětské hřiště.",
+        "POPIS": "Dětské hřiště <b>(2)</b> se rozkládá v zeleni, na poměrně rozlehlé ploše. Vchod je z ulice <b>Jateční</b>. V areálu rostou vzrostlé stromy, takže plocha leží v částečném stínu. Na povrchu roste tráva, pod atrakcemi leží převážně písek. Atrakcí tu mají kolek deseti. Patří k nim  dva domky se skluzavkami, lezecká sestava, houpačky, kladina a několik točidel. Některé atrakce by ovšem potřebovaly nový nátěr, protože jsou bohužel posprejované. V části areálu se nachází sportovní hřiště s umělým povrchem a dvěma basketbalovými koši.  Protože je areál poměrně rozsáhlý a rostou zde vzrostlé stromy, hodí se také ke hře  na schovávanou. Bát o děti se nemusíte. Celý areál chrání vysoký plot a zeď. ",
+        "DOPORUCENI": "Nedaleko, v parčíku na <b>Tusarově</b> ulici, mohou starší děti a dospělí vyzkoušet půltucet kovových cvičebních strojů-tzv. fit park.",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "Na ulicích <b>Komunardů</b> a <b>Tusarova</b> najdete několik restaurací a mnoho drobných obchodů.",
+        "DOPRAVA": "Tramvaje č. <b>1, 14, 25</b>, zastávka <b>Tusarova</b>. Parkovat můžete u hřiště, ale parkovací místa bývají v této lokalitě obsazena.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448491334915161,
+          50.101710302483404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4.A",
+      "properties": {
+        "NAME": "Na Františku - komplex v Masné ulici",
+        "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
+        "POPIS": "Komplex Na Františku <b>(4.A)</b>, v těsném sousedství Anežského kláštera, tvoří několik sportovišť a je vhodný pro aktivní děti i dospělé. Najdeme tady hřiště na fotbal a basketbal s umělým povrchem, sprinterskou dráhu, pingpongový stůl, lana na šplh, hrazdu, doskočiště pro skok daleký, minigolf, několik cvičebních strojů atd. Pro malé děti je k dispozici např. lanová pyramida, houpačky, dvě lezecké stěny atd.  K vybavení také patří šatny, stojany na kola, hodiny, boxy pro úschovu tašek a další zázemí. V areálu sídlí správce. V pracovní dny školního roku využívá sportoviště blízká základní škola. Více informací najdete  na: <a href='http://www.hristenafrantisku.cz' target='_blank'>www.hristenafrantisku.cz</a> Nedaleko (v Masné ulici) se nalézá další sportovní komplex <b>(4.B)</b>. Tvoří ho dvě víceúčelová hřiště (tenis, malá kopaná, basketbal, streetball) a nevelké dětské hřiště pro nejmenší  (cca 5 prvků). Posedět můžete na lavičkách pod vzrostlými duby. Také zde dohlíží na pořádek správce a jsou tady toalety a šatny. Další informace najdete na: <a href='http://www.praha1.cz/cps/skolstvi-hriste-pro-deti-a-mladez-Masna.html' target='_blank'>www.praha1.cz</a>",
+        "DOPORUCENI": "Pokud rádi bruslíte, v zimě se fotbalové hřiště Na Františku mění v ledovou plochu.",
+        "SOCIALNI": "Voda ano, WC ano, sprchy.",
+        "OBCERSTVENI": "Nápoje, párek v rohlíku, balená zmrzlina atd. se prodávají přímo v objektu správce sportoviště Na Františku. Bohaté možnosti stravování nabízí <b>Palladium</b>  na <b>náměstí Republiky</b> i restaurace v přilehlých ulicích.",
+        "DOPRAVA": "Tramvaje č. <b>5, 8, 24, 26</b>, zastávka <b>Dlouhá třída</b>, a autobus č. <b>207</b>, zastávka <b>Nemocnice Na Františku</b>. Parkování je možné na menším, obvykle však plném parkovišti hned u sportoviště Na Františku",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4247430562973,
+          50.08916664890053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4.B",
+      "properties": {
+        "NAME": "Na Františku - komplex Na Františku",
+        "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
+        "POPIS": "Komplex Na Františku <b>(4.A)</b>, v těsném sousedství Anežského kláštera, tvoří několik sportovišť a je vhodný pro aktivní děti i dospělé. Najdeme tady hřiště na fotbal a basketbal s umělým povrchem, sprinterskou dráhu, pingpongový stůl, lana na šplh, hrazdu, doskočiště pro skok daleký, minigolf, několik cvičebních strojů atd. Pro malé děti je k dispozici např. lanová pyramida, houpačky, dvě lezecké stěny atd.  K vybavení také patří šatny, stojany na kola, hodiny, boxy pro úschovu tašek a další zázemí. V areálu sídlí správce. V pracovní dny školního roku využívá sportoviště blízká základní škola. Více informací najdete  na: <a href='http://www.hristenafrantisku.cz' target='_blank'>www.hristenafrantisku.cz</a> Nedaleko (v Masné ulici) se nalézá další sportovní komplex <b>(4.B)</b>. Tvoří ho dvě víceúčelová hřiště (tenis, malá kopaná, basketbal, streetball) a nevelké dětské hřiště pro nejmenší  (cca 5 prvků). Posedět můžete na lavičkách pod vzrostlými duby. Také zde dohlíží na pořádek správce a jsou tady toalety a šatny. Další informace najdete na: <a href='http://www.praha1.cz/cps/skolstvi-hriste-pro-deti-a-mladez-Masna.html' target='_blank'>www.praha1.cz</a>",
+        "DOPORUCENI": "Pokud rádi bruslíte, v zimě se fotbalové hřiště Na Františku mění v ledovou plochu.",
+        "SOCIALNI": "Voda ano, WC ano, sprchy.",
+        "OBCERSTVENI": "Nápoje, párek v rohlíku, balená zmrzlina atd. se prodávají přímo v objektu správce sportoviště Na Františku. Bohaté možnosti stravování nabízí <b>Palladium</b>  na <b>náměstí Republiky</b> i restaurace v přilehlých ulicích.",
+        "DOPRAVA": "Tramvaje č. <b>5, 8, 24, 26</b>, zastávka <b>Dlouhá třída</b>, a autobus č. <b>207</b>, zastávka <b>Nemocnice Na Františku</b>. Parkování je možné na menším, obvykle však plném parkovišti hned u sportoviště Na Františku",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422736763954163,
+          50.092599703512654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "properties": {
+        "NAME": "U Vodárny, Praha 2",
+        "INFO": "Hřiště U Vodárny <b>(5)</b> patří k nejkrásnějším v Praze a po právu také získalo titul  „Nejlepší dřevěné hřiště“.",
+        "POPIS": "Nepřehlédnutelnou dominantu představuje ústřední hrací prvek ve tvaru věže, která  ve zmenšeném měřítku kopíruje nedalekou věž vodárenskou. Věž je spojená se skluzavkou sítěmi, šplhadly a lanovkou. Kromě toho najdeme v komplexu více než deset dalších prvků-houpačku „hnízdo“, různá houpadla atd.  Většina z nich (včetně stojanů na kola) je samozřejmě vyrobena ze dřeva. Povrch hřiště pokrývá litá guma.  Areál obklopují vzrostlé stromy, ale většina atrakcí stojí mimo stín. V samostatné části se nachází velká trampolína  ve tvaru obloukové střechy a hřiště na basketbal nebo malý fotbal.  Na hřišti také stojí domek správce a toalety. U správce si můžete vypůjčit míče. Před vstupem lze využít úvaziště pro psy. Vzhledem k tomu, že hřiště je součástí sportovního komplexu, jeho návštěva je vhodná i pro rodiny se staršími dětmi.",
+        "DOPORUCENI": "Na dohled (u stanice tramvaje) si povšimněte originální vodárenské věžeNa dohled (u stanice tramvaje) si povšimněte originální vodárenské věže  a srovnejte její podobu s replikou na hřišti.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "V bezprostředním okolí je několik restaurací, včetně indické.  Na Vinohradské ulici můžete navštívit také pizzerii vybavenou dětským koutkem.",
+        "DOPRAVA": "Tramvaje č. <b>10</b> a <b>16</b>, stanice <b>Vinohradská vodárna</b>. Možnost parkovat máte v přilehlých ulicích. Stání ale bývají obsazená.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.448362588882445,
+          50.07583993730661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "properties": {
+        "NAME": "Kostelní",
+        "INFO": "Na okraji Letenských sadů leží rozlehlý areál určený spíše starším dětem.",
+        "POPIS": ": Dětské hřiště <b>(6)</b> je situováno mezi Kostelní ulicí a Letenskými sady. Hlavní vchod je z Kostelní, ale dostanete se sem i zadní brankou z parku. Rozlehlá plocha je porostlá trávou, pod atrakcemi leží kačírek. Na okrajích hřiště rostou stromy, které poskytují částečný stín. Hracích prvků je asi deset. Dominantu představuje mohutná lanová lezecká sestava  se skluzavkou a lanová pyramida. Kromě toho zde najdete několik houpaček a menších multifunkčních sestav. Ve spodní části areálu se rozkládá rozlehlá asfaltová sportovní plocha  se čtyřmi koši na basketbal a brankami na malou kopanou. V rohu areálu stojí opuštěný objekt, kde zřejmě pobýval správce. Protože se hřiště svažuje a pokrývá ho převážně tráva, není vhodné ho navštěvovat za vlhkého počasí. Na okraji parku, cca 100 od hřiště, můžete obdivovat panorama Prahy. Je odtud opravdu krásný výhled a děti potěší i parníky na Vltavě. Zájemci o architektury si mohou prohlédnout technickou památku „Restauraci EXPO 58“, která nás reprezentovala na Světové výstavě v Bruselu v roce 1958.",
+        "DOPORUCENI": "V Kostelní ulici stojí budova Národního technického muzea. Více informací najdete na: <a href='http://www.ntm.cz/cs/' target='_blank'>www.ntm.cz</a>",
+        "SOCIALNI": "Voda ano-hydrant, chemické WC.",
+        "OBCERSTVENI": "Lokalita nabízí širokou škálu možností. Nejvíce obchodů a restaurací najdete  na ulici Milady Horákové, ale najíst se lze i v nedalekém Letenském zámečku.",
+        "DOPRAVA": "Tramvaje č. <b>1,8,12,25,26</b>, zastávka <b>Kamenická</b> nebo tramvaje č. <b>1,8,12,17,24,25,26</b> a autobus č. <b>156</b>, zastávka <b>Strossmayerovo náměstí</b>. Možnost zaparkovat je omezená, neboť  v ulicích chybí parkovací místa. Nejlepší volbou proto může být prostor  u Národního technického muzea.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.428972899913788,
+          50.09696337180414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "properties": {
+        "NAME": "Vrchlického sady (Hlavní nádraží)",
+        "INFO": "Před Hlavním nádražím vyrostlo moderní, rozsáhlé hřiště <b>(7)</b>, vhodné pro všechny věkové kategorie dětí.",
+        "POPIS": "Nalézá se na okraji parku (Vrchlického sady), od něhož je odděleno vysokým plotem, což dětem poskytuje dostatek klidu. Unikátní je vstup, který zajištuje brána otevíraná automaticky prostřednictvím tlačítek. Na hřišti také najdeme pódium a menší stupňovité hlediště. Pořádají se zde programy pro děti.  Výčet herních prvků je bohatý, celkem jich můžeme napočítat kolem 20. Jedná se  např. o lanovou pyramidu a síť, visutý most, dům labyrint, loď atd. Vyhledávanou atrakci představuje lanovka, dlouhá kolem 15 m. Jsou zde také dvě pumpy, WC, hodiny a budka správce. Povrch hřiště tvoří písek, kačírek a pryžové desky. Roste zde i několik vzrostlých stromů. Některé atrakce jsou chráněny před přímým sluncem prostřednictvím zatahovacích plachet na vodících lištách. O to se stará správce. ",
+        "DOPORUCENI": "Navštivte Hlavní nádraží, jež se díky rekonstrukci změnilo v moderní nákupní zónu. ",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Na Hlavním nádraží se nachází restaurace, řetězce rychlého občerstvení, stánky s pečivem, zmrzlinou i supermarket. ",
+        "DOPRAVA": "Metro <b>C</b> a tramvaje č. <b>5, 9, 26</b>, vše stanice Hlavní nádraží. Zaparkovat lze přímo před hřištěm, kde jsou parkovací automaty.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.434423148632048,
+          50.08526695120447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "properties": {
+        "NAME": "Vyšehrad",
+        "INFO": "Návštěvu bájemi opředeného místa byste si neměli nechat ujít!",
+        "POPIS": "Vyšehrad je místo, kterým tzv. „kráčela historie“. Proto nepřekvapí, že dětské hřiště (určené spíše mladším dětem) připomíná staroslovanské hradiště a říká se mu „Ze starých pověstí českých“ <b>(8)</b>. Prvky jsou provedeny ze dřeva a najdeme tady především různé typy prolézacích domků a houpadel. Nechybí ale ani dvě lanovky (jedna uvnitř hradiště, druhá  o pár desítek metrů dál). Na „Staré pověsti české“ upomínají dřevěné sošky, zpodobňující bájné postavy naší historie, např. Přemysla Oráče. U kasemat Gorlice se rozkládá ještě jedno hřiště, tvořené pouze točidlem, takže za návštěvu nestojí. ",
+        "DOPORUCENI": "Vyšehrad, to je ale hlavně pevnost, náboženské centrum a pohřebiště známých osobností. Nic z toho byste si neměli nechat ujít a prohlídce byste měli věnovat alespoň půl dne. Více o areálu na: <a href='http://www.praha-vysehrad.cz' target='_blank'>www.praha-vysehrad.cz</a> Z hradeb je velkolepý panoramatický výhled na Prahu. V celou hodinu se můžete zaposlouchat do melodie zvonů Kapitulního chrámu sv. Petra a Pavla. Dětem se bude líbit  i možnost projít si chodby v hradbách. A pokud bude pěkné počasí, zelené plochy vybízí k pikniku.",
+        "SOCIALNI": "Voda ano (u dětského hřiště a na několika dalších místech areálu), veřejné WC u chrámu.",
+        "OBCERSTVENI": ": V areálu je několik možností: zahradní restaurace, kavárny i rychlé občerstvení. V Barbecue restaurantu u rotundy mají dětské židle.",
+        "DOPRAVA": "Metro <b>C</b>, stanice <b>Vyšehrad</b>. Parkovací možnosti jsou omezené (parkuje se např. v ulici Čiklova).",
+        "GALERIE": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42103624343872,
+          50.06347891127487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9.A",
+      "properties": {
+        "NAME": "Gröbovka - hřiště Bezručovy sady ",
+        "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
+        "POPIS": "Ve velmi členitém terénu je umístěn jeden z nejromantičtějších parků na území města. V parku roste přes 120 druhů listnatých i jehličnatých dřevin, takže i v parných dnech zde panuje stín. Louky se naopak hodí k opalování. Na jižním svahu byla založena rozsáhlá vinice, v parku je vybudována umělá jeskyně – grotta, najdeme tady vodní plochy,  Gröbovu vilu, Viniční altán atd.  V horní části parku (u křižovatky ulic Rybalkova a U Havlíčkových sadů) se nalézá dětské hřiště <b>(9.A)</b>. Napočítáme na něm kolem deseti, vesměs klasických atrakcí: multifunkční lezeckou sestavu, kolotoč a drobné prvky. Neobvyklé je houpadlo ve tvaru terénního automobilu. Povrch hřiště tvoří písek. Součástí areálu je basketbalové hřiště s umělým povrchem a tribunami.  V areálu pracuje správce. Problémem pro návštěvníky ovšem může být nedostatek stínu.  Pokud by děti chtěly vyzkoušet další hřiště <b>(9.B)</b>, přibližně stejné velikosti, leží nedaleko, u křižovatky ulic Slovenské a Francouzské (tzv. Bezručovy sady). Ústředním prvkem je velký prvek s prolézacím tubusem, šplhadly, skluzavkou atd. Kromě toho lze vyzkoušet točidlo  pro čtyři, houpačky atd.  Na povrchu leží kačírek a stromy poskytují částečný stín. Nedaleko hřiště na Slovenské ulici si povšimněte velmi neobvyklého funkcionalistického kostela z 30. let 20. století (architekt Pavel Janák). Zaujme především kostelní věž.",
+        "DOPORUCENI": "(tentokrát pro dospělé): Máte-li rádi víno, navštivte sklípek a Viniční altán  u vinohradu. Více informací: <a href='http://www.vinicni-altan.cz/800/uvod.asp' target='_blank'>www.vinicni-altan.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
+        "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
+        "GALERIE": 5,
+        "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.445243179798126,
+          50.07255200882523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9.B",
+      "properties": {
+        "NAME": "Gröbovka - hřiště Havlíčkovy sady",
+        "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
+        "POPIS": "Ve velmi členitém terénu je umístěn jeden z nejromantičtějších parků na území města. V parku roste přes 120 druhů listnatých i jehličnatých dřevin, takže i v parných dnech zde panuje stín. Louky se naopak hodí k opalování. Na jižním svahu byla založena rozsáhlá vinice, v parku je vybudována umělá jeskyně – grotta, najdeme tady vodní plochy,  Gröbovu vilu, Viniční altán atd.  V horní části parku (u křižovatky ulic Rybalkova a U Havlíčkových sadů) se nalézá dětské hřiště <b>(9.A)</b>. Napočítáme na něm kolem deseti, vesměs klasických atrakcí: multifunkční lezeckou sestavu, kolotoč a drobné prvky. Neobvyklé je houpadlo ve tvaru terénního automobilu. Povrch hřiště tvoří písek. Součástí areálu je basketbalové hřiště s umělým povrchem a tribunami.  V areálu pracuje správce. Problémem pro návštěvníky ovšem může být nedostatek stínu.  Pokud by děti chtěly vyzkoušet další hřiště <b>(9.B)</b>, přibližně stejné velikosti, leží nedaleko, u křižovatky ulic Slovenské a Francouzské (tzv. Bezručovy sady). Ústředním prvkem je velký prvek s prolézacím tubusem, šplhadly, skluzavkou atd. Kromě toho lze vyzkoušet točidlo  pro čtyři, houpačky atd.  Na povrchu leží kačírek a stromy poskytují částečný stín. Nedaleko hřiště na Slovenské ulici si povšimněte velmi neobvyklého funkcionalistického kostela z 30. let 20. století (architekt Pavel Janák). Zaujme především kostelní věž.",
+        "DOPORUCENI": "(tentokrát pro dospělé): Máte-li rádi víno, navštivte sklípek a Viniční altán  u vinohradu. Více informací: <a href='http://www.vinicni-altan.cz/800/uvod.asp' target='_blank'>www.vinicni-altan.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano- areál hřiště v Havlíčkových sadech. Hřiště  v Bezručových sadech nabízí pouze chemické WC, voda není. Veřejné WC najdete také  ve spodní části Havlíčkových sadů.",
+        "OBCERSTVENI": "Pavilon Grébovka-kavárna, v případě hezkého počasí gril. ",
+        "DOPRAVA": "Autobus č. <b>135</b>, tramvaje č. <b>4, 22</b>, vše zastávka <b>Jana Masaryka</b>. Parkování v ulici  U Havlíčkových sadů, Rybalkově ulici atd. bývají plná.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.444430470466614,
+          50.070558484814576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22",
+      "properties": {
+        "NAME": "Sacré-Coeur",
+        "INFO": "Za nákupním centrem Nový Smíchov objevíte park, v něm pěkné dětské hřiště <b>(22)</b> a stanici přírodovědců.",
+        "POPIS": "Do parku se nejlépe dostanete z 1. patra nákupního centra. U toalet začíná přechodová lávka nad Kartouzskou ulicí, po níž dojdete do parku, kde najdete dětské atrakce. Oplocení má pouze hřiště s drobnými prvky pro nejmenší. Další atrakce jsou rozptýleny po parku. Tvoří je multifunkční lezecké sestavy, zařízení pro nácvik jízdy na skatu, opičí most atd. Nejvíc upoutá dlouhá kovová skluzavka na svahu. Pod většinou atrakcí leží písek a bohužel nejsou ve stínu. V horní části parku si starší děti a dospělí mohou vyzkoušet několik cvičebních strojů programu LifeTrail. U cvičebních stojů leží malé hřiště s umělým povrchem (bez branek a basketbalových košů).",
+        "DOPORUCENI": "Pár desítek metrů pod hřištěm pro nejmenší se rozkládá areál stanice přírodovědců. Můžete si prohlédnout upravené zahrady, jezírko, skleníky s akvárii  a terárii, v nichž najdete desítky druhů akvarijních ryb, obojživelníků a plazů-mj. také velkého krokodýla a několikametrové krajty. Atraktivní také bude venkovní minizoo (chovají tady např. klokany, andulky, poníky, prasata, lamu, pštrosy emu, kunu atd.), menší dřevěné dětské hřiště s půltuctem prvků, geologická expozice nebo meteorologická zahrádka. Zájemci se dozvědí užitečné informace z tabulí věnovaných převážně ekologii, flóře, fauně, geologii  a meteorologii. Informace o otevírací době najdete na stránkách Stanice přírodovědců  Praha 5: <a href='http://www.ddmpraha.cz/stanice-prirodovedcu' target='_blank'>www.ddmpraha.cz</a> Pokud pojedete nakupovat, návštěva parku může být pro děti skvělou odměnou.",
+        "SOCIALNI": "Voda ne, WC chemické (lze ale také použít toalety v 1. patře nákupního centra u přechodové lávky).",
+        "OBCERSTVENI": "Druhé patro komplexu Nový Smíchov nabízí široký výběr gastronomických zařízení.",
+        "DOPRAVA": "Metro <b>B</b>, tramvaje č. <b>4, 6, 7, 9, 10, 12, 14, 16, 20</b>, autobusy č. <b>167, 191</b>, vše stanice <b>Anděl</b>. Parkování v garážích nákupního centra.",
+        "GALERIE": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.399433732032774,
+          50.07461947079426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10",
+      "properties": {
+        "NAME": "Výtoň",
+        "INFO": "Praha 2 nabízí více pěkných hřišť, jedno pod Vyšehradem.",
+        "POPIS": "Krásné a velmi využívané hřiště leží v parčíku u Staré celnice na Výtoni <b>(10)</b>. Je osazeno moderními prvky, jako jsou různé multifunkční lezecké soustavy, skate prvek, točidla atd. V přirozeně oddělené části najdeme koutek pro předškoláky s houpadly, tabulí, malými skluzavkami, šlapacím kolotočem atd. Na hřišti stojí také objekt správce. V parných dnech lze využívat mlžidlo (u objektu správce). Povrch hřiště tvoří litá guma a atrakce jsou rozmístěny mezi stromy. Hřiště na Výtoni představuje výbornou volbu pro parné dny, neboť většina plochy bývá celý den ve stínu.",
+        "DOPORUCENI": "U hřiště stojí bývalá celnice s expozicí věnovanou Podskalí, vorařům atd. Více na: <a href='http://www.muzeumprahy.cz/podskalska-celnice-na-vytoni/' target='_blank'>www.muzeumprahy.cz</a>",
+        "SOCIALNI": "Voda ano, WC ano. ",
+        "OBCERSTVENI": "V budově celnice se nachází restaurace a v bezprostřední blízkosti také kavárna.",
+        "DOPRAVA": "Tramvaje č. <b>3, 7, 17,</b> stanice <b>Výtoň</b>. V okolních ulicích je většina parkovacích míst rezervovaná.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.416041970252989,
+          50.067964025062444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11.A",
+      "properties": {
+        "NAME": "Riegrovy sady - hřiště „U draka“",
+        "INFO": "V katastru dvou městských částí, ale blízko sebe najdeme unikátní spojení hřiště a parku.",
+        "POPIS": "Velké moderní hřiště „U draka“ <b>(11.A)</b>, vhodné pro všechny věkové kategorie dětí, leží v Riegrových sadech. Zajímavé je již oplocení z latí v podobě tužek. Na rozsáhlém členitém hřišti se nachází přes 20 atrakcí. Ústřední je velké dělené pískoviště a velký domek  se skluzavkami, prolézacím tubusem, hrazdami, šplhací tyčí a hlavou draka. Zajímavost představuje mlžidlo u objektu správce. K dalším atrakcím náleží skluzavka-tubus na svahu, kladina, kolotoč, tabule, lezecké sestavy atd. Povrch hřiště tvoří litá guma a rostou zde vzrostlé stromy, převážně kaštany. Většina atrakcí však leží mimo stín. V povrchu hřiště jsou zabudována světla, kterými lze večer prostor osvětlit. Cca 200 m od hřiště můžeme z ulice U Rajské zahrady vstoupit do upraveného parku tzv. Rajské zahrady <b>(11.B)</b>. Je zde arboretum a na svahu byla vytvořena vodní soustava s  říčkou  a jezírkem. Lavičky často umístěny pod pergolami obrostlými popínavými růžemi lákají  k posezení. V areálu se nachází několik zajímavých míst i pro děti. Nejmenším je určeno hřiště ve spodní části parku. Hřiště má umělý povrch a stromy poskytují částečný stín. Jsou tady 2 pískoviště, kladina, houpačky (jedna pro nejmenší), domek s dvou-skluzavkou atd. Těsně vedle hřiště lze pod slunečníky posedět na terase kavárny. Hřiště v Rajské zahradě bývá od 9, 30 do 11, 30 rezervované pro mateřskou školku a kavárna je v pracovních dnech mezi 12. a 14. hodinou zavřená (otevírá od 10. hodin). Starší děti a dospělí pak mohou využít hřiště na házenou a malý fotbal (u kterého je krátká atletická dráha), 2 pingpongové stoly s kovovými síťkami a moderní posilovnu pod širým nebem, tvořenou asi 10 stroji.",
+        "DOPORUCENI": "Navštívit oba areály, protože se skvěle doplňují.",
+        "SOCIALNI": "Hřiště „U draka“: Voda ano, WC ano; hřiště v Rajské zahradě: Voda i WC jsou k dispozici v kavárně, v bezprostřední blízkosti dětského hřiště.",
+        "OBCERSTVENI": "V Riegrových sadech (hned u hřiště) stojí velká restaurace s venkovním posezením. V Rajské zahradě kavárna s terasou, slunečníky a velkým dětským koutkem. ",
+        "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, zastávka Husinecká, nebo č. <b>11</b> a <b>13</b>, zastávka <b>Vinohradská tržnice</b>. Parkování v okolních ulicích – možnosti omezené.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.443247616291046,
+          50.0810175372043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11.B",
+      "properties": {
+        "NAME": "Rajská zahrada - Rajská zahrada",
+        "INFO": "V katastru dvou městských částí, ale blízko sebe najdeme unikátní spojení hřiště a parku.",
+        "POPIS": "Velké moderní hřiště „U draka“ <b>(11.A)</b>, vhodné pro všechny věkové kategorie dětí, leží v Riegrových sadech. Zajímavé je již oplocení z latí v podobě tužek. Na rozsáhlém členitém hřišti se nachází přes 20 atrakcí. Ústřední je velké dělené pískoviště a velký domek  se skluzavkami, prolézacím tubusem, hrazdami, šplhací tyčí a hlavou draka. Zajímavost představuje mlžidlo u objektu správce. K dalším atrakcím náleží skluzavka-tubus na svahu, kladina, kolotoč, tabule, lezecké sestavy atd. Povrch hřiště tvoří litá guma a rostou zde vzrostlé stromy, převážně kaštany. Většina atrakcí však leží mimo stín. V povrchu hřiště jsou zabudována světla, kterými lze večer prostor osvětlit. Cca 200 m od hřiště můžeme z ulice U Rajské zahrady vstoupit do upraveného parku tzv. Rajské zahrady <b>(11.B)</b>. Je zde arboretum a na svahu byla vytvořena vodní soustava s  říčkou  a jezírkem. Lavičky často umístěny pod pergolami obrostlými popínavými růžemi lákají  k posezení. V areálu se nachází několik zajímavých míst i pro děti. Nejmenším je určeno hřiště ve spodní části parku. Hřiště má umělý povrch a stromy poskytují částečný stín. Jsou tady 2 pískoviště, kladina, houpačky (jedna pro nejmenší), domek s dvou-skluzavkou atd. Těsně vedle hřiště lze pod slunečníky posedět na terase kavárny. Hřiště v Rajské zahradě bývá od 9, 30 do 11, 30 rezervované pro mateřskou školku a kavárna je v pracovních dnech mezi 12. a 14. hodinou zavřená (otevírá od 10. hodin). Starší děti a dospělí pak mohou využít hřiště na házenou a malý fotbal (u kterého je krátká atletická dráha), 2 pingpongové stoly s kovovými síťkami a moderní posilovnu pod širým nebem, tvořenou asi 10 stroji.",
+        "DOPORUCENI": "Navštívit oba areály, protože se skvěle doplňují.",
+        "SOCIALNI": "Hřiště „U draka“: Voda ano, WC ano; hřiště v Rajské zahradě: Voda i WC jsou k dispozici v kavárně, v bezprostřední blízkosti dětského hřiště.",
+        "OBCERSTVENI": "V Riegrových sadech (hned u hřiště) stojí velká restaurace s venkovním posezením. V Rajské zahradě kavárna s terasou, slunečníky a velkým dětským koutkem. ",
+        "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, zastávka Husinecká, nebo č. <b>11</b> a <b>13</b>, zastávka <b>Vinohradská tržnice</b>. Parkování v okolních ulicích – možnosti omezené.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.443137645721436,
+          50.0823841375179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12",
+      "properties": {
+        "NAME": "Olšanské hřbitovy (Pod Kapličkou)",
+        "INFO": "U zdi starého Židovského hřbitova na Olšanech leží jedno z nejrozsáhlejších hřišť v Praze <b>(12)</b>.",
+        "POPIS": "Atrakce jsou rozmístěny na ploše vymezené ulicí Pod Kapličkou a zdí hřbitova. Mezi hracími prvky se rozprostírá zatravněná plocha větší než fotbalové hřiště, která se skvěle hodí k pohybovým aktivitám i opalování. Kromě klasických prvků, jichž je kolem deseti, zde najdeme dětský bazének, o rozměrech cca 3,5m x 4m, sprchu (pokud bude teplo, nezapomeňte ručník) a objekt správce. Bazén se napouští, pokud denní teplota přesáhne 23°C. Večer pak bývá vypuštěn.  V areálu rostou vzrostlé stromy a keře, takže můžeme mít pocit, že se nacházíme spíše v upraveném parku. Povrch je pochopitelně travnatý, pod atrakcemi leží písek. Hřiště se otevírá až od 10. hodin a mezi 16. 11. a 14. 3. je úplně zavřené. Plot kolem hřiště je vysoký cca 2 metry, takže mimo otvírací dobu se nelze na hřiště dostat!",
+        "DOPORUCENI": "Protože k životnímu cyklu patří také smrt, projděte se s dětmi po starém hřbitově v sousedství. Celý rok zde panuje příšeří, hroby zarůstá břečťan a místo dýchá neopakovatelnou atmosférou.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Správce hřiště prodává chlazené nápoje a zmrzliny. ",
+        "DOPRAVA": "Metro <b>A</b>, tramvaje č. <b>5, 10, 13, 16, 26,</b> autobusy č. <b>124, 139, 150, 163, 188, 213, 297,</b> vše zastávka <b>Želivského</b>. Pak asi 500 m pěšky podél hřbitovní zdi. Parkování v přilehlých ulicích.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.480747580528258,
+          50.08121375173522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13.A",
+      "properties": {
+        "NAME": "Vítkov - Vítkov 1",
+        "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
+        "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
+        "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+        "GALERIE": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.46302354335785,
+          50.09060357135877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13.B",
+      "properties": {
+        "NAME": "Vítkov - Vítkov 2",
+        "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
+        "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
+        "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.465281963348387,
+          50.09074812165209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13.C",
+      "properties": {
+        "NAME": "Vítkov - Vítkov pro mládež a dospělé",
+        "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
+        "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
+        "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454880356788635,
+          50.089557289569576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.A",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - Vrch sv. kříže západ",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<b>14.A</b>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek     a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<b>14.B</b>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<b>14.C</b>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<b>14.A)</b>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <b>14.A</b> a <b>14.B</b>), WC chemické-pouze u hřiště <b>(14.A)</b>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<b>14.A)</b> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, autobusy č. <b>136</b> a <b>175</b>, vše zastávka <b>Olšanské náměstí</b>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45864886045456,
+          50.085217041278185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.B",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - Vrch sv. kříže východ",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<b>14.A</b>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek     a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho     dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<b>14.B</b>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<b>14.C</b>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<b>14.A)</b>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <b>14.A</b> a <b>14.B</b>), WC chemické-pouze u hřiště <b>(14.A)</b>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<b>14.A)</b> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, autobusy č. <b>136</b> a <b>175</b>, vše zastávka <b>Olšanské náměstí</b>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.463318604071045,
+          50.085504445195255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14.C",
+      "properties": {
+        "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
+        "NAME": "Vrch sv. Kříže - 14.C",
+        "POPIS": "Vystoupáte-li po schodech na Vrch sv. Kříže, poznáte jedno z nejhezčích pražských hřišť (Vrch sv. kříže západ-<b>14.A</b>). Pokud cestujete     s kočárkem, dostat k hřišti se můžete i cestou, traverzující po svahu. Moderní hřiště zahrnuje asi 15 atrakcí. K nejzajímavějším patří velká dřevěná     lokomotiva se dvěma vagónky. Atmosféru železnice podtrhuje návěstí a další prvky. Ve svahu jsou pak dvě kovové skluzavky a k vyhledávaným atrakcím také     patří herní sestava pojatá jako loď. Protože na hřišti není příliš stínu, je doplněno o altán a pergolu. Hřiště je samozřejmě oploceno, povrch tvoří písek a kačírek. Až hřiště omrzí, pokračujte po svahu vzhůru (těsně pod vrcholem kopce je místo dalekého rozhledu, doplněné o informační tabuli) a zanedlouho     dojdete k hřišti pro malé děti-Vrch sv. Kříže východ (<b>14.B</b>). Nalézá se zde pouze několik atrakcí (pískoviště, domek se skluzavkou a     houpadla). Povrch hřiště leží pod stromy, takže zde i v parném dni najdete stín. Vedle stojí 2 pingpongové stoly. Máte-li děti starší, navštivte raději     hřiště (<b>14.C</b>). Dostanete se na něj snadno. Až vyjdete ze hřiště (<b>14.A)</b>, pokračujte vzhůru po svahu a zahněte první cestou doprava.  Děti zaujme především dlouhá kovová skluzavka. Hřiště není oplocené a tvoří ho převážně dřevěné prvky     rozvíjející obratnost-opičí dráha, několik lezeckých sestav atd. Povrch hřiště pokrývá kačírek. Roste zde několik stromů, ale stínu je bohužel málo.     Kovovou skluzavku tak alespoň částečně zastiňuje maskovací plachta.",
+        "DOPORUCENI": "V komplexu hotelu Olšanka na Olšanském náměstí provozují sportovní centrum pro veřejnost, s posilovnou, bazénem, saunou, hřištěm na badminton atd.",
+        "SOCIALNI": "Voda ano (vně hřišť <b>14.A</b> a <b>14.B</b>), WC chemické-pouze u hřiště <b>(14.A)</b>.",
+        "OBCERSTVENI": "Nedaleko hřiště (<b>14.A)</b> stojí dřevěný stánek a posezení (Parukářka). Nabízejí zde hlavně nápoje. Otevřeno bývá až odpoledne a za pěkného     počasí. Na Olšanském náměstí leží pizzerie, cukrárna a několik restaurací. Komplexní služby nabízí hotel Olšanka, kde je v jídelně i malý koutek pro nejmenší.",
+        "DOPRAVA": "Tramvaje č. <b>5, 9, 26</b>, autobusy č. <b>136</b> a <b>175</b>, vše zastávka <b>Olšanské náměstí</b>. Na     Olšanském náměstí se rozkládá několik malých parkovišť.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.460893955908201,
+          50.08491780167278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15",
+      "properties": {
+        "NAME": "Braník, Na Mlejnku",
+        "INFO": "V blízkosti Barrandovského mostu v Braníku se rozkládá jedno s nejrozsáhlejších dětských hřišť v Praze.",
+        "POPIS": " Hřiště (<b>15</b>) je situováno u ulice Na Mlejnku, do těsného sousedství mostu, od něhož je odděleno bariérou a pásem křovin a stromů. Dostanete     se k němu od zastávky MHD „Pobřežní cesta“, podchodem pod Jižní spojkou. Je zde rozmístěno na patnáct převážně dřevěných a barevně výrazných prvků. Jedná     se zejména o různé typy domků spojených se šplhacími prvky a skluzavkami. Nechybí ale ani lanovka (v době naší návštěvy na ní ovšem chyběla závěsná kotva)     nebo velká lokomotiva pojatá jako skluzavka. Přirozeně oddělená je část pro předškoláky s drobnými prvky. Na ploše uvidíte také několik převážně březových     a borových remízků a skupin keřů. Povrch hřiště tvoří tráva, pod atrakcemi leží písek. Přestože tady roste dost zeleně, většina prvků stojí mimo stín.     Rušivě může působit hluk dopravy na Barrandovském mostě. Na mostě si všimněte mohutných betonových plastik od J. Klimeše.",
+        "DOPORUCENI": "Areál je vhodný ke hře na schovávanou a v letních dnech i k opalování.",
+        "SOCIALNI": "Voda ne, chemické WC vně hřiště.",
+        "OBCERSTVENI": "U křižovatky ulic Modřanské a Ke Krči najdete pizzerii a restauraci s venkovním posezením.",
+        "DOPRAVA": "Tramvaje č. <b>3, 17</b>, autobus č. <b>253</b>, zastávka <b>Pobřežní cesta</b>, nebo autobusy č. <b>170,</b>    <b>196, 197</b>, stanice <b>U&nbsp;Staré pošty</b>. Parkování v ulici Na Mlejnku.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409045383822631,
+          50.03515811668704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18",
+      "properties": {
+        "NAME": "Aréna",
+        "INFO": " Na vltavském nábřeží Smíchova leží komplex několika hřišť.",
+        "POPIS": "Dětské hřiště (<b>18</b>) je umístěno pod stromy, mezi řekou a Hořejším nábřežím. Povrch je travnatý nebo písčitý, stromy zajišťují dostatek     stínu. Na hřišti najdete kolem 15, vesměs klasických atrakcí, jako houpačky a skluzavky. Za klad pokládáme, že atrakce jsou rozmístěny na velké ploše,     takže se nebudete cítit stísněně. Hřišti by ale slušela větší péče o úklid a rekonstrukce několika neudržovaných objektů, které tu jsou. U hřiště se     nachází skate park s několika rampami a hřiště s házenkářskými brankami. Od hřiště se nabízí velmi pěkný pohled na Vyšehrad a lákavá může být i procházka     podél řeky.",
+        "DOPORUCENI": "Na Andělu navštivte s dětmi unikátní soubor modelových kolejišť, nádraží nebo model Prahy v měřítku 1:1000. Více informací na: <a href='http://www.kralovstvi-zeleznic.cz/' target='_blank'>www.kralovstvi-zeleznic.cz</a> ",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "V ulici Vltavská naleznete několik restaurací. Bohaté možnosti stravování ovšem nabízí celá lokalita Anděla.",
+        "DOPRAVA": " Metro <b>B</b>, tramvaje č.&nbsp;<b>&nbsp;4, 6, 7, 9, 10, 12, 14, 16, 20</b>, autobusy č. <b>167, 191</b>, vše stanice <b>Anděl</b>, nebo     tramvaje č.&nbsp;<b>4, 7, 14</b>, zastávka <b>Zborovská</b>. Doporučujeme parkování v garážích nákupního centra Nový Smíchov.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.410854701960753,
+          50.06902282453061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17.A",
+      "properties": {
+        "NAME": "Podolská vodárna - dětské hřiště",
+        "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
+        "POPIS": "Dětské hřiště (<b>17.A</b>) se nachází v bezprostřední blízkosti tramvajové zastávky. Děti mohou zkusit asi tucet atrakcí, jako multifunkční     domek s opičím mostem a skluzavkou, hrazdy, kolotoč, houpačky nebo menší horolezecké stěny. Na povrch hřiště navezli kačírek, plocha je bohužel bez stínu.     U hřiště vede cyklostezka a in-line stezka podél řeky. Budete-li pokračovat podle budovy vodárny směrem do Braníku, dojdete za chvilku do parku, v němž se     rozkládá senior park (<b>17.B</b>), který se ale hodí pro všechny dospělé i starší děti. Zacvičit si můžete na více než deseti moderních     posilovacích strojích z kovových trubek. Na tabulích najdete návod jak cvičit. Vedle se nachází oplocené hřiště na fotbal a tenisový kurt. V areálu uvidíte     také lanovou pyramidu a moderní lezeckou sestavu. Sportovní areál je od listopadu do března uzavřen, Další měsíce je otvírací doba proměnlivá: O víkendech     jednotně od 11.&nbsp;hodin. V pracovní dny od 16. hodin (od dubna do června), od&nbsp;11.&nbsp;hodin v červenci-srpnu a od 15. hodin v září a říjnu. Senior park je volně přístupný kdykoliv. Opravená budova Podolské vodárny je perlou neoklasicistní architektury. V případě zájmu si lze prohlédnout muzeum vodárenství. Více na:    <a href='http://www.pvk.cz/muzeum-prazskeho-vodarenstvi.html' target='_blank'>www.pvk.cz</a>",
+        "DOPORUCENI": "O pár set metrů dál se nachází plavecký stadion Podolí a nedaleko se rozkládá také areál Žlutých lázní.",
+        "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
+        "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
+        "DOPRAVA": "Tramvaje č. <b>3, 17</b>, autobus č. <b>121</b>, vše zastávka <b>Podolská vodárna</b>. Možnost parkovat před plaveckým    stadionem.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.418906569480894,
+          50.05868169973739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17.B",
+      "properties": {
+        "NAME": "Podolská vodárna - senior park a sportoviště",
+        "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
+        "POPIS": "Dětské hřiště (<b>17.A</b>) se nachází v bezprostřední blízkosti tramvajové zastávky. Děti mohou zkusit asi tucet atrakcí, jako multifunkční     domek s opičím mostem a skluzavkou, hrazdy, kolotoč, houpačky nebo menší horolezecké stěny. Na povrch hřiště navezli kačírek, plocha je bohužel bez stínu.     U hřiště vede cyklostezka a in-line stezka podél řeky. Budete-li pokračovat podle budovy vodárny směrem do Braníku, dojdete za chvilku do parku, v němž se     rozkládá senior park (<b>17.B</b>), který se ale hodí pro všechny dospělé i starší děti. Zacvičit si můžete na více než deseti moderních     posilovacích strojích z kovových trubek. Na tabulích najdete návod jak cvičit. Vedle se nachází oplocené hřiště na fotbal a tenisový kurt. V areálu uvidíte     také lanovou pyramidu a moderní lezeckou sestavu. Sportovní areál je od listopadu do března uzavřen, Další měsíce je otvírací doba proměnlivá: O víkendech     jednotně od 11.&nbsp;hodin. V pracovní dny od 16. hodin (od dubna do června), od&nbsp;11.&nbsp;hodin v červenci-srpnu a od 15. hodin v září a říjnu. Senior park je volně přístupný kdykoliv. Opravená budova Podolské vodárny je perlou neoklasicistní architektury. V případě zájmu si lze prohlédnout muzeum vodárenství. Více na:    <a href='http://www.pvk.cz/muzeum-prazskeho-vodarenstvi.html' target='_blank'>www.pvk.cz</a>",
+        "DOPORUCENI": "O pár set metrů dál se nachází plavecký stadion Podolí a nedaleko se rozkládá také areál Žlutých lázní.",
+        "SOCIALNI": "Voda na hřišti ne (hydrant u senior parku), WC ne.",
+        "OBCERSTVENI": " V objektu plaveckého stadionu lze navštívit restauraci a bufet, u senior parku je restaurace.",
+        "DOPRAVA": "Tramvaje č. <b>3, 17</b>, autobus č. <b>121</b>, vše zastávka <b>Podolská vodárna</b>. Možnost parkovat před plaveckým    stadionem.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41930890083313,
+          50.055234161056575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16",
+      "properties": {
+        "NAME": "Suchdol",
+        "INFO": "Areál na Výhledském náměstí zahrnuje dětské hřiště a sportoviště. Nedaleko se rozkládá rozlehlý komplex České zemědělské univerzity.",
+        "POPIS": "Hřiště (<b>16</b>) je situováno v nevelkém parčíku. Stromy, které rostou kolem, poskytují částečný stín. Hracích prvků je asi tucet. Najdete     tady nezbytné houpačky a houpadla, točidlo, kolotoč, multifunkční sestavu se skluzavkou a keramické pískoviště. Na povrchu leží kačírek. Projdete-li     brankou do další části, kde je položen umělý povrch, můžete vyzkoušet kladinu, další houpačky, menší lezeckou sestavu a k děti mají dispozici také tabuli     na kreslení. Mimo oplocený areál se nachází menší senior park vybavený několika cvičebními stroji. Pojedete-li na Suchdol autobusem, můžete na zpáteční     cestě vystoupit na zastávce V Podbabě a přejít na přívoz, který vás přepraví do blízkosti zoologické zahrady. Plavba přívozem bude pro děti určitě     zajímavá.",
+        "DOPORUCENI": "Pár set metrů od hřiště se nachází rozsáhlý komplex České zemědělské univerzity. Před budovou Agronomické fakulty mohou děti obdivovat sluneční hodiny     z leštěné žuly a za budovou Rektorátu najdete růžovou a japonskou zahradu. Obdivovat můžete spojení kamenů a jehličnanů. Hned vedle uvidíte umělé jezírko,     kde žijí mj. japonští kapři a v létě jsou v provozu vodotrysky.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U zastávky autobusu Výhledské náměstí jsou potraviny, na nedalekém Brandejském náměstí můžete navštívit creperii s kavárnou. Najíst se lze také v areálu     vysokoškolské menzy (cca 100 metrů od japonské zahrady), kde jsou restaurace.",
+        "DOPRAVA": "Autobusy č. <b>147</b> a <b>160</b>, zastávka <b>Výhledské náměstí</b> nebo č. <b>107</b> a <b>160</b>, stanice <b>Zemědělská univerzita</b>     a dojít pár set metrů pěšky. Zaparkovat můžete u hřiště.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.372724294662474,
+          50.13415885801283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20",
+      "properties": {
+        "NAME": "Okrouhlík",
+        "INFO": "Nad Klamovku leží velmi rozlehlé, byť poněkud zanedbané hřiště (<b>20</b>).",
+        "POPIS": "Hřiště je umístěno v členitém terénu mezi ulicemi Podbělohorská, Třístoličná a Pod Lipkami. S plochou cca 5&nbsp;000 m<sup>2</sup> patří k nejrozsáhlejším v Praze. Mezi stromy je rozmístěno asi 20 atrakcí a najdeme tady také hřiště na malou kopanou s umělým povrchem, menší asfaltový plácek s basketbalovým košem a několik objektů – toalety a uzavřený zděný objekt. K atrakcím patří např. skluzavka na svahu, lanovka, multifunkční lezecké sestavy, velké vahadlové točidlo Hags atd. U toalet najdete venkovní sprchu v podobě slunečníku. Voda začne proudit, pokud si pod slunečník stoupnete. V době naší návštěvy však fungovala pouze jedna tryska a ostatní byly ucpané. Přirozeně oddělená je část s houpadly a šlapacím kolotočem, určená nejmenším dětem. Pod většinu atrakcí navezli písek, vlastní plocha areálu je zatravněna. Lanovka je skryta mezi stromy, nad zděným objektem.",
+        "DOPORUCENI": "O pár set metrů dál leží park Klamovka. Mj. můžete navštívit malou galerii v altánu Klamovka, otevřenou o víkendech (14 - 18 hodin).",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "V parku Klamovka lze zajít do zahradní restaurace otevřené každý den od 11. hodin.",
+        "DOPRAVA": "Autobusy č. <b>176, 191</b>, zastávka <b>Nad Klamovkou</b>. Parkování v ulici Pod Lipkami, přímo nad hřištěm.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.379925094662474,
+          50.07411175801283
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "21.B",
+      "properties": {
+        "NAME": "Petřín - Hladová zeď ",
+        "INFO": "Vrch Petřín spolu s proslulou rozhlednou patří k dominantám hlavního města.",
+        "POPIS": "V zeleni na jeho úbočí leží pět dětských hřišť. Hezké je to u Hladové zdi (<b>21.B</b>), kousek od rozhledny. Děti mohou zkusit dvě lanové pyramidy, trampolínu, houpací síť nebo kladinu. Hřiště pokrývá kačírek, plocha je však bez stínu. Největší hřiště (<b>21.A</b>) se rozkládá na Újezdě, u dolní stanice lanové dráhy. Na přelomu let 2011 a 2012 prošlo kompletní rekonstrukcí. Najdete na něm kolem 15 atrakcí, které jsou určené spíše pro mladší děti. Dominují houpadla, točidla a multifunkční sestavy-jedna z nich zpodobňuje lokomotivu. Na povrchu hřiště leží písek. V areálu, jenž je oplocen nízkým kovovým plotem roste několik vzrostlých stromů, pod kterými lze posedět na velkých dřevěných lavicích. Jistě oceníte také dřevěné stoly, které na většině hřišť bohužel chybí. V areálu se nalézá ještě objekt správce s toaletami a pumpa. Tři zbývající hřiště tak atraktivní nejsou. Na hřišti ve Strahovské zahradě najdeme pouze několik starších prvků na udusané hlíně. Ve Strahovské zahradě ale vyvěrá pramen sira Nicholase Wintona, který zachránil stovky českých dětí před smrtí v nacistických vyhlazovacích táborech a byl zde také založen Sad zachránců dětí. Další hřiště-Srdce Petřína ani nestojí za návštěvu. Zajímavější, byť malinké, hřiště se nalézá pod Petřínskými terasami. Nabízí zvláštní atrakci - 2 prohnuté ocelové kolejnice s připevněnými skaty. Je odsud krásný výhled na Prahu. Na Petříně je velmi členitý terén a proto ztížená orientace. Nemáte-li dost času, bude nejlepší navštívit pouze hřiště <b>21.A</b> a <b>21.B</b>. K cestě můžete využít lanovku (jízdné jako v MHD). Počítejte ale s tím, že o víkendech a svátcích je u spodní stanice nutné vystát dlouhou frontu. ",
+        "DOPORUCENI": " Petřín, to je především rozhledna a zrcadlové bludiště, které by si děti neměly nechat ujít. Informace&nbsp;na:&nbsp;<a href='http://www.petrinska-rozhledna.cz/index.php' target='_blank'>www.petrinska-rozhledna.cz/</a> a <a href='http://www.petrinska-rozhledna.cz/zrcadlove-bludiste/' target='_blank'>www.petrinska-rozhledna.cz/zrcadlove-bludiste/</a>",
+        "SOCIALNI": "Voda a WC pouze hřiště u dolní stanice lanovky (<b>21.A</b>).",
+        "OBCERSTVENI": "Na Petříně je draho. Ceny rychlého občerstvení u rozhledny dokonce převyšují ty na Václavském náměstí! O něco příznivější ceny mají v bufetu Petřínské terasy, asi v polovině kopce,",
+        "DOPRAVA": "Tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Vzhledem k dopravní situaci jsou možnosti parkovat omezené.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3944680,
+          50.0830075
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "21.A",
+      "properties": {
+        "NAME": "Petřín - Újezd",
+        "INFO": "Vrch Petřín spolu s proslulou rozhlednou patří k dominantám hlavního města.",
+        "POPIS": "V zeleni na jeho úbočí leží pět dětských hřišť. Hezké je to u Hladové zdi (<b>21.B</b>), kousek od rozhledny. Děti mohou zkusit dvě lanové pyramidy, trampolínu, houpací síť nebo kladinu. Hřiště pokrývá kačírek, plocha je však bez stínu. Největší hřiště (<b>21.A</b>) se rozkládá na Újezdě, u dolní stanice lanové dráhy. Na přelomu let 2011 a 2012 prošlo kompletní rekonstrukcí. Najdete na něm kolem 15 atrakcí, které jsou určené spíše pro mladší děti. Dominují houpadla, točidla a multifunkční sestavy-jedna z nich zpodobňuje lokomotivu. Na povrchu hřiště leží písek. V areálu, jenž je oplocen nízkým kovovým plotem roste několik vzrostlých stromů, pod kterými lze posedět na velkých dřevěných lavicích. Jistě oceníte také dřevěné stoly, které na většině hřišť bohužel chybí. V areálu se nalézá ještě objekt správce s toaletami a pumpa. Tři zbývající hřiště tak atraktivní nejsou. Na hřišti ve Strahovské zahradě najdeme pouze několik starších prvků na udusané hlíně. Ve Strahovské zahradě ale vyvěrá pramen sira Nicholase Wintona, který zachránil stovky českých dětí před smrtí v nacistických vyhlazovacích táborech a byl zde také založen Sad zachránců dětí. Další hřiště-Srdce Petřína ani nestojí za návštěvu. Zajímavější, byť malinké, hřiště se nalézá pod Petřínskými terasami. Nabízí zvláštní atrakci - 2 prohnuté ocelové kolejnice s připevněnými skaty. Je odsud krásný výhled na Prahu. Na Petříně je velmi členitý terén a proto ztížená orientace. Nemáte-li dost času, bude nejlepší navštívit pouze hřiště <b>21.A</b> a <b>21.B</b>. K cestě můžete využít lanovku (jízdné jako v MHD). Počítejte ale s tím, že o víkendech a svátcích je u spodní stanice nutné vystát dlouhou frontu. ",
+        "DOPORUCENI": " Petřín, to je především rozhledna a zrcadlové bludiště, které by si děti neměly nechat ujít. Informace&nbsp;na:&nbsp;<a href='http://www.petrinska-rozhledna.cz/index.php' target='_blank'>www.petrinska-rozhledna.cz/</a> a <a href='http://www.petrinska-rozhledna.cz/zrcadlove-bludiste/' target='_blank'>www.petrinska-rozhledna.cz/zrcadlove-bludiste/</a>",
+        "SOCIALNI": "Voda a WC pouze hřiště u dolní stanice lanovky (<b>21.A</b>).",
+        "OBCERSTVENI": "Na Petříně je draho. Ceny rychlého občerstvení u rozhledny dokonce převyšují ty na Václavském náměstí! O něco příznivější ceny mají v bufetu Petřínské terasy, asi v polovině kopce,",
+        "DOPRAVA": "Tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Vzhledem k dopravní situaci jsou možnosti parkovat omezené.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4029031,
+          50.0833750
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "19",
+      "properties": {
+        "NAME": "Řepy, Fialka",
+        "INFO": "Dětské hřiště, areál BMX, naučná stezka a možnost shlédnout dětské divadelní představení. To vše poskytne Fialka.",
+        "POPIS": "Hřiště <b>(19)</b> leží mezi ulicemi U Boroviček a Opuková. Vchod je z ulice Opuková, ale příjezd autem je lepší ulicí U Boroviček. Hřiště obklopuje poměrně vysoký plot. Celý prostor se rozkládá mezi vzrostlými stromy, takže zde najdete i v horkých slunečných dnech dostatek stínu. Na ploše roste tráva, pod atrakce byl navezen písek. Hracích prvků tu mají asi tucet. Jedná se především o velkou multifunkční sestavu se skluzavkou, lezeckou sítí a tabulí, která vypadá jako lokomotiva. Dále zde je lanovka, domek se skluzavkou, kolotoč, několik typů houpaček, kladina k procvičení rovnováhy atd. Z jedné strany přiléhá k hřišti objekt tzv. Kulturáčku, který patří pod KD Průhon. Informace o akcích pořádaných v Kulturáčku najdete&nbsp;na:&nbsp;<a href='http://www.kulturacek.cz/#!tab-contacts' target='_blank'>www.kulturacek.cz</a>  nebo na stránkách KD Průhon: <a href='http://www.pruhon.cz/' target='_blank'>www.pruhon.cz</a>",
+        "DOPORUCENI": "Pokud vaše děti mají kola BMX neváhejte a navštivte velký areál určený pro jízdu na těchto kolech. Areál se rozkládá cca 100 metrů od dětského hřiště-křižovatka ulic U Boroviček a Ke Kulturnímu domu. V úterý až čtvrtek od 15 do 19 hodin bývá areál z důvodu tréninku sportovního klubu uzavřen! A na louce,&nbsp;v bezprostřední blízkosti areálu BMX, uvidíte tabuli č. 16, která je součástí naučné stezky vedoucí lokalitou Řepy-tzv. Řepská naučná stezka.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U zastávky autobusu <b>Selských baterií</b> najdete restauraci. Další možnosti poskytuje nákupní areál u&nbsp;křižovatky ulic Makovského a Slánské.",
+        "DOPRAVA": " Autobus č. <b>264</b>, zastávka <b>Selských baterií</b> nebo zastávka autobusů č. <b>108, 214, 225, 264, 347</b> a tramvaje č.&nbsp;<b>22 a 25</b>, vše stanice <b>Bílá Hora</b>. Parkování je možné u hřiště a areálu BMX.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3185544,
+          50.0720411
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "24",
+      "properties": {
+        "NAME": "Dejvice - Hadovka",
+        "INFO": "Nedaleko Vítězného náměstí můžete navštívit pěkný park s dětskými hřišti. Ale na své si mohou přijít nejen děti, ale i milovníci umění.",
+        "POPIS": "Dětské hřiště (<b>24</b>) najdete v parku u stanice tramvaje Hadovka. Má 2 části. Oplocená slouží spíše menším dětem. Tvoří ji převážně drobné prvky, jako točidla a houpačky (včetně čtyřmístné). Dominantu představuje velká multifunkční sestava se sítí, skluzavkou a šplhací stěnou. Povrch hřiště tvoří písek a pryžové desky. Stromy tady nerostou. Nedaleko uvidíte neoplocenou skupinu atrakcí pro starší děti: lanovku, trenažér na nácvik jízdy na skatu, lanovou pyramidu a houpačky. Pod atrakcemi leží kačírek, písek a pryžové desky. U&nbsp;dětského hřiště byl vybudován také menší stupňovitý amfiteátr. V blízkosti parku uvidíte kostel sv. Václava, postavený na počátku 20. století.",
+        "DOPORUCENI": "Jděte parkem směrem k Vítěznému náměstí. Odměněni budete půltuctem soch a plastik, jako: „Vzduchoplavec“, „EL Niňo“ nebo „Malý Marťan“. Více se o koncepci parku dozvíte z informační tabule, kterou najdete v blízkosti prvků pro starší děti.",
+        "SOCIALNI": "Voda ano (hydrant v parku). WC ne.",
+        "OBCERSTVENI": "V dolní části parku stojí samoobslužná restaurace s terasou. U stanice tramvaje je prodejna potravin.",
+        "DOPRAVA": "Tramvaje č. <b>2, 20, 26</b>, stanice <b>Hadovka</b>. Parkovat lze u parku. V pracovní den bývají ale ulice díky velkému množství aut zaměstnanců okolních kanceláří zaplněné.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3732850,
+          50.0983061
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "23",
+      "properties": {
+        "NAME": "Slovanský ostrov (Žofín)",
+        "INFO": "Máte-li rádi Vltavu a vláčky, navštivte Slovanský ostrov.",
+        "POPIS": "Hřiště (<b>23</b>) je sice menší, ale netradiční. Kromě klasických prvků, jako houpačky, šplhací síť, skluzavky apod. na něm uvidíte různobarevné skulptury, např. ve formě bran, které fungují jako vtipné prolézačky. Kromě toho zde stojí dřevěný domek a vysoká socha ptáka. Roste zde několik stromů, ale většina převážně písčité plochy je bez stínu. Žofín ale není pouze dětské hřiště. Dominantu představuje pochopitelně palác Žofín, kde se pořádají plesy a koncerty. Projít si také můžete menší park tvořený hlavně kaštany. Velkou atrakcí na Žofíně je dětská železnice. Děti se mohou usadit do dřevěných otevřených vagonků tažených kovovou lokomotivou a vydat se na cestu. Železnice bývá v provozu od dubna do října, mezi 10. - 12. a 14. - 18. hodinou. V roce 2013 bylo jízdné 10 Kč.",
+        "DOPORUCENI": "Na Žofíně můžete využít půjčovny lodí a šlapadel.",
+        "SOCIALNI": "Voda u hřiště (hydrant), WC pod schody, u restaurace Žofín Garden za poplatek 10 Kč (děti do pěti let měli vstup zdarma).",
+        "OBCERSTVENI": "Restaurace Žofín Garden, kde mají dětský koutek, včetně trampolíny. Vzhledem k tomu, že se jedná o turisticky atraktivní lokalitou, ceny jídel jsou vysoké.",
+        "DOPRAVA": "Tramvaje č. <b>6, 9, 17, 18, 22</b>, zastávka <b>Národní divadlo</b>. Vzhledem k omezeným možnostem parkování nedoporučujeme příjezd autem.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4129639,
+          50.0779083
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "32.A",
+      "properties": {
+        "NAME": "Stará Libeň - Thomayerovy sady",
+        "INFO": "Lákadlem pro využití volného budou nejen hřiště, ale i několik zajímavých míst.",
+        "POPIS": "Výlet začneme v Thomayerových sadech, které se táhnou podél jednoho z vltavských ramen a potoka Rokytky, jenž zde ústí do Vltavy. Před vstupem do Thomayerových sadů uvidíme po pravé ruce nevysoký vrch a upravený park. V něm můžeme obdivovat barokní (Libeňský) zámek, který hrál několikrát významnou roli v našich dějinách. Sady vede naučná stezka, které se říká Školní. Školní proto, že ji připravily děti z nedaleké ZŠ. Je opatřena 20 informačními tabulemi. Brzy se po ní dostaneme k dětskému hřišti (<b>32.A</b>). Je&nbsp;oplocené, na louce, s několika drobnými prvky. Hned vedle stojí nepřehlédnutelná atrakce: mohutná replika pirátské lodi sloužící jako prolézačka. Kousek dál si můžeme prohlédnout protipovodňovou soustavu z betonových kesonů a železných vrat. Pokud budou mít děti chuť, po návratu z parku s nimi můžete navštívit druhé nedaleké hřiště (<b>32.B</b>) v ulici U Rokytky. Na&nbsp;podzim r. 2011 zde proběhla rekonstrukce a rozšíření o další prvky. Nyní se zde nachází asi 10 prvků, kterým dominuje velká multifunkční sestava v podobě „hradu“. Malé výtvarníky jistě zaujme několik tabulí určených k malování. Na povrch hřiště je navezen písek a kačírek, většina plochy leží mimo stín. Součástí komplexu je také nevelké asfaltové hřiště s košem na basketbal a cca 2,5 metrů vysoký umělý pahorek se stupy na lezení. Od vstupu do parku je hřiště vzdálené cca 400 m - směr Zenklova ulice. Obě hřiště spojuje cyklostezka, která vede podél toku Rokytky a Vltavy.",
+        "DOPORUCENI": "Na vltavském rameni jsou hejna vodních ptáků, takže nezapomeňte pečivo. A pokud se na návštěvu vypravíte na podzim, doporučujeme sáček na kaštany. Děti jich v Thomayerových sadech najdou opravdu hodně.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U vstupu do sadů stojí stánek-fast food. Lepší je ale využít nabídku „Pizzerie U Divadla“ v Zenklově ulici, kde mají dětský koutek a model Libeňského zámečku.",
+        "DOPRAVA": "Metro <b>B</b>, tramvaje č. <b>1, 3, 8, 10, 12, 16, 25</b>, autobus č. <b>109</b> vše stanice <b>Palmovka</b>. Parkování možné u závory, před vstupem do Thomayerových sadů.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4665817,
+          50.1082839
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "32.B",
+      "properties": {
+        "NAME": "Stará Libeň - U Rokytky",
+        "INFO": "Lákadlem pro využití volného budou nejen hřiště, ale i několik zajímavých míst.",
+        "POPIS": "Výlet začneme v Thomayerových sadech, které se táhnou podél jednoho z vltavských ramen a potoka Rokytky, jenž zde ústí do Vltavy. Před vstupem do Thomayerových sadů uvidíme po pravé ruce nevysoký vrch a upravený park. V něm můžeme obdivovat barokní (Libeňský) zámek, který hrál několikrát významnou roli v našich dějinách. Sady vede naučná stezka, které se říká Školní. Školní proto, že ji připravily děti z nedaleké ZŠ. Je opatřena 20 informačními tabulemi. Brzy se po ní dostaneme k dětskému hřišti (<b>32.A</b>). Je&nbsp;oplocené, na louce, s několika drobnými prvky. Hned vedle stojí nepřehlédnutelná atrakce: mohutná replika pirátské lodi sloužící jako prolézačka. Kousek dál si můžeme prohlédnout protipovodňovou soustavu z betonových kesonů a železných vrat. Pokud budou mít děti chuť, po návratu z parku s nimi můžete navštívit druhé nedaleké hřiště (<b>32.B</b>) v ulici U Rokytky. Na&nbsp;podzim r. 2011 zde proběhla rekonstrukce a rozšíření o další prvky. Nyní se zde nachází asi 10 prvků, kterým dominuje velká multifunkční sestava v podobě „hradu“. Malé výtvarníky jistě zaujme několik tabulí určených k malování. Na povrch hřiště je navezen písek a kačírek, většina plochy leží mimo stín. Součástí komplexu je také nevelké asfaltové hřiště s košem na basketbal a cca 2,5 metrů vysoký umělý pahorek se stupy na lezení. Od vstupu do parku je hřiště vzdálené cca 400 m - směr Zenklova ulice. Obě hřiště spojuje cyklostezka, která vede podél toku Rokytky a Vltavy.",
+        "DOPORUCENI": "Na vltavském rameni jsou hejna vodních ptáků, takže nezapomeňte pečivo. A pokud se na návštěvu vypravíte na podzim, doporučujeme sáček na kaštany. Děti jich v Thomayerových sadech najdou opravdu hodně.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U vstupu do sadů stojí stánek-fast food. Lepší je ale využít nabídku „Pizzerie U Divadla“ v Zenklově ulici, kde mají dětský koutek a model Libeňského zámečku.",
+        "DOPRAVA": "Metro <b>B</b>, tramvaje č. <b>1, 3, 8, 10, 12, 16, 25</b>, autobus č. <b>109</b> vše stanice <b>Palmovka</b>. Parkování možné u závory, před vstupem do Thomayerových sadů.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4741103,
+          50.1103683
+        ]
+      }
+    }
+  ]
+}
