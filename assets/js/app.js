@@ -51,7 +51,7 @@ var mapquestOAM = L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.
 }); 
 var mapquestOSM =  L.tileLayer('http://mt0.google.com/vt/lyrs=m@169000000&hl=cs&x={x}&y={y}&z={z}&s=Ga', {
 	minZoom: 0,
-	maxZoom: 19,
+	maxZoom: 21,
 	attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 });
 var mapquestHYB = L.tileLayer('http://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
@@ -62,7 +62,7 @@ var mapquestHYB = L.tileLayer('http://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}
   app_code: '9EJrU_Za45utGoXRQXyGXw',
   base: 'aerial',
   minZoom: 0,
-  maxZoom: 20
+  maxZoom: 21
 });
 
 /* Overlay Layers */
