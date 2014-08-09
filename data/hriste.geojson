@@ -757,6 +757,195 @@
           50.1103683
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "29.A",
+      "properties": {
+        "NAME": "Bohnice a Čimice - Bohnice",
+        "INFO": "Nedaleko od sebe zde leží 2 pěkná hřiště.",
+        "POPIS": "Větší se rozkládá v Bohnicích, mezi ulicemi Toruňská a Gdaňská (<b>29.A</b>). Děti mohou vyzkoušet asi deset atrakcí. Atraktivní je velká balanční soustava s kladinou, opičím můstkem, šplhacími kruhy atd. Na hřišti najdeme také lokomotivu s vagonkem, lanovku a další klasické prvky. Na povrch hřiště položili kačírek, ale plocha je bohužel prakticky bez stínu. Asi o 800 m dál, mezi rodinnými domky na Pekařově ulici v Čimicích, postavili menší, ale zajímavé hřiště (<b>29.B</b>). Dominantu tvoří repliky dvou pirátských lodí, které slouží převážně jako prolézačky. Většina plochy hřiště je bez stínu. Povrch hřiště tvoří opravdový bílý písek, takže si budete připadat jako na pláži.",
+        "DOPORUCENI": "Protože obě hřiště jsou prakticky bez stínu, nevolte pro jejich návštěvu příliš horký den!",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U stanice autobusu Katovická najdete prodejnu řetězce Lidl.",
+        "DOPRAVA": "Autobusy č. <b>152, 177, 200</b>, zastávka <b>Podhajská pole</b>, nebo č. <b>177</b>, <b>200, 202</b>, zastávka <b>Katovická</b>. Parkování možné v ulicích na sídlišti nebo u Lidlu.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4287030,
+          50.1308030
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29.B",
+      "properties": {
+        "NAME": "Bohnice a Čimice - Čimice",
+        "INFO": "Nedaleko od sebe zde leží 2 pěkná hřiště.",
+        "POPIS": "Větší se rozkládá v Bohnicích, mezi ulicemi Toruňská a Gdaňská (<b>29.A</b>). Děti mohou vyzkoušet asi deset atrakcí. Atraktivní je velká balanční soustava s kladinou, opičím můstkem, šplhacími kruhy atd. Na hřišti najdeme také lokomotivu s vagonkem, lanovku a další klasické prvky. Na povrch hřiště položili kačírek, ale plocha je bohužel prakticky bez stínu. Asi o 800 m dál, mezi rodinnými domky na Pekařově ulici v Čimicích, postavili menší, ale zajímavé hřiště (<b>29.B</b>). Dominantu tvoří repliky dvou pirátských lodí, které slouží převážně jako prolézačky. Většina plochy hřiště je bez stínu. Povrch hřiště tvoří opravdový bílý písek, takže si budete připadat jako na pláži.",
+        "DOPORUCENI": "Protože obě hřiště jsou prakticky bez stínu, nevolte pro jejich návštěvu příliš horký den!",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U stanice autobusu Katovická najdete prodejnu řetězce Lidl.",
+        "DOPRAVA": "Autobusy č. <b>152, 177, 200</b>, zastávka <b>Podhajská pole</b>, nebo č. <b>177</b>, <b>200, 202</b>, zastávka <b>Katovická</b>. Parkování možné v ulicích na sídlišti nebo u Lidlu.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4388500,
+          50.1340150
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27.A",
+      "properties": {
+        "NAME": "Letenské sady - U hrocha",
+        "INFO": "Lokalita v sobě spojuje dětská hřiště, zeleň a muzea.",
+        "POPIS": "V Letenských sadech (směrem k Technickému muzeu) jsou 3 hřiště. Dvě malá a jedno relativně rozsáhlé (U&nbsp;hrocha-<b>27.A</b>). Je oplocené a tvoří ho asi 15 prvků, např. dlouhá lanovka, prolézací domky, skluzavky atd. Povrch tvoří převážně písek. Po obvodu rostou stromy, střed plochy je bez stínu. V jednom z rohů hřiště můžete dětem ukázat zakrslou borovici-kleč. Dáte-li se parkem směrem k muzeu, za chvíli dojdete k neoplocenému hřišti. Starší prvky, jako kolotoč, jsou rozptýleny pod javory a kaštany. Před Letenským zámečkem leží třetí, netradiční hřiště (<b>27.B</b>), na kterém se „pase“ několik barevných keramických koníků a usednout můžete do několika barevných křesel. Ještě je třeba připomenout, že Letenské sady představují vhodnou lokalitu pro in-line bruslení.Pokud se nechcete vracet stejnou cestou, od Letenského zámečku lze sejít k Vltavě, ke Štefánikovu mostu. Odměněni budete krásnými pohledy na město a řeku.",
+        "DOPORUCENI": "Protože hřiště nepatří mezi ta nejlepší v Praze, je vhodné prohlédnout si jedno z blízkých muzeí. Atraktivní je nově rekonstruované Národně technické muzeum. Více informací na: <a href='http://www.ntm.cz/cs/' target='_blank'>www.ntm.cz</a>. Ale i druhé - Národní&nbsp;zemědělské muzeum si jistě najde návštěvníky. Bližší informace na: <a href='http://www.nzm.cz/' target='_blank'>www.nzm.cz</a>",
+        "SOCIALNI": "Voda ano (vně hřiště U hrocha-u občerstvení), WC k dispozici zdarma od 11. hodin v objektu občerstvení.",
+        "OBCERSTVENI": "V bezprostřední blízkosti hřiště U hrocha se nachází občerstvení se zahrádkou. Další možnost představuje restaurace Letenský zámeček, kde mají rozlehlé venkovní posezení s pěkným výhledem na Prahu. Nejbohatší výběr pak nabízí ulice Milady Horákové.",
+        "DOPRAVA": "Tramvaje č. <b>1, 8, 12, 25, 26</b>, zastávka <b>Letenské náměstí</b> nebo <b>Sparta</b>. Zaparkovat lze např. před oběma muzei.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4189333,
+          50.0962414
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "27.B",
+      "properties": {
+        "NAME": "Letenské sady - hřiště u Letenského zámečku",
+        "INFO": "Lokalita v sobě spojuje dětská hřiště, zeleň a muzea.",
+        "POPIS": "V Letenských sadech (směrem k Technickému muzeu) jsou 3 hřiště. Dvě malá a jedno relativně rozsáhlé (U&nbsp;hrocha-<b>27.A</b>). Je oplocené a tvoří ho asi 15 prvků, např. dlouhá lanovka, prolézací domky, skluzavky atd. Povrch tvoří převážně písek. Po obvodu rostou stromy, střed plochy je bez stínu. V jednom z rohů hřiště můžete dětem ukázat zakrslou borovici-kleč. Dáte-li se parkem směrem k muzeu, za chvíli dojdete k neoplocenému hřišti. Starší prvky, jako kolotoč, jsou rozptýleny pod javory a kaštany. Před Letenským zámečkem leží třetí, netradiční hřiště (<b>27.B</b>), na kterém se „pase“ několik barevných keramických koníků a usednout můžete do několika barevných křesel. Ještě je třeba připomenout, že Letenské sady představují vhodnou lokalitu pro in-line bruslení.Pokud se nechcete vracet stejnou cestou, od Letenského zámečku lze sejít k Vltavě, ke Štefánikovu mostu. Odměněni budete krásnými pohledy na město a řeku.",
+        "DOPORUCENI": "Protože hřiště nepatří mezi ta nejlepší v Praze, je vhodné prohlédnout si jedno z blízkých muzeí. Atraktivní je nově rekonstruované Národně technické muzeum. Více informací na: <a href='http://www.ntm.cz/cs/' target='_blank'>www.ntm.cz</a>. Ale i druhé - Národní&nbsp;zemědělské muzeum si jistě najde návštěvníky. Bližší informace na: <a href='http://www.nzm.cz/' target='_blank'>www.nzm.cz</a>",
+        "SOCIALNI": "Voda ano (vně hřiště U hrocha-u občerstvení), WC k dispozici zdarma od 11. hodin v objektu občerstvení.",
+        "OBCERSTVENI": "V bezprostřední blízkosti hřiště U hrocha se nachází občerstvení se zahrádkou. Další možnost představuje restaurace Letenský zámeček, kde mají rozlehlé venkovní posezení s pěkným výhledem na Prahu. Nejbohatší výběr pak nabízí ulice Milady Horákové.",
+        "DOPRAVA": "Tramvaje č. <b>1, 8, 12, 25, 26</b>, zastávka <b>Letenské náměstí</b> nebo <b>Sparta</b>. Zaparkovat lze např. před oběma muzei.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4259378,
+          50.0962581
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "30.A",
+      "properties": {
+        "NAME": "Ďáblický háj - hřiště 30.A",
+        "INFO": "Ďáblický háj nabízí dvě pěkná hřiště a několik zajímavých míst. Jen na vás záleží, která navštívíte.",
+        "POPIS": "<p>Od autobusové stanice Šimůnkova se vydáte kolem ZŠ Žernosecká, Šimůnkovou ulicí do Ďáblického háje. Pokud půjdete se staršími dětmi, nezapomeňte míč. U ZŠ Žernosecká je přístupné basketbalové hřiště s umělým povrchem nebo plácek na fotbal (o víkendech prakticky celý den, v pracovních dnech po 15. hodině). Pronajmout (na ředitelství školy) si lze také tenisový kurt. Od okraje lesa půjdete vzhůru pěšinou, převážně mezi duby, až narazíte na jednu ze dvou asfaltových cest, které hájem vedou. Po ní se dáte vpravo. Po pár stech metrech dojdete na okraj háje, kde se mezi modříny rozkládá malebné lesní hřiště (<b>30.A</b>). Tvoří ho asi 10 dřevěných atrakcí, jako vláčky, auta, kladiny, tepee, domek se skluzavkou, altán atd. </p><p>U lesního hřiště si prostudujte informační tabuli a mapu. Mj. zjistíte, že v bezprostřední blízkosti leží malá jezírka (výskyt čolka) a místo rozhledu. Pak máte dvě možnosti: Můžete pokračovat cca 500 metrů (směrem do Ďáblic) a dojdete k Ďáblické hvězdárně. Nebo se vydáte směrem do Kobylis, po zelené turistické značce (v orientaci vám pomůže informační tabule u hřiště). Zvolíte-li tuto možnost, uvidíte několik zajímavých míst. Nejprve to bude nová telekomunikační věž. U ní také najdete informační tabuli přírodní geologické památky Ládví. V bezprostřední blízkosti telekomunikační věže, částečně ukrytá mezi stromy stojí kulatá kamenná geodetická věž a bývalá rozhledna z doby 1. republiky. Není bohužel přístupná. Pokračujte po zelené, až k rozcestníku se žlutou turistickou značkou. Budete-li mít chuť, od rozcestníku se vydejte po žluté (směr na Ďáblice a Zdiby). Po pár stech metrech uvidíte na louce druhé hřiště (<b>30.B</b>). Atrakcí pro děti je pouze pár (kladina, dřevěné auto, houpačka). Na louce jsou ovšem rozmístěné fitness prvky a stojí tu také altán. Na okraji louky, pod skalami přírodní památky Ládví je vybudované pěkné ohniště a posezení.</p>",
+        "DOPORUCENI": "Na okraji Ďáblického háje stojí hvězdárna, kterou si lze některé dny prohlédnout (informace&nbsp;na:&nbsp;<a href='http://www.planetarium.cz/DABLICEOBS' target='_blank'>www.planetarium.cz</a>",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Nejbližší možnost představuje sídlištní nákupní centrum u autobusové stanice Šimůnkova (Billa, restaurace, několik obchodů).",
+        "DOPRAVA": "Autobusy č. <b>136 a 295</b>, zastávka <b>Šimůnkova</b>. Zaparkovat lze např. na ulici Šimůnkova.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4711653,
+          50.1384750
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "30.B",
+      "properties": {
+        "NAME": "Ďáblický háj - hřiště 30.B",
+        "INFO": "Ďáblický háj nabízí dvě pěkná hřiště a několik zajímavých míst. Jen na vás záleží, která navštívíte.",
+        "POPIS": "<p>Od autobusové stanice Šimůnkova se vydáte kolem ZŠ Žernosecká, Šimůnkovou ulicí do Ďáblického háje. Pokud půjdete se staršími dětmi, nezapomeňte míč. U ZŠ Žernosecká je přístupné basketbalové hřiště s umělým povrchem nebo plácek na fotbal (o víkendech prakticky celý den, v pracovních dnech po 15. hodině). Pronajmout (na ředitelství školy) si lze také tenisový kurt. Od okraje lesa půjdete vzhůru pěšinou, převážně mezi duby, až narazíte na jednu ze dvou asfaltových cest, které hájem vedou. Po ní se dáte vpravo. Po pár stech metrech dojdete na okraj háje, kde se mezi modříny rozkládá malebné lesní hřiště (<b>30.A</b>). Tvoří ho asi 10 dřevěných atrakcí, jako vláčky, auta, kladiny, tepee, domek se skluzavkou, altán atd. </p><p>U lesního hřiště si prostudujte informační tabuli a mapu. Mj. zjistíte, že v bezprostřední blízkosti leží malá jezírka (výskyt čolka) a místo rozhledu. Pak máte dvě možnosti: Můžete pokračovat cca 500 metrů (směrem do Ďáblic) a dojdete k Ďáblické hvězdárně. Nebo se vydáte směrem do Kobylis, po zelené turistické značce (v orientaci vám pomůže informační tabule u hřiště). Zvolíte-li tuto možnost, uvidíte několik zajímavých míst. Nejprve to bude nová telekomunikační věž. U ní také najdete informační tabuli přírodní geologické památky Ládví. V bezprostřední blízkosti telekomunikační věže, částečně ukrytá mezi stromy stojí kulatá kamenná geodetická věž a bývalá rozhledna z doby 1. republiky. Není bohužel přístupná. Pokračujte po zelené, až k rozcestníku se žlutou turistickou značkou. Budete-li mít chuť, od rozcestníku se vydejte po žluté (směr na Ďáblice a Zdiby). Po pár stech metrech uvidíte na louce druhé hřiště (<b>30.B</b>). Atrakcí pro děti je pouze pár (kladina, dřevěné auto, houpačka). Na louce jsou ovšem rozmístěné fitness prvky a stojí tu také altán. Na okraji louky, pod skalami přírodní památky Ládví je vybudované pěkné ohniště a posezení.</p>",
+        "DOPORUCENI": "Na okraji Ďáblického háje stojí hvězdárna, kterou si lze některé dny prohlédnout (informace&nbsp;na:&nbsp;<a href='http://www.planetarium.cz/DABLICEOBS' target='_blank'>www.planetarium.cz</a>",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Nejbližší možnost představuje sídlištní nákupní centrum u autobusové stanice Šimůnkova (Billa, restaurace, několik obchodů).",
+        "DOPRAVA": "Autobusy č. <b>136 a 295</b>, zastávka <b>Šimůnkova</b>. Zaparkovat lze např. na ulici Šimůnkova.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4619667,
+          50.1370156
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "26.A",
+      "properties": {
+        "NAME": "Ladronka - hřiště Ladronka",
+        "INFO": "Ne, dětská hřiště, ale in-line bruslení a cyklostezky, to bývá hlavním lákadlem pro návštěvu Ladronky.",
+        "POPIS": "Podél Tomanovy ulice se rozkládá rozsáhlý prostor zeleně, protkaný několikakilometrovou sítí asfaltových silniček určených pro cyklistiku a jízdu na in-line bruslích. Na silnicích jsou vyznačeny 2 pruhy a vzdálenost. V&nbsp;bezprostřední blízkosti původně barokní usedlosti Ladronka (kde si lze půjčit brusle a další vybavení) najdeme první dětské hřiště (<b>26.A</b>). Je moderní, nevelké a bez stínu. Na povrchu z kačírku stojí několik atrakcí: točidlo, houpačky a 2 multifunkční soustavy se skluzavkou a pavoučí sítí. Hned vedle si lze pronajmout hřiště na plážový fotbal nebo volejbal. Za výhodu lze také považovat, že dětské hřiště u Ladronky se nachází v bezprostřední blízkosti venkovního posezení restaurace. U budovy Ladronky můžeme obdivovat krásný zahradnický artefakt – velkého páva. Asi o 500 m dále u&nbsp;ulice Tomanovy, nedaleko zastávky U&nbsp;Ladronky, leží hřiště druhé (<b>26.B</b>). Atrakce jsou rozmístěny mezi stromy a zkusit lze např. lezeckou stěnu s plastikami žabiček nebo domek se sítí a skluzavkou. Povrch hřiště tvoří pryžové desky a tráva. Cestou&nbsp;k zastávce U Landronky pak uvidíte barokní kapličku. ",
+        "DOPORUCENI": "Na dohled od Ladronky (východním směrem) je podél in-line stezky rozmístěno několik moderních fitness prvků pro dospělé a větší děti.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "V usedlosti Ladronka lze zkusit velkou restauraci se zimní zahradou a bowlingem. Tady se také pronajímají plážová hřiště.",
+        "DOPRAVA": "Autobus č. <b>191</b>, zastávka <b>Štefkova</b> nebo <b>U Ladronky</b>. Parkování kolem ulice Tomanova.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3558761,
+          50.0786814
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "26.B",
+      "properties": {
+        "NAME": "Ladronka - hřiště Tomanova",
+        "INFO": "Ne, dětská hřiště, ale in-line bruslení a cyklostezky, to bývá hlavním lákadlem pro návštěvu Ladronky.",
+        "POPIS": "Podél Tomanovy ulice se rozkládá rozsáhlý prostor zeleně, protkaný několikakilometrovou sítí asfaltových silniček určených pro cyklistiku a jízdu na in-line bruslích. Na silnicích jsou vyznačeny 2 pruhy a vzdálenost. V&nbsp;bezprostřední blízkosti původně barokní usedlosti Ladronka (kde si lze půjčit brusle a další vybavení) najdeme první dětské hřiště (<b>26.A</b>). Je moderní, nevelké a bez stínu. Na povrchu z kačírku stojí několik atrakcí: točidlo, houpačky a 2 multifunkční soustavy se skluzavkou a pavoučí sítí. Hned vedle si lze pronajmout hřiště na plážový fotbal nebo volejbal. Za výhodu lze také považovat, že dětské hřiště u Ladronky se nachází v bezprostřední blízkosti venkovního posezení restaurace. U budovy Ladronky můžeme obdivovat krásný zahradnický artefakt – velkého páva. Asi o 500 m dále u&nbsp;ulice Tomanovy, nedaleko zastávky U&nbsp;Ladronky, leží hřiště druhé (<b>26.B</b>). Atrakce jsou rozmístěny mezi stromy a zkusit lze např. lezeckou stěnu s plastikami žabiček nebo domek se sítí a skluzavkou. Povrch hřiště tvoří pryžové desky a tráva. Cestou&nbsp;k zastávce U Landronky pak uvidíte barokní kapličku. ",
+        "DOPORUCENI": "Na dohled od Ladronky (východním směrem) je podél in-line stezky rozmístěno několik moderních fitness prvků pro dospělé a větší děti.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "V usedlosti Ladronka lze zkusit velkou restauraci se zimní zahradou a bowlingem. Tady se také pronajímají plážová hřiště.",
+        "DOPRAVA": "Autobus č. <b>191</b>, zastávka <b>Štefkova</b> nebo <b>U Ladronky</b>. Parkování kolem ulice Tomanova.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3644914,
+          50.0797486
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "33",
+      "properties": {
+        "NAME": "Malešický park",
+        "INFO": "Díky nákladné revitalizaci získala Praha unikátní hrací prostor, který slouží nejen hrám, ale také rozvoji technického vnímání.",
+        "POPIS": "Areál Malešického parku se rozkládá na svahu, nad ulicemi Počernická a Cerhenická. V roce 2013 proběhla revitalizace celé lokality a Pražané získali do užívání unikátní areál (<b>33</b>). Mladším dětem je určené oplocené dětské hřiště s umělým povrchem. Najdeme na něm dva multifunkční domky, houpačku ve formě křesla, kolotoč nebo figury hrocha a stonožky. Atrakcí je pouze půltucet, ale na svahu se nachází asi tucet různých houpadel a houpaček. Pod těmito atrakcemi leží převážně písek. Hlavním lákadlem, které potěší děti všech věkových skupin i dospělé, je ovšem část parku vyhrazená vodním a akustickým atrakcím. Ve svahu byla vybudována soustava propojených jezírek, instalovány Archimédovy šrouby, vodní mlýnky apod. Akustické prvky zastupuje např. lodní telefon, píšťalová houpačka, kamenná harfa, akustické zrcadlo aj. V horní části parku najdete obří lanovou sestavu, rozlehlou pergolu, objekt toalet a správce areálu. Vedle se nalézá netradiční posilovna, kterou tvoří prvky jako „Houpací pila“ nebo „Nízký strom“. Areál využívá také solární energii (pro napájení lamp) nebo energii větru-stojí zde vysoký stožár s větrnou růžicí. Jednotlivé atrakce jsou opatřeny vysvětlujícím textem. Úprava celého areálu přišla i s daní na cca 150 000 000 Kč! Můžeme jen doufat, že areál odolá vandalům a bude sloužit, co nejdéle!",
+        "DOPORUCENI": "Návštěva parku je vhodná pro celou rodinu, zvláště pak pro zvídavé děti i dospělé. Mladší zaujmou především vodní atrakce, takže pro návštěvu je vhodné zvolit slunečný den a nezapomenout ručník!",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Nedaleko autobusové zastávky Plaňanská najdete restauraci a pizzerii jako rychlé občerstvení.",
+        "DOPRAVA": "Stanice autobusů č. <b>133,163,188, 297</b> zastávka <b>Plaňanská</b>. Parkování v okolních ulicích.",
+        "GALERIE": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4987225,
+          50.0845164
+        ]
+      }
     }
   ]
 }
