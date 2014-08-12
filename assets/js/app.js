@@ -300,7 +300,7 @@ var theaters = L.geoJson(null, {
             
           $(document).ready( function() {
               $("obr").each( function(i) {
-                  $(this).prepend("<center><img style='margin: 10px 0px' src='img/"+feature.id+"/"+(++i)+".JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail' /></center>");	
+                  $(this).prepend("<center><a href='img/"+feature.id+"/"+(++i)+".JPG' target='_blank'><img style='margin: 10px 0px' src='img/"+feature.id+"/"+(i)+".JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail' /></a></center>");	
         });
  
 });   
@@ -386,7 +386,7 @@ $.getJSON("data/obcerstveni.geojson", function (data) {
 
 map = L.map("map", {
   zoom: 5,
-  center: [14.702222, 50.979378],
+  center: [14.338222, 50.04878],
   layers: [mapquestOSM, boroughs, markerClusters, highlight],
   zoomControl: false,
   attributionControl: false
