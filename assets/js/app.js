@@ -322,7 +322,7 @@ var theaters = L.geoJson(null, {
       $("#theater-table tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+ "<b>" + feature.id + "</b>. " +layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
       theaterSearch.push({
         name: layer.feature.properties.NAME,
-        address: layer.feature.properties.ADDRESS1,
+        address: layer.feature.mesto,
         source: "Hřiště",
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
@@ -607,7 +607,7 @@ $(document).one("ajaxStop", function () {
     source: theatersBH.ttAdapter(),
     templates: {
       header: "<h4 class='typeahead-header'><img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště</h4>",
-      suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{address}}</small>"].join(""))
+      suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{mesto}}</small>"].join(""))
     }
   }, {
     name: "Občerstvení",

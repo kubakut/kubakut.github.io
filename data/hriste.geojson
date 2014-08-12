@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "id": "1",
+      "mesto": "praha 1",
       "properties": {
         "NAME": "Františkánská zahrada",
         "INFO": "V samém srdci města najdeme hřiště určené spíše pro mladší děti. Není unikátní velikostí,  ale polohou na okraji Františkánské zahrady.",
@@ -1153,6 +1154,237 @@
         "coordinates": [
           14.3428728,
           50.0820658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34",
+      "properties": {
+        "NAME": "Park Podvinní, Vysočany ",
+        "INFO": "Před vysočanskou poliklinikou se rozkládá rozsáhlý park (<b>34</b>). A v něm několik zajímavých míst.",
+        "POPIS": "Pár metrů od zastávky tramvaje uvidíte dětské hřiště. Je oplocené a zahrnuje asi tucet prvků. Nejzajímavější atrakci představuje dům se skluzavkou a šplhacími sítěmi. Povrch hřiště tvoří kačírek a tráva. Část plochy stíní vzrostlé stromy. Až hřiště děti omrzí, vypravte se do parku. Přejděte potok Rokytka a dostanete se k druhému hřišti, určenému pro nejmenší. Je také oplocené a herních prvků asi 10. Jedná se především o prvky drobné, jako skluzavky, houpačky apod. Na povrchu leží písek a roste tráva. Okolní park je jako stvořený pro relaxaci. Louky se hodí pro pohybové aktivity. Najdete tady také několik jezírek s nášlapnými kameny. Jezírka, částečně zarostlá rákosem, jsou propojena malým potůčkem. V horní části parku byla vybudována vyhlídková plošina, a hlavně Oppidum. Tzv. Oppidum (název upomíná na keltská hradiště) je rozlehlá stavba z velkých kamenů a klád. Připomíná obří stan nebo pevnost. Uvnitř je rozděleno několika úzkými chodbami. Celý prostor se tak ideálně hodí ke hře na schovávanou!",
+        "DOPORUCENI": " Na okraji parku vyrostlo největší lanové centrum v Praze. Možnost překonat strach z výšek zde mají děti i dospělí. Skok-Big swing vám poskytne adrenalinový zážitek. Informace o centru najdete na stránkách provozovatele: <a href='http://www.lanovecentrum.cz./cs/praha' target='_blank'>www.lanovecentrum.cz</a>. A ti, kteří se bojí, mohou zkusit alespoň cvičné překážky u země.",
+        "SOCIALNI": "Voda ne, chemické WC v parku.",
+        "OBCERSTVENI": " Nejbližší restaurace leží na rohu ulic Sokolovská a Na břehu. Širší výběr nabízí nákupní centrum Fénix u metra Vysočanská. Je vzdáleno asi 300 metrů od parku. V kavárně tam mají i dětský koutek.",
+        "DOPRAVA": " Tramvaj č. <b>16</b>, autobus č. <b>151</b>, stanice <b>Poliklinika Vysočany</b>. Parkovat můžete před poliklinikou.",
+        "GALERIE": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4928414,
+          50.1106856
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "35.A",
+      "properties": {
+        "NAME": "Park Přátelství - park Přátelství ",
+        "INFO": "Největší dětské hřiště Prahy 9 se rozkládá v Parku Přátelství.",
+        "POPIS": "Hřiště (<b>35.A</b>) je tvořeno dvěma částmi. První, určená malým dětem, není příliš rozlehlá. Je vybavena skluzavkami, pružinovými houpadly, šplhacími sítěmi a dalšími drobnými atrakcemi. Povrch tvoří písek. Druhá, neoplocená, se hodí i pro děti větší. Jedná se o rozsáhlou soustavu lanových překážek, o jakousi opičí dráhu. Děti mohou vyzkoušet také lanovku. Povrch hřiště je z pryžových desek, pod lanovkou leží písek. V parku Přátelství byla vybudována soustava rybníčků spojených říčkou. Nechybí ostrůvky, vodotrysk, nášlapné kameny, malé vodopády atd. Vodní soustava, umně zasazená mezi stromy, je snad ještě zajímavější než hřiště a děti zde mohou strávit hodně času objevováním tajemných zákoutí. Nedaleko hlavní křižovatky na Pískovcové ulici můžete navštívit hřiště (<b>35.B</b>), které se pyšní značkou „Ověřený provoz“. Ta garantuje jeho bezpečnost. Hřiště je ale malé-na pískovém podkladě najdete pouze pět převážně plastových drobných prvků-houpačka, houpadlo, multifunkční sestava aj. Chybí stín. V bezprostřední blízkosti hřiště, tentokrát ve stínu stromů leží menší fitness park, který tvoří několik typů hrazdy. Kromě toho si lze zahrát na menším hřišti s umělým povrchem a koši na basketbal, které jsou nelogicky na stejné delší straně sportovní plochy. U hřiště stojí stůl na ping-pong, ale bez síťky.",
+        "DOPORUCENI": "U stanice MHD Prosek začíná vycházkový okruh Vysočany - Prosek –Střížkov. Je dlouhý 9 km a zajímavá místa jsou vyznačena na mapě a informačních tabulích. Máte-li více času, navštivte blízký areál bobové dráhy Prosek. Více informací na: <a href='http://www.bobovadraha.cz/' target='_blank'>www.bobovadraha.cz</a> ",
+        "SOCIALNI": "Voda ano, WC ne.",
+        "OBCERSTVENI": "V bezprostřední blízkosti hřiště se nachází pizzerie s krytou terasou postavenou přímo nad jedním z rybníčků. O kus dál najdeme další pizzerii se zahrádkou a koutkem pro děti.",
+        "DOPRAVA": "Metro <b>C</b>, autobusy č. <b>136, 140, 151, 158, 177, 183, 185, 195, 295, 302, 375</b>, vše stanice <b>Prosek</b>. <br>Parkování před panelovými domy nebo placené parkoviště v části parku u stanice metra <b>Střížkov</b>.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4974589,
+          50.1211250
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "35.B",
+      "properties": {
+        "NAME": "Park Přátelství - Pískovcová ulice ",
+        "INFO": "Největší dětské hřiště Prahy 9 se rozkládá v Parku Přátelství.",
+        "POPIS": "Hřiště (<b>35.A</b>) je tvořeno dvěma částmi. První, určená malým dětem, není příliš rozlehlá. Je vybavena skluzavkami, pružinovými houpadly, šplhacími sítěmi a dalšími drobnými atrakcemi. Povrch tvoří písek. Druhá, neoplocená, se hodí i pro děti větší. Jedná se o rozsáhlou soustavu lanových překážek, o jakousi opičí dráhu. Děti mohou vyzkoušet také lanovku. Povrch hřiště je z pryžových desek, pod lanovkou leží písek. V parku Přátelství byla vybudována soustava rybníčků spojených říčkou. Nechybí ostrůvky, vodotrysk, nášlapné kameny, malé vodopády atd. Vodní soustava, umně zasazená mezi stromy, je snad ještě zajímavější než hřiště a děti zde mohou strávit hodně času objevováním tajemných zákoutí. Nedaleko hlavní křižovatky na Pískovcové ulici můžete navštívit hřiště (<b>35.B</b>), které se pyšní značkou „Ověřený provoz“. Ta garantuje jeho bezpečnost. Hřiště je ale malé-na pískovém podkladě najdete pouze pět převážně plastových drobných prvků-houpačka, houpadlo, multifunkční sestava aj. Chybí stín. V bezprostřední blízkosti hřiště, tentokrát ve stínu stromů leží menší fitness park, který tvoří několik typů hrazdy. Kromě toho si lze zahrát na menším hřišti s umělým povrchem a koši na basketbal, které jsou nelogicky na stejné delší straně sportovní plochy. U hřiště stojí stůl na ping-pong, ale bez síťky.",
+        "DOPORUCENI": "U stanice MHD Prosek začíná vycházkový okruh Vysočany - Prosek –Střížkov. Je dlouhý 9 km a zajímavá místa jsou vyznačena na mapě a informačních tabulích. Máte-li více času, navštivte blízký areál bobové dráhy Prosek. Více informací na: <a href='http://www.bobovadraha.cz/' target='_blank'>www.bobovadraha.cz</a> ",
+        "SOCIALNI": "Voda ano, WC ne.",
+        "OBCERSTVENI": "V bezprostřední blízkosti hřiště se nachází pizzerie s krytou terasou postavenou přímo nad jedním z rybníčků. O kus dál najdeme další pizzerii se zahrádkou a koutkem pro děti.",
+        "DOPRAVA": "Metro <b>C</b>, autobusy č. <b>136, 140, 151, 158, 177, 183, 185, 195, 295, 302, 375</b>, vše stanice <b>Prosek</b>. <br>Parkování před panelovými domy nebo placené parkoviště v části parku u stanice metra <b>Střížkov</b>.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4992347,
+          50.1171219
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "36",
+      "properties": {
+        "NAME": "Gutova",
+        "INFO": "Areál Gutova představuje rozlehlý komplex (<b>36</b>), kde možnost ke hrám najdou nejen děti, ale také dospělí. Unikátní je zejména vodní hřiště.",
+        "POPIS": "Areál tvoří dětské hřiště pro mladší děti, vodní svět pro všechny, lanová centra, několik sportovišť, např. na plážový volejbal, fotbal nebo hokejbal, horolezecká stěna pro dospělé a skate rampy. Dětské hřiště je plné zajímavých atrakcí. Zmínit můžeme např. stěžeň s provazovým žebříkem, domek pojatý jako loď (i s kormidlem), lezecké sestavy, houpací hnízdo nebo tunel. Hřiště je oplocené, povrch tvoří kačírek a pryžové desky. Chybí stín. V bezprostřední blízkosti můžete posedět na terase restaurace, takže neztratíte nad dětmi dohled. Výjimečnou zkušenost nabídne dětem i hravým dospělým část areálu, kde se nalézají vodní atrakce. Je zde několik Archimédových šroubů, korýtka, strouhy, pumpy, vodní mlýnky, různá kola atd. Hned vedle se rozkládá lanové centrum, které tvoří desítky metrů lanových překážek a je určeno dětem do 10 let. Centrum kombinuje lana s dřevěnými prvky pojatými jako zvířata. Najdeme tady např. hada, krokodýla, ptáky atd. Kousek od tohoto lanového centra se rozkládá druhé, pro děti od 10 let a nad 130 cm. Překážky jsou náročnější a jako stvořené pro všechny, kteří milují dobrodružství. Platí se zde ale vstupné.</p><p>Gutovka jsou také sportoviště. U vchodu do areálu (směr od metra) leží skate park, který využívají nejen skateboardisté, ale také jezdci na koloběžkách. V areálu lze využít čtyři hřiště na beach volejbal, dále hřiště s umělým povrchem na basketbal a malý fotbal nebo betonovou plochu ohraničenou mantinely vhodnou např. pro hokejbal. V zimě se pak mění v kluziště. Sportoviště jsou placená. Pronajmout si je můžete v recepci, která se nachází u lanového centra. Podrobnější informace najdete na: <a href='http://www.gutovka.cz/' target='_blank'>www.gutovka.cz</a>. Součástí areálu jsou také umělé stěny pro lezení s lanem. Děti tak mohou obdivovat umění horolezců.</p>",
+        "DOPORUCENI": "Abyste si mohli areál užít, je třeba vyhradit si alespoň půlden. Nezapomeňte ručník pro děti, bude se hodit! Děti také ocení plastové kelímky a jiné menší nádoby.",
+        "SOCIALNI": "Voda ano, WC ano - v restauraci a u lanového centra.",
+        "OBCERSTVENI": "Přímo u dětského hřiště stojí restaurace s dětským koutkem. Posedět můžete na venkovní terase. V areálu se nachází také stánek s rychlým občerstvením a několik nápojových automatů.",
+        "DOPRAVA": "Metro <b>A</b>, tramvaje č. <b>7, 26</b>, autobusy č. <b>175, 188, 196</b>, vše stanice <b>Strašnická</b>. Parkování v okolních ulicích.",
+        "GALERIE": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4912164,
+          50.0713028
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "39",
+      "properties": {
+        "NAME": "Vosa, Modřany",
+        "INFO": "Vosa v Modřanech představuje pěkný multifunkční areál.",
+        "POPIS": "Prostor u ZŠ Mráčkova (profesora Švejcara) byl přetvořen v moderní sportovně rekreační komplex <b>(39)</b>. Je velmi členitý, takže zde byl mj. vybudován stupňovitý amfiteátr a několik sportovišť: hřiště s umělým povrchem na fotbal, basketbal nebo házenou. Kromě toho se zde samozřejmě nachází i dětské hřiště. Dominantní atrakci představuje mohutný lanový mnohoúhelník se skluzavkou, opičím mostem a houpací sítí. Kromě toho zde najdete např. houpací hnízdo, točidla, houpadla atd. Na povrchu hřiště leží písek. Areál vhodně doplňují pergoly, odpočinkové kameny a vyhlídková terasa. Pro návštěvníky je přístupné sociální zařízení v přilehlé budově základní školy. Protože areál je opravdu rozsáhlý, členitý a rostou zde vzrostlé stromy, představuje ideální prostor ke hře na schovávanou. Bát o děti se nemusíte. Celý areál chrání vysoký kovový plot. Směrem k nákupnímu centru Labe pak narazíte na malé oplocené hřiště s několika málo prvky.",
+        "DOPORUCENI": "Abyste žádné zajímavé místo areálu nepřehlédli, prostudujte si obrázkovou mapu na informační tabuli. U pramínku pitné vody také najdete seznam zajímavých míst Prahy 12.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "Asi 300 m odtud leží sídlištní nákupní centrum Labe s obchůdky, restaurací a supermarkety dvou obchodních řetězců.",
+        "DOPRAVA": "Autobusy č. <b>139, 150, 157</b>, vše zastávka <b>Labe.</b> U nákupního centra se rozkládá parkoviště.",
+        "GALERIE": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4253197,
+          50.0122956
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "38.A",
+      "properties": {
+        "NAME": "Opatov - hřiště 38.A",
+        "INFO": "U stanic metra Opatov lze navštívit několik hřišť.",
+        "POPIS": "Půjdete-li z Opatova ve směru na Háje (prostor parku), na louce nejprve uvidíte lanovou síťovou sestavu (jednu&nbsp;z&nbsp;největších&nbsp;v&nbsp;Praze) pro větší děti (<b>38.A</b>). Zajímavé je, že na lanech jsou zavěšeny repliky ryb. Sestava není oplocena, ani zastíněna. Leží pod ní kačírek. Hned u ní se nachází pěkné veřejné hřiště na basketbal s umělým povrchem. Cca 250 m odsud se rozkládá zajímavě řešené dětské hřiště pro menší děti (<b>38.B</b>). Najdete na něm osm houpadel, menší lanovou pyramidu, špalkovou sestavu na procvičení obratnosti, dvě kovové skluzavky, velké pískoviště pod zastřešenou pergolou atd. Kromě pískoviště, nad nímž stojí pergola, postrádá hřiště stín. Pod atrakcemi leží písek a litá guma. Fakt, že skluzavky jsou kovové, omezuje jejich využití v parných slunečných dnech.",
+        "DOPORUCENI": "Návštěva komplexu je vhodná pro rodiny s dětmi různého stáří. Starší se zabaví na lanové sestavě a basketbalovém hřišti (nezapomeňte míč!), mladší na hřišti dětském.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Kompletní zázemí představují stanice metra Opatov.",
+        "DOPRAVA": "Stanice metra <b>C</b>, autobusy č. <b>136, 165, 177, 181, 213, 326, 327, 328, 363, 385, 397</b>, vše stanice <b>Opatov</b>. Parkování na sídlišti v blízkosti hřišť - např. ulice Křejpského.",
+        "GALERIE": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5123100,
+          50.0288480
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "38.B",
+      "properties": {
+        "NAME": "Opatov - hřiště 38.B",
+        "INFO": "U stanic metra Opatov lze navštívit několik hřišť.",
+        "POPIS": "Půjdete-li z Opatova ve směru na Háje (prostor parku), na louce nejprve uvidíte lanovou síťovou sestavu (jednu&nbsp;z&nbsp;největších&nbsp;v&nbsp;Praze) pro větší děti (<b>38.A</b>). Zajímavé je, že na lanech jsou zavěšeny repliky ryb. Sestava není oplocena, ani zastíněna. Leží pod ní kačírek. Hned u ní se nachází pěkné veřejné hřiště na basketbal s umělým povrchem. Cca 250 m odsud se rozkládá zajímavě řešené dětské hřiště pro menší děti (<b>38.B</b>). Najdete na něm osm houpadel, menší lanovou pyramidu, špalkovou sestavu na procvičení obratnosti, dvě kovové skluzavky, velké pískoviště pod zastřešenou pergolou atd. Kromě pískoviště, nad nímž stojí pergola, postrádá hřiště stín. Pod atrakcemi leží písek a litá guma. Fakt, že skluzavky jsou kovové, omezuje jejich využití v parných slunečných dnech.",
+        "DOPORUCENI": "Návštěva komplexu je vhodná pro rodiny s dětmi různého stáří. Starší se zabaví na lanové sestavě a basketbalovém hřišti (nezapomeňte míč!), mladší na hřišti dětském.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Kompletní zázemí představují stanice metra Opatov.",
+        "DOPRAVA": "Stanice metra <b>C</b>, autobusy č. <b>136, 165, 177, 181, 213, 326, 327, 328, 363, 385, 397</b>, vše stanice <b>Opatov</b>. Parkování na sídlišti v blízkosti hřišť - např. ulice Křejpského.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5156819,
+          50.0286458
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "37.A",
+      "properties": {
+        "NAME": "Zahradní město - Malinová",
+        "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
+        "POPIS": "<p>Na ulici Malinová leží poměrně velké hřiště (<b>37.A</b>), které zaujme barevností a pestrostí. Obsahuje asi 15 atrakcí. Děti si mohou pohrát na velkém pískovišti, k dispozici mají několik domků (např. ve formě lodi), menší lanovou pyramidu, kolotoč, tabule na kreslení atd. Originální jsou houpadla, pojatá jako vosa, loď nebo delfín. Většina atrakcí je ze dřeva, povrch hřiště tvoří hluboký písek, část plochy stíní stromy. O pár set metrů dál, před poštou (ulice Malinová a Chrpová), byl revitalizován park (<b>37.B</b>). Dominantu představují dvě mohutné ocelové pergoly a vodní soustava s vodotrysky. V parku byly vybudovány také atrakce pro děti - čtyři propojené neoplocené lanové pyramidy pro starší a zajímavé hřišťátko pro malé. Jedná se o písečný kopec se skluzavkami a s pěknými dřevěnými houpadly zpodobňujícími koně a vůz.</p><p>Stranou obou hřišť, mezi ulicemi Sasanková a Kapraďová (u centra sídliště), se rozkládá menší dětský komplex (<b>37.C</b>). Tvoří ho multifunkční lezecký prvek pro starší, oplocené hřiště na basketbal a malou kopanou s umělým povrchem a hřišťátko (cca pět drobných prvků) pro nejmenší.</p>",
+        "DOPORUCENI": "Částí parku prochází asfaltové cesty se zvlněným povrchem, takže se hodí pro in-line brusle a skateboardy.",
+        "SOCIALNI": "Voda ano - hřiště v parku Malinová/Chrpová (pod oběma pergolami), chemické WC v sousedství hřišť <b>37.A</b> a <b>37.B</b>.",
+        "OBCERSTVENI": "V centrální části sídliště (viz doprava)se nachází Albert a pizzerie. Několik dalších podniků-restaurace, kavárna leží v blízkosti parku Malinová/Chrpová.",
+        "DOPRAVA": "Autobusy č. <b>138, 195</b>, stanice <b>Centrum Zahradní město</b> nebo autobus č. <b>195</b>, zastávka <b>Hlohová</b>. Parkování je možné nedaleko zastávek autobusů nebo u parku.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5042197,
+          50.0569825
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "37.B",
+      "properties": {
+        "NAME": "Zahradní město - park&nbsp;Malinová/Chrpová",
+        "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
+        "POPIS": "<p>Na ulici Malinová leží poměrně velké hřiště (<b>37.A</b>), které zaujme barevností a pestrostí. Obsahuje asi 15 atrakcí. Děti si mohou pohrát na velkém pískovišti, k dispozici mají několik domků (např. ve formě lodi), menší lanovou pyramidu, kolotoč, tabule na kreslení atd. Originální jsou houpadla, pojatá jako vosa, loď nebo delfín. Většina atrakcí je ze dřeva, povrch hřiště tvoří hluboký písek, část plochy stíní stromy. O pár set metrů dál, před poštou (ulice Malinová a Chrpová), byl revitalizován park (<b>37.B</b>). Dominantu představují dvě mohutné ocelové pergoly a vodní soustava s vodotrysky. V parku byly vybudovány také atrakce pro děti - čtyři propojené neoplocené lanové pyramidy pro starší a zajímavé hřišťátko pro malé. Jedná se o písečný kopec se skluzavkami a s pěknými dřevěnými houpadly zpodobňujícími koně a vůz.</p><p>Stranou obou hřišť, mezi ulicemi Sasanková a Kapraďová (u centra sídliště), se rozkládá menší dětský komplex (<b>37.C</b>). Tvoří ho multifunkční lezecký prvek pro starší, oplocené hřiště na basketbal a malou kopanou s umělým povrchem a hřišťátko (cca pět drobných prvků) pro nejmenší.</p>",
+        "DOPORUCENI": "Částí parku prochází asfaltové cesty se zvlněným povrchem, takže se hodí pro in-line brusle a skateboardy.",
+        "SOCIALNI": "Voda ano - hřiště v parku Malinová/Chrpová (pod oběma pergolami), chemické WC v sousedství hřišť <b>37.A</b> a <b>37.B</b>.",
+        "OBCERSTVENI": "V centrální části sídliště (viz doprava)se nachází Albert a pizzerie. Několik dalších podniků-restaurace, kavárna leží v blízkosti parku Malinová/Chrpová.",
+        "DOPRAVA": "Autobusy č. <b>138, 195</b>, stanice <b>Centrum Zahradní město</b> nebo autobus č. <b>195</b>, zastávka <b>Hlohová</b>. Parkování je možné nedaleko zastávek autobusů nebo u parku.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5014160,
+          50.0571300
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "37.C",
+      "properties": {
+        "NAME": "Zahradní město - Sasanková/Kapraďová",
+        "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
+        "POPIS": "<p>Na ulici Malinová leží poměrně velké hřiště (<b>37.A</b>), které zaujme barevností a pestrostí. Obsahuje asi 15 atrakcí. Děti si mohou pohrát na velkém pískovišti, k dispozici mají několik domků (např. ve formě lodi), menší lanovou pyramidu, kolotoč, tabule na kreslení atd. Originální jsou houpadla, pojatá jako vosa, loď nebo delfín. Většina atrakcí je ze dřeva, povrch hřiště tvoří hluboký písek, část plochy stíní stromy. O pár set metrů dál, před poštou (ulice Malinová a Chrpová), byl revitalizován park (<b>37.B</b>). Dominantu představují dvě mohutné ocelové pergoly a vodní soustava s vodotrysky. V parku byly vybudovány také atrakce pro děti - čtyři propojené neoplocené lanové pyramidy pro starší a zajímavé hřišťátko pro malé. Jedná se o písečný kopec se skluzavkami a s pěknými dřevěnými houpadly zpodobňujícími koně a vůz.</p><p>Stranou obou hřišť, mezi ulicemi Sasanková a Kapraďová (u centra sídliště), se rozkládá menší dětský komplex (<b>37.C</b>). Tvoří ho multifunkční lezecký prvek pro starší, oplocené hřiště na basketbal a malou kopanou s umělým povrchem a hřišťátko (cca pět drobných prvků) pro nejmenší.</p>",
+        "DOPORUCENI": "Částí parku prochází asfaltové cesty se zvlněným povrchem, takže se hodí pro in-line brusle a skateboardy.",
+        "SOCIALNI": "Voda ano - hřiště v parku Malinová/Chrpová (pod oběma pergolami), chemické WC v sousedství hřišť <b>37.A</b> a <b>37.B</b>.",
+        "OBCERSTVENI": "V centrální části sídliště (viz doprava)se nachází Albert a pizzerie. Několik dalších podniků-restaurace, kavárna leží v blízkosti parku Malinová/Chrpová.",
+        "DOPRAVA": "Autobusy č. <b>138, 195</b>, stanice <b>Centrum Zahradní město</b> nebo autobus č. <b>195</b>, zastávka <b>Hlohová</b>. Parkování je možné nedaleko zastávek autobusů nebo u parku.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5078556,
+          50.0553156
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "40",
+      "properties": {
+        "NAME": "Centrální park Prahy 13",
+        "INFO": "Chcete si prohlédnout Central park? Pak není nutné trmácet se do New Yorku. Stačí zajet na Lužiny!",
+        "POPIS": "<p>U stanice metra Lužiny se rozkládá rozlehlý park. Přestože je místy poněkud zanedbaný, stojí za návštěvu. Procházku můžete začít na velkém dětském hřišti (<b>40</b>). Najdete ho mezi stanicemi Lužiny a Hůrka. Leží u rybníka s hejny kačen a lysek, přímo pod tubusem metra, které je v této části trasy vedeno nad zemí, takže hřiště lze vidět i během jízdy metrem. Hřiště je moderní, kruhové a zahrnuje na 15 atrakcí-např. výkyvné točidlo Hags, multifunkční sestavu nebo dvě velké sochy z barevné keramiky. Povrch hřiště tvoří kačírek a pryžové desky, plocha je ale bez stínu. Poté se vydejte parkem směrem k dobře viditelnému kostelu ve Stodůlkách. Po pár stech metrech se dostanete do části věnované sportu. Mezi stromy umístili asi tucet fitness a posilovacích prvků. V&nbsp;jejich blízkosti leží hřiště na pétanque, hřiště na kopanou s umělým povrchem a menší neoplocené dětské hřiště. Krom toho zde stojí objekt správce, v němž je sociální zařízení. V sezóně se zde prodává občerstvení a součástí objektu je také kuželna.</p><p>Na druhém břehu potoka uvidíte halu na badminton a tenis a basketbalové hřiště. U sportovní haly se rozkládá plocha na tzv. discgolf. Hrát mohou všichni. Místo míčků se užívají talíře na fresbee, místo jamek zvláštní koše. Půjdete-li dále parkem, přijdete ke druhému rybníku s vodotryskem a nakonec se dostanete k pěknému hřišti na minigolf, které se nachází na okraji parku. Hrací hole si lze vypůjčit v kulturním domě Mlejn, cca 200 m od parku (Kovářova ulice, 1615). V bezprostřední blízkosti minigolfu jsou houpačky a lezecká sestava. Prostor parku je vhodný pro in-line aktivity a vede tudy také značená cesta pro vozíčkáře!</p>",
+        "DOPORUCENI": "Centrální park je ideální volbou pro všechny, kdo rádi sportují, neboť sportů zde lze provozovat opravdu hodně.",
+        "SOCIALNI": "Voda ano, WC ano (obě v objektu správce)",
+        "OBCERSTVENI": " Využít lze zázemí stanice metra Lužiny nebo restauraci v KD Mlejn.",
+        "DOPRAVA": "Metro <b>B</b>, stanice <b>Lužiny</b>. Parkovat můžete v blízkosti metra.",
+        "GALERIE": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3384014,
+          50.0484297
         ]
       }
     }
