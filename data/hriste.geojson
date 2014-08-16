@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "id": "1",
-      "mesto": "praha 1",
+      "mesto": "praha1",
       "properties": {
         "NAME": "Františkánská zahrada",
         "INFO": "V samém srdci města najdeme hřiště určené spíše pro mladší děti. Není unikátní velikostí,  ale polohou na okraji Františkánské zahrady.",
@@ -1385,6 +1385,342 @@
         "coordinates": [
           14.3384014,
           50.0484297
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "41",
+      "properties": {
+        "NAME": "Jinonice (ZŠ Tyršova)",
+        "INFO": "V parčíku před základní školou leží několik menších hřišť.",
+        "POPIS": " Komplex hřišť (<b>41</b>) se rozkládá v zeleni parku u Bochovské ulice. Jsou tady dvě oplocená dětská hřiště a dvě pískové plochy. Jedna na kopanou, druhá na volejbal (i s basketbalovým košem). Na dětských hřištích najdeme asi tucet atrakcí. Jedná se o lezecké sestavy, dřevěná houpadla, skluzavky a další prvky. Pěkné jsou dřevěné houpačky pojaté jako koně. Povrch hřišť tvoří písek a tráva. Na jednom z hřišť roste několik krásných stříbrných smrků. Na spodním hřišti najdete v parných dnech částečný stín, horní (menší) je bez stínu. Pokud máte rádi letadla, užijete si. Nad oblastí se totiž nachází letecký koridor. V opačném případě se hřišti raději vyhněte!",
+        "DOPORUCENI": "Návštěvu tohoto hřiště lze spojit procházkou s hřištěm na Butovické ulici (<b>51</b>).",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "Zázemí stanice metra Jinonice.",
+        "DOPRAVA": "Metro <b>B</b>, autobusy č. <b>137</b> a <b>176</b>, stanice <b>Jinonice</b>. Parkování v ulicích okolo hřišť.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3676683,
+          50.0525550
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "45",
+      "properties": {
+        "NAME": "Dejvice - Lotyšská",
+        "INFO": "Mezi Vítězným náměstím a náměstím Interbrigády se rozkládá park a v něm hřiště.",
+        "POPIS": "Dětské hřiště (<b>45</b>) najdete na ulici Lotyšská. Nachází se mezi vzrostlými stromy, které poskytují částečný stín. Využít lze převážně klasické prvky-multifunkční sestavy, houpadla, skluzavky, houpačky atd. Na ploše leží písek. Součástí areálu je také pěkné hřiště s umělým povrchem na košíkovou a malou kopanou. O pár set metrů dál, na náměstí Interbrigády si povšimněte velké sochy maršála Koněva. Na náměstí je také malé neoplocené hřišťátko s dřevěnými prvky a totemem. A podíváte-li se od sochy maršála směrem dolů (k&nbsp;Podbabě), nelze přehlédnout monumentální budovu postavenou v duchu tzv. socialistického realismu - dnes Crowne Plaza Hotel.",
+        "DOPORUCENI": "Nedaleko, v Bubenči u vlakového nádraží, lze navštívit národní kulturní památku - Starou čistírnu odpadních vod. Více na: <a href='http://www.staracistirna.cz/' target='_blank'>www.staracistirna.cz</a> ",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Nejbližší restaurace se nachází cca 50 m od hřiště. Na blízké ulici Jugoslávských partyzánů leží restaurací celá řada.",
+        "DOPRAVA": "Tramvaje č. <b>5</b> a <b>8</b>, zastávka <b>Lotyšská</b>. Parkování je možné v ulicích kolem parku.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3968197,
+          50.1041867
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "42.A",
+      "properties": {
+        "NAME": "Sídliště Lužiny - Amforová",
+        "INFO": "Panelové domy byly na Lužinách často stavěny do kruhu-tzv. rondely. Uvnitř tak vznikl rozlehlý prostor (vnitroblok) osázený zelení. Často se zde nacházejí mateřské školky, dětská hřiště a sportoviště. Protože se jedná o zázemí pro místní obyvatele, nebylo bohužel pamatováno na hygienické zázemí. Výhodou obou komplexů je především klid a rozlehlost.",
+        "POPIS": "<p> Podstatná část zelené plochy ve vnitrobloku ulice Amforové je zasvěcena dětem (<b>42.A</b>). Na několika místech mohou vyzkoušet na 20 atrakcí. Jedná se např. o horolezecké stěny, lanovku, multifunkční prolézací sestavy s mostem a skluzavkami, kyvné točidlo, neobvyklé zařízení pro souboje v páce nebo trefovacího panáka. Oplocen je pouze malý prostor pro nejmenší děti. Povrch hřišť tvoří převážně kačírek nebo písek, část plochy je ve stínu. V areálu najdete také hřiště na malý fotbal a basketbal s umělým povrchem nebo asfaltové plácky. K posezení slouží zajímavě pojaté dřevěné lavičky.</p><p>Nedaleko odtud se ve vnitrobloku (tentokrát ulice Bellušova) rozkládají další hřiště (<b>42.B</b>). Dominuje několik lanových pyramid, delší kovová skluzavka-tobogán nebo velké točidlo-tzv. šibenice. Oplocené je opět pouze hřiště pro nejmenší, tentokrát o něco rozlehlejší, než v Amforové ulici (kolotoč, tabule, houpačka a drobné prvky). Na povrchu leží kačírek nebo písek, stínu je málo. Také zde se nachází sportoviště-hřiště s tribunami a umělým povrchem.</p>",
+        "DOPORUCENI": "Pokud nemáte dost času k návštěvě obou vnitrobloků, zajímavější je patrně ten u Amforové ulice.",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
+        "DOPRAVA": "Autobusy č. <b>174, 214, 225, 230, 249, 256, 301, 352</b>, vše zastávka <b>Amforová</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3287014,
+          50.0428608
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "42.B",
+      "properties": {
+        "NAME": "Sídliště Lužiny - Bellušova",
+        "INFO": "Panelové domy byly na Lužinách často stavěny do kruhu-tzv. rondely. Uvnitř tak vznikl rozlehlý prostor (vnitroblok) osázený zelení. Často se zde nacházejí mateřské školky, dětská hřiště a sportoviště. Protože se jedná o zázemí pro místní obyvatele, nebylo bohužel pamatováno na hygienické zázemí. Výhodou obou komplexů je především klid a rozlehlost.",
+        "POPIS": "<p> Podstatná část zelené plochy ve vnitrobloku ulice Amforové je zasvěcena dětem (<b>42.A</b>). Na několika místech mohou vyzkoušet na 20 atrakcí. Jedná se např. o horolezecké stěny, lanovku, multifunkční prolézací sestavy s mostem a skluzavkami, kyvné točidlo, neobvyklé zařízení pro souboje v páce nebo trefovacího panáka. Oplocen je pouze malý prostor pro nejmenší děti. Povrch hřišť tvoří převážně kačírek nebo písek, část plochy je ve stínu. V areálu najdete také hřiště na malý fotbal a basketbal s umělým povrchem nebo asfaltové plácky. K posezení slouží zajímavě pojaté dřevěné lavičky.</p><p>Nedaleko odtud se ve vnitrobloku (tentokrát ulice Bellušova) rozkládají další hřiště (<b>42.B</b>). Dominuje několik lanových pyramid, delší kovová skluzavka-tobogán nebo velké točidlo-tzv. šibenice. Oplocené je opět pouze hřiště pro nejmenší, tentokrát o něco rozlehlejší, než v Amforové ulici (kolotoč, tabule, houpačka a drobné prvky). Na povrchu leží kačírek nebo písek, stínu je málo. Také zde se nachází sportoviště-hřiště s tribunami a umělým povrchem.</p>",
+        "DOPORUCENI": "Pokud nemáte dost času k návštěvě obou vnitrobloků, zajímavější je patrně ten u Amforové ulice.",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
+        "DOPRAVA": "Autobusy č. <b>174, 214, 225, 230, 249, 256, 301, 352</b>, vše zastávka <b>Amforová</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3229369,
+          50.0426383
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "43.A",
+      "properties": {
+        "NAME": "Hostivařský lesopark (východní část) - hřiště 43.A",
+        "INFO": "Trasa je vhodným polodenním rodinným výletem.",
+        "POPIS": "Popis</b>: Cca 300 m od prodejny Lidl v Hornoměcholupské ulici se na okraji louky rozkládá první hřiště (<b>43.A</b>). Tvoří ho převážně drobné dřevěné prvky, jako autíčka, vláček, kladina, lezecká stěna a domek. Atrakce jsou rozmístěny na lesní půdě a na trávě. Blízké stromy poskytují částečný stín. Dále pokračujte po lesní cestě a na křižovatce cest zahněte doleva. Zanedlouho dorazíte k velké louce, kde se rozkládá hřiště druhé (<b>43.B</b>). Dominantním prvkem je dlouhá lanovka a domek se spirálovitě zatočenou skluzavkou. Pod lanovkou leží písek. K drobným atrakcím patří houpačka a několik dřevěných aut. Atrakce stojí na louce, chybí tedy stín. V&nbsp;horní části louky pak najdete další autíčka a dřevěný vláček (tentokrát pod stromy, ve stínu). Hostivařský lesopark je opravdu rozsáhlý. Vzhledem k tomu, že je protkán celou sítí cest, není lehké se orientovat a můžete i zabloudit. Na cestách se ale pohybuje hodně rekreačních běžců, takže na správnou cestu se jistě doptáte.",
+        "DOPORUCENI": "V lesoparku samozřejmě chybí možnost občerstvení. Z nedostatku proto udělejte přednost a vezměte s sebou zásoby pro piknik. Na loukách i okraji lesa objevíte spoustu krásných míst. Protože se většina atrakcí nalézá na louce, nechoďte sem brzy ráno, kdy je tráva mokrá od rosy!",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Nejbližší možnost představuje supermarket Lidl, u zastávky autobusů <b>Řepčická.</b>",
+        "DOPRAVA": "Autobusy č. <b>125, 175, 183</b>, zastávka <b>Řepčická</b>. Parkovat lze u Lidlu.",
+        "GALERIE": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5428086,
+          50.0456147
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "43.B",
+      "properties": {
+        "NAME": "Hostivařský lesopark (východní část) - hřiště 43.B",
+        "INFO": "Trasa je vhodným polodenním rodinným výletem.",
+        "POPIS": "Popis</b>: Cca 300 m od prodejny Lidl v Hornoměcholupské ulici se na okraji louky rozkládá první hřiště (<b>43.A</b>). Tvoří ho převážně drobné dřevěné prvky, jako autíčka, vláček, kladina, lezecká stěna a domek. Atrakce jsou rozmístěny na lesní půdě a na trávě. Blízké stromy poskytují částečný stín. Dále pokračujte po lesní cestě a na křižovatce cest zahněte doleva. Zanedlouho dorazíte k velké louce, kde se rozkládá hřiště druhé (<b>43.B</b>). Dominantním prvkem je dlouhá lanovka a domek se spirálovitě zatočenou skluzavkou. Pod lanovkou leží písek. K drobným atrakcím patří houpačka a několik dřevěných aut. Atrakce stojí na louce, chybí tedy stín. V&nbsp;horní části louky pak najdete další autíčka a dřevěný vláček (tentokrát pod stromy, ve stínu). Hostivařský lesopark je opravdu rozsáhlý. Vzhledem k tomu, že je protkán celou sítí cest, není lehké se orientovat a můžete i zabloudit. Na cestách se ale pohybuje hodně rekreačních běžců, takže na správnou cestu se jistě doptáte.",
+        "DOPORUCENI": "V lesoparku samozřejmě chybí možnost občerstvení. Z nedostatku proto udělejte přednost a vezměte s sebou zásoby pro piknik. Na loukách i okraji lesa objevíte spoustu krásných míst. Protože se většina atrakcí nalézá na louce, nechoďte sem brzy ráno, kdy je tráva mokrá od rosy!",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Nejbližší možnost představuje supermarket Lidl, u zastávky autobusů <b>Řepčická.</b>",
+        "DOPRAVA": "Autobusy č. <b>125, 175, 183</b>, zastávka <b>Řepčická</b>. Parkovat lze u Lidlu.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5398911,
+          50.0437322
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "44.A",
+      "properties": {
+        "NAME": "Dubeč - hřiště 44.A",
+        "INFO": "Městská část Praha Dubeč disponuje hezčím dětským hřištěm (pro všechny věkové kategorie dětí) než mnohé větší městské části. V areálu se také nachází několik sportovišť.",
+        "POPIS": "<p>Za budovou, v níž sídlí pošta a městská policie, se rozkládá několik hřišť. Dětské hřiště (<b>44.A</b>) má převážně dřevěné vybavení (provedené z masivních kůlů) a mohlo by aspirovat na titul „nejkrásnější dřevěné hřiště v Praze“. Skládá se z několika částí. Jedna je ohrazená nevysokým kolovým plotem, další prvky jsou rozptýlené kolem. Celkem můžeme napočítat na dvacet atrakcí. Děti mají k dispozici několik domků (některé jsou spojené se skluzavkou a šplhacími prvky), most, strážní věž, skluzavku na svahu, různě velké pavoučí sítě, horolezeckou stěnu, kladiny, houpačky atd. Na ploše je položen kačírek. Bohužel chybí stín. Na trávě u hřiště si také můžete zacvičit na třech fitness strojích.V bezprostřední blízkosti se nachází multifunkční hřiště (fotbal, volejbal, basketbal, nohejbal) s umělým povrchem a menší skate park. Kromě toho si také lze zahrát na venkovním stole ping-pong a děti mohou zkusit zdolat cca 3 metry vysokou boulderovací stěnu.</p><p>Na okraji obce, v ulici U Lipové aleje, najdeme ještě jedno poměrně nové hřiště (<b>44.B</b>) standardní velikosti (asi 10 klasických prvků). Nedaleko od něj se nachází zahrada, kde majitelé chovají ovce, černé vepře a několik druhů drůbeže.</p>",
+        "DOPORUCENI": "Pokud zbude čas, navštivte nový park (severovýchodní část obce u dubečské tvrze), vybudovaný za desítky milionů Kč. Uvidíte amfiteátr, místo dalekého rozhledu, upravené arboretum, rybníček a národní kulturní památka - rekonstruovaný objekt špýcharu.",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Nedaleko (u místní školy) leží restaurace a v bezprostřední blízkosti hřiště <b>44.A </b>supermarket.",
+        "DOPRAVA": "Autobusy <b>111, 240, 329</b>, zastávka <b>Škola Dubeč</b>. Pokud pojedete od Dolních Měcholup, nejbližší zastávkou je stanice <b>Za Pavilonem</b>. Parkovat lze i přímo u hřiště.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5877569,
+          50.0615544
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "44.B",
+      "properties": {
+        "NAME": "Dubeč - hřiště 44.B",
+        "INFO": "Městská část Praha Dubeč disponuje hezčím dětským hřištěm (pro všechny věkové kategorie dětí) než mnohé větší městské části. V areálu se také nachází několik sportovišť.",
+        "POPIS": "<p>Za budovou, v níž sídlí pošta a městská policie, se rozkládá několik hřišť. Dětské hřiště (<b>44.A</b>) má převážně dřevěné vybavení (provedené z masivních kůlů) a mohlo by aspirovat na titul „nejkrásnější dřevěné hřiště v Praze“. Skládá se z několika částí. Jedna je ohrazená nevysokým kolovým plotem, další prvky jsou rozptýlené kolem. Celkem můžeme napočítat na dvacet atrakcí. Děti mají k dispozici několik domků (některé jsou spojené se skluzavkou a šplhacími prvky), most, strážní věž, skluzavku na svahu, různě velké pavoučí sítě, horolezeckou stěnu, kladiny, houpačky atd. Na ploše je položen kačírek. Bohužel chybí stín. Na trávě u hřiště si také můžete zacvičit na třech fitness strojích.V bezprostřední blízkosti se nachází multifunkční hřiště (fotbal, volejbal, basketbal, nohejbal) s umělým povrchem a menší skate park. Kromě toho si také lze zahrát na venkovním stole ping-pong a děti mohou zkusit zdolat cca 3 metry vysokou boulderovací stěnu.</p><p>Na okraji obce, v ulici U Lipové aleje, najdeme ještě jedno poměrně nové hřiště (<b>44.B</b>) standardní velikosti (asi 10 klasických prvků). Nedaleko od něj se nachází zahrada, kde majitelé chovají ovce, černé vepře a několik druhů drůbeže.</p>",
+        "DOPORUCENI": "Pokud zbude čas, navštivte nový park (severovýchodní část obce u dubečské tvrze), vybudovaný za desítky milionů Kč. Uvidíte amfiteátr, místo dalekého rozhledu, upravené arboretum, rybníček a národní kulturní památka - rekonstruovaný objekt špýcharu.",
+        "SOCIALNI": "Voda ne. WC ne.",
+        "OBCERSTVENI": "Nedaleko (u místní školy) leží restaurace a v bezprostřední blízkosti hřiště <b>44.A </b>supermarket.",
+        "DOPRAVA": "Autobusy <b>111, 240, 329</b>, zastávka <b>Škola Dubeč</b>. Pokud pojedete od Dolních Měcholup, nejbližší zastávkou je stanice <b>Za Pavilonem</b>. Parkovat lze i přímo u hřiště.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5788572,
+          50.0583022
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "59.A",
+      "properties": {
+        "NAME": "Židovské pece - Židovské pece 2",
+        "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
+        "POPIS": "<p>Nejlepší bude, pokud půjdete ulicí Strážní, až narazíte na park. V parku (na konci ulice) leží těsně u sebe dvě hřiště (<b>59.A a 59.B</b>). Hřiště (<b>59.A</b>) se jmenuje Židovské pece 2. Na převážně pískové ploše nerostou stromy, takže chybí stín. Dominantní atrakci představuje mohutná lanová osmi-úhelníková sestava (oktagon). Kromě toho tu uvidíte pouze několik drobných prvků. Cca 50 m od něj leží hřiště <b>59.B</b> (Židovské pece 1) určené spíše mladším dětem. Na poměrně velké ploše převládá písek, pod atrakcemi jsou pryžové desky a také tady chybí stín. K atrakcím patří houpačky, houpadla a lezecká sestava menší velikosti. Půjdete-li dál, směrem k&nbsp;ulici Jana Želivského, na konci parku narazíte na malé hřišťátko (<b>59.C</b>-Jilmová). Stojí zde pouze multifunkční sestava, skluzavka a houpadlo. Povrch tvoří písek a pryžové desky a stromy poskytují částečný stín. V parku bylo vybudováno několik posezení a u některých vysázeli růžové keře. Vede tady cyklostezka a byl vybudován i malý amfiteátr s kameny.</p><p>Popisovaná trasa se hodí pro malé cyklisty. Nejen proto, že jednotlivá hřiště spojuje zmíněná cyklostezka! Na&nbsp;konci parku, směrem k ulici Ambrožova, se totiž rozkládá dopravní hřiště (<b>59.D</b>). Zajímavou atrakci představuje např. obrázek vlaku, který vyjíždí z tunelu a tomu přizpůsobené dopravní značení nebo funkční semafory. V areálu najdete také pískoviště, krátký opičí most či houpadlo. Pro veřejnost je hřiště otevřeno od&nbsp;dubna do&nbsp;října (14 až 19 hodin).</p>",
+        "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
+        "SOCIALNI": "Voda ano-hydrant-hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
+        "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+        "GALERIE": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4812222,
+          50.0897189
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "59.B",
+      "properties": {
+        "NAME": "Židovské pece - Židovské pece 1",
+        "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
+        "POPIS": "<p>Nejlepší bude, pokud půjdete ulicí Strážní, až narazíte na park. V parku (na konci ulice) leží těsně u sebe dvě hřiště (<b>59.A a 59.B</b>). Hřiště (<b>59.A</b>) se jmenuje Židovské pece 2. Na převážně pískové ploše nerostou stromy, takže chybí stín. Dominantní atrakci představuje mohutná lanová osmi-úhelníková sestava (oktagon). Kromě toho tu uvidíte pouze několik drobných prvků. Cca 50 m od něj leží hřiště <b>59.B</b> (Židovské pece 1) určené spíše mladším dětem. Na poměrně velké ploše převládá písek, pod atrakcemi jsou pryžové desky a také tady chybí stín. K atrakcím patří houpačky, houpadla a lezecká sestava menší velikosti. Půjdete-li dál, směrem k&nbsp;ulici Jana Želivského, na konci parku narazíte na malé hřišťátko (<b>59.C</b>-Jilmová). Stojí zde pouze multifunkční sestava, skluzavka a houpadlo. Povrch tvoří písek a pryžové desky a stromy poskytují částečný stín. V parku bylo vybudováno několik posezení a u některých vysázeli růžové keře. Vede tady cyklostezka a byl vybudován i malý amfiteátr s kameny.</p><p>Popisovaná trasa se hodí pro malé cyklisty. Nejen proto, že jednotlivá hřiště spojuje zmíněná cyklostezka! Na&nbsp;konci parku, směrem k ulici Ambrožova, se totiž rozkládá dopravní hřiště (<b>59.D</b>). Zajímavou atrakci představuje např. obrázek vlaku, který vyjíždí z tunelu a tomu přizpůsobené dopravní značení nebo funkční semafory. V areálu najdete také pískoviště, krátký opičí most či houpadlo. Pro veřejnost je hřiště otevřeno od&nbsp;dubna do&nbsp;října (14 až 19 hodin).</p>",
+        "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
+        "SOCIALNI": "Voda ano-hydrant-hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
+        "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4803583,
+          50.0894358
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "59.C",
+      "properties": {
+        "NAME": "Židovské pece - Jilmová",
+        "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
+        "POPIS": "<p>Nejlepší bude, pokud půjdete ulicí Strážní, až narazíte na park. V parku (na konci ulice) leží těsně u sebe dvě hřiště (<b>59.A a 59.B</b>). Hřiště (<b>59.A</b>) se jmenuje Židovské pece 2. Na převážně pískové ploše nerostou stromy, takže chybí stín. Dominantní atrakci představuje mohutná lanová osmi-úhelníková sestava (oktagon). Kromě toho tu uvidíte pouze několik drobných prvků. Cca 50 m od něj leží hřiště <b>59.B</b> (Židovské pece 1) určené spíše mladším dětem. Na poměrně velké ploše převládá písek, pod atrakcemi jsou pryžové desky a také tady chybí stín. K atrakcím patří houpačky, houpadla a lezecká sestava menší velikosti. Půjdete-li dál, směrem k&nbsp;ulici Jana Želivského, na konci parku narazíte na malé hřišťátko (<b>59.C</b>-Jilmová). Stojí zde pouze multifunkční sestava, skluzavka a houpadlo. Povrch tvoří písek a pryžové desky a stromy poskytují částečný stín. V parku bylo vybudováno několik posezení a u některých vysázeli růžové keře. Vede tady cyklostezka a byl vybudován i malý amfiteátr s kameny.</p><p>Popisovaná trasa se hodí pro malé cyklisty. Nejen proto, že jednotlivá hřiště spojuje zmíněná cyklostezka! Na&nbsp;konci parku, směrem k ulici Ambrožova, se totiž rozkládá dopravní hřiště (<b>59.D</b>). Zajímavou atrakci představuje např. obrázek vlaku, který vyjíždí z tunelu a tomu přizpůsobené dopravní značení nebo funkční semafory. V areálu najdete také pískoviště, krátký opičí most či houpadlo. Pro veřejnost je hřiště otevřeno od&nbsp;dubna do&nbsp;října (14 až 19 hodin).</p>",
+        "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
+        "SOCIALNI": "Voda ano-hydrant-hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
+        "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+        "GALERIE": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4779728,
+          50.0890028
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "59.D",
+      "properties": {
+        "NAME": "Židovské pece - dopravní hřiště",
+        "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
+        "POPIS": "<p>Nejlepší bude, pokud půjdete ulicí Strážní, až narazíte na park. V parku (na konci ulice) leží těsně u sebe dvě hřiště (<b>59.A a 59.B</b>). Hřiště (<b>59.A</b>) se jmenuje Židovské pece 2. Na převážně pískové ploše nerostou stromy, takže chybí stín. Dominantní atrakci představuje mohutná lanová osmi-úhelníková sestava (oktagon). Kromě toho tu uvidíte pouze několik drobných prvků. Cca 50 m od něj leží hřiště <b>59.B</b> (Židovské pece 1) určené spíše mladším dětem. Na poměrně velké ploše převládá písek, pod atrakcemi jsou pryžové desky a také tady chybí stín. K atrakcím patří houpačky, houpadla a lezecká sestava menší velikosti. Půjdete-li dál, směrem k&nbsp;ulici Jana Želivského, na konci parku narazíte na malé hřišťátko (<b>59.C</b>-Jilmová). Stojí zde pouze multifunkční sestava, skluzavka a houpadlo. Povrch tvoří písek a pryžové desky a stromy poskytují částečný stín. V parku bylo vybudováno několik posezení a u některých vysázeli růžové keře. Vede tady cyklostezka a byl vybudován i malý amfiteátr s kameny.</p><p>Popisovaná trasa se hodí pro malé cyklisty. Nejen proto, že jednotlivá hřiště spojuje zmíněná cyklostezka! Na&nbsp;konci parku, směrem k ulici Ambrožova, se totiž rozkládá dopravní hřiště (<b>59.D</b>). Zajímavou atrakci představuje např. obrázek vlaku, který vyjíždí z tunelu a tomu přizpůsobené dopravní značení nebo funkční semafory. V areálu najdete také pískoviště, krátký opičí most či houpadlo. Pro veřejnost je hřiště otevřeno od&nbsp;dubna do&nbsp;října (14 až 19 hodin).</p>",
+        "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
+        "SOCIALNI": "Voda ano-hydrant-hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
+        "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
+        "DOPRAVA": "Tramvaje č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4742525,
+          50.0878347
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "76",
+      "properties": {
+        "NAME": "Chodovská tvrz",
+        "INFO": "V parku, který se rozkládá kolem bývalé vodní tvrze si najde zábavou celá rodina.",
+        "POPIS": "<p>V areálu (<b>76</b>) se nachází dětské hřiště, minigolf, discgolf, restaurace i několik soch. Dětské hřiště leží v bezprostřední blízkosti restaurace Pavlovín, takže návštěvu areálu můžete pojmout jako posezení s přáteli a nad dětmi neztratíte dohled. Vlastní hřiště je oplocené a tvoří ho menší lanová pyramida, houpačky, kolotoč, prvky k procvičení rovnováhy, lezecké sestavy, skluzavka atd. Na povrchu leží kačírek a hřiště postrádá stín. Dětské atrakce jsou také skryté za stromy, v části parku, která přiléhá ke kostelu Jany Milíče z Kroměříže. Můžete zkusit velké houpadlo Hags, multifunkční sestavu se skluzavkou, kolotoč, houpačku typu „hnízdo“ aj. Některé atrakce jsou oploceny nízkým plotem, jiné jsou bez oplocení. Na povrchu leží písek a stromy poskytují dostatek stínu.</p><p>Hlavním lákadlem pro návštěvu areálu možná bude krásný minigolf. Vybavení si můžete zapůjčit na vratnou zálohu v restauraci. Totéž platí i pro vybavení na discgolf. Koše pro tuto hru jsou rozmístěné po parku. Pokud si chcete zahrát minigolf nebo discgolf je vhodné navštívit areál až po 11. hodině, kdy se otevírá restaurace. K vybavení komplexu také patří moderní cvičební stroje. Strojů je asi půltucet a kromě toho si lze zacvičit např. na hrazdě. Pod stroji jsou pryžové desky nebo kačírek. V parku je rozmístěno několik soch. Největší se jmenuje „Památník svobody“ a byla osazena před několika lety. Čtyři další, které mohou připomínat sochy z&nbsp;Velikonočního ostrova, si prohlédněte u vstupu do Chodovské tvrze. Sama tvrz je zajímavým objektem, který děti pravděpodobně zaujme.</p>",
+        "DOPORUCENI": "V areálu Chodovské tvrze se pořádají výstavy, koncerty, hrají se představení pro děti atd. <br>Více informací na: <a href='http://www.chodovskatvrz.cz/' target='_blank'>www.chodovskatvrz.cz</a> ",
+        "SOCIALNI": "Voda ano-hydrant, chemické WC.",
+        "OBCERSTVENI": "Restaurace Pavlovín v areálu.",
+        "DOPRAVA": "Autobusy č. <b>170, 177, 181, 197</b>, zastávka <b>Benkova</b>. Parkování u tvrze.",
+        "GALERIE": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4980531,
+          50.0368672
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "78",
+      "properties": {
+        "NAME": "Řepy",
+        "INFO": "Městská část Řepy disponuje pěknými hřišti. Jedno z nich, navíc určené i seniorům, se rozkládá ve čtvrti Blatiny, nedaleko ulic Bendova a Španielova.",
+        "POPIS": "Hřiště (<b>78</b>) se nalézá mezi stromy, takže komplex působí jako park. Na ploše je rozmístěno asi tucet atrakcí. Jedná se především o několik domků se skluzavkami a šplhacími prvky, houpačky (včetně typu hnízdo), houpadla atd. Většina atrakcí byla vyrobena ze dřeva. Povrch hřiště tvoří tráva a písek, stromy poskytují částečný stín. Stojí zde také dřevěné pergoly. Specifické je, že z jedné strany hřiště není plot, ale budova městského úřadu, v níž jsou toalety pro návštěvníky. Od listopadu do konce března jsou ale uzavřeny. K vybavení areálu také patří moderní cvičební stroje nejen pro seniory. Jedná se o tzv. program ''LifeTrail'', který vyvinuli lékaři a fyzioterapeuti k procvičení kloubů a svalů celého tělo. Na každém ze strojů si přečtěte podrobný návod ke cvičení.",
+        "DOPORUCENI": "Pokud hrajete bowling, kousek od zastávky Blatiny můžete využít bowlingové centrum spojené s restaurací.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "U zastávky tramvají <b>Blatiny</b> najdete restaurace, cukrárnu, pekárnu, supermarket atd.",
+        "DOPRAVA": "Tramvaje č. <b>9, 10</b>, autobus č. <b>180</b>, zastávka <b>Blatiny</b>. Parkování u hřiště.",
+        "GALERIE": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3048886,
+          50.0670850
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "72.A",
+      "properties": {
+        "NAME": "Černý Most - hřiště 72.A",
+        "INFO": "Na sídlišti Černý Most můžete nedaleko sebe navštívit dva menší areály s dětskými hřišti.",
+        "POPIS": "<p>V zeleni u panelových domů, mezi ulicemi Breitcetlova a Šebelova (u mateřské školky), se rozkládá první areál (<b>72.A</b>). Starší děti a dospělí mohou zkusit půltucet fitness prvků z ohýbaných trubek. Kromě toho zde stojí ping-pongový stůl s kovovou síťkou. Mladší děti tady najdou několik houpaček, pískoviště a dvě skluzavky. Atrakce nejsou oplocené, na povrchu leží písek a pod fitness prvky pryžové desky. Stín chybí.</p><p>O pár set metrů dál, u Náměstí plukovníka Vlčka, se nachází druhý o něco větší, také neoplocený areál (<b>72.B</b>). Vyzkoušet lze houpačky dvou typů, moderní multifunkční sestavy, domek pro nejmenší, točidlo a&nbsp;houpadla. Také zde leží na povrchu písek a plocha je bez stínu. Součástí areálu je oplocená sportovní plocha s umělým povrchem a stěnou pro nácvik tenisu. Na Náměstí plukovníka Vlčka najdete obchod společnosti Duha, která se zabývá integrací osob s mentálním postižením. Jejich výrobky, ze kterých budou mít děti určitě radost, tady můžete zakoupit. Jedná se např. o drobné šperky nebo keramiku. <br>Více informací na: <a href='http://www.spolecnostduha.cz/' target='_blank'>www.spolecnostduha.cz</a></p>",
+        "DOPORUCENI": "Pokud budete mít více času, doporučujeme velmi netradiční procházku po tubusu metra, které je mezi stanicemi Černý Most a Rajská zahrada vedeno nad povrchem. Čeká vás opravdu nevšední zážitek!",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U stanice autobusů Breitcetlova se rozkládá sídlištní nákupní centrum s restaurací a supermarket.",
+        "DOPRAVA": "Autobusy č. <b>223, 273, 296</b>, zastávka <b>Breitcetlova</b>. Parkovat můžete na sídlišti.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5722767,
+          50.1054514
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "72.B",
+      "properties": {
+        "NAME": "Černý Most - hřiště 72.B",
+        "INFO": "Na sídlišti Černý Most můžete nedaleko sebe navštívit dva menší areály s dětskými hřišti.",
+        "POPIS": "<p>V zeleni u panelových domů, mezi ulicemi Breitcetlova a Šebelova (u mateřské školky), se rozkládá první areál (<b>72.A</b>). Starší děti a dospělí mohou zkusit půltucet fitness prvků z ohýbaných trubek. Kromě toho zde stojí ping-pongový stůl s kovovou síťkou. Mladší děti tady najdou několik houpaček, pískoviště a dvě skluzavky. Atrakce nejsou oplocené, na povrchu leží písek a pod fitness prvky pryžové desky. Stín chybí.</p><p>O pár set metrů dál, u Náměstí plukovníka Vlčka, se nachází druhý o něco větší, také neoplocený areál (<b>72.B</b>). Vyzkoušet lze houpačky dvou typů, moderní multifunkční sestavy, domek pro nejmenší, točidlo a&nbsp;houpadla. Také zde leží na povrchu písek a plocha je bez stínu. Součástí areálu je oplocená sportovní plocha s umělým povrchem a stěnou pro nácvik tenisu. Na Náměstí plukovníka Vlčka najdete obchod společnosti Duha, která se zabývá integrací osob s mentálním postižením. Jejich výrobky, ze kterých budou mít děti určitě radost, tady můžete zakoupit. Jedná se např. o drobné šperky nebo keramiku. <br>Více informací na: <a href='http://www.spolecnostduha.cz/' target='_blank'>www.spolecnostduha.cz</a></p>",
+        "DOPORUCENI": "Pokud budete mít více času, doporučujeme velmi netradiční procházku po tubusu metra, které je mezi stanicemi Černý Most a Rajská zahrada vedeno nad povrchem. Čeká vás opravdu nevšední zážitek!",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U stanice autobusů Breitcetlova se rozkládá sídlištní nákupní centrum s restaurací a supermarket.",
+        "DOPRAVA": "Autobusy č. <b>223, 273, 296</b>, zastávka <b>Breitcetlova</b>. Parkovat můžete na sídlišti.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5759833,
+          50.1045931
         ]
       }
     }
