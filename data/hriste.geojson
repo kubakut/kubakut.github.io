@@ -193,7 +193,7 @@
     },
     {
       "type": "Feature",
-      "id": "4.A",
+      "id": "4.B",
       "properties": {
         "NAME": "Na Františku - komplex v Masné ulici",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -214,7 +214,7 @@
     },
     {
       "type": "Feature",
-      "id": "4.B",
+      "id": "4.A",
       "properties": {
         "NAME": "Na Františku - komplex Na Františku",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -240,7 +240,7 @@
         "NAME": "U Vodárny, Praha 2",
         "INFO": "Hřiště U Vodárny <b>(5)</b> patří k nejkrásnějším v Praze a po právu také získalo titul  „Nejlepší dřevěné hřiště“.",
         "POPIS": "Nepřehlédnutelnou dominantu představuje ústřední hrací prvek ve tvaru věže, která  ve zmenšeném měřítku kopíruje nedalekou věž vodárenskou. Věž je spojená se skluzavkou sítěmi, šplhadly a lanovkou. Kromě toho najdeme v komplexu více než deset dalších prvků-houpačku „hnízdo“, různá houpadla atd.  Většina z nich (včetně stojanů na kola) je samozřejmě vyrobena ze dřeva. Povrch hřiště pokrývá litá guma.  Areál obklopují vzrostlé stromy, ale většina atrakcí stojí mimo stín. V samostatné části se nachází velká trampolína  ve tvaru obloukové střechy a hřiště na basketbal nebo malý fotbal.  Na hřišti také stojí domek správce a toalety. U správce si můžete vypůjčit míče. Před vstupem lze využít úvaziště pro psy. Vzhledem k tomu, že hřiště je součástí sportovního komplexu, jeho návštěva je vhodná i pro rodiny se staršími dětmi.",
-        "DOPORUCENI": "Na dohled (u stanice tramvaje) si povšimněte originální vodárenské věžeNa dohled (u stanice tramvaje) si povšimněte originální vodárenské věže  a srovnejte její podobu s replikou na hřišti.",
+        "DOPORUCENI": "Na dohled (u stanice tramvaje) si povšimněte originální vodárenské věže a srovnejte její podobu s replikou na hřišti.",
         "SOCIALNI": "Voda ano, WC ano.",
         "OBCERSTVENI": "V bezprostředním okolí je několik restaurací, včetně indické.  Na Vinohradské ulici můžete navštívit také pizzerii vybavenou dětským koutkem.",
         "DOPRAVA": "Tramvaje č. <b>10</b> a <b>16</b>, stanice <b>Vinohradská vodárna</b>. Možnost parkovat máte v přilehlých ulicích. Stání ale bývají obsazená.",
@@ -260,7 +260,7 @@
       "properties": {
         "NAME": "Kostelní",
         "INFO": "Na okraji Letenských sadů leží rozlehlý areál určený spíše starším dětem.",
-        "POPIS": ": Dětské hřiště <b>(6)</b> je situováno mezi Kostelní ulicí a Letenskými sady. Hlavní vchod je z Kostelní, ale dostanete se sem i zadní brankou z parku. Rozlehlá plocha je porostlá trávou, pod atrakcemi leží kačírek. Na okrajích hřiště rostou stromy, které poskytují částečný stín. Hracích prvků je asi deset. Dominantu představuje mohutná lanová lezecká sestava  se skluzavkou a lanová pyramida. Kromě toho zde najdete několik houpaček a menších multifunkčních sestav. Ve spodní části areálu se rozkládá rozlehlá asfaltová sportovní plocha  se čtyřmi koši na basketbal a brankami na malou kopanou. V rohu areálu stojí opuštěný objekt, kde zřejmě pobýval správce. Protože se hřiště svažuje a pokrývá ho převážně tráva, není vhodné ho navštěvovat za vlhkého počasí. Na okraji parku, cca 100 od hřiště, můžete obdivovat panorama Prahy. Je odtud opravdu krásný výhled a děti potěší i parníky na Vltavě. Zájemci o architektury si mohou prohlédnout technickou památku „Restauraci EXPO 58“, která nás reprezentovala na Světové výstavě v Bruselu v roce 1958.",
+        "POPIS": "Dětské hřiště <b>(6)</b> je situováno mezi Kostelní ulicí a Letenskými sady. Hlavní vchod je z Kostelní, ale dostanete se sem i zadní brankou z parku. Rozlehlá plocha je porostlá trávou, pod atrakcemi leží kačírek. Na okrajích hřiště rostou stromy, které poskytují částečný stín. Hracích prvků je asi deset. Dominantu představuje mohutná lanová lezecká sestava  se skluzavkou a lanová pyramida. Kromě toho zde najdete několik houpaček a menších multifunkčních sestav. Ve spodní části areálu se rozkládá rozlehlá asfaltová sportovní plocha  se čtyřmi koši na basketbal a brankami na malou kopanou. V rohu areálu stojí opuštěný objekt, kde zřejmě pobýval správce. Protože se hřiště svažuje a pokrývá ho převážně tráva, není vhodné ho navštěvovat za vlhkého počasí. Na okraji parku, cca 100 od hřiště, můžete obdivovat panorama Prahy. Je odtud opravdu krásný výhled a děti potěší i parníky na Vltavě. Zájemci o architektury si mohou prohlédnout technickou památku „Restauraci EXPO 58“, která nás reprezentovala na Světové výstavě v Bruselu v roce 1958.",
         "DOPORUCENI": "V Kostelní ulici stojí budova Národního technického muzea. Více informací najdete na: <a href='http://www.ntm.cz/cs/' target='_blank'>www.ntm.cz</a>",
         "SOCIALNI": "Voda ano-hydrant, chemické WC.",
         "OBCERSTVENI": "Lokalita nabízí širokou škálu možností. Nejvíce obchodů a restaurací najdete  na ulici Milady Horákové, ale najíst se lze i v nedalekém Letenském zámečku.",
@@ -305,7 +305,7 @@
         "POPIS": "Vyšehrad je místo, kterým tzv. „kráčela historie“. Proto nepřekvapí, že dětské hřiště (určené spíše mladším dětem) připomíná staroslovanské hradiště a říká se mu „Ze starých pověstí českých“ <b>(8)</b>. Prvky jsou provedeny ze dřeva a najdeme tady především různé typy prolézacích domků a houpadel. Nechybí ale ani dvě lanovky (jedna uvnitř hradiště, druhá  o pár desítek metrů dál). Na „Staré pověsti české“ upomínají dřevěné sošky, zpodobňující bájné postavy naší historie, např. Přemysla Oráče. U kasemat Gorlice se rozkládá ještě jedno hřiště, tvořené pouze točidlem, takže za návštěvu nestojí. ",
         "DOPORUCENI": "Vyšehrad, to je ale hlavně pevnost, náboženské centrum a pohřebiště známých osobností. Nic z toho byste si neměli nechat ujít a prohlídce byste měli věnovat alespoň půl dne. Více o areálu na: <a href='http://www.praha-vysehrad.cz' target='_blank'>www.praha-vysehrad.cz</a> Z hradeb je velkolepý panoramatický výhled na Prahu. V celou hodinu se můžete zaposlouchat do melodie zvonů Kapitulního chrámu sv. Petra a Pavla. Dětem se bude líbit  i možnost projít si chodby v hradbách. A pokud bude pěkné počasí, zelené plochy vybízí k pikniku.",
         "SOCIALNI": "Voda ano (u dětského hřiště a na několika dalších místech areálu), veřejné WC u chrámu.",
-        "OBCERSTVENI": ": V areálu je několik možností: zahradní restaurace, kavárny i rychlé občerstvení. V Barbecue restaurantu u rotundy mají dětské židle.",
+        "OBCERSTVENI": "V areálu je několik možností: zahradní restaurace, kavárny i rychlé občerstvení. V Barbecue restaurantu u rotundy mají dětské židle.",
         "DOPRAVA": "Metro <b>C</b>, stanice <b>Vyšehrad</b>. Parkovací možnosti jsou omezené (parkuje se např. v ulici Čiklova).",
         "GALERIE": 11
       },
@@ -319,7 +319,7 @@
     },
     {
       "type": "Feature",
-      "id": "9.A",
+      "id": "9.B",
       "properties": {
         "NAME": "Gröbovka - hřiště Bezručovy sady ",
         "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
@@ -340,7 +340,7 @@
     },
     {
       "type": "Feature",
-      "id": "9.B",
+      "id": "9.A",
       "properties": {
         "NAME": "Gröbovka - hřiště Havlíčkovy sady",
         "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
@@ -471,7 +471,7 @@
         "NAME": "Vítkov - Vítkov 1",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
         "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
-        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>. Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
@@ -492,7 +492,7 @@
         "NAME": "Vítkov - Vítkov 2",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
         "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
-        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>.  Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
@@ -513,7 +513,7 @@
         "NAME": "Vítkov - Vítkov pro mládež a dospělé",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
         "POPIS": "Děti si mohou pohrát na několika menších hřištích. První, od ulice Pražačka  <b>(Vítkov 2-13.B)</b>, je neoplocené a krom několika drobných atrakcí ho tvoří nápaditý soubor čtyř lanových pyramid vzájemně propojených provazy.  Budete-li pokračovat parkem směrem k „Památníku národního osvobození“, dojdete záhy k malému oplocenému hřišti s několika drobnými prvky a pískovištěm <b>(Vítkov 1-13.A)</b>, jež je určeno nejmenším.  Půjdete-li dál, v parku naleznete několik velkých houpaček <b>(Vítkov pro mládež a dospělé-13.C)</b>.  Povrch hřišť tvoří převážně kačírek a písek. Před parkovištěm u Památníku, u tunelu pro pěší, můžete vyzkoušet posilovnu pod širým nebem, tvořenou několika prvky z ohýbaných trubek.",
-        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
+        "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou  Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>. Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
         "SOCIALNI": "Voda ano - Vítkov 2 <b>(hřiště 13.B)</b>, WC ne (možnost využít toaletu v Památníku).",
         "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
         "DOPRAVA": "Tramvaje č. <b>1, 9,</b> autobusy č. <b>133, 136, 207</b> vše zastávka <b>Ohrada</b>.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
