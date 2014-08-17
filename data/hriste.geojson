@@ -1823,7 +1823,7 @@
         "SOCIALNI": "Voda ano, chemické WC.",
         "OBCERSTVENI": "Nejbližší možnost představuje zázemí stanice metra Kobylisy nebo zastávka autobusu Šimůnkova.",
         "DOPRAVA": "Autobusy č. <b>136 a 295</b>, zastávka Bojasova. Zaparkovat lze u Kobyliské střelnice.",
-        "GALERIE": 50
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -1844,7 +1844,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "Kompletní zázemí představuje stanice metra C-Kobylisy.",
         "DOPRAVA": "Autobus <b>162, 169, 183</b>, stanice <b>Mirovická<b>. Parkování je možné v ulicích na sídlišti.",
-        "GALERIE": 2000
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
@@ -1865,7 +1865,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
         "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
-        "GALERIE": 62
+        "GALERIE": 9
       },
       "geometry": {
         "type": "Point",
@@ -1886,7 +1886,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
         "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
-        "GALERIE": 622
+        "GALERIE": 2
       },
       "geometry": {
         "type": "Point",
@@ -1907,7 +1907,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "Restaurace Mlejn, v KD Mlejn.",
         "DOPRAVA": "Autobusy <b>137 a 174</b>, stanice <b>Mládí</b>. Parkovat můžete v okolních ulicích.",
-        "GALERIE": 54
+        "GALERIE": 10
       },
       "geometry": {
         "type": "Point",
@@ -1928,7 +1928,7 @@
         "SOCIALNI": "Voda ne, chemické WC (vně hřiště na Butovické ulici)",
         "OBCERSTVENI": "U autobusové zastávky Karlštejnská stojí restaurace a několik malých obchodů.",
         "DOPRAVA": "Autobus <b>176</b>, zastávka <b>Karlštejnská</b>. Parkování v ulicích nebo u tenisového areálu.",
-        "GALERIE": 51
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -1949,7 +1949,7 @@
         "SOCIALNI": "Voda ano-hydrant-obě hřiště, WC ne (využít lze veřejné WC u hřiště na Kampě za poplatek).",
         "OBCERSTVENI": "V blízkosti hřišť leží několik restaurací, ale všechny jsou velmi drahé. V Mostecké ulici se nachází pizzerie jako fast food a McDonald. ",
         "DOPRAVA": "Pro hřiště Kampa: tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Pro hřiště u Karlova mostu je bližší stanice <b>Malostranské náměstí</b> - tramvaje č. <b>12, 20 a 22</b>. Možnost parkování je pro „přespolní“ prakticky vyloučena.",
-        "GALERIE": 63
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -1970,7 +1970,7 @@
         "SOCIALNI": "Voda ano-hydrant-obě hřiště, WC ne (využít lze veřejné WC u hřiště na Kampě za poplatek).",
         "OBCERSTVENI": "V blízkosti hřišť leží několik restaurací, ale všechny jsou velmi drahé. V Mostecké ulici se nachází pizzerie jako fast food a McDonald. ",
         "DOPRAVA": "Pro hřiště Kampa: tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Pro hřiště u Karlova mostu je bližší stanice <b>Malostranské náměstí</b> - tramvaje č. <b>12, 20 a 22</b>. Možnost parkování je pro „přespolní“ prakticky vyloučena.",
-        "GALERIE": 633
+        "GALERIE": 6
       },
       "geometry": {
         "type": "Point",
