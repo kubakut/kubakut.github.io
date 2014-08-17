@@ -1823,7 +1823,7 @@
         "SOCIALNI": "Voda ano, chemické WC.",
         "OBCERSTVENI": "Nejbližší možnost představuje zázemí stanice metra Kobylisy nebo zastávka autobusu Šimůnkova.",
         "DOPRAVA": "Autobusy č. <b>136 a 295</b>, zastávka Bojasova. Zaparkovat lze u Kobyliské střelnice.",
-        "GALERIE": 6
+        "GALERIE": 50
       },
       "geometry": {
         "type": "Point",
@@ -1844,7 +1844,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "Kompletní zázemí představuje stanice metra C-Kobylisy.",
         "DOPRAVA": "Autobus <b>162, 169, 183</b>, stanice <b>Mirovická<b>. Parkování je možné v ulicích na sídlišti.",
-        "GALERIE": 6
+        "GALERIE": 2000
       },
       "geometry": {
         "type": "Point",
@@ -1865,7 +1865,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
         "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
-        "GALERIE": 62.A
+        "GALERIE": 62
       },
       "geometry": {
         "type": "Point",
@@ -1886,7 +1886,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
         "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
-        "GALERIE": 62.B
+        "GALERIE": 622
       },
       "geometry": {
         "type": "Point",
