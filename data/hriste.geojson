@@ -1916,6 +1916,70 @@
           50.0518189
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "51",
+      "properties": {
+        "NAME": "Jinonice - Butovická ulice",
+        "INFO": "V parku, vedle tenisového areálu a rybníka, najdete menší hřiště, jehož návštěva je ideální volbou pro milovníky tenisu.",
+        "POPIS": "Oplocené hřiště (<b>51</b>) s necelou desítkou prvků se rozkládá mezi stromy u tenisového areálu, na Butovické ulici. Nejvýrazněji působí velký multifunkční dřevěný domek. Dále zde uvidíte malý kolotoč, houpačky atd. Na povrchu hřiště leží písek a stromy poskytují stín. V zadní části parčíku stojí poněkud zašlý betonový stůl na ping-pong. Pokud si chcete zahrát, nezapomeňte na sportovní náčiní, včetně síťky, která zde chybí. V bezprostřední blízkosti naleznete malý skate park. A vedle se rozkládá chovný rybník.",
+        "DOPORUCENI": "U hřiště se nachází tenisový areál. Tvoří ho cca deset antukových kurtů a nafukovací hala. K výhodám patří další, byť malé dětské hřiště pro nejmenší. Pokud si budete chtít zahrát tenis, mohou se zde malé děti dobře zabavit. V prostorách komplexu se také nabízí občerstvení.",
+        "SOCIALNI": "Voda ne, chemické WC (vně hřiště na Butovické ulici)",
+        "OBCERSTVENI": "U autobusové zastávky Karlštejnská stojí restaurace a několik malých obchodů.",
+        "DOPRAVA": "Autobus <b>176</b>, zastávka <b>Karlštejnská</b>. Parkování v ulicích nebo u tenisového areálu.",
+        "GALERIE": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3597767,
+          50.0522642
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "63.A",
+      "properties": {
+        "NAME": "Lokalita Kampa a Karlův most - Kampa",
+        "INFO": "Na malostranském nábřeží Vltavy najdeme dvě menší hřiště, takže jejich návštěvu je vhodné zařadit jako doplňkovou aktivitu při procházce centrem města.",
+        "POPIS": "V parku Kampa, na terase u Rybí restaurace, leží nevelké, ale moderní hřiště pro malé děti (<b>63.A</b>). Zahrnuje asi 10 drobných klasických prvků-houpadla, houpačky apod. Povrch tvoří pryžové desky a je i v poledne částečně zastíněné. Zajímavé jsou dřevěné lavičky, které zpodobňují pohádkové bytosti. Informaci o tom, jaké pohádkové bytosti lavičky znázorňují si přečtete na informační tabuli u vstupu na hřiště.<br />Druhé hřiště (<b>63.B</b>) leží přímo u Karlova mostu. Je větší, rekonstruované a získalo známku „Ověřený provoz“, takže atrakce by měly být naprosto bezpečné (nachází se jich tu asi tucet). Tentokrát ale nechybí ani ty pro děti starší. Jedná se zejména o multifunkční lezecké sestavy se skluzavkou a drobné prvky-točidlo, houpadla. Povrch hřiště tvoří pryžové desky a tráva, většina plochy je bez stínu. Na jaře r. 2013 hřiště postihla povodeň a otevřeno bylo až v létě 2014. Pohled na řeku bohužel stále zakrývá nevzhledný plot. Pár desítek metrů od hřiště můžete na zábradlí mostku přes Čertovku obdivovat tisíce kovových zámků.",
+        "DOPORUCENI": "Máte-li rádi umění, nenechte si ujít prohlídku Muzea Kampa, které je zaměřeno na středoevropskou moderní tvorbu. Více na: <a href='www.museumkampa.cz/'>www.museumkampa.cz/</a>. V parku se také konají výstavy fotografií nebo zde můžete vidět netradiční sochy.",
+        "SOCIALNI": "Voda ano-hydrant-obě hřiště, WC ne (využít lze veřejné WC u hřiště na Kampě za poplatek).",
+        "OBCERSTVENI": "V blízkosti hřišť leží několik restaurací, ale všechny jsou velmi drahé. V Mostecké ulici se nachází pizzerie jako fast food a McDonald. ",
+        "DOPRAVA": "Pro hřiště Kampa: tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Pro hřiště u Karlova mostu je bližší stanice <b>Malostranské náměstí</b> - tramvaje č. <b>12, 20 a 22</b>. Možnost parkování je pro „přespolní“ prakticky vyloučena.",
+        "GALERIE": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4080361,
+          50.0831178
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "63.B",
+      "properties": {
+        "NAME": "Lokalita Kampa a Karlův most - Karlův most",
+        "INFO": "Na malostranském nábřeží Vltavy najdeme dvě menší hřiště, takže jejich návštěvu je vhodné zařadit jako doplňkovou aktivitu při procházce centrem města.",
+        "POPIS": "V parku Kampa, na terase u Rybí restaurace, leží nevelké, ale moderní hřiště pro malé děti (<b>63.A</b>). Zahrnuje asi 10 drobných klasických prvků-houpadla, houpačky apod. Povrch tvoří pryžové desky a je i v poledne částečně zastíněné. Zajímavé jsou dřevěné lavičky, které zpodobňují pohádkové bytosti. Informaci o tom, jaké pohádkové bytosti lavičky znázorňují si přečtete na informační tabuli u vstupu na hřiště.<br />Druhé hřiště (<b>63.B</b>) leží přímo u Karlova mostu. Je větší, rekonstruované a získalo známku „Ověřený provoz“, takže atrakce by měly být naprosto bezpečné (nachází se jich tu asi tucet). Tentokrát ale nechybí ani ty pro děti starší. Jedná se zejména o multifunkční lezecké sestavy se skluzavkou a drobné prvky-točidlo, houpadla. Povrch hřiště tvoří pryžové desky a tráva, většina plochy je bez stínu. Na jaře r. 2013 hřiště postihla povodeň a otevřeno bylo až v létě 2014. Pohled na řeku bohužel stále zakrývá nevzhledný plot. Pár desítek metrů od hřiště můžete na zábradlí mostku přes Čertovku obdivovat tisíce kovových zámků.",
+        "DOPORUCENI": "Máte-li rádi umění, nenechte si ujít prohlídku Muzea Kampa, které je zaměřeno na středoevropskou moderní tvorbu. Více na: <a href='www.museumkampa.cz/'>www.museumkampa.cz/</a>. V parku se také konají výstavy fotografií nebo zde můžete vidět netradiční sochy.",
+        "SOCIALNI": "Voda ano-hydrant-obě hřiště, WC ne (využít lze veřejné WC u hřiště na Kampě za poplatek).",
+        "OBCERSTVENI": "V blízkosti hřišť leží několik restaurací, ale všechny jsou velmi drahé. V Mostecké ulici se nachází pizzerie jako fast food a McDonald. ",
+        "DOPRAVA": "Pro hřiště Kampa: tramvaje č. <b>6, 9, 12, 20, 22</b>, zastávka <b>Újezd</b>. Pro hřiště u Karlova mostu je bližší stanice <b>Malostranské náměstí</b> - tramvaje č. <b>12, 20 a 22</b>. Možnost parkování je pro „přespolní“ prakticky vyloučena.",
+        "GALERIE": 633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4093081,
+          50.0870953
+        ]
+      }
     }
+
   ]
 }
