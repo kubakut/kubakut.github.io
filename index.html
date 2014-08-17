@@ -21,8 +21,8 @@
 
     <link rel="apple-touch-icon" href="assets/img/favicon-152.png">
     <link rel="shortcut icon" sizes="196x196" href="assets/img/favicon-196.png">
-      
-   
+    <link rel="stylesheet" href="assets/css/jplist.min.css" />  
+
     
 
     
@@ -79,30 +79,109 @@
             <div class="tab-content">
               <div class="tab-pane active" id="theaters">
                 <p>
+                   
                   <div class="row">
-                    <div class="col-xs-8 col-md-8">
-                      <input type="text" class="form-control search" placeholder="Hledat" />
-                    </div>
-                    <div class="col-xs-4 col-md-4">
-                      <button type="button" class="btn btn-primary pull-right sort" data-sort="theater-name"><i class="fa fa-sort"></i>&nbsp;&nbsp;Seřadit</button>
-                    </div>
-                  </div>
-                </p>
-                <div class="sidebar-table">
-                  <table class="table table-hover" id="theater-table">
-                    <thead class="hidden">
+                      <div class="col-xs-12 col-md-12">
+                     <input  type="text" class="form-control search" placeholder="Hledat" />	
+                    </div>      
+                    <div class="">
+                        
+                    <!-- demo -->
+					<div id="demo" class="box jplist" style="margin:15px; margin-top:-10px;">
+					
+						<!-- ios button: show/hide panel -->
+						<div class="jplist-ios-button">
+							<i class="fa fa-sort"></i>
+							Seřadit
+						</div>
+						
+						<!-- panel -->
+						<div class="jplist-panel box panel-top ">					
+							
+							<!-- reset button -->
+                            
+							<button 
+								type="button" 
+								class="jplist-reset-btn"
+								data-control-type="reset" 
+								data-control-name="reset" 
+								data-control-action="reset">
+								Reset &nbsp;<i class="fa fa-share"></i>
+							</button>
+							
+							<!-- items per page dropdown -->
+                            <div 
+								class="jplist-drop-down" 
+								data-control-type="drop-down" 
+								data-control-name="group-filter" 
+								data-control-action="filter">
+								<ul>
+									<li><span data-path="default">Město</span></li>
+									<li><span data-path=".praha1">Praha 1</span></li>
+									<li><span data-path=".praha2">Praha 2</span></li>
+									<li><span data-path=".praha3">Praha 3</span></li>
+                                    <li><span data-path=".praha4">Praha 4</span></li>
+                                    <li><span data-path=".praha5">Praha 5</span></li>
+								</ul>
+							</div>
+							
+							
+							<!-- sort dropdown -->
+							<div 
+								class="jplist-drop-down" 
+								data-control-type="drop-down" 
+								data-control-name="sort" 
+								data-control-action="sort"
+								data-datetime-format="{month}/{day}/{year}">   
+								
+								<ul>
+									<li><span data-path=".title" data-order="asc" data-type="number" data-default="true">Řadit dle</span></li>
+									<li><span data-path=".title" data-order="asc" data-type="number">Názvu A-Z</span></li>
+									<li><span data-path=".title" data-order="desc" data-type="number">Názvu Z-A</span></li>
+									
+								</ul>
+                                
+							</div>
+                            
+					
+					
+						</div>
+                       
+						
+				    
+                    
+                      
+                
+                      
+						
+						<!-- data --> 
+                         
+						<div class="sidebar-table box text-shadow" style="margin-top:90px;">
+                            
+							<table class="demo-tbl table table-hover" id="theater-table" style="margin-top:1px;" >
+							<thead class="hidden">
                       <tr>
                         <th>Name</th>
                       <tr>
                     </thead>
-                    <tbody class="list">
-                      
-                    </tbody>
-                   
-			</table>  
-                    </tbody>
-                  </table>
-                </div>
+                                <tbody class="list">
+								
+								</tbody>
+							</table>
+						</div>
+						<!-- end of data -->	
+						
+					
+						
+						
+						
+						
+					</div>
+					<!-- end of demo -->	  
+                    </div>
+                  </div>
+                </p>
+             
               </div>
               <div class="tab-pane" id="museums">
                 <p>
@@ -325,5 +404,21 @@
     <script src="assets/leaflet-activearea/L.activearea.js"></script>
     <script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.js"></script>
     <script src="assets/js/app.js"></script>
+    <script src="assets/js/jplist.min.js"></script>
+    
+<script>
+			$('document').ready(function(){
+				$('#demo').jplist({
+				
+					itemsBox: '.demo-tbl' 
+					,itemPath: '.tbl-item' 
+					,panelPath: '.jplist-panel'
+					
+					//save plugin state
+					,storage: 'localstorage' //'', 'cookies', 'localstorage'			
+					,storageName: 'jplist-tabl'
+				});
+			});
+		</script>
   </body>
 </html>

@@ -234,7 +234,14 @@ var theaters = L.geoJson(null, {
   },
   onEachFeature: function (feature, layer) {
     if (feature.properties) {
-      var content = "<div style='font-size: 17px; margin:2px; padding: 1em 1em 1em 1em;' class='bg-primary' role='alert'>" + feature.properties.INFO + "</div>" + "<br></br>" +
+      var content = "<div style='font-size: 17px; margin:2px; padding: 1em 1em 1em 1em;' class='bg-primary' role='alert'>" + feature.properties.INFO + "</div>" + "<br></br>" +"<div class='panel panel-info'>" +
+      "<div class='panel-heading'>"+
+        "<h3 class='panel-title'>Místo</h3>"+
+      "</div>"+
+      "<div class='panel-body'>" +
+        feature.properties.NAME +
+      "</div>"+
+"</div>"+
 "<div class='panel panel-info'>" +
       "<div class='panel-heading'>"+
         "<h3 class='panel-title'>Popis</h3>"+
@@ -312,7 +319,22 @@ var theaters = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table > tbody").append('<tr style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name">'+ "<b>" + feature.id + "</b>. " +layer.feature.properties.NAME+'<i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + feature.id + "</b>. " +layer.feature.properties.NAME+'</p><p class="'+feature.mesto+'">'+'</p></td><td><i class="fa fa-chevron-right pull-right"></td></tr>');
+        $('document').ready(function(){
+				$('#demo').jplist({
+				    debug:	true
+					,itemsBox: '.demo-tbl' 
+					,itemPath: '.tbl-item' 
+					,panelPath: '.jplist-panel'
+                    ,cookies: true
+	                ,animateToTop: 'table, tbody'
+					
+					//save plugin state
+					,storage: 'localstorage' //'', 'cookies', 'localstorage'			
+					,storageName: 'jplist-tabl'
+                   
+				});
+			});
       theaterSearch.push({
         name: layer.feature.properties.NAME,
         address: layer.feature.mesto,
