@@ -89,12 +89,7 @@
                     <!-- demo -->
 					<div id="demo" class="box jplist" style="margin:15px; margin-top:-10px;">
 					
-						<!-- ios button: show/hide panel -->
-						<div class="jplist-ios-button" >
-							<i class="fa fa-sort"></i>
-							Seřadit
-						</div>
-						
+												
 						<!-- panel -->
 						<div class="jplist-panel box panel-top ">					
 							
@@ -156,9 +151,9 @@
 						
 						<!-- data --> 
                          
-						<div class="sidebar-table box text-shadow" style="margin-top:110px;">
+						<div class="sidebar-table" style="margin-top:90px;">
                             
-							<table class="demo-tbl table table-hover" id="theater-table" style="margin-top:1px;" >
+							<table class="demo-tbl table table-hover" id="theater-table">
 							<thead class="hidden">
                       <tr>
                         <th>Name</th>
@@ -406,19 +401,6 @@
     <script src="assets/js/app.js"></script>
     <script src="assets/js/jplist.min.js"></script>
     
-<script>
-			$('document').ready(function(){
-				$('#demo').jplist({
-				
-					itemsBox: '.demo-tbl' 
-					,itemPath: '.tbl-item' 
-					,panelPath: '.jplist-panel'
-					
-					//save plugin state
-					,storage: 'localstorage' //'', 'cookies', 'localstorage'			
-					,storageName: 'jplist-tabl'
-				});
-			});
-		</script>
+
   </body>
 </html>
