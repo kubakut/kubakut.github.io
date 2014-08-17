@@ -1811,6 +1811,111 @@
           50.0253572
         ]
       }
-    }
+    },
+{
+      "type": "Feature",
+      "id": "50",
+      "properties": {
+        "NAME": "Žernosecká - Čumpelíkova",
+        "INFO": "V bezprostřední blízkosti Ďáblického háje leží pěkné hřiště.",
+        "POPIS": "Na dohled autobusové zastávky Bojasova se na rozlehlé ploše rozkládá dětské hřiště (<b>50</b>). Kromě klasických atrakcí (houpačky, točidlo, tabule atd.) tu děti najdou několik stolků spojených s hydrantem, na kterých si mohou pohrát s vodou. Odtok vody si děti mohou sami regulovat pomocí šoupátek. Vzhledem k tomu, že stoly s vodou budou pro děti atraktivní, je lepší zvolit pro návštěvu slunečný den.<br />Dominantní atrakci představuje sestava tvořená čtyřmi věžičkami se šplhacími a prolézacími prvky. Povrch hřiště tvoří písek nebo kačírek a roste zde více stromů, které poskytují dostatek stínu. V těsném sousedství leží několik antukových tenisových kurtů.",
+        "DOPORUCENI": "Pokud půjdete se staršími dětmi, můžete jim ukázat Kobyliskou střelnici, národní kulturní památku, která dokumentuje temnou kapitolu našich dějin - popravy po atentátu na R. Heydricha. Jedním z popravených byl také spisovatel Vladislav Vančura, autor kouzelné knihy pro děti „Kubula a Kuba Kubikula“. Střelnice se nachází asi 200 metrů od hřiště.",
+        "SOCIALNI": "Voda ano, chemické WC.",
+        "OBCERSTVENI": "Nejbližší možnost představuje zázemí stanice metra Kobylisy nebo zastávka autobusu Šimůnkova.",
+        "DOPRAVA": "Autobusy č. <b>136 a 295</b>, zastávka Bojasova. Zaparkovat lze u Kobyliské střelnice.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4609844,
+          50.1322581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "",
+      "properties": {
+        "NAME": "Čimický háj",
+        "INFO": "Čeká nás pěkná procházka a lesní hřiště.",
+        "POPIS": "U hájovny na okraji Čimického háje (nedaleko ZŠ Hovorčovická) začíná naučná stezka a pohrát si lze na malém lesním hřišti, jehož prvky jsou samozřejmě dřevěné. Není oplocené a tvoří ho pouze několik atrakcí-krokodýl, houpačka, vláček.<br />Na opravdu pěkné, tentokrát oplocené lesní hřiště (<b>49</b>), narazíte po pár stech metrech. Cestu najdete podle mapy na informační tabuli (od památného dubu u hájenky to je po zelené značce). Na hřišti s povrchem z udusané hlíny, stojí několik dřevěných autíček, vlak, domek se skluzavkou a krásný vůz tažený párem „koní“. Obratnost procvičí dřevěné špalíky.<br />Výhodou obou hřišť je celodenní stín.",
+        "DOPORUCENI": "Po dlouhých letech byl nedaleko otevřen bazén a aquapark Šutka.<br />Více informací na <a href='www.sutka.eu/aquapark' target='_blank'>www.sutka.eu/aquapark</a>.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Kompletní zázemí představuje stanice metra C-Kobylisy.",
+        "DOPRAVA": "Autobus <b>162, 169, 183</b>, stanice <b>Mirovická<b>. Parkování je možné v ulicích na sídlišti.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4362200,
+          50.1297614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62.A",
+      "properties": {
+        "NAME": "Lokalita Horní Počernice - hřiště 62.A",
+        "INFO": "Lokalita vám nabídne velmi pěkné hřiště a několik zajímavých doprovodných aktivit.",
+        "POPIS": "Dětské hřiště (<b>62.A</b>) se rozkládá v parčíku, u konečné autobusu č. 223. Tvoří ho hned 3 části. První je oplocena vyšším kovovým plotem. Děti tu najdou asi tucet atrakcí. Několik houpaček, houpadel a točidel, dřevěnou lezeckou sestavu, malý domek ve formě slona se skluzavkou, opičí most a větší domek s tobogánem. Povrch pokrývají pryžové desky a plocha je bez stínu.<br />Na louce vedle se rozkládá multifunkční areál. Kromě atrakcí klasických-delší lanovka, houpačky a fitness prvky, tady stojí i několik atrakcí netradičních. Je zde např. kyvadlo se zavěšenou pneumatikou, několik velmi silných zavěšených lanových „klád“, které slouží k procvičení rovnováhy nebo pavoučí sítě. Na své si tak přijdou děti všech věkových kategorií.<br />Nejmenší část areálu představuje malé, nízkým dřevěným plotem oplocené hřiště se skluzavkou a kolotočem.<br />Asi o kilometr dál, u stanice autobusu Divadlo Horní Počernice leží hřiště další (<b>62.B</b>). Nachází se v parku a není velké. Tvoří ho drobné atrakce-dřevěné domky, skluzavka a houpadla. Nezastíněný povrch pokrývá tráva, mulčovací kůra a pryžové desky. Toto hřiště  lze doporučit pouze v případě návštěvy divadla. Divadlo Horní Počernice hraje také dětská představení. Bývá to v neděli, od 15. hodin. Více na: <a href='http://www.divadlopocernice.cz/'>www.divadlopocernice.cz/</a>.",
+        "DOPORUCENI": "Vystoupíte-li stanici nad Černým Mostem - zastávka Chvaly, můžete si projít areál opravené Chvalské tvrze, kde se konají pravidelné výstavy pro děti i dospělé. Více informací na: <a href='http://www.chvalskyzamek.cz/'>www.chvalskyzamek.cz/</a>.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
+        "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
+        "GALERIE": 62.A
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6137531,
+          50.1116500
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62.B",
+      "properties": {
+        "NAME": "Lokalita Horní Počernice - hřiště 62.B",
+        "INFO": "Lokalita vám nabídne velmi pěkné hřiště a několik zajímavých doprovodných aktivit.",
+        "POPIS": "Dětské hřiště (<b>62.A</b>) se rozkládá v parčíku, u konečné autobusu č. 223. Tvoří ho hned 3 části. První je oplocena vyšším kovovým plotem. Děti tu najdou asi tucet atrakcí. Několik houpaček, houpadel a točidel, dřevěnou lezeckou sestavu, malý domek ve formě slona se skluzavkou, opičí most a větší domek s tobogánem. Povrch pokrývají pryžové desky a plocha je bez stínu.<br />Na louce vedle se rozkládá multifunkční areál. Kromě atrakcí klasických-delší lanovka, houpačky a fitness prvky, tady stojí i několik atrakcí netradičních. Je zde např. kyvadlo se zavěšenou pneumatikou, několik velmi silných zavěšených lanových „klád“, které slouží k procvičení rovnováhy nebo pavoučí sítě. Na své si tak přijdou děti všech věkových kategorií.<br />Nejmenší část areálu představuje malé, nízkým dřevěným plotem oplocené hřiště se skluzavkou a kolotočem.<br />Asi o kilometr dál, u stanice autobusu Divadlo Horní Počernice leží hřiště další (<b>62.B</b>). Nachází se v parku a není velké. Tvoří ho drobné atrakce-dřevěné domky, skluzavka a houpadla. Nezastíněný povrch pokrývá tráva, mulčovací kůra a pryžové desky. Toto hřiště  lze doporučit pouze v případě návštěvy divadla. Divadlo Horní Počernice hraje také dětská představení. Bývá to v neděli, od 15. hodin. Více na: <a href='http://www.divadlopocernice.cz/'>www.divadlopocernice.cz/</a>.",
+        "DOPORUCENI": "Vystoupíte-li stanici nad Černým Mostem - zastávka Chvaly, můžete si projít areál opravené Chvalské tvrze, kde se konají pravidelné výstavy pro děti i dospělé. Více informací na: <a href='http://www.chvalskyzamek.cz/'>www.chvalskyzamek.cz/</a>.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "V blízkosti hřiště <b>62.A</b> možnost občerstvení chybí. Restauraci a pizzerii najdete v areálu Chvalské tvrze, kavárnu přímo v divadle nebo v areálu čerpací stanice u divadla, kde v jezírku zahradního posezení můžete obdivovat i okrasné ryby.",
+        "DOPRAVA": "Autobusy č. <b>223 a 296</b>, zastávka <b>Ratibořická</b> (pro hřiště <b>62.A</b>), pro návštěvu hřiště <b>62.B</b> a divadla využijte autobusy č. <b>221, 303, 304, 344, 353 a 354</b>, zastávka <b>Divadlo Horní Počernice</b>. Pro návštěvu Chvalské tvrze-zámku můžete použít všechny uvedené autobusy a vystoupit na stanici <b>Chvaly</b>. Parkovat lze v okolí hřišť nebo v areálu Chvalské tvrze, kde je placené parkoviště.",
+        "GALERIE": 62.B
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6208653,
+          50.1160175
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "id": "54",
+      "properties": {
+        "NAME": "Chalabalova - Lužiny",
+        "INFO": "Ve svahu nad centrálním parkem ve Stodůlkách revitalizovali několik hřišť.",
+        "POPIS": "Komplex (<b>54</b>) tvoří půltucet dětských hřišť a sportovišť. Půjdete-li od stanice autobusu Mládí, narazíte nejprve na asfaltový plácek s basketbalovým košem a plochu na kopanou. Poté dojdete k malému oplocenému dětskému hřišti- houpačky, pískoviště ohraničené keramickými prvky atd. Na povrchu leží písek a roste tráva, asi polovina plochy je zastíněna. Kousek nad ním se rozkládá další, o něco větší a modernější hřiště-houpačka hnízdo, lezecká sestava a drobné prvky. Povrch tvoří kačírek, stín bohužel chybí. Hned vedle se nachází velká lezecká lanová sestava pro starší děti.<br />Budete-li pokračovat dál (směrem k ulici Kociánova), narazíte na moderní basketbalové hřiště s umělým povrchem (nezapomeňte míč), poté na poněkud zanedbané dětské hřiště s několika málo prvky a nakonec na další, tentokrát pěkné hřiště. Toto zaujme keramickými plastikami včel na oplocení a dalšími keramickými prvky uvnitř. Kromě toho je tady kolotoč, tabule, multifunkční domek atd. Na povrchu leží písek, hřiště je bez stínu. Za budovou obchodní akademie uvidíte pseudogotický kostel (počátek 20. století) Svatého Jakuba Většího.",
+        "DOPORUCENI": "Podívejte se na nabídku výstav a dalších akcí KD (více na <a href='http://www.mlejn.cz/'>www.mlejn.cz/</a>) k němuž lze snadno a rychle sejít.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Restaurace Mlejn, v KD Mlejn.",
+        "DOPRAVA": "Autobusy <b>137 a 174</b>, stanice <b>Mládí</b>. Parkovat můžete v okolních ulicích.",
+        "GALERIE": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3156350,
+          50.0518189
+        ]
+      }
+    },
   ]
 }
