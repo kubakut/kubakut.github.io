@@ -1979,6 +1979,342 @@
           50.0870953
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "2001",
+      "properties": {
+        "NAME": "Kbely",
+        "INFO": "Revitalizace centrálního parku v městské části Kbely stála desítky milionů. Místo tady našla také dětská hřiště.",
+        "POPIS": "Centrální park rozděluje silnice na dvě nestejně velké části. V rozsáhlejší, která je vymezena silnicí a železničním náspem najdou děti několik zajímavých míst. Dětské hřiště je oplocené pěkným kůlovým plotem. Na povrchu z kačírku a trávy najdete asi 8 prvků-domek s kreslícími tabulemi, multifunkční sestavu, kolotoč, houpačky aj. Atrakce jsou provedeny ze dřeva a leží bohužel mimo stín. Kousek od hřiště zaujme děti velká dřevěná multifunkční sestava pojatá jako loď. Obsahuje také stěžeň, dělo, opičí most atd. Není oplocena, na ploše leží kačírek. V této části parku bylo vybudováno i podium a stupňovité hlediště. Parkem protéká Vinořský potok a děti i dospělé jistě zaujme menší rybník. Přes park vede cyklostezka a nachází se zde také několik posezení.<br />I na druhé straně silnice, naleznou děti zajímavá místa. Rozkládá se tady menší neoplocené hřiště. Na povrchu z kačírku stojí houpačky, lezecká sestava a několik drobných prvků. Za součást lze pokládat i několik mohutných na zemi ležících kmenů a pařezů, které pěkně zapadají do přírodního rázu areálu. Vedle atrakcí uvidíte sousoší, nazvané „Rozum a cit“. Této části parku dominuje poměrně velký rybník. V obou rybnících žijí ryby (např. japonští kapři) a hladinu oživují hejna kačen a lysek. Nezapomeňte proto pečivo! V první popisované části parku bylo navíc instalováno několik pěkných krmítek pro ptactvo.",
+        "DOPORUCENI": "Kbely vděčí za svůj věhlas především letišti a Leteckému muzeu. Více informací najdete na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-lm-kbely/' target='_blank'>www.vhu.cz/muzea/zakladni-informace-o-lm-kbely</a>",
+        "SOCIALNI": "Voda ne, chemické WC na okraji parku, u ulice Železnobrodská.",
+        "OBCERSTVENI": "U zastávky autobusu leží supermarket a několik obchodů.",
+        "DOPRAVA": "Autobusy č. <b>185, 202, 259, 269, 302, 375, 376, 378</b> zastávka <b>Kbely</b>. Parkování u hřiště nebo před supermarketem.",
+        "GALERIE": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5516733,
+          50.1329717
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "48.A",
+      "properties": {
+        "NAME": "Lokalita Malá Chuchle - Branický most",
+        "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
+        "POPIS": ": U Branického mostu se rozkládá menší zrekonstruované dětské hřiště (<b>48.A</b>). Výhodou je, že atrakce (multifunkční sestavy, houpačky atd.) stojí mezi stromy, takže zde najdete částečný stín. Povrch je travnatý. Vedle leží menší „plácek“ s umělým povrchem a jedním basketbalovým košem, takže s sebou si můžete vzít také míč. Až hřiště omrzí, vraťte se pod železniční podjezd (trať Praha-Plzeň), kde uvidíte žlutou turistickou značku. Po ní se vydejte vzhůru do Chuchelského háje. Cesta, zejména v první fázi, prudce stoupá. Budete procházet převážně listnatým lesem. Trasu provází informační tabule naučné stezky. Asi po kilometru a půl dojdete k hájence, kde je pro všechny připravená odměna - opravdu velký zoo-koutek. Žije zde několik desítek druhů zvířat, např. rys, mufloni, lišky, mývalové, sovy, kuny atd. Pěkně provedené jsou informační cedule. Vezměte s sebou suché pečivo. V zoo-koutku to ocení. U hájenky uvidíte také dětské hřiště (<b>48.B</b>), tvořené dřevěnými prvky. Od hájovny pokračujte dál po žluté. V lese nejprve narazíte na 2 malá lesní hřiště s drobnými prvky a cca po 500 m se dostanete k louce (<b>48.C</b>), kde si v překrásném prostředí u modřínového háje mohou děti vyzkoušet např. lanovku, lezecké prvky a pobýt v dřevěném teepee. Dospělí a starší děti mají k dispozici široký výběr fitness prvků, jako hrazdy, překážkovou dráhu apod. U každého prvku uvidíte piktogram, který znázorňuje, k čemu slouží. K dispozici jsou také altánky.<br />Trasa z Malé Chuchle je vhodná pro zdatnější děti. Pokud ale pomůžete předškolákům zvládnout stoupání k hájovně, cestu k lesním hřištím už zvládnou určitě sami (je to jen mírně do kopce). Žlutá značka pokračuje do Velké Chuchle (necelé 2km). Cesta je asfaltová, mírně klesající, vhodná i pro kočárky.",
+        "DOPORUCENI": "Výlet naplánujte až na poledne. V dopoledních hodinách bývá louka mokrá od rosy.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Základní věci lze koupit u benzinové pumpy vedle zastávky autobusu. Asi 150 m od ní směrem k Velké Chuchli se nachází občerstvení řetězce „Pizza do krabice“ (omezený počet hostů může posedět u pultu v prodejně nebo u stolků na chodníku) a vedle malá restaurace. U hájovny se od 12 hodin nabízí občerstvení, ovšem pouze o víkendech a za hezkého počasí. Ve Velké Chuchli (u stanice autobusu <b>Starochuchelská</b>) najdete potraviny a menší pizzerii.",
+        "DOPRAVA": "Autobusy č. <b>129, 241, 244, 314, 318</b>, stanice <b>Malá Chuchle</b>. Parkovat lze např. na ulici <b>Zbraslavská</b> nebo u pumpy. Pro návrat autobus č. <b>244</b>, zastávka Velká <b>Chuchle</b> nebo <b>Starochuchelská</b>.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3952619,
+          50.0274328
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "48.B",
+      "properties": {
+        "NAME": "Lokalita Malá Chuchle - zoo koutek",
+        "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
+        "POPIS": ": U Branického mostu se rozkládá menší zrekonstruované dětské hřiště (<b>48.A</b>). Výhodou je, že atrakce (multifunkční sestavy, houpačky atd.) stojí mezi stromy, takže zde najdete částečný stín. Povrch je travnatý. Vedle leží menší „plácek“ s umělým povrchem a jedním basketbalovým košem, takže s sebou si můžete vzít také míč. Až hřiště omrzí, vraťte se pod železniční podjezd (trať Praha-Plzeň), kde uvidíte žlutou turistickou značku. Po ní se vydejte vzhůru do Chuchelského háje. Cesta, zejména v první fázi, prudce stoupá. Budete procházet převážně listnatým lesem. Trasu provází informační tabule naučné stezky. Asi po kilometru a půl dojdete k hájence, kde je pro všechny připravená odměna - opravdu velký zoo-koutek. Žije zde několik desítek druhů zvířat, např. rys, mufloni, lišky, mývalové, sovy, kuny atd. Pěkně provedené jsou informační cedule. Vezměte s sebou suché pečivo. V zoo-koutku to ocení. U hájenky uvidíte také dětské hřiště (<b>48.B</b>), tvořené dřevěnými prvky. Od hájovny pokračujte dál po žluté. V lese nejprve narazíte na 2 malá lesní hřiště s drobnými prvky a cca po 500 m se dostanete k louce (<b>48.C</b>), kde si v překrásném prostředí u modřínového háje mohou děti vyzkoušet např. lanovku, lezecké prvky a pobýt v dřevěném teepee. Dospělí a starší děti mají k dispozici široký výběr fitness prvků, jako hrazdy, překážkovou dráhu apod. U každého prvku uvidíte piktogram, který znázorňuje, k čemu slouží. K dispozici jsou také altánky.<br />Trasa z Malé Chuchle je vhodná pro zdatnější děti. Pokud ale pomůžete předškolákům zvládnout stoupání k hájovně, cestu k lesním hřištím už zvládnou určitě sami (je to jen mírně do kopce). Žlutá značka pokračuje do Velké Chuchle (necelé 2km). Cesta je asfaltová, mírně klesající, vhodná i pro kočárky.",
+        "DOPORUCENI": "Výlet naplánujte až na poledne. V dopoledních hodinách bývá louka mokrá od rosy.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Základní věci lze koupit u benzinové pumpy vedle zastávky autobusu. Asi 150 m od ní směrem k Velké Chuchli se nachází občerstvení řetězce „Pizza do krabice“ (omezený počet hostů může posedět u pultu v prodejně nebo u stolků na chodníku) a vedle malá restaurace. U hájovny se od 12 hodin nabízí občerstvení, ovšem pouze o víkendech a za hezkého počasí. Ve Velké Chuchli (u stanice autobusu <b>Starochuchelská</b>) najdete potraviny a menší pizzerii.",
+        "DOPRAVA": "Autobusy č. <b>129, 241, 244, 314, 318</b>, stanice <b>Malá Chuchle</b>. Parkovat lze např. na ulici <b>Zbraslavská</b> nebo u pumpy. Pro návrat autobus č. <b>244</b>, zastávka Velká <b>Chuchle</b> nebo <b>Starochuchelská</b>.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3876717,
+          50.0226711
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "48.C",
+      "properties": {
+        "NAME": "Lokalita Malá Chuchle - hřiště 48.C",
+        "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
+        "POPIS": ": U Branického mostu se rozkládá menší zrekonstruované dětské hřiště (<b>48.A</b>). Výhodou je, že atrakce (multifunkční sestavy, houpačky atd.) stojí mezi stromy, takže zde najdete částečný stín. Povrch je travnatý. Vedle leží menší „plácek“ s umělým povrchem a jedním basketbalovým košem, takže s sebou si můžete vzít také míč. Až hřiště omrzí, vraťte se pod železniční podjezd (trať Praha-Plzeň), kde uvidíte žlutou turistickou značku. Po ní se vydejte vzhůru do Chuchelského háje. Cesta, zejména v první fázi, prudce stoupá. Budete procházet převážně listnatým lesem. Trasu provází informační tabule naučné stezky. Asi po kilometru a půl dojdete k hájence, kde je pro všechny připravená odměna - opravdu velký zoo-koutek. Žije zde několik desítek druhů zvířat, např. rys, mufloni, lišky, mývalové, sovy, kuny atd. Pěkně provedené jsou informační cedule. Vezměte s sebou suché pečivo. V zoo-koutku to ocení. U hájenky uvidíte také dětské hřiště (<b>48.B</b>), tvořené dřevěnými prvky. Od hájovny pokračujte dál po žluté. V lese nejprve narazíte na 2 malá lesní hřiště s drobnými prvky a cca po 500 m se dostanete k louce (<b>48.C</b>), kde si v překrásném prostředí u modřínového háje mohou děti vyzkoušet např. lanovku, lezecké prvky a pobýt v dřevěném teepee. Dospělí a starší děti mají k dispozici široký výběr fitness prvků, jako hrazdy, překážkovou dráhu apod. U každého prvku uvidíte piktogram, který znázorňuje, k čemu slouží. K dispozici jsou také altánky.<br />Trasa z Malé Chuchle je vhodná pro zdatnější děti. Pokud ale pomůžete předškolákům zvládnout stoupání k hájovně, cestu k lesním hřištím už zvládnou určitě sami (je to jen mírně do kopce). Žlutá značka pokračuje do Velké Chuchle (necelé 2km). Cesta je asfaltová, mírně klesající, vhodná i pro kočárky.",
+        "DOPORUCENI": "Výlet naplánujte až na poledne. V dopoledních hodinách bývá louka mokrá od rosy.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Základní věci lze koupit u benzinové pumpy vedle zastávky autobusu. Asi 150 m od ní směrem k Velké Chuchli se nachází občerstvení řetězce „Pizza do krabice“ (omezený počet hostů může posedět u pultu v prodejně nebo u stolků na chodníku) a vedle malá restaurace. U hájovny se od 12 hodin nabízí občerstvení, ovšem pouze o víkendech a za hezkého počasí. Ve Velké Chuchli (u stanice autobusu <b>Starochuchelská</b>) najdete potraviny a menší pizzerii.",
+        "DOPRAVA": "Autobusy č. <b>129, 241, 244, 314, 318</b>, stanice <b>Malá Chuchle</b>. Parkovat lze např. na ulici <b>Zbraslavská</b> nebo u pumpy. Pro návrat autobus č. <b>244</b>, zastávka Velká <b>Chuchle</b> nebo <b>Starochuchelská</b>.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3817228,
+          50.0206294
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "60.A",
+      "properties": {
+        "NAME": "Lokalita Na Krejcárku - hřiště 60.A",
+        "INFO": "Lokalita se skvěle hodí pro rodiny s dětmi různého stáří a také pro ty, kteří chtějí vyzkoušet netradiční sport!",
+        "POPIS": "Dětské hřiště (<b>60.A</b>) najdete na konci ulice Strážní, ovšem na opačném konci, než lokalitu Židovské pece. Hřiště se rozkládá na poměrně velké ploše, na níž roste hodně stromů, včetně stříbrného smrku. Protože hřiště obklopuje vysoký plot a areál je členitý, výborně se hodí ke hře na schovávanou. Povrch hřiště je kombinovaný-písek, tráva a pryžové desky. Stromy poskytují částečný stín. K hracím prvkům náleží multifunkční domek se skluzavkou, šlapací kolotoč, 4 houpačky (z toho dvě pro opravdu malé děti), houpadla, rozlehlé pískoviště, lanová pyramida a stěžeň. V areálu se rozkládá menší písková sportovní plocha.<br />V lesoparku Na Krejcárku (konec ulice Za žižkovskou vozovnou) se na louce nachází lesní hřiště (<b>60.B</b>). Prvky jsou samozřejmě dřevěné. Kromě houpaček, vláčku nebo autíček, můžete zkusit domek se skluzavkou nebo točidlo.  Na povrchu roste tráva a plocha není zastíněna.",
+        "DOPORUCENI": "V bezprostřední blízkosti hřiště <b>60.A</b> se nachází areál DDM-Ulita. Kromě pronájmu sportovišť si v recepci lze vypůjčit talíře na freesbee. Ty pak využijete na pěkném hřišti na discgolf, které leží na okraji lesoparku, hned pod areálem DDM.  Discgolf  mohou hrát všichni. Místo jamek jsou nainstalovány zvláštní koše. Hod znesnadňují vzrostlé stromy. Více informací o otvírací době DDM najdete na jejich webu: <a href='http://www.ulita.cz/' target='_blank'>www.ulita.cz</a><br />Pro ty, kteří rádi plavou, pak doporučujeme návštěvu krytého a venkovního bazénu Pražačka",
+        "SOCIALNI": "Voda ano - hydrant, chemické WC - obé hřiště <b>60.A</b>.",
+        "OBCERSTVENI": "U tramvajové zastávky <b>Strážní</b> se nachází několik restaurací i drobné obchody.",
+        "DOPRAVA": "Stanice tramvají č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování u DDM Ulita.",
+        "GALERIE": 5 
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4803606,
+          50.0943650
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "60.B",
+      "properties": {
+        "NAME": "Lokalita Na Krejcárku - hřiště 60.B",
+        "INFO": "Lokalita se skvěle hodí pro rodiny s dětmi různého stáří a také pro ty, kteří chtějí vyzkoušet netradiční sport!",
+        "POPIS": "Dětské hřiště (<b>60.A</b>) najdete na konci ulice Strážní, ovšem na opačném konci, než lokalitu Židovské pece. Hřiště se rozkládá na poměrně velké ploše, na níž roste hodně stromů, včetně stříbrného smrku. Protože hřiště obklopuje vysoký plot a areál je členitý, výborně se hodí ke hře na schovávanou. Povrch hřiště je kombinovaný-písek, tráva a pryžové desky. Stromy poskytují částečný stín. K hracím prvkům náleží multifunkční domek se skluzavkou, šlapací kolotoč, 4 houpačky (z toho dvě pro opravdu malé děti), houpadla, rozlehlé pískoviště, lanová pyramida a stěžeň. V areálu se rozkládá menší písková sportovní plocha.<br />V lesoparku Na Krejcárku (konec ulice Za žižkovskou vozovnou) se na louce nachází lesní hřiště (<b>60.B</b>). Prvky jsou samozřejmě dřevěné. Kromě houpaček, vláčku nebo autíček, můžete zkusit domek se skluzavkou nebo točidlo.  Na povrchu roste tráva a plocha není zastíněna.",
+        "DOPORUCENI": "V bezprostřední blízkosti hřiště <b>60.A</b> se nachází areál DDM-Ulita. Kromě pronájmu sportovišť si v recepci lze vypůjčit talíře na freesbee. Ty pak využijete na pěkném hřišti na discgolf, které leží na okraji lesoparku, hned pod areálem DDM.  Discgolf  mohou hrát všichni. Místo jamek jsou nainstalovány zvláštní koše. Hod znesnadňují vzrostlé stromy. Více informací o otvírací době DDM najdete na jejich webu: <a href='http://www.ulita.cz/' target='_blank'>www.ulita.cz</a><br />Pro ty, kteří rádi plavou, pak doporučujeme návštěvu krytého a venkovního bazénu Pražačka",
+        "SOCIALNI": "Voda ano - hydrant, chemické WC - obé hřiště <b>60.A</b>.",
+        "OBCERSTVENI": "U tramvajové zastávky <b>Strážní</b> se nachází několik restaurací i drobné obchody.",
+        "DOPRAVA": "Stanice tramvají č. <b>1, 9</b>, zastávka <b>Strážní</b>. Parkování u DDM Ulita.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4764108,
+          50.0943875
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "65.A",
+      "properties": {
+        "NAME": "Lokalita sídliště Petrovice - Rezlerova",
+        "INFO": "Lokalita nabízí několik pěkných menších hřišť, jejichž spojením vznikne zajímavá trasa.",
+        "POPIS": "Za panelovým domem v Rezlerově ulici se rozkládá parkový travnatý prostor. Jeho část byla revitalizovaná na dětská hřiště (<b>65.A</b>). Některé z atrakcí jsou oplocené, jiné ne. Dominantní prvek představuje mohutná lanová pyramida. Dále lze využít houpačky, domek se skluzavkou, lezeckou dřevěnou sestavu, lanovku, kladinu, houpačky atd. Na povrchu leží převážně písek a většina atrakcí není zastíněna. Někde prorůstala pískem tráva, takže plochy působily poněkud zanedbaně. V zadní části parčíku uvidíte betonový ping-pongový stůl bez síťky. Pokud mají děti skateboard, nezapomeňte ho. Součástí areálu je menší skate park. O pár set metrů dále je na Veronském náměstí a v jeho okolí soustředěno několik menších hřišť (lokalita <b>65.B</b>). Ta před nákupním komplexem jsou malá, ale moderní. Tvořena jsou drobnými atrakcemi-houpadla, prvek k procvičení rovnováhy, houpačky, domek se skluzavkou atd. Na povrchu leží pryžové desky a hřiště nejsou zastíněna. Na Veronském náměstí se také nachází menší fontána.<br />Kousek vedle, mezi ulicemi Milánská a Livornská, narazíme na další dvě menší hřiště. Jsou oplocena nízkým plotem, stromy poskytují částečný stín, na povrchu leží písek. Také zde se nachází spíše drobné prvky - domky se skluzavkou, kladina, houpačky, točidla atd.",
+        "DOPORUCENI": "Ideální volbou je propojení této trasy s návštěvou sportovního areálu Na Šancích (lokalita <b>57</b>). Areál je vzdálený cca 500 m.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Sídlištní nákupní centrum na Veronském náměstí (restaurace, supermarket, drobné obchody).",
+        "DOPRAVA": "Autobusy č. <b>125, 240 a 296</b> stanice <b>Wattova</b> nebo <b>Poliklinika Petrovice</b>. Parkování možné v ulicích na sídlišti nebo před supermarketem na Veronském náměstí.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5632375,
+          50.0380261
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "65.B",
+      "properties": {
+        "NAME": "Lokalita sídliště Petrovice - Veronské náměstí",
+        "INFO": "Lokalita nabízí několik pěkných menších hřišť, jejichž spojením vznikne zajímavá trasa.",
+        "POPIS": "Za panelovým domem v Rezlerově ulici se rozkládá parkový travnatý prostor. Jeho část byla revitalizovaná na dětská hřiště (<b>65.A</b>). Některé z atrakcí jsou oplocené, jiné ne. Dominantní prvek představuje mohutná lanová pyramida. Dále lze využít houpačky, domek se skluzavkou, lezeckou dřevěnou sestavu, lanovku, kladinu, houpačky atd. Na povrchu leží převážně písek a většina atrakcí není zastíněna. Někde prorůstala pískem tráva, takže plochy působily poněkud zanedbaně. V zadní části parčíku uvidíte betonový ping-pongový stůl bez síťky. Pokud mají děti skateboard, nezapomeňte ho. Součástí areálu je menší skate park. O pár set metrů dále je na Veronském náměstí a v jeho okolí soustředěno několik menších hřišť (lokalita <b>65.B</b>). Ta před nákupním komplexem jsou malá, ale moderní. Tvořena jsou drobnými atrakcemi-houpadla, prvek k procvičení rovnováhy, houpačky, domek se skluzavkou atd. Na povrchu leží pryžové desky a hřiště nejsou zastíněna. Na Veronském náměstí se také nachází menší fontána.<br />Kousek vedle, mezi ulicemi Milánská a Livornská, narazíme na další dvě menší hřiště. Jsou oplocena nízkým plotem, stromy poskytují částečný stín, na povrchu leží písek. Také zde se nachází spíše drobné prvky - domky se skluzavkou, kladina, houpačky, točidla atd.",
+        "DOPORUCENI": "Ideální volbou je propojení této trasy s návštěvou sportovního areálu Na Šancích (lokalita <b>57</b>). Areál je vzdálený cca 500 m.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Sídlištní nákupní centrum na Veronském náměstí (restaurace, supermarket, drobné obchody).",
+        "DOPRAVA": "Autobusy č. <b>125, 240 a 296</b> stanice <b>Wattova</b> nebo <b>Poliklinika Petrovice</b>. Parkování možné v ulicích na sídlišti nebo před supermarketem na Veronském náměstí.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5601839,
+          50.0417019
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "69",
+      "properties": {
+        "NAME": "Nad Primaskou",
+        "INFO": "Nedaleko metra Strašnická se nachází pěkné dětské hřiště.",
+        "POPIS": "Hřiště (<b>69</b>) se rozkládá za vysokým plotem, v ulici Nad Primaskou. Pod atrakcemi leží guma nebo pryžové desky. Stromy poskytují částečný stín. Z atrakcí lze vyzkoušet kolotoč, kladinu, houpačky, tabule na kreslení a velký multifunkční domek. Trochu stranou, na uměle vytvořeném svahu, stojí skluzavka. Kromě toho tady najdete menší sportovní plácek s umělým povrchem, ale bez branek a basketbalových košů. Plot areálu je vyzdoben velmi pěknými obrázky-např. opice a kočka. Vně sportovního plácku, na betonové zdi vyzdobené dětskými graffiti jsou namontovány lezecké stupně (kvůli obrázkům nejsou dobře vidět). V popisovaném areálu stojí také objekt, kde bylo pravděpodobně sociální zařízení a zřejmě tam sídlil správce. V době návštěvy hřiště (podzim 2013) byl domek zamčen a nebyl v dobrém technickém stavu.",
+        "DOPORUCENI": "Nedaleko postavil slavný český architekt Jan Kotěra secesní tzv. Trmalovu vilu, kterou lze navštívit. Více na: <a href='http://www.foibos.cz/cz/trmalova-vila' target='_blank'>www.foibos.cz/cz/trmalova-vila</a>",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "Na ulici Starostrašnická leží mnoho obchodů a několik restaurací.",
+        "DOPRAVA": "Tramvaje č. <b>7 a 26</b> zastávka <b>Nad Primaskou</b>. Parkování ulice Nad Primaskou.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4891014,
+          50.0744369
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "67",
+      "properties": {
+        "NAME": "Vršovice, Přípotoční",
+        "INFO": "Pokud vás oslovil osud fotbalového klubu Bohemians, měli byste s dětmi navštívit tuto lokalitu.",
+        "POPIS": "Dětské hřiště (<b>67</b>) najdete na konci ulice Oblouková, v malém parčíku ulice Přípotoční. Je oplocené vysokým kovovým plotem, na povrchu se nachází tráva, písek i kačírek. Stromy poskytují částečný stín. Na hřišti jsou houpačky, menší lanová pyramida, multifunkční domek s počítadlem, domek se skluzavkou, altán, větší pískoviště a několik drobných prvků. Celkový dojem kazí zanedbaná místa v okolí. Součásti areálu je nevelký pískový plácek se dvěma brankami, který se skvěle hodí k fotbálku „dva na dva nebo jeden na jednoho.“",
+        "DOPORUCENI": "U tramvajové zastávky leží Vršovický Ďolíček, díky iniciativě fanoušků klubu Bohemians, jeden z nejznámějších stadionů v Čechách.",
+        "SOCIALNI": "Voda ano-hydrant, chemické WC.",
+        "OBCERSTVENI": "Pestrou paletou restaurací i obchodů se pyšní Vršovická ulice. ",
+        "DOPRAVA": "Tramvaje č. <b>7, 24</b>, autobus č. <b>124</b> zastávka <b>Bohemians</b>. Parkovat lze na ulici Přípotoční.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4576456,
+          50.0649406
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "68",
+      "properties": {
+        "NAME": "Sídliště Skalka",
+        "INFO": "Na sídlišti Skalka, blízko metra se rozkládá středně velké hřiště.",
+        "POPIS": "Dětské hřiště (<b>68</b>) je lokalizována u křižovatky ulic Nedvězská a Pod strání. Je oplocené, pod atrakce položili kačírek. Na hřišti roste několik stromů, ale většina prvků leží mimo stín. Na jedné straně uvidíte svah, kde najdete kovovou skluzavku. Hřiště obsahuje asi tucet prvků. Dominantu představuje multifunkční domek na pískovišti a velké kyvadlové houpadlo pro 4 osoby. Kromě toho lze zkusit houpačky (včetně typu hnízdo), další skluzavku, točidla atd. Většina prvků je vyrobena ze dřeva.",
+        "DOPORUCENI": "Popisované dětské hřiště nepatří k těm v Praze nejzajímavějším. Proto může být vaší doprovodnou aktivitou v případě cesty na Skalku.",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "Zázemí stanice metra Skalka.",
+        "DOPRAVA": "Stanice metra A, autobusy č. <b>111, 125, 138, 175, 177, 195, 329</b>, vše zastávka <b>Skalka</b>. Parkování na ulicích sídliště, v okolí hřiště.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5041925,
+          50.0691911
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "64",
+      "properties": {
+        "NAME": "Sparta",
+        "INFO": "Návštěva tohoto hřiště je ideální pro mladší děti, které zajímá kopaná, protože vám umožní ukázat dětem jeden z největších stadionů v Čechách.",
+        "POPIS": "Dětské hřiště (<b>64</b>) se rozkládá přímo u stadionu fotbalového klubu Sparta (u vstupu č.4), nedaleko železniční tratě Praha-Kladno. Hřiště je obklopené vysokým plotem. Na ploše najdete kombinaci několika povrchů-trávu, litou gumu, písek a dlažbu. Roste zde několik stromů, které poskytují částečný stín. Atrakce zaujmou děti cca do 9 let. Stojí tady domek se skluzavkou, dřevěný vláček, dvě kreslící tabule s počítadlem, houpadla (jedno představuje pandu), kolotoč a větší pískoviště. Na gumové ploše je nakreslen skákací panák. Podle sdělení pracovníka bezpečnostní služby, která zajišťuje pořádek na stadionu a kolem něho, se z bezpečnostních důvodů v době fotbalových zápasů hřiště zamyká!",
+        "DOPORUCENI": "O pár set metrů dál, v ulici Na Výšinách (areál DDM Praha 7) máte možnost zahrát si minigolf-více na: <a href='http://www.ddmpraha7.cz/minigolf.html' target='_blank'>www.ddmpraha7.cz/minigolf.html</a>.<br />Děti si mohou také procvičit pravidla silničního provozu na dopravním hřišti. Informace o jeho otvírací době na: <a href='http://www.ddmpraha7.cz/dopravni-hriste.html' target='_blank'>www.ddmpraha7.cz/dopravni-hriste.html</a>.",
+        "SOCIALNI": "Voda ano-hydrant, chemické WC.",
+        "OBCERSTVENI": "U stadionu se nachází restaurace řetězce McDonalds. Na ulici Milady Horákové si můžete vybrat z několika restaurací.",
+        "DOPRAVA": "Tramvaje č. <b>1, 8, 12, 25, 26</b>, zastávka <b>Sparta</b>. Parkování ulice U Sparty nebo Nad Královskou oborou.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4153231,
+          50.1008442
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "66",
+      "properties": {
+        "NAME": "Sídliště Košík - Toulcův dvůr",
+        "INFO": "Dětské hřiště tentokrát představuje spíše doprovodnou aktivitu. Tou hlavní by měla být návštěva Toulcova dvora.",
+        "POPIS": "Dětské hřiště (<b>66</b>) je lokalizována na sídlišti, vedle budovy, kde jsou lékařské ordinace a lékárna Košík. Hřiště se nachází v parčíku. Stromy poskytují částečný stín. Na povrchu roste tráva a je položen písek. Atrakce tvoří 6 houpaček, domek se skluzavkou, 2 pískoviště, multifunkční lezecká sestava, houpadlo ve formě lodi a drobné prvky. U vchodu stojí velký keramický panák. Ideální pikola ke hře na schovávanou, ke které se tento poměrně rozlehlý a vysokým plotem zabezpečený prostor hodí.",
+        "DOPORUCENI": "Pár set metrů odtud se nachází ekologické centrum Toulcův dvůr, který slouží dětem všech věkových skupin, školám i dospělým. Projít si lze naučnou stezku. Vidět můžete koně, králíky, kozy, prasata a další hospodářská zvířata. Jsou tady upravené zahrady, sad atd. Funguje zdravá jídelna, bio obchod, ubytování... Zajímavé ekologické informace se dozvíte z naučných tabulí. V době prázdnin bývají některé aktivity utlumeny (např. provoz bio obchodu). Více informací najdete na: <a href='http://www.toulcuvdvur.cz' target='_blank'>www.toulcuvdvur.cz</a>.",
+        "SOCIALNI": "Voda ne, WC ne (platí pro hřiště). V Toulcově dvoře ano.",
+        "OBCERSTVENI": "Sídlištní nákupní centrum u stanice autobusu <b>Toulcův dvůr</b> (restaurace a supermarket). V Toulcově dvoře je od 11. hodin nabízeno občerstvení.",
+        "DOPRAVA": "Autobus č. <b>177</b>, zastávka <b>Na Košíku</b> nebo <b>Toulcův dvůr</b>. Parkování na sídlišti nebo před supermarketem.",
+        "GALERIE": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5135083,
+          50.0460800
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "61",
+      "properties": {
+        "NAME": "Újezd nad Lesy",
+        "INFO": "Újezd nad Lesy leží sice až na okraji Prahy, ale disponuje komplexem, který zaujme děti všech věkových skupin.",
+        "POPIS": "Dětské hřiště (<b>61</b>) je součástí většího sportovního komplexu, který se rozkládá mezi fotbalovým hřištěm a oplocením ZŠ Masarykova. Atrakce hřiště najdete v zadní části areálu. Jsou převážně dřevěné. Tvoří je houpačky, kolotoč, domek se skluzavkou pojatý jako loď, prvky k procvičení obratnosti a dvě multifunkční sestavy. Stromy poskytují částečný stín. Na povrchu roste převážně tráva nebo je položen kačírek. <br />Areál je ale zasvěcen především sportu. Jsou zde 2 hřiště s umělým povrchem a basketbalovými koši. Kromě toho tu mají také sítě, které se hodí např. pro nohejbal nebo tenis. Velkou část plochy zabírá skate park, který hojně využívají nejen jezdci na skateboardech, ale i koloběžkách a kolech. Kromě toho zde uvidíte několik uměle navršených kopců, zarostlých nízkou trávou, která slouží pro trénování jízdy na BMX kolech. Součástí areálu je také rozlehlé zastřešené posezení, objekt s toaletami a několik hydrantů.<br />Celý prostor je monitorován. Od 1. 11. do 31. 3. je areál uzavřen!",
+        "DOPORUCENI": "Návštěva je vhodná se sportovním vybavením jako míč, kolo, koloběžka nebo skateboard.",
+        "SOCIALNI": "Voda ano, WC ano.",
+        "OBCERSTVENI": "V blízkosti autobusové zastávky <b>Hulická</b> a světelné křižovatky leží cukrárna, vinotéka spojená s kavárnou (mají i horkou čokoládu), pizzerie jako rychlé občerstvení a supermarket.",
+        "DOPRAVA": "Autobusy č. <b>251, 260, 261, 303 a 391</b>, zastávka <b>Hulická</b>. Parkovat lze před budovou školy, u sportovního areálu.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6579800,
+          50.0776925
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "52.A",
+      "properties": {
+        "NAME": "Lokalita Velká Ohrada - oblast 52.A",
+        "INFO": "Na sídlišti Velká Ohrada lze nedaleko od sebe navštívit skoro tucet hřišť!",
+        "POPIS": "Hřiště se rozkládají mezi panelovými domy. Zjednodušeně lze říci, že tvoří dvě skupiny. První (<b>52.A</b>) se rozkládá mezi ulicemi Janského a Přecechtělova. Je tvořena třemi menšími hřišti dětskými a několika sportovišti. Dětská hřiště jsou oplocena a stojí na nich převážně domky se skluzavkou a houpačky. Nejhezčí je asi první (nejbližší konečné autobusu Velká Ohrada), kde se nachází velké točidlo Hags, auto na pérech nebo větší multifunkční sestava. Zajímavé je také hřiště druhé s dřevěným domkem ve formě hradu. Na povrchu hřišť leží kačírek nebo písek. Stín je pouze na menší části plochy. Kromě hřišť dětských se zde rozkládá také několik oplocených sportovišť s asfaltovým povrchem. Na prvním (od konečné autobusu) jsou instalovány basketbalové koše.<br />Druhou skupinu (<b>52.B</b>) najdete kolem sídlištního nákupního centra (obchody, restaurace, supermarket), mezi ulicemi Bašteckého a Kurzova. Hřiště jsou opět menší, oplocena pouze některá. K atrakcím patří houpačky, kladina, domky se skluzavkou atd. Na povrchu leží kačírek, stínu je málo. Za supermarketem na náměstí byla postavena velká sestava z kamenů a funguje zde vodotrysk.",
+        "DOPORUCENI": "Protože žádné z hřišť není dominantní, ideální variantou je projít všechna.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Sídlištní nákupní komplex u stanice autobusu <b>Červeňanského</b>.",
+        "DOPRAVA": "Autobusy č. <b>174, 235</b> zastávka <b>Velká Ohrada</b> nebo <b>Červeňanského</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3377883,
+          50.0361406
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "52.B",
+      "properties": {
+        "NAME": "Lokalita Velká Ohrada - oblast 52.B",
+        "INFO": "Na sídlišti Velká Ohrada lze nedaleko od sebe navštívit skoro tucet hřišť!",
+        "POPIS": "Hřiště se rozkládají mezi panelovými domy. Zjednodušeně lze říci, že tvoří dvě skupiny. První (<b>52.A</b>) se rozkládá mezi ulicemi Janského a Přecechtělova. Je tvořena třemi menšími hřišti dětskými a několika sportovišti. Dětská hřiště jsou oplocena a stojí na nich převážně domky se skluzavkou a houpačky. Nejhezčí je asi první (nejbližší konečné autobusu Velká Ohrada), kde se nachází velké točidlo Hags, auto na pérech nebo větší multifunkční sestava. Zajímavé je také hřiště druhé s dřevěným domkem ve formě hradu. Na povrchu hřišť leží kačírek nebo písek. Stín je pouze na menší části plochy. Kromě hřišť dětských se zde rozkládá také několik oplocených sportovišť s asfaltovým povrchem. Na prvním (od konečné autobusu) jsou instalovány basketbalové koše.<br />Druhou skupinu (<b>52.B</b>) najdete kolem sídlištního nákupního centra (obchody, restaurace, supermarket), mezi ulicemi Bašteckého a Kurzova. Hřiště jsou opět menší, oplocena pouze některá. K atrakcím patří houpačky, kladina, domky se skluzavkou atd. Na povrchu leží kačírek, stínu je málo. Za supermarketem na náměstí byla postavena velká sestava z kamenů a funguje zde vodotrysk.",
+        "DOPORUCENI": "Protože žádné z hřišť není dominantní, ideální variantou je projít všechna.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Sídlištní nákupní komplex u stanice autobusu <b>Červeňanského</b>.",
+        "DOPRAVA": "Autobusy č. <b>174, 235</b> zastávka <b>Velká Ohrada</b> nebo <b>Červeňanského</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3388522,
+          50.0390064
+        ]
+      }
     }
 
   ]
