@@ -313,7 +313,7 @@ var theaters = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'">'+'</p></td><td><i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'">'+'</p></td><td style="vertical-align: middle;"><i style="vertical-align: middle;" class="fa fa-chevron-right pull-right"></td></tr>');
         $('document').ready(function(){
 				$('#demo').jplist({
 				    debug:	true
@@ -323,14 +323,7 @@ var theaters = L.geoJson(null, {
                     ,redrawCallback: function(collection, $dataview, statuses){
                     var theaterList = new List("theaters", {valueNames: ["theater-name"]}).sort("theater-name", {order:"asc"});
                  }						    
-                    ,controlTypes: {
-            
-            'default-sort':{
-               className: 'DefaultSort'
-               ,options: {}
-            }
-         }
-	                
+                   
                    
 				});
           
