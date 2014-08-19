@@ -313,21 +313,27 @@ var theaters = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + feature.id + "</b>. " +layer.feature.properties.NAME+'</p><p class="'+feature.mesto+'">'+'</p></td><td><i class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'">'+'</p></td><td><i class="fa fa-chevron-right pull-right"></td></tr>');
         $('document').ready(function(){
 				$('#demo').jplist({
 				    debug:	true
 					,itemsBox: '.demo-tbl' 
 					,itemPath: '.tbl-item' 
 					,panelPath: '.jplist-panel'
-                    ,cookies: true
-	                ,animateToTop: 'table, tbody'
-					
-					//save plugin state
-					,storage: 'localstorage' //'', 'cookies', 'localstorage'			
-					,storageName: 'jplist-tabl'
+                    ,redrawCallback: function(collection, $dataview, statuses){
+                    var theaterList = new List("theaters", {valueNames: ["theater-name"]}).sort("theater-name", {order:"asc"});
+                 }						    
+                    ,controlTypes: {
+            
+            'default-sort':{
+               className: 'DefaultSort'
+               ,options: {}
+            }
+         }
+	                
                    
 				});
+          
 			});
       theaterSearch.push({
         name: layer.feature.properties.NAME,
