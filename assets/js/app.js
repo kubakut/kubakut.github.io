@@ -499,8 +499,8 @@ if (document.body.clientWidth <= 767) {
 }
 
 var baseLayers = {
-  "Mapa A": mapquestOSM,
-  "Mapa B": mapquestOAM,
+  "Mapa A": mapquestOAM,
+  "Mapa B": mapquestOSM,
   "Satelitní": mapquestHYB
 };
 
