@@ -227,23 +227,10 @@
                     <ul class="nav nav-tabs" id="aboutTabs">
                         <li class="active"><a href="#about" data-toggle="tab"><i class="fa fa-question-circle"></i>&nbsp;O projektu</a>
                         </li>
-                        <li><a href="#contact" data-toggle="tab"><i class="fa fa-envelope"></i>&nbsp;Contact us</a>
+                        <li><a href="#contact" data-toggle="tab"><i class="fa fa-envelope"></i>&nbsp;Zanechte vzkaz</a>
                         </li>
-                        <li><a href="#disclaimer" data-toggle="tab"><i class="fa fa-exclamation-circle"></i>&nbsp;Disclaimer</a>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe"></i>&nbsp;Metadata <b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#boroughs-tab" data-toggle="tab">Boroughs</a>
-                                </li>
-                                <li><a href="#subway-lines-tab" data-toggle="tab">Subway Lines</a>
-                                </li>
-                                <li><a href="#theaters-tab" data-toggle="tab">Hřiště</a>
-                                </li>
-                                <li><a href="#museums-tab" data-toggle="tab">Občerstvení</a>
-                                </li>
-                            </ul>
-                        </li>
+                        
+                       
                     </ul>
                     <div class="tab-content" id="aboutTabsContent" style="padding-top: 10px;">
                         <div class="tab-pane fade active in" id="about">
@@ -261,7 +248,7 @@
 
 <p>V textech o hřištích neuvádíme otvírací dobu, protože nepokládáme za účelné stále opakovat totéž. Obecně platí, že většinu hřišť lze navštívit <b>kdykoliv</b>. Pokud se o hřiště stará správce nebo se na noc zamykají, od <b>května </b>do <b>září</b> se <b>otevírají </b>mezi <b>osmou</b> (častěji) a <b>devátou</b> hodinou. Od <b>října</b> do <b>dubna</b> pak mezi <b>devátou</b> (častěji) a <b>desátou</b>. Od <b>května</b> do <b>září</b> se hřiště <b>zavírají</b> ve <b>dvacet</b> až <b>jednadvacet</b> hodin, od <b>října</b> do <b>dubna</b> v <b>sedmnáct</b> až <b>devatenáct</b> hodin. Pokud je hřiště v určitou část roku uzavřené, výslovně to uvádíme.</p>
 
-<p>U každého hřiště naleznete také dostupnost veřejnou dopravou. Předkládané dopravní informace zachycují stav platný v <b>srpnu 2014.</b> Protože se linky městské dopravy často mění, doporučujeme si před návštěvou hřišť ověřit aktuálnost dopravního spojení na stránkách Dopravního podniku: <a href="http://jrportal.dpp.cz/jrportal/">http://jrportal.dpp.cz/jrportal/</a></p>
+<p>U každého hřiště naleznete také dostupnost veřejnou dopravou. Předkládané dopravní informace zachycují stav platný v <b>srpnu 2014.</b> Protože se linky městské dopravy často mění, doporučujeme si před návštěvou hřišť ověřit aktuálnost dopravního spojení na stránkách Dopravního podniku: <a href="http://jrportal.dpp.cz/jrportal/" target="_blank">http://jrportal.dpp.cz/jrportal/</a></p>
 
 <p>Všechny uvedené webové odkazy jsme prověřili v <b>srpnu 2014</b> a byly v této době funkční.</p>
 
@@ -280,57 +267,30 @@
                                 </ul>
                             </div>
                         </div>
-                        <div id="disclaimer" class="tab-pane fade text-danger">
-                            <p>The data provided on this site is for informational and planning purposes only.</p>
-                            <p>Absolutely no accuracy or completeness guarantee is implied or intended. All information on this map is subject to such variations and corrections as might result from a complete title search and/or accurate field survey.</p>
-                        </div>
+                        
                         <div class="tab-pane fade" id="contact">
-                            <form id="contact-form">
-                                <div class="well well-sm">
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <div class="form-group">
-                                                <label for="first-name">First Name:</label>
-                                                <input type="text" class="form-control" id="first-name">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="last-name">Last Name:</label>
-                                                <input type="text" class="form-control" id="last-email">
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="email">Email:</label>
-                                                <input type="text" class="form-control" id="email">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-8">
-                                            <label for="message">Message:</label>
-                                            <textarea class="form-control" rows="8" id="message"></textarea>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <p>
-                                                <button type="submit" class="btn btn-primary pull-right" data-dismiss="modal">Submit</button>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
+                           <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'detskahriste'; // required: replace example with your forum shortname
+        var disqus_config = function () { 
+  this.language = "cs";
+};
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+    
+                          
                         </div>
-                        <div class="tab-pane fade" id="boroughs-tab">
-                            <p>Borough data courtesy of <a href="http://www.nyc.gov/html/dcp/html/bytes/meta_dis_nyboroughwi.shtml" target="_blank">New York City Department of City Planning</a>
-                            </p>
-                        </div>
-                        <div class="tab-pane fade" id="subway-lines-tab">
-                            <p><a href="http://spatialityblog.com/2010/07/08/mta-gis-data-update/#datalinks" target="_blank">MTA Subway data</a> courtesy of the <a href="http://www.urbanresearch.org/about/cur-components/cuny-mapping-service" target="_blank">CUNY Mapping Service at the Center for Urban Research</a>
-                            </p>
-                        </div>
-                        <div class="tab-pane fade" id="theaters-tab">
-                            <p>Theater data courtesy of <a href="https://data.cityofnewyork.us/Recreation/Theaters/kdu2-865w" target="_blank">NYC Department of Information & Telecommunications (DoITT)</a>
-                            </p>
-                        </div>
-                        <div class="tab-pane fade" id="museums-tab">
-                            <p>Museum data courtesy of <a href="https://data.cityofnewyork.us/Recreation/Museums-and-Galleries/sat5-adpb" target="_blank">NYC Department of Information & Telecommunications (DoITT)</a>
-                            </p>
-                        </div>
+                 
                     </div>
                 </div>
             </div>
