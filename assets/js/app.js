@@ -301,9 +301,6 @@ var theaters = L.geoJson(null, {
 
   
   
- 
-
-
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
             stroke: false,
