@@ -5,6 +5,7 @@
       "type": "Feature",
       "id": "1",
       "mesto": "praha1",
+      "kategorie": "vl5 vl6",
       "properties": {
         "NAME": "Františkánská zahrada",
         "INFO": "V samém srdci města najdeme hřiště určené spíše pro mladší děti. Není unikátní velikostí,  ale polohou na okraji Františkánské zahrady.",
@@ -27,6 +28,7 @@
       "type": "Feature",
       "id": "28.A",
       "mesto": "praha7",
+      "kategorie": "vl9 vl8",
       "properties": {        
         "NAME": "Stromovka - hřiště Tramvaj",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -49,6 +51,7 @@
       "type": "Feature",
       "id": "28.B",
       "mesto": "praha7",
+      "kategorie": "vl8",
       "properties": {        
         "NAME": "Stromovka - hřiště Koníček",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -71,6 +74,7 @@
       "type": "Feature",
       "id": "28.C",
       "mesto": "praha7",
+      "kategorie": "vl8",
       "properties": {        
         "NAME": "Stromovka - hřiště U platanu",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -93,6 +97,7 @@
       "type": "Feature",
       "id": "28.D",
       "mesto": "praha7",
+      "kategorie": "vl4",
       "properties": {        
         "NAME": "Stromovka - hřiště U malé říčky",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -115,6 +120,7 @@
       "type": "Feature",
       "id": "28.E",
       "mesto": "praha7",
+      "kategorie": "vl4",
       "properties": {        
         "NAME": "Stromovka - hřiště U psí louky",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -137,6 +143,7 @@
       "type": "Feature",
       "id": "28.F",
       "mesto": "praha7",
+      "kategorie": "vl5 vl6 vl8 vl9 vl1",
       "properties": {        
         "NAME": "Stromovka - hřiště Kaštánek",
         "INFO": "Stromovka nám nabídne tolik, že se vyplatí zajít sem na celý den.",
@@ -159,6 +166,7 @@
       "type": "Feature",
       "id": "3",
       "mesto": "praha1",
+      "kategorie": "vl1 vl4 vl5 vl6 vl7 vl9",
       "properties": {
         "NAME": "Lannova ulice - nábřeží Ludvíka Svobody",
         "GALERIE": 8,
@@ -181,6 +189,7 @@
       "type": "Feature",
       "id": "2",
       "mesto": "praha7",
+      "kategorie": "vl1 vl4 vl6 vl8",
       "properties": {
         "NAME": "Holešovice, Jateční",
         "INFO": "Nedaleko Holešovické tržnice, skryté za vysokou zdí, je situováno dětské hřiště.",
@@ -203,6 +212,7 @@
       "type": "Feature",
       "id": "4.B",
       "mesto": "praha1",
+      "kategorie": "vl1 vl5 vl6 vl7",
       "properties": {
         "NAME": "Na Františku - komplex v Masné ulici",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -225,6 +235,7 @@
       "type": "Feature",
       "id": "4.A",
       "mesto": "praha1",
+      "kategorie": "vl1 vl5 vl6 vl7",
       "properties": {
         "NAME": "Na Františku - komplex Na Františku",
         "INFO": "Pokud rádi sportujete, nenechte si ujít návštěvu volno-časového centra v historickém jádru města.",
@@ -247,6 +258,7 @@
       "type": "Feature",
       "id": "8",
       "mesto": "praha2",
+      "kategorie": "vl1 vl5 vl6 vl7",
       "properties": {
         "NAME": "U Vodárny, Praha 2",
         "INFO": "Hřiště U Vodárny <b>(8)</b> patří k nejkrásnějším v Praze a po právu také získalo titul  „Nejlepší dřevěné hřiště“.",
@@ -269,6 +281,7 @@
       "type": "Feature",
       "id": "6",
       "mesto": "praha7",
+      "kategorie": "vl1 vl5 vl6 vl8 vl9",
       "properties": {
         "NAME": "Kostelní",
         "INFO": "Na okraji Letenských sadů leží rozlehlý areál určený spíše starším dětem.",
@@ -291,6 +304,7 @@
       "type": "Feature",
       "id": "5",
       "mesto": "praha1",
+      "kategorie": "vl5 vl6 vl7 vl8",
       "properties": {
         "NAME": "Vrchlického sady (Hlavní nádraží)",
         "INFO": "Před Hlavním nádražím vyrostlo moderní, rozsáhlé hřiště <b>(5)</b>, vhodné pro všechny věkové kategorie dětí.",
@@ -313,6 +327,7 @@
       "type": "Feature",
       "id": "9",
       "mesto": "praha2",
+      "kategorie": "vl5 vl8 vl9",
       "properties": {
         "NAME": "Vyšehrad",
         "INFO": "Návštěvu bájemi opředeného místa byste si neměli nechat ujít!",
@@ -335,6 +350,7 @@
       "type": "Feature",
       "id": "7.B",
       "mesto": "praha10",
+      "kategorie": "vl6 vl8",
       "properties": {
         "NAME": "Gröbovka - hřiště Bezručovy sady ",
         "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
@@ -357,6 +373,7 @@
       "type": "Feature",
       "id": "7.A",
       "mesto": "praha2",
+      "kategorie": "vl1 vl5 vl6 vl7",
       "properties": {
         "NAME": "Gröbovka - hřiště Havlíčkovy sady",
         "INFO": "Chcete-li poznat opravdu krásný park, vydejte se na Vinohrady.",
@@ -379,6 +396,7 @@
       "type": "Feature",
       "id": "22",
       "mesto": "praha5",
+      "kategorie": "vl4 vl6 vl11",
       "properties": {
         "NAME": "Sacré-Coeur",
         "INFO": "Za nákupním centrem Nový Smíchov objevíte park, v něm pěkné dětské hřiště <b>(22)</b> a stanici přírodovědců.",
@@ -401,6 +419,7 @@
       "type": "Feature",
       "id": "10",
       "mesto": "praha2",
+      "kategorie": "vl5 vl6 vl7 vl8 vl9 vl10",
       "properties": {
         "NAME": "Výtoň",
         "INFO": "Praha 2 nabízí více pěkných hřišť, jedno pod Vyšehradem.",
@@ -423,6 +442,7 @@
       "type": "Feature",
       "id": "11.A",
       "mesto": "praha2",
+      "kategorie": "vl5 vl6 vl7",
       "properties": {
         "NAME": "Riegrovy sady - hřiště „U draka“",
         "INFO": "V katastru dvou městských částí, ale blízko sebe najdeme unikátní spojení hřiště a parku.",
@@ -445,6 +465,7 @@
       "type": "Feature",
       "id": "11.B",
       "mesto": "praha3",
+      "kategorie": "vl1 vl4 vl13 vl5 vl6 vl8 vl12",
       "properties": {
         "NAME": "Rajská zahrada - Rajská zahrada",
         "INFO": "V katastru dvou městských částí, ale blízko sebe najdeme unikátní spojení hřiště a parku.",
@@ -467,6 +488,7 @@
       "type": "Feature",
       "id": "12",
       "mesto": "praha3",
+      "kategorie": "vl13 vl5 vl6 vl7 vl8",
       "properties": {
         "NAME": "Olšanské hřbitovy (Pod Kapličkou)",
         "INFO": "U zdi starého Židovského hřbitova na Olšanech leží jedno z nejrozsáhlejších hřišť v Praze <b>(12)</b>.",
@@ -489,6 +511,7 @@
       "type": "Feature",
       "id": "13.A",
       "mesto": "praha3",
+      "kategorie": "vl8",
       "properties": {
         "NAME": "Vítkov - Vítkov 1",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
@@ -511,6 +534,7 @@
       "type": "Feature",
       "id": "13.B",
       "mesto": "praha3",
+      "kategorie": "vl5 vl8",
       "properties": {
         "NAME": "Vítkov - Vítkov 2",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
@@ -533,6 +557,7 @@
       "type": "Feature",
       "id": "13.C",
       "mesto": "praha3",
+      "kategorie": "vl4 vl9",
       "properties": {
         "NAME": "Vítkov - Vítkov pro mládež a dospělé",
         "INFO": "Vypravíte-li se na jeden z nejznámějších pražských vrchů, nebudete litovat.",
@@ -555,6 +580,7 @@
       "type": "Feature",
       "id": "14.A",
       "mesto": "praha3",
+      "kategorie": "vl5 vl6 vl13",
       "properties": {
         "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
         "NAME": "Vrch sv. Kříže - Vrch sv. kříže západ",
@@ -577,6 +603,7 @@
       "type": "Feature",
       "id": "14.B",
       "mesto": "praha3",
+      "kategorie": "vl5 vl8",
       "properties": {
         "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
         "NAME": "Vrch sv. Kříže - Vrch sv. kříže východ",
@@ -599,6 +626,7 @@
       "type": "Feature",
       "id": "14.C",
       "mesto": "praha3",
+      "kategorie": "",
       "properties": {
         "INFO": "Máte rádi vlaky? Jestliže ano, navštivte hřiště nedaleko Olšanského náměstí.",
         "NAME": "Vrch sv. Kříže - 14.C",
@@ -621,6 +649,7 @@
       "type": "Feature",
       "id": "15",
       "mesto": "praha4",
+      "kategorie": "vl2 vl6",
       "properties": {
         "NAME": "Braník, Na Mlejnku",
         "INFO": "V blízkosti Barrandovského mostu v Braníku se rozkládá jedno s nejrozsáhlejších dětských hřišť v Praze.",
@@ -643,6 +672,7 @@
       "type": "Feature",
       "id": "18",
       "mesto": "praha5",
+      "kategorie": "vl1 vl6 vl8 vl9",
       "properties": {
         "NAME": "Aréna",
         "INFO": " Na vltavském nábřeží Smíchova leží komplex několika hřišť.",
@@ -665,6 +695,7 @@
       "type": "Feature",
       "id": "17.A",
       "mesto": "praha4",
+      "kategorie": "vl2 vl9",
       "properties": {
         "NAME": "Podolská vodárna - dětské hřiště",
         "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
@@ -687,6 +718,7 @@
       "type": "Feature",
       "id": "17.B",
       "mesto": "praha4",
+      "kategorie": "vl1 vl2 vl4 vl13 vl5 vl9",
       "properties": {
         "NAME": "Podolská vodárna - senior park a sportoviště",
         "INFO": "V blízkosti této monumentální stavby leží nedaleko od sebe dětská hřiště a několik sportovišť vhodných pro všechny věkové kategorie, včetně seniorů!",
@@ -709,6 +741,7 @@
       "type": "Feature",
       "id": "16",
       "mesto": "praha6",
+      "kategorie": "vl1 vl4 vl8",
       "properties": {
         "NAME": "Suchdol",
         "INFO": "Areál na Výhledském náměstí zahrnuje dětské hřiště a sportoviště. Nedaleko se rozkládá rozlehlý komplex České zemědělské univerzity.",
@@ -731,6 +764,7 @@
       "type": "Feature",
       "id": "20",
       "mesto": "praha5",
+      "kategorie": "vl1 vl5 vl6 vl9",
       "properties": {
         "NAME": "Okrouhlík",
         "INFO": "Nad Klamovku leží velmi rozlehlé, byť poněkud zanedbané hřiště (<b>20</b>).",
@@ -753,6 +787,7 @@
       "type": "Feature",
       "id": "21.B",
       "mesto": "praha1",
+      "kategorie": "vl9",
       "properties": {
         "NAME": "Petřín - Hladová zeď ",
         "INFO": "Vrch Petřín spolu s proslulou rozhlednou patří k dominantám hlavního města.",
@@ -775,6 +810,7 @@
       "type": "Feature",
       "id": "21.A",
       "mesto": "praha1",
+      "kategorie": "vl5 vl6 vl7 vl8",
       "properties": {
         "NAME": "Petřín - Újezd",
         "INFO": "Vrch Petřín spolu s proslulou rozhlednou patří k dominantám hlavního města.",
@@ -797,6 +833,7 @@
       "type": "Feature",
       "id": "19",
       "mesto": "praha17",
+      "kategorie": "vl2 vl8 vl9 vl10",
       "properties": {
         "NAME": "Řepy, Fialka",
         "INFO": "Dětské hřiště, areál BMX, naučná stezka a možnost shlédnout dětské divadelní představení. To vše poskytne Fialka.",
@@ -819,6 +856,7 @@
       "type": "Feature",
       "id": "24",
       "mesto": "praha6",
+      "kategorie": "vl5 vl9",
       "properties": {
         "NAME": "Dejvice - Hadovka",
         "INFO": "Nedaleko Vítězného náměstí můžete navštívit pěkný park s dětskými hřišti. Ale na své si mohou přijít nejen děti, ale i milovníci umění.",
@@ -841,6 +879,7 @@
       "type": "Feature",
       "id": "23",
       "mesto": "praha1",
+      "kategorie": "vl5 vl6",
       "properties": {
         "NAME": "Slovanský ostrov (Žofín)",
         "INFO": "Máte-li rádi Vltavu a vláčky, navštivte Slovanský ostrov.",
@@ -863,6 +902,7 @@
       "type": "Feature",
       "id": "32.A",
       "mesto": "praha8",
+      "kategorie": "vl10",
       "properties": {
         "NAME": "Stará Libeň - Thomayerovy sady",
         "INFO": "Lákadlem pro využití volného budou nejen hřiště, ale i několik zajímavých míst.",
@@ -885,6 +925,7 @@
       "type": "Feature",
       "id": "32.B",
       "mesto": "praha8",
+      "kategorie": "",
       "properties": {
         "NAME": "Stará Libeň - U Rokytky",
         "INFO": "Lákadlem pro využití volného budou nejen hřiště, ale i několik zajímavých míst.",
@@ -905,8 +946,9 @@
     },
     {
       "type": "Feature",
-      "id": "29.A",
+      "id": "29.A",      
       "mesto": "praha8",
+      "kategorie": "",
       "properties": {
         "NAME": "Bohnice a Čimice - Bohnice",
         "INFO": "Nedaleko od sebe zde leží 2 pěkná hřiště.",
@@ -929,6 +971,7 @@
       "type": "Feature",
       "id": "29.B",
       "mesto": "praha8",
+      "kategorie": "",
       "properties": {
         "NAME": "Bohnice a Čimice - Čimice",
         "INFO": "Nedaleko od sebe zde leží 2 pěkná hřiště.",
@@ -951,6 +994,7 @@
       "type": "Feature",
       "id": "27.A",
       "mesto": "praha7",
+      "kategorie": "vl5 vl9",      
       "properties": {
         "NAME": "Letenské sady - U hrocha",
         "INFO": "Lokalita v sobě spojuje dětská hřiště, zeleň a muzea.",
@@ -973,6 +1017,7 @@
       "type": "Feature",
       "id": "27.B",
       "mesto": "praha7",
+      "kategorie": "vl8 vl9",
       "properties": {
         "NAME": "Letenské sady - hřiště u Letenského zámečku",
         "INFO": "Lokalita v sobě spojuje dětská hřiště, zeleň a muzea.",
@@ -995,6 +1040,7 @@
       "type": "Feature",
       "id": "30.A",
       "mesto": "praha8",
+      "kategorie": "vl8 vl9 vl10",
       "properties": {
         "NAME": "Ďáblický háj - hřiště 30.A",
         "INFO": "Ďáblický háj nabízí dvě pěkná hřiště a několik zajímavých míst. Jen na vás záleží, která navštívíte.",
@@ -1017,6 +1063,7 @@
       "type": "Feature",
       "id": "30.B",
       "mesto": "praha8",
+      "kategorie": "vl4",
       "properties": {
         "NAME": "Ďáblický háj - hřiště 30.B",
         "INFO": "Ďáblický háj nabízí dvě pěkná hřiště a několik zajímavých míst. Jen na vás záleží, která navštívíte.",
@@ -1039,6 +1086,7 @@
       "type": "Feature",
       "id": "26.A",
       "mesto": "praha6",
+      "kategorie": "vl1 vl2 vl4",
       "properties": {
         "NAME": "Ladronka - hřiště Ladronka",
         "INFO": "Ne, dětská hřiště, ale in-line bruslení a cyklostezky, to bývá hlavním lákadlem pro návštěvu Ladronky.",
@@ -1061,6 +1109,7 @@
       "type": "Feature",
       "id": "26.B",
       "mesto": "praha6",
+      "kategorie": "vl2 vl4 vl8",
       "properties": {
         "NAME": "Ladronka - hřiště Tomanova",
         "INFO": "Ne, dětská hřiště, ale in-line bruslení a cyklostezky, to bývá hlavním lákadlem pro návštěvu Ladronky.",
@@ -1083,6 +1132,7 @@
       "type": "Feature",
       "id": "33",
       "mesto": "praha10",
+      "kategorie": "vl4 vl13 vl5 vl6 vl7",
       "properties": {
         "NAME": "Malešický park",
         "INFO": "Díky nákladné revitalizaci získala Praha unikátní hrací prostor, který slouží nejen hrám, ale také rozvoji technického vnímání.",
@@ -1105,6 +1155,7 @@
       "type": "Feature",
       "id": "31.A",
       "mesto": "praha8",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Sídliště Kobylisy - hřiště Třeboradická",
         "INFO": "Lokalita nabízí dvě pěkná moderní hřiště.",
@@ -1127,6 +1178,7 @@
       "type": "Feature",
       "id": "31.B",
       "mesto": "praha8",
+      "kategorie": "vl8",
       "properties": {
         "NAME": "Sídliště Kobylisy - hřiště Benákova",
         "INFO": "Lokalita nabízí dvě pěkná moderní hřiště.",
@@ -1149,6 +1201,7 @@
       "type": "Feature",
       "id": "25.A",
       "mesto": "praha6",
+      "kategorie": "vl8",
       "properties": {
         "NAME": "Hvězda - hřiště 25.A",
         "INFO": "Místa spjatá s naší historií, pěkná lesní hřiště a příjemnou procházku, to nabízí obora Hvězda.",
@@ -1171,6 +1224,7 @@
       "type": "Feature",
       "id": "25.B",
       "mesto": "praha6",
+      "kategorie": "vl8",
       "properties": {
         "NAME": "Hvězda - hřiště 25.B",
         "INFO": "Místa spjatá s naší historií, pěkná lesní hřiště a příjemnou procházku, to nabízí obora Hvězda.",
@@ -1193,6 +1247,7 @@
       "type": "Feature",
       "id": "25.C",
       "mesto": "praha6",
+      "kategorie": "vl1 vl2",
       "properties": {
         "NAME": "Hvězda - dopravní hřiště",
         "INFO": "Místa spjatá s naší historií, pěkná lesní hřiště a příjemnou procházku, to nabízí obora Hvězda.",
@@ -1215,6 +1270,7 @@
       "type": "Feature",
       "id": "34",
       "mesto": "praha9",
+      "kategorie": "vl3 vl13 vl6 vl8",
       "properties": {
         "NAME": "Park Podvinní, Vysočany ",
         "INFO": "Před vysočanskou poliklinikou se rozkládá rozsáhlý park (<b>34</b>). A v něm několik zajímavých míst.",
@@ -1237,6 +1293,7 @@
       "type": "Feature",
       "id": "35.A",
       "mesto": "praha9",
+      "kategorie": "vl3 vl13 vl5 vl8 vl10",
       "properties": {
         "NAME": "Park Přátelství - park Přátelství ",
         "INFO": "Největší dětské hřiště Prahy 9 se rozkládá v Parku Přátelství.",
@@ -1259,6 +1316,7 @@
       "type": "Feature",
       "id": "35.B",
       "mesto": "praha9",
+      "kategorie": "vl1 vl3 vl4",
       "properties": {
         "NAME": "Park Přátelství - Pískovcová ulice ",
         "INFO": "Největší dětské hřiště Prahy 9 se rozkládá v Parku Přátelství.",
@@ -1281,6 +1339,7 @@
       "type": "Feature",
       "id": "36",
       "mesto": "praha10",
+      "kategorie": "vl1 vl3 vl13 vl5 vl6 vl12",
       "properties": {
         "NAME": "Gutova",
         "INFO": "Areál Gutova představuje rozlehlý komplex (<b>36</b>), kde možnost ke hrám najdou nejen děti, ale také dospělí. Unikátní je zejména vodní hřiště.",
@@ -1303,6 +1362,7 @@
       "type": "Feature",
       "id": "39",
       "mesto": "praha12",
+      "kategorie": "vl1 vl5 vl6 vl7",
       "properties": {
         "NAME": "Vosa, Modřany",
         "INFO": "Vosa v Modřanech představuje pěkný multifunkční areál.",
@@ -1325,6 +1385,7 @@
       "type": "Feature",
       "id": "38.A",
       "mesto": "praha11",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Opatov - hřiště 38.A",
         "INFO": "U stanic metra Opatov lze navštívit několik hřišť.",
@@ -1347,6 +1408,7 @@
       "type": "Feature",
       "id": "38.B",
       "mesto": "praha11",
+      "kategorie": "",
       "properties": {
         "NAME": "Opatov - hřiště 38.B",
         "INFO": "U stanic metra Opatov lze navštívit několik hřišť.",
@@ -1369,6 +1431,7 @@
       "type": "Feature",
       "id": "37.A",
       "mesto": "praha10",
+      "kategorie": "vl6 vl8",
       "properties": {
         "NAME": "Zahradní město - Malinová",
         "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
@@ -1391,6 +1454,7 @@
       "type": "Feature",
       "id": "37.B",
       "mesto": "praha10",
+      "kategorie": "vl2 vl13 vl5 vl6",
       "properties": {
         "NAME": "Zahradní město - park&nbsp;Malinová/Chrpová",
         "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
@@ -1413,6 +1477,7 @@
       "type": "Feature",
       "id": "37.C",
       "mesto": "praha10",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Zahradní město - Sasanková/Kapraďová",
         "INFO": "Toto sídliště vzniklo původně jako projekt města v zeleni. Proto zde bylo vybudováno více dětských hřišť a později byl revitalizován park.",
@@ -1435,6 +1500,7 @@
       "type": "Feature",
       "id": "40",
       "mesto": "praha13",
+      "kategorie": "vl1 vl2 vl3 vl4 vl13 vl5 vl6 vl7 vl9",
       "properties": {
         "NAME": "Centrální park Prahy 13",
         "INFO": "Chcete si prohlédnout Central park? Pak není nutné trmácet se do New Yorku. Stačí zajet na Lužiny!",
@@ -1457,6 +1523,7 @@
       "type": "Feature",
       "id": "41",
       "mesto": "praha5",
+      "kategorie": "vl1 vl6",
       "properties": {
         "NAME": "Jinonice (ZŠ Tyršova)",
         "INFO": "V parčíku před základní školou leží několik menších hřišť.",
@@ -1479,6 +1546,7 @@
       "type": "Feature",
       "id": "45",
       "mesto": "praha6",
+      "kategorie": "vl1 vl8 vl9",
       "properties": {
         "NAME": "Dejvice - Lotyšská",
         "INFO": "Mezi Vítězným náměstím a náměstím Interbrigády se rozkládá park a v něm hřiště.",
@@ -1501,6 +1569,7 @@
       "type": "Feature",
       "id": "42.A",
       "mesto": "praha13",
+      "kategorie": "vl1 vl8",
       "properties": {
         "NAME": "Sídliště Lužiny - Amforová",
         "INFO": "Panelové domy byly na Lužinách často stavěny do kruhu-tzv. rondely. Uvnitř tak vznikl rozlehlý prostor (vnitroblok) osázený zelení. Často se zde nacházejí mateřské školky, dětská hřiště a sportoviště. Protože se jedná o zázemí pro místní obyvatele, nebylo bohužel pamatováno na hygienické zázemí. Výhodou obou komplexů je především klid a rozlehlost.",
@@ -1523,6 +1592,7 @@
       "type": "Feature",
       "id": "42.B",
       "mesto": "praha13",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Sídliště Lužiny - Bellušova",
         "INFO": "Panelové domy byly na Lužinách často stavěny do kruhu-tzv. rondely. Uvnitř tak vznikl rozlehlý prostor (vnitroblok) osázený zelení. Často se zde nacházejí mateřské školky, dětská hřiště a sportoviště. Protože se jedná o zázemí pro místní obyvatele, nebylo bohužel pamatováno na hygienické zázemí. Výhodou obou komplexů je především klid a rozlehlost.",
@@ -1545,6 +1615,7 @@
       "type": "Feature",
       "id": "43.A",
       "mesto": "praha13",
+      "kategorie": "vl8",
       "properties": {
         "NAME": "Hostivařský lesopark (východní část) - hřiště 43.A",
         "INFO": "Trasa je vhodným polodenním rodinným výletem.",
@@ -1567,6 +1638,7 @@
       "type": "Feature",
       "id": "43.B",
       "mesto": "praha13",
+      "kategorie": "",
       "properties": {
         "NAME": "Hostivařský lesopark (východní část) - hřiště 43.B",
         "INFO": "Trasa je vhodným polodenním rodinným výletem.",
@@ -1589,6 +1661,7 @@
       "type": "Feature",
       "id": "44.A",
       "mesto": "praha15",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Dubeč - hřiště 44.A",
         "INFO": "Městská část Praha Dubeč disponuje hezčím dětským hřištěm (pro všechny věkové kategorie dětí) než mnohé větší městské části. V areálu se také nachází několik sportovišť.",
@@ -1611,6 +1684,7 @@
       "type": "Feature",
       "id": "44.B",
       "mesto": "praha15",
+      "kategorie": "",
       "properties": {
         "NAME": "Dubeč - hřiště 44.B",
         "INFO": "Městská část Praha Dubeč disponuje hezčím dětským hřištěm (pro všechny věkové kategorie dětí) než mnohé větší městské části. V areálu se také nachází několik sportovišť.",
@@ -1633,6 +1707,7 @@
       "type": "Feature",
       "id": "59.A",
       "mesto": "praha3",
+      "kategorie": "",
       "properties": {
         "NAME": "Židovské pece - Židovské pece 2",
         "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
@@ -1654,6 +1729,7 @@
 {
       "type": "Feature",
       "id": "59.B",
+      "kategorie": "vl2 vl6",
       "mesto": "praha3",
       "properties": {
         "NAME": "Židovské pece - Židovské pece 1",
@@ -1677,6 +1753,7 @@
       "type": "Feature",
       "id": "59.C",
       "mesto": "praha3",
+      "kategorie": "vl2 vl8",
       "properties": {
         "NAME": "Židovské pece - Jilmová",
         "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
@@ -1699,6 +1776,7 @@
       "type": "Feature",
       "id": "59.D",
       "mesto": "praha3",
+      "kategorie": "vl2 vl8",
       "properties": {
         "NAME": "Židovské pece - dopravní hřiště",
         "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
@@ -1721,6 +1799,7 @@
       "type": "Feature",
       "id": "76",
       "mesto": "praha11",
+      "kategorie": "vl3 vl4 vl5 vl6 vl8 vl9 vl12",
       "properties": {
         "NAME": "Chodovská tvrz",
         "INFO": "V parku, který se rozkládá kolem bývalé vodní tvrze si najde zábavou celá rodina.",
@@ -1743,6 +1822,7 @@
       "type": "Feature",
       "id": "78",
       "mesto": "praha17",
+      "kategorie": "vl4 vl5 vl6 vl8",
       "properties": {
         "NAME": "Řepy",
         "INFO": "Městská část Řepy disponuje pěknými hřišti. Jedno z nich, navíc určené i seniorům, se rozkládá ve čtvrti Blatiny, nedaleko ulic Bendova a Španielova.",
@@ -1764,6 +1844,7 @@
 {
       "type": "Feature",
       "id": "72.A",
+      "kategorie": "vl4",
       "mesto": "praha14",
       "properties": {
         "NAME": "Černý Most - hřiště 72.A",
@@ -1787,6 +1868,7 @@
       "type": "Feature",
       "id": "72.B",
       "mesto": "praha14",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Černý Most - hřiště 72.B",
         "INFO": "Na sídlišti Černý Most můžete nedaleko sebe navštívit dva menší areály s dětskými hřišti.",
@@ -1809,6 +1891,7 @@
       "type": "Feature",
       "id": "79.A",
       "mesto": "praha5",
+      "kategorie": "vl5 vl6 vl7",
       "properties": {
         "NAME": "Kinského zahrada - Dolní hřiště",
         "INFO": "Na jižním úbočí Petřína se rozkládá upravená zahrada, která ukrývá klasicistně-empírový letohrádek a dvě moderní hřiště.",
@@ -1830,7 +1913,8 @@
  {
       "type": "Feature",
       "id": "79.B",
-      "mesto": "praha5",    
+      "mesto": "praha5", 
+      "kategorie": "vl5 vl6 vl7 vl8 vl9",
       "properties": {
         "NAME": "Kinského zahrada - Horní hřiště",
         "INFO": "Na jižním úbočí Petřína se rozkládá upravená zahrada, která ukrývá klasicistně-empírový letohrádek a dvě moderní hřiště.",
@@ -1852,7 +1936,8 @@
 {
       "type": "Feature",
       "id": "77.A",
-      "mesto": "praha4",    
+      "mesto": "praha4",  
+      "kategorie": "",
       "properties": {
         "NAME": "Sídliště Krč - hřiště 77.A",
         "INFO": "Máte rádi pirátské příběhy? Pak si nenechte ujít návštěvu této lokality!",
@@ -1874,7 +1959,8 @@
 {
       "type": "Feature",
       "id": "77.B",
-      "mesto": "praha4",    
+      "mesto": "praha4", 
+      "kategorie": "vl1 vl8",
       "properties": {
         "NAME": "Sídliště Krč - hřiště 77.B",
         "INFO": "Máte rádi pirátské příběhy? Pak si nenechte ujít návštěvu této lokality!",
@@ -1897,6 +1983,7 @@
       "type": "Feature",
       "id": "50",
       "mesto": "praha8",
+      "kategorie": "vl13 vl5 vl6 vl8 vl9",
       "properties": {
         "NAME": "Žernosecká - Čumpelíkova",
         "INFO": "V bezprostřední blízkosti Ďáblického háje leží pěkné hřiště.",
@@ -1941,6 +2028,7 @@
       "type": "Feature",
       "id": "62.A",
       "mesto": "praha20",
+      "kategorie": "vl4 vl9",
       "properties": {
         "NAME": " Horní Počernice - hřiště 62.A",
         "INFO": "Lokalita vám nabídne velmi pěkné hřiště a několik zajímavých doprovodných aktivit.",
@@ -1963,6 +2051,7 @@
       "type": "Feature",
       "id": "62.B",
       "mesto": "praha20",
+      "kategorie": "vl9",
       "properties": {
         "NAME": " Horní Počernice - hřiště 62.B",
         "INFO": "Lokalita vám nabídne velmi pěkné hřiště a několik zajímavých doprovodných aktivit.",
@@ -1985,6 +2074,7 @@
       "type": "Feature",
       "id": "54",
       "mesto": "praha13",
+      "kategorie": "",
       "properties": {
         "NAME": "Chalabalova - Lužiny",
         "INFO": "Ve svahu nad centrálním parkem ve Stodůlkách revitalizovali několik hřišť.",
@@ -2007,6 +2097,7 @@
       "type": "Feature",
       "id": "51",
       "mesto": "praha5",
+      "kategorie": "vl6 vl8",
       "properties": {
         "NAME": "Jinonice - Butovická ulice",
         "INFO": "V parku, vedle tenisového areálu a rybníka, najdete menší hřiště, jehož návštěva je ideální volbou pro milovníky tenisu.",
@@ -2029,6 +2120,7 @@
       "type": "Feature",
       "id": "63.A",
       "mesto": "praha1",
+      "kategorie": "vl5 vl6 vl8",
       "properties": {
         "NAME": " Kampa a Karlův most - Kampa",
         "INFO": "Na malostranském nábřeží Vltavy najdeme dvě menší hřiště, takže jejich návštěvu je vhodné zařadit jako doplňkovou aktivitu při procházce centrem města.",
@@ -2051,6 +2143,7 @@
       "type": "Feature",
       "id": "63.B",
       "mesto": "praha1",
+      "kategorie": "vl5",
       "properties": {
         "NAME": " Kampa a Karlův most - Karlův most",
         "INFO": "Na malostranském nábřeží Vltavy najdeme dvě menší hřiště, takže jejich návštěvu je vhodné zařadit jako doplňkovou aktivitu při procházce centrem města.",
@@ -2093,6 +2186,8 @@
 {
       "type": "Feature",
       "id": "48.A",
+      "mesto": "praha16",
+      "kategorie": "vl1 vl8",
       "properties": {
         "NAME": "Malá Chuchle - Branický most",
         "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
@@ -2114,6 +2209,8 @@
 {
       "type": "Feature",
       "id": "48.B",
+      "mesto": "praha16",
+      "kategorie": "vl8 vl11",
       "properties": {
         "NAME": "Malá Chuchle - zoo koutek",
         "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
@@ -2135,6 +2232,8 @@
 {
       "type": "Feature",
       "id": "48.C",
+      "mesto": "praha16",
+      "kategorie": "vl4",
       "properties": {
         "NAME": " Malá Chuchle - hřiště 48.C",
         "INFO": "Výlet je pro všechny, kteří se nebojí trochy fyzické námahy, mají rádi zvířata a chtějí poznat možná nejkrásnější lesní hřiště v Praze.",
@@ -2156,6 +2255,8 @@
 {
       "type": "Feature",
       "id": "60.A",
+      "mesto": "praha3",
+      "kategorie": "vl3 vl13 vl5 vl6 vl8",
       "properties": {
         "NAME": " Na Krejcárku - hřiště 60.A",
         "INFO": "Lokalita se skvěle hodí pro rodiny s dětmi různého stáří a také pro ty, kteří chtějí vyzkoušet netradiční sport!",
@@ -2177,6 +2278,8 @@
 {
       "type": "Feature",
       "id": "60.B",
+      "mesto": "praha3",
+      "kategorie": "",
       "properties": {
         "NAME": "Na Krejcárku - hřiště 60.B",
         "INFO": "Lokalita se skvěle hodí pro rodiny s dětmi různého stáří a také pro ty, kteří chtějí vyzkoušet netradiční sport!",
@@ -2198,6 +2301,8 @@
 {
       "type": "Feature",
       "id": "65.A",
+      "mesto": "praha15",
+      "kategorie": "",
       "properties": {
         "NAME": "Sídliště Petrovice - Rezlerova",
         "INFO": "Lokalita nabízí několik pěkných menších hřišť, jejichž spojením vznikne zajímavá trasa.",
@@ -2219,6 +2324,8 @@
 {
       "type": "Feature",
       "id": "65.B",
+      "mesto": "praha15",
+      "kategorie": "",
       "properties": {
         "NAME": "Sídliště Petrovice - Veronské náměstí",
         "INFO": "Lokalita nabízí několik pěkných menších hřišť, jejichž spojením vznikne zajímavá trasa.",
@@ -2240,6 +2347,8 @@
 {
       "type": "Feature",
       "id": "69",
+      "mesto": "praha10",
+      "kategorie": "vl6 vl8 vl9",
       "properties": {
         "NAME": "Nad Primaskou",
         "INFO": "Nedaleko metra Strašnická se nachází pěkné dětské hřiště.",
@@ -2261,6 +2370,8 @@
 {
       "type": "Feature",
       "id": "67",
+      "mesto": "praha10",
+      "kategorie": "vl1 vl5 vl6 vl8",
       "properties": {
         "NAME": "Vršovice, Přípotoční",
         "INFO": "Pokud vás oslovil osud fotbalového klubu Bohemians, měli byste s dětmi navštívit tuto lokalitu.",
@@ -2282,6 +2393,8 @@
 {
       "type": "Feature",
       "id": "68",
+      "mesto": "praha10",
+      "kategorie": "vl6",
       "properties": {
         "NAME": "Sídliště Skalka",
         "INFO": "Na sídlišti Skalka, blízko metra se rozkládá středně velké hřiště.",
@@ -2303,6 +2416,8 @@
 {
       "type": "Feature",
       "id": "64",
+      "mesto": "praha7",
+      "kategorie": "vl2 vl3 vl5 vl6 vl8",
       "properties": {
         "NAME": "Sparta",
         "INFO": "Návštěva tohoto hřiště je ideální pro mladší děti, které zajímá kopaná, protože vám umožní ukázat dětem jeden z největších stadionů v Čechách.",
@@ -2324,6 +2439,8 @@
 {
       "type": "Feature",
       "id": "66",
+      "mesto": "praha15",
+      "kategorie": "vl8 vl10 vl11",
       "properties": {
         "NAME": "Sídliště Košík - Toulcův dvůr",
         "INFO": "Dětské hřiště tentokrát představuje spíše doprovodnou aktivitu. Tou hlavní by měla být návštěva Toulcova dvora.",
@@ -2345,6 +2462,8 @@
 {
       "type": "Feature",
       "id": "61",
+      "mesto": "praha21",
+      "kategorie": "vl1 vl2 vl5 vl6",
       "properties": {
         "NAME": "Újezd nad Lesy",
         "INFO": "Újezd nad Lesy leží sice až na okraji Prahy, ale disponuje komplexem, který zaujme děti všech věkových skupin.",
@@ -2366,6 +2485,8 @@
 {
       "type": "Feature",
       "id": "52.A",
+      "mesto": "praha13",
+      "kategorie": "vl1",
       "properties": {
         "NAME": "Velká Ohrada - oblast 52.A",
         "INFO": "Na sídlišti Velká Ohrada lze nedaleko od sebe navštívit skoro tucet hřišť!",
@@ -2387,6 +2508,8 @@
 {
       "type": "Feature",
       "id": "52.B",
+      "mesto": "praha13",
+      "kategorie": "",
       "properties": {
         "NAME": "Velká Ohrada - oblast 52.B",
         "INFO": "Na sídlišti Velká Ohrada lze nedaleko od sebe navštívit skoro tucet hřišť!",

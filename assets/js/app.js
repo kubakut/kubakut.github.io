@@ -310,11 +310,11 @@ var theaters = L.geoJson(null, {
           }));
         }
       });
-      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'">'+'</p></td><td style="vertical-align: middle;"><i style="vertical-align: middle;" class="fa fa-chevron-right pull-right"></td></tr>');
+      $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'"><p class="'+feature.kategorie+'">'+'</p></td><td style="vertical-align: middle;"><i style="vertical-align: middle;" class="fa fa-chevron-right pull-right"></td></tr>');
         $('document').ready(function(){
 				$('#demo').jplist({
-				    debug:	true
-					,itemsBox: '.demo-tbl' 
+				    
+					itemsBox: '.demo-tbl' 
 					,itemPath: '.tbl-item' 
 					,panelPath: '.jplist-panel'
                     ,redrawCallback: function(collection, $dataview, statuses){
