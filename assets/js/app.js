@@ -278,6 +278,7 @@ var theaters = L.geoJson(null, {
 "</div>"
  ;
       
+        
       var nadpis = feature.id + ". " + feature.properties.NAME;
       
       layer.on({
@@ -289,6 +290,7 @@ var theaters = L.geoJson(null, {
             galerie = galerie+'<obr>';
     
 }    
+           
             
           $("#feature-gal").html(galerie);
             
