@@ -2004,7 +2004,7 @@
     },
 {
       "type": "Feature",
-      "id": "2000",
+      "id": "49",
       "mesto": "praha8",
       "properties": {
         "NAME": "Čimický háj",
@@ -2165,6 +2165,7 @@
 {
       "type": "Feature",
       "id": "2001",
+      "mesto": "praha9",
       "properties": {
         "NAME": "Kbely",
         "INFO": "Revitalizace centrálního parku v městské části Kbely stála desítky milionů. Místo tady našla také dětská hřiště.",
@@ -2734,6 +2735,239 @@
           50.0668761
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "55",
+      "mesto": "praha11",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Háje - Ocelíkova",
+        "INFO": "U stanic metra Háje najdete hřiště s netradičním dominantním herním prvkem.",
+        "POPIS": "Hřiště (<b>55</b>) leží cca 300 m od stanice metra Háje, u budovy Městského úřadu Prahy 11, na ulici Ocelíkova. Dominantní atrakci představuje velká dřevěná loď se stožárem, skluzavkou, toboganem, provazovým mostem, lezeckou stěnou atd. Kromě toho mohou děti vyzkoušet lanovku, balanční houpačku, mlýnek na písek, kolotoč i jiné atrakce. Povrch hřiště tvoří pryžové desky a koberec, po nichž je rozházen písek. Bohužel zde nerostou stromy, takže hřiště postrádá stín.",
+        "DOPORUCENI": "Hřiště může být vhodným doplněním k návštěvě multikina Cinema city (Galaxie) u stanice metra.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Kompletní zázemí představují stanice metra <b>Háje</b>. V bezprostřední blízkosti je supermarket.",
+        "DOPRAVA": "Stanice metra C, autobusy č. <b>125, 136, 165, 170, 183, 197, 213, 232, 240, 267, 293, 296, 381, 382, 383, 387,</b> vše stanice <b>Háje</b>. Parkování na sídlišti v blízkosti hřiště.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5308419,
+          50.0281408
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "58",
+      "mesto": "praha8",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Invalidovna - Kaizlovy sady",
+        "INFO": "Popisovaná lokalita zaujme nejen dětským hřištěm. Budete mít možnost srovnat starší a novou architekturu a děti jistě zaujme netradiční vodní soustava!",
+        "POPIS": "Dětské hřiště (<b>58</b>) se rozkládá v Kaizlových sadech. Po obvodu hřiště sice rostou stromy, ale stínu je málo. Atrakce jsou převážně dřevěné. Najdete tady např. houpačku-hnízdo, menší lanovou sestavu, kolotoč, skluzavku, kreslící tabule atd. Na povrchu leží kačírek nebo dlažba-tzv. „kočičí hlavy“. Za oplocením hřiště se pod stromy rozkládá menší pískový sportovní plácek s jedním basketbalovým košem nesprávných výškových parametrů (nízko nad zemí).<br />Kaizlovy sady (rostou zde převážně javory) nejsou rozlehlé, ale uvidíte tady několik zajímavostí. Pro děti bude atraktivní rybníček. Starší a dospělé mohou zaujmout dvě sochy, pomník a především monumentální objekt Invalidovny.<br />Nedaleko rybníčka nejprve narazíte na bronzovou sochu sedící dívky, nazvanou „Vzpomínka“.  Před budovou Vojenského historického ústavu vás zaujme busta hraběte P. Strozziho, který se zasloužil o vybudování stavby sloužící pro válečné veterány-invalidy. Invalidovna (dnes tedy Vojenský historický ústav) představuje monumentální barokní objekt. Plány vypracoval proslulý architekt K. I. Dientzenhoffer. A dnešní stav budovy? Křídlo, které vidíte od Sokolovské ulice je opravené, křídla boční by rekonstrukci nutně potřebovala. Před budovou potěší růžové záhony. U Sokolovské ulice pak stojí památník vojáků (zákopníků), kteří zahynuli při pražské povodni v r. 1890.",
+        "DOPORUCENI": "V bezprostřední blízkosti stanice metra Invalidovna byl vybudován komplex převážně administrativních budov, které představují ukázku urbanismu přelomu 20. a 21. století. U budovy, kde sídlí VZP, začíná zajímavá vodní sestava, která děti určitě nadchne. Tvoří ji mělké bazény, do nichž bylo instalováno několik soch-např. plavec, potápěč či dvojice hrochů. U jednoho z bazénků stojí 2 kamenná křesla.<br />Ideální variantou je začít cestu na stanici tramvaje Urxova, projít Kaizlovy sady, navštívit dětské hřiště, prohlédnout si exteriér Invalidovny a pak pokračovat ke stanici metra, kde si prohlédnete vodní soustavu.",
+        "SOCIALNI": "Voda ano - hydrant, chemické WC.",
+        "OBCERSTVENI": "U stanice tramvaje <b>Urxova</b> leží několik obchodů s potravinami a u stanice metra kavárna a jídelna.",
+        "DOPRAVA": "U stanice tramvaje <b>Urxova</b> leží několik obchodů s potravinami a u stanice metra kavárna a jídelna.",
+        "GALERIE": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4602567,
+          50.0949700
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "57",
+      "mesto": "praha15",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Horní Měcholupy, areál Na Šancích",
+        "INFO": "Výlet je vhodný pro všechny, kteří rádi sportují.",
+        "POPIS": "Na okraji Horních Měcholup, v lesoparku nedaleko přehrady, leží rozsáhlý sportovní a ubytovací areál Na Šancích (dříve eRZet).  Rozkládá se na konci ulice Turínská, v bezprostředním sousedství Hostivařské přehrady. Areál patří městské části Praha 15 a je tvořen hřišti na fotbal, nohejbal, volejbal (včetně plážového), minigolfem, tenisovými kurty, chatovou osadou, hotelem, restaurací a také dětským hřištěm. Dětské hřiště (<b>57</b>) se rozkládá za budovou restaurace a má 3 části. První tvoří dlouhá lanovka a kyvné točidlo Hags, další zahrnují dvě menší oplocené plochy, dohromady asi s 10 klasickými atrakcemi (multifunkční domek, houpačky, kolotoč, skluzavka, prvky k procvičení rovnováhy atd.). Na povrchu hřišť leží písek a plocha je bez stínu. Areál poskytuje opravdu širokou možnost sportovního vyžití, takže si před návštěvou prostudujte webové stránky: <a href'http://www.nasancich.cz/' target='_blank'>www.nasancich.cz/</a>",
+        "DOPORUCENI": "Součástí areálu je také chatová osada položená na okraji lesa. Pokud chcete, aby si děti připadaly jako na výletě, a zároveň nemáte chuť vyjet mimo Prahu, představuje pronájem srubu alternativní řešení.",
+        "SOCIALNI": "Voda ne, WC ne (týká se hřiště). Toalety se nachází v restauraci.",
+        "OBCERSTVENI": "V areálu je restaurace a bistro, které má vlastní dětský koutek.",
+        "DOPRAVA": "Autobusy č. <b>125, 240, 296,</b> zastávka <b>Nové Petrovice</b>. Parkovat lze přímo v areálu.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4271208,
+          50.0668761
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "56.A",
+      "mesto": "praha15",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Hostivařský lesopark, západ - hřiště 56.A",
+        "INFO": "Hostivařský lesopark představuje jednu ze zelených oáz hlavního města. Najdete zde dětská hřiště i další zajímavá místa.",
+        "POPIS": "Naši cestu můžete začít např. v ulici K obecním hájovnám. Na jejím konci leží hájenka a u ní zoo-koutek. Nejprve uvidíte oplocený rybník s labutěmi a kachnami. Informační tabule poučí, čím tyto vodní ptáky správně krmit (nezapomeňte na tvrdé pečivo). Poté zahněte vlevo. Půjdete podél plotu zoo-koutku, kde mají ve výběhu kozy kamerunské a v klecích několik exotických bažantů. Až si zoo-koutek prohlédnete, pokračujte po lesní cestě vpravo, vzhůru. Cca po 200 metrech uvidíte po levé straně altán, který leží na okraji louky. U altánu se rozkládá první dětské hřiště (<b>56.A</b>). Tvoří ho velký domek se skluzavkou, dřevěný vláček, autíčka, houpačka a kladina. Atrakce stojí na trávě a písku. Protože se jedná o louku, nejsou pochopitelně zastíněné.<br />Budete-li pokračovat po lesní cestě, na křižovatce ve tvaru písmene „Y“ se dejte doprava (vodítkem vám mohou být šipky na stromech ukazující směr k lanovému centru). Po několika stech metrech se dostanete na další rozlehlou louku, která se nachází v blízkosti koupaliště Hostivař. Na velké ploše jsou rozmístěny fitness prvky, dřevěné houpačky, kladina a na louce stojí i dřevěné fotbalové branky (<b>56.B</b>). Většina atrakcí leží mimo stín. Na louce jsou k dispozici posezení pro táborák (ohniště a lavičky).",
+        "DOPORUCENI": "V lesoparku, nedaleko hřiště (56.B), můžete navštívit unikátní lanové centrum. Překážky jsou umístěné přímo v korunách stromů. Více informací na: <a href='http://www.ilanac.cz/' target='_blank'>www.ilanac.cz/</a>.<br />V blízkém areálu Hostivařského koupaliště najdete několik hřišť, půjčovnu lodiček, pláže, občerstvení atd. Více na: <a href='http://www.hostivarskaprehrada.cz' target='_blank'>www.hostivarskaprehrada.cz</a>.",
+        "SOCIALNI": "Voda ne, WC ne (kromě areálu koupaliště).",
+        "OBCERSTVENI": "Nejbližší možnost představuje bistro u koupaliště.",
+        "DOPRAVA": "Autobusy č. <b>177 a 181,</b> zastávka <b>K Obecním hájovnám</b>. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka <b>Jižní Město</b> - autobusy č. <b>136, 165, 170 a 213</b>. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5202147,
+          50.0409683
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "56.B",
+      "mesto": "praha15",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Lokalita Hostivařský lesopark, západ - hřiště 56.B",
+        "INFO": "Hostivařský lesopark představuje jednu ze zelených oáz hlavního města. Najdete zde dětská hřiště i další zajímavá místa.",
+        "POPIS": "Naši cestu můžete začít např. v ulici K obecním hájovnám. Na jejím konci leží hájenka a u ní zoo-koutek. Nejprve uvidíte oplocený rybník s labutěmi a kachnami. Informační tabule poučí, čím tyto vodní ptáky správně krmit (nezapomeňte na tvrdé pečivo). Poté zahněte vlevo. Půjdete podél plotu zoo-koutku, kde mají ve výběhu kozy kamerunské a v klecích několik exotických bažantů. Až si zoo-koutek prohlédnete, pokračujte po lesní cestě vpravo, vzhůru. Cca po 200 metrech uvidíte po levé straně altán, který leží na okraji louky. U altánu se rozkládá první dětské hřiště (<b>56.A</b>). Tvoří ho velký domek se skluzavkou, dřevěný vláček, autíčka, houpačka a kladina. Atrakce stojí na trávě a písku. Protože se jedná o louku, nejsou pochopitelně zastíněné.<br />Budete-li pokračovat po lesní cestě, na křižovatce ve tvaru písmene „Y“ se dejte doprava (vodítkem vám mohou být šipky na stromech ukazující směr k lanovému centru). Po několika stech metrech se dostanete na další rozlehlou louku, která se nachází v blízkosti koupaliště Hostivař. Na velké ploše jsou rozmístěny fitness prvky, dřevěné houpačky, kladina a na louce stojí i dřevěné fotbalové branky (<b>56.B</b>). Většina atrakcí leží mimo stín. Na louce jsou k dispozici posezení pro táborák (ohniště a lavičky).",
+        "DOPORUCENI": "V lesoparku, nedaleko hřiště (56.B), můžete navštívit unikátní lanové centrum. Překážky jsou umístěné přímo v korunách stromů. Více informací na: <a href='http://www.ilanac.cz/' target='_blank'>www.ilanac.cz/</a>.<br />V blízkém areálu Hostivařského koupaliště najdete několik hřišť, půjčovnu lodiček, pláže, občerstvení atd. Více na: <a href='http://www.hostivarskaprehrada.cz' target='_blank'>www.hostivarskaprehrada.cz</a>.",
+        "SOCIALNI": "Voda ne, WC ne (kromě areálu koupaliště).",
+        "OBCERSTVENI": "Nejbližší možnost představuje bistro u koupaliště.",
+        "DOPRAVA": "Autobusy č. <b>177 a 181,</b> zastávka <b>K Obecním hájovnám</b>. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka <b>Jižní Město</b> - autobusy č. <b>136, 165, 170 a 213</b>. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5277383,
+          50.0406031
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "47.B",
+      "mesto": "praha21",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Klánovický les - lesní hřiště",
+        "INFO": "Návštěva dětského hřiště není v tomto případě hlavním cílem, ale doplňkem pro výlet, který vám umožní poznat největší les na území Prahy.",
+        "POPIS": "U Masarykovy školy v Klánovicích se nachází menší neoplocené hřiště (<b>47.A</b>) s několika prvky, jako domek se skluzavkou, houpačky nebo lanová pyramida. Budete-li pokračovat ulicí „V Soudním“, dostanete se brzy k lesu. Po úzké asfaltové silnici půjdete asi kilometr (ke křížení silnice se žlutou turistickou značkou). Zde najdete lesní hřiště (<b>47.B</b>) s dřevěnými atrakcemi-houpačky, prvky k procvičení rovnováhy atd.<br />Až hřiště omrzí, nabízí se tři možnosti. Buď se vraťte stejnou cestou, nebo pokračujte po asfaltce, až dojdete ke stanovišti městské policie uprostřed lesa (slouží jako útulek pro policejní psy). Okolní les patří k nejhezčím ve středních Čechách. Rostou zde převážně staleté duby. Také se můžete vydat po žluté značce a dojít na vlakové nádraží Praha Klánovice. Cesta je dlouhá asi 1,6 km.<br />Pokud sem zavítáte v létě nebo na podzim, nezapomeňte na houbařské vybavení. Přestože do lesa, zejména o víkendu, chodí dost lidí, prakticky nikdo neodchází s prázdnou. Zajímavou alternativou je také cyklistický výlet. Celá trasa vede prakticky po rovině, takže je vhodná i pro malé děti. Vlaky z Masarykova nádraží do Klánovic jsou uzpůsobené pro přepravu jízdních kol.",
+        "DOPORUCENI": "V parčíku před základní školou vznikla galerie dřevěných soch, jako jsou „Král a královna“, „Padlý anděl nesoucí zprávu o konci světa“ nebo „Splněné přání“.",
+        "SOCIALNI": "Voda ano-hydrant u hřiště (<b>47.A</b>), WC ne.",
+        "OBCERSTVENI": "Na hlavní ulici, která prochází Klánovicemi, leží cukrárna a několik restaurací.",
+        "DOPRAVA": "Autobus č. <b>261, 262, 303, 343,</b> zastávka <b>Smržovská</b>, nebo nádraží <b>Praha Klánovice</b> (trať S1 z Masarykova nádraží) a pak asi 900 m pěšky, po hlavní ulici (Slavětínská). Parkovat lze u nádraží nebo u budovy Masarykovy ZŠ (v sobotu dopoledne, kdy se konají proslulé farmářské trhy, ale bývá parkoviště plné).",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6829969,
+          50.0926753
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "47.A",
+      "mesto": "praha21",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Klánovický les - lesní hřiště",
+        "INFO": "Návštěva dětského hřiště není v tomto případě hlavním cílem, ale doplňkem pro výlet, který vám umožní poznat největší les na území Prahy.",
+        "POPIS": "U Masarykovy školy v Klánovicích se nachází menší neoplocené hřiště (<b>47.A</b>) s několika prvky, jako domek se skluzavkou, houpačky nebo lanová pyramida. Budete-li pokračovat ulicí „V Soudním“, dostanete se brzy k lesu. Po úzké asfaltové silnici půjdete asi kilometr (ke křížení silnice se žlutou turistickou značkou). Zde najdete lesní hřiště (<b>47.B</b>) s dřevěnými atrakcemi-houpačky, prvky k procvičení rovnováhy atd.<br />Až hřiště omrzí, nabízí se tři možnosti. Buď se vraťte stejnou cestou, nebo pokračujte po asfaltce, až dojdete ke stanovišti městské policie uprostřed lesa (slouží jako útulek pro policejní psy). Okolní les patří k nejhezčím ve středních Čechách. Rostou zde převážně staleté duby. Také se můžete vydat po žluté značce a dojít na vlakové nádraží Praha Klánovice. Cesta je dlouhá asi 1,6 km.<br />Pokud sem zavítáte v létě nebo na podzim, nezapomeňte na houbařské vybavení. Přestože do lesa, zejména o víkendu, chodí dost lidí, prakticky nikdo neodchází s prázdnou. Zajímavou alternativou je také cyklistický výlet. Celá trasa vede prakticky po rovině, takže je vhodná i pro malé děti. Vlaky z Masarykova nádraží do Klánovic jsou uzpůsobené pro přepravu jízdních kol.",
+        "DOPORUCENI": "V parčíku před základní školou vznikla galerie dřevěných soch, jako jsou „Král a královna“, „Padlý anděl nesoucí zprávu o konci světa“ nebo „Splněné přání“.",
+        "SOCIALNI": "Voda ano-hydrant u hřiště (<b>47.A</b>), WC ne.",
+        "OBCERSTVENI": "Na hlavní ulici, která prochází Klánovicemi, leží cukrárna a několik restaurací.",
+        "DOPRAVA": "Autobus č. <b>261, 262, 303, 343,</b> zastávka <b>Smržovská</b>, nebo nádraží <b>Praha Klánovice</b> (trať S1 z Masarykova nádraží) a pak asi 900 m pěšky, po hlavní ulici (Slavětínská). Parkovat lze u nádraží nebo u budovy Masarykovy ZŠ (v sobotu dopoledne, kdy se konají proslulé farmářské trhy, ale bývá parkoviště plné).",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6694489,
+          50.0947964
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "46",
+      "mesto": "praha18",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Letňany",
+        "INFO": "Městská část Letňany je hojně vybavena dětskými hřišti. Největší a nejmodernější leží na sídlišti nedalo ulice Tupolevovy.",
+        "POPIS": "Dětské hřiště náleží k rozsáhlému sportovnímu komplexu (<b>46</b>), který je oplocen. Hřiště se skládá z několika částí. Najdeme zde např. lanovou pyramidu, skluzavku, domek s pavoučí sítí atd. Uvnitř areálu bylo vytvořeno několik umělých kopců. Dva z nich spojuje lanový most, takže děti přechází několik metrů nad terénem. Povrch hřišť tvoří kačírek a pryžové desky. Zastíněny jsou pouze některé z atrakcí. Posedět můžeme v  altáncích.<br />Součástí komplexu jsou tři volně přístupná hřiště s umělým povrchem na košíkovou, fotbal nebo nohejbal. Stojí zde také stůl na ping-pong.",
+        "DOPORUCENI": "Příjemné osvěžení může přinést návštěva aqua a fitness centra Lagoon, které je vzdálené cca 300 m. Bližší informace na: <a href='http://www.letnanylagoon.cz' target='_blank'>www.letnanylagoon.cz</a>".,
+        "SOCIALNI": "Voda ano - hydrant vně areálu (v době naší návštěvy - srpen 2013 mimo provoz), chemické WC.",
+        "OBCERSTVENI": "Širokou škálu občerstvení nabízí Obchodní centrum Letňany, vzdálené asi 500 m. Je zde několik restaurací, řetězce rychlého občerstvení i dětský koutek.",
+        "DOPRAVA": "Autobusy <b>110, 140, 195, 201, 269, 351, 365, 377,</b> stanice <b>Tupolevova</b>. U zastávky se nachází parkoviště.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5083867,
+          50.1332150
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "53.A",
+      "mesto": "praha13",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Metro Lužiny - Bronzová",
+        "INFO": "Okolí stanice Lužiny je na dětská hřiště velmi bohaté. Dvě z nich bychom rádi představili blíže.",
+        "POPIS": "Na dohled stanice metra se u ulice Bronzová rozkládá revitalizovaný komplex několika menších hřišť (<b>53.A</b>). Najdeme zde kolotoč, kladinu, houpačky, domek se skluzavkou, lezeckou soustavu, lanovku atd. Zajímavé jsou keramické prvky, které tvoří část plotu nebo ohrazení pískovišť. Dvě ze tří hřišť jsou oplocena. Na povrchu leží písek nebo kačírek, stín chybí. Zasportovat si lze na malém hřišti s umělým povrchem a jedním basketbalovým košem.<br />Nedaleko odtud (ulice Mohylová), za budovou mateřské školky Lužiny, se rozkládá další pěkné hřiště - U dráčka Soptíka (<b>53.B</b>), nazvané podle sochy zeleného draka, kterou uvidíte. Hřiště je situováno mezi oplocení školky a svah parku. Na svahu je umístěna dlouhá uzavřená kovová skluzavka-tobogán. V areálu lze zkusit asi 10 atrakcí-prvky na procvičení rovnováhy, kyvné točidlo Hags, pavoučí síť atd. Oplocena je pouze část pro nejmenší. Povrch hřiště tvoří kačírek a písek, většina plochy je bez stínu. V bezprostřední blízkosti se nachází hřiště na basketbal s umělým povrchem, asfaltový plácek a skate park.",
+        "DOPORUCENI": "Ve svahu (vedle základní školy Bronzová) se vyjímají 3 velké barevné keramické plastiky obličejů, které děti určitě zaujmou.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
+        "DOPRAVA": "Stanice metra B, <b>Lužiny</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3296317,
+          50.0452808
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "53.B",
+      "mesto": "praha13",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Metro Lužiny - U dráčka Soptíka",
+        "INFO": "Okolí stanice Lužiny je na dětská hřiště velmi bohaté. Dvě z nich bychom rádi představili blíže.",
+        "POPIS": "Na dohled stanice metra se u ulice Bronzová rozkládá revitalizovaný komplex několika menších hřišť (<b>53.A</b>). Najdeme zde kolotoč, kladinu, houpačky, domek se skluzavkou, lezeckou soustavu, lanovku atd. Zajímavé jsou keramické prvky, které tvoří část plotu nebo ohrazení pískovišť. Dvě ze tří hřišť jsou oplocena. Na povrchu leží písek nebo kačírek, stín chybí. Zasportovat si lze na malém hřišti s umělým povrchem a jedním basketbalovým košem.<br />Nedaleko odtud (ulice Mohylová), za budovou mateřské školky Lužiny, se rozkládá další pěkné hřiště - U dráčka Soptíka (<b>53.B</b>), nazvané podle sochy zeleného draka, kterou uvidíte. Hřiště je situováno mezi oplocení školky a svah parku. Na svahu je umístěna dlouhá uzavřená kovová skluzavka-tobogán. V areálu lze zkusit asi 10 atrakcí-prvky na procvičení rovnováhy, kyvné točidlo Hags, pavoučí síť atd. Oplocena je pouze část pro nejmenší. Povrch hřiště tvoří kačírek a písek, většina plochy je bez stínu. V bezprostřední blízkosti se nachází hřiště na basketbal s umělým povrchem, asfaltový plácek a skate park.",
+        "DOPORUCENI": "Ve svahu (vedle základní školy Bronzová) se vyjímají 3 velké barevné keramické plastiky obličejů, které děti určitě zaujmou.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
+        "DOPRAVA": "Stanice metra B, <b>Lužiny</b>. Parkovat lze v ulicích sídliště.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3347681,
+          50.0429358
+        ]
+      }
     }
+
+
+
   ]
 }
