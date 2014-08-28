@@ -2600,7 +2600,7 @@
 {
       "type": "Feature",
       "id": "71",
-      "mesto": praha10"",
+      "mesto": "praha10",
       "kategorie": "",
       "properties": {
         "NAME": "Malešické sídliště",
@@ -2735,6 +2735,5 @@
         ]
       }
     }
-
   ]
 }
