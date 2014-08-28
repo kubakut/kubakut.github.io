@@ -2527,6 +2527,213 @@
           50.0390064
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "75.A",
+      "mesto": "praha11",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Spořilov - Kremnická",
+        "INFO": "Nedaleko od sebe leží dva areály, nejen s dětskými hřišti.",
+        "POPIS": "První hřiště (<b>75.A</b>) je situováno mezi Jižní spojkou a ulicí Kremnická. Dětské hřiště se skládá ze dvou částí. Malé oplocené, pouze s pískovištěm a jedním domkem pro nejmenší a neoplocené rozlehlejší pro starší děti. Zde najdete asi tucet prvků. Lanovou pyramidu, multifunkční sestavu ve formě lodi, domek s počítadlem, několik typů houpaček, houpadla a děti jistě zaujme vlak. Na povrchu leží písek a hrací plocha je bez stínu. Většina atrakcí je provedena ze dřeva. Hned vedle se rozkládá hřiště s umělým povrchem, brankami a basketbalovými koši. Areál leží v těsné blízkosti Jižní spojky. Provoz sice neuvidíte (silnice je vyvýšená), ale uslyšíte, takže to na někoho může působit rušivě.<br />O několik set metrů dál se nachází Roztylské náměstí. Také zde najdete dětské atrakce a sportoviště (<b>75.B</b>). V malé oplocené části stojí skluzavka, houpadla a točidla, v části neoplocené větší lanová pyramida, skate prvek a další drobné atrakce, tentokrát z plastu. Pod atrakce položili umělý povrch a chybí stín. Ve spodní části náměstí se rozkládá hřiště s umělým povrchem a jedním košem na basketbal. V horní části náměstí vás možná zaujme „Kostel Svaté Anežky české“ postavený ve 30. letech 20. století.",
+        "DOPORUCENI": "Návštěva obou areálu je vhodná pro rodiny s mladšími i staršími dětmi. Mladší budou bavit hřiště a starší sportoviště. Nezapomeňte proto míč!",
+        "SOCIALNI": "Voda ne, chemické WC-areál <b>75.A</b>.",
+        "OBCERSTVENI": "Na Roztylském náměstí se nachází kavárna, restaurace a několik obchodů.",
+        "DOPRAVA": "Autobusy č. <b>118, 135, 136, 170, 213, 293</b> a tramvaje č. <b>6 a 11</b>, zastávka <b>Spořilov</b>. Parkovat můžete v blízkosti obou hřišť.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4768075,
+          50.0489828
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "75.B",
+      "mesto": "praha11",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Spořilov - Roztylské náměstí",
+        "INFO": "Nedaleko od sebe leží dva areály, nejen s dětskými hřišti.",
+        "POPIS": "První hřiště (<b>75.A</b>) je situováno mezi Jižní spojkou a ulicí Kremnická. Dětské hřiště se skládá ze dvou částí. Malé oplocené, pouze s pískovištěm a jedním domkem pro nejmenší a neoplocené rozlehlejší pro starší děti. Zde najdete asi tucet prvků. Lanovou pyramidu, multifunkční sestavu ve formě lodi, domek s počítadlem, několik typů houpaček, houpadla a děti jistě zaujme vlak. Na povrchu leží písek a hrací plocha je bez stínu. Většina atrakcí je provedena ze dřeva. Hned vedle se rozkládá hřiště s umělým povrchem, brankami a basketbalovými koši. Areál leží v těsné blízkosti Jižní spojky. Provoz sice neuvidíte (silnice je vyvýšená), ale uslyšíte, takže to na někoho může působit rušivě.<br />O několik set metrů dál se nachází Roztylské náměstí. Také zde najdete dětské atrakce a sportoviště (<b>75.B</b>). V malé oplocené části stojí skluzavka, houpadla a točidla, v části neoplocené větší lanová pyramida, skate prvek a další drobné atrakce, tentokrát z plastu. Pod atrakce položili umělý povrch a chybí stín. Ve spodní části náměstí se rozkládá hřiště s umělým povrchem a jedním košem na basketbal. V horní části náměstí vás možná zaujme „Kostel Svaté Anežky české“ postavený ve 30. letech 20. století.",
+        "DOPORUCENI": "Návštěva obou areálu je vhodná pro rodiny s mladšími i staršími dětmi. Mladší budou bavit hřiště a starší sportoviště. Nezapomeňte proto míč!",
+        "SOCIALNI": "Voda ne, chemické WC-areál <b>75.A</b>.",
+        "OBCERSTVENI": "Na Roztylském náměstí se nachází kavárna, restaurace a několik obchodů.",
+        "DOPRAVA": "Autobusy č. <b>118, 135, 136, 170, 213, 293</b> a tramvaje č. <b>6 a 11</b>, zastávka <b>Spořilov</b>. Parkovat můžete v blízkosti obou hřišť.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4765567,
+          50.0463650
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "81",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Nádraží Braník (dříve Kroužky na Vltavě)",
+        "INFO": "Jedno z nejzajímavějších a nejkrásnějších pražských hřišť (<b>81</b>) najdeme nedaleko Nádraží Braník.",
+        "POPIS": "Hřiště se rozkládá v blízkosti Branického mostu. Atrakce zaujmou děti všech věkových kategorií. Pro menší jsou určena houpadla, houpačky, balanční prvky, sestavy se skluzavkami, trampolína apod. Pro ty větší unikátní lanová a prolézací sestava spojená s tobogany, která nemá v Praze obdoby či lezecké stěny. Povrch hřiště tvoří kačírek, litá guma a tráva. Na oplocené ploše rostou stromy, takže část hřiště je ve stínu. Hřiště je součástí areálu s restaurací a sociálním zařízením. Po povodních v r. 2013 je však zděný objekt uzavřen a čeká na rekonstrukci. Venkovní hřiště je v provozu od 1. června 2014.",
+        "DOPORUCENI": "Nedaleko (směrem do Modřan) leží sportovní areál Hamr, který nabízí širokou škálu sportovišť. Více na: <a href='http://www.hamrsport.cz/branik' target='_blank'>www.hamrsport.cz/branik</a>. A podél Vltavy vede cyklo a in-line stezka.",
+        "SOCIALNI": "Voda ne, chemické WC.",
+        "OBCERSTVENI": "V areálu Hamr se nachází restaurace.",
+        "DOPRAVA": "Tramvaje č. <b>3, 17,</b> autobusy č. <b>106, 121, 253,</b> vše zastávka <b>Nádraží Braník</b>. Zaparkovat lze před Hamr centrem nebo na ulici Vltavanů.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4025250,
+          50.0286397
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "71",
+      "mesto": praha10"",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Malešické sídliště",
+        "INFO": "Nedaleko polikliniky Malešice leží mezi domy několik pěkných menších hřišť (lokalita <b>71</b>).",
+        "POPIS": "V ulici Nad Úžlabinou nejprve narazíte na velmi pěkné a netradiční hřiště, které je zaměřeno na procvičení obratnosti. Jsou tady pavoučí sítě, soustavy špalků, závěsná kladina, opičí a třmenová dráha. Na povrchu leží písek, stromy poskytují částečný stín, hřiště je oploceno.<br />V parčíku nedaleko polikliniky (mezi ulicemi V Úžlabině a Nad Úžlabinou) uvidíte kyvné točidlo Hags, otočný kruh a houpačky. Vedle se rozkládá nevelké oplocené hřiště s multifunkčním domkem, houpadly a pískovištěm. Ve spodní části parku mohou děti zkusit lanovku a další neoplocené hřiště s hrazdou, větším multifunkční sestavou a kyvnou houpačkou. Pod atrakcemi leží převážně písek a stín najdeme pouze na malém oploceném hřišti.",
+        "DOPORUCENI": "Pokud budete mít více času, navštivte upravený Malešický park s vodními a akustickými atrakcemi (lokalita <b>33</b>). U stanice autobusu Plaňanská pak stojí informační tabule s mapu naučné stezky svatého Josefa, která vás provede zajímavými místy Malešic.",
+        "SOCIALNI": "Vod ne, WC ne. Sociální zařízení lze v pracovní dny použít v prostorách blízké polikliniky.",
+        "OBCERSTVENI": "Nedaleko autobusové zastávky <b>Plaňanská</b> leží restauraci a pizzerie jako rychlé občerstvení („pizza do krabice“).",
+        "DOPRAVA": "Autobusy č. <b>133, 163, 188, 297,</b> zastávka <b>Plaňanská</b>. Parkování před poliklinikou Malešice.",
+        "GALERIE": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4982975,
+          50.0797794
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "74.A",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Kunratický les (zoo-koutky) - hřiště 74.A",
+        "INFO": "Pokud máte rádi zvířata, nenechte si ujít návštěvu dvou zoo-koutků. V jednom uvidíte zvířata domácí, ve druhém daňky.",
+        "POPIS": "Nejlepší bude, pokud od autobusové zastávky Ikem půjdete ulicí K Zelené louce a poté Zelená louka, k okraji lesa. Stojí tady restaurace „Na Tý louce zelený“. Dětské hřiště (<b>74.A</b>) se rozkládá pod stromy v zadní části venkovního posezení (letní zahrádka). Děti mohou zkusit houpačky, domek se skluzavkou a opičím mostem, tabule na kreslení a opravdové plátěné tepee! Na hřišti děti upoutá několik dřevěných soch- červený slon, hlemýždi, hroch a jistě ocení také trampolínu. Na sochy ostatně narazíte i na jiných místech letní zahrádky. Stojí zde např. kůň, draví ptáci nebo kozy. U hřiště uvidíte malý rybníček porostlý rákosím, kde žijí žáby a ryby a atmosféru dotváří dva „vodníci“. U zděného objektu restaurace leží mini-zoo. Mají zde zvláštní druh ovcí, kozy a prase. U automatu si lze za 5 Kč koupit granule pro jejich krmení. U restaurace je také situováno první zastavení naučné stezky Kunratickým lesem. A děti možná zaujme i červenobílý mýtní domek a závora, která zabraňuje automobilům vjíždět do lesa.<br />Poté se vydejte po žluté značce, proti proudu Kunratického potoka. Cestou si povšimněte jeho meandrů. Dávejte také pozor na muflony, jejichž stádo se zdržuje často v této části lesa. Zanedlouho se dostanete k restauraci „U krále Václava IV.“. Dětské hřiště (<b>74.B</b>) není oplocené a rozkládá se na lesní půdě pod stromy. Tvoří ho pouze velký domek se skluzavkou, opičím mostem a šplhacími prvky a jedna houpačka. Děti ale jistě zaujme výběh daňků, kde žije jeden samec a několik laní. S sebou můžete vzít jablka nebo starý chléb a vysokou nakrmit. Také zde najdete ceduli naučné stezky.<br />Nedaleko restaurace „U krále Václava IV.“ leží zřícenina loveckého hrádku, který nechal postavit Václav IV., z rodu Lucemburků. Zde také zemřel. Máte-li čas, jděte nejprve po žluté a potom po modré značce. Trasa je dlouhá asi kilometr.",
+        "DOPORUCENI": "Před cestou se podívejte na otevírací dobu restaurace „Na Tý louce zelený“, aby se nestalo, že areál letní zahrádky se zoo koutkem a hřištěm bude zavřený!",
+        "SOCIALNI": "Voda ano, WC ano-platí pro hřiště <b>74.A</b> (toalety jsou v zadní části restaurace, u výběhu koz a ovcí).",
+        "OBCERSTVENI": "Restaurace „Na Tý louce zelený“ a „U krále Václava IV.“.",
+        "DOPRAVA": "Autobusy č. <b>114, 193, 332, 335, 337, 339, 362</b> zastávka <b>Ikem</b>. Parkovat je možné v blízkosti obou restaurací.",
+        "GALERIE": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4656778,
+          50.0241897
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "74.B",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Kunratický les (zoo-koutky)- hřiště 74.B",
+        "INFO": "Pokud máte rádi zvířata, nenechte si ujít návštěvu dvou zoo-koutků. V jednom uvidíte zvířata domácí, ve druhém daňky.",
+        "POPIS": "Nejlepší bude, pokud od autobusové zastávky Ikem půjdete ulicí K Zelené louce a poté Zelená louka, k okraji lesa. Stojí tady restaurace „Na Tý louce zelený“. Dětské hřiště (<b>74.A</b>) se rozkládá pod stromy v zadní části venkovního posezení (letní zahrádka). Děti mohou zkusit houpačky, domek se skluzavkou a opičím mostem, tabule na kreslení a opravdové plátěné tepee! Na hřišti děti upoutá několik dřevěných soch- červený slon, hlemýždi, hroch a jistě ocení také trampolínu. Na sochy ostatně narazíte i na jiných místech letní zahrádky. Stojí zde např. kůň, draví ptáci nebo kozy. U hřiště uvidíte malý rybníček porostlý rákosím, kde žijí žáby a ryby a atmosféru dotváří dva „vodníci“. U zděného objektu restaurace leží mini-zoo. Mají zde zvláštní druh ovcí, kozy a prase. U automatu si lze za 5 Kč koupit granule pro jejich krmení. U restaurace je také situováno první zastavení naučné stezky Kunratickým lesem. A děti možná zaujme i červenobílý mýtní domek a závora, která zabraňuje automobilům vjíždět do lesa.<br />Poté se vydejte po žluté značce, proti proudu Kunratického potoka. Cestou si povšimněte jeho meandrů. Dávejte také pozor na muflony, jejichž stádo se zdržuje často v této části lesa. Zanedlouho se dostanete k restauraci „U krále Václava IV.“. Dětské hřiště (<b>74.B</b>) není oplocené a rozkládá se na lesní půdě pod stromy. Tvoří ho pouze velký domek se skluzavkou, opičím mostem a šplhacími prvky a jedna houpačka. Děti ale jistě zaujme výběh daňků, kde žije jeden samec a několik laní. S sebou můžete vzít jablka nebo starý chléb a vysokou nakrmit. Také zde najdete ceduli naučné stezky.<br />Nedaleko restaurace „U krále Václava IV.“ leží zřícenina loveckého hrádku, který nechal postavit Václav IV., z rodu Lucemburků. Zde také zemřel. Máte-li čas, jděte nejprve po žluté a potom po modré značce. Trasa je dlouhá asi kilometr.",
+        "DOPORUCENI": "Před cestou se podívejte na otevírací dobu restaurace „Na Tý louce zelený“, aby se nestalo, že areál letní zahrádky se zoo koutkem a hřištěm bude zavřený!",
+        "SOCIALNI": "Voda ano, WC ano-platí pro hřiště <b>74.A</b> (toalety jsou v zadní části restaurace, u výběhu koz a ovcí).",
+        "OBCERSTVENI": "Restaurace „Na Tý louce zelený“ a „U krále Václava IV.“.",
+        "DOPRAVA": "Autobusy č. <b>114, 193, 332, 335, 337, 339, 362</b> zastávka <b>Ikem</b>. Parkovat je možné v blízkosti obou restaurací.",
+        "GALERIE": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4729664,
+          50.0215339
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "73.A",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Kunratický les (východní část) - hřiště 73.A",
+        "INFO": "Kunratický les se rozkládá mezi Kunraticemi, Roztyly a Krčí. Najdeme zde více lesních dětských hřišť. Dvě si představíme blíže.",
+        "POPIS": "První (73.A) se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
+        "DOPORUCENI": "V případě, že jste přijeli autem, musíte se vrátit. Pokud ne, můžete pokračovat po zelené značce, údolím jednoho z malých přítoků Kunratického potoka. Cesta klesá, je pohodlná a asi po jednom kilometru dojdete k minizoo-viz. lokalita <b>74</b>.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U srubu Gizela se poskytuje občerstvení, ale v době naší návštěvy (podzim 2013) bylo zavřeno a nenašli jsme žádnou ceduli s otvírací dobou. Jistotu občerstvení tak představuje zázemí stanice metra Chodov - Centrum Chodov.",
+        "DOPRAVA": "Autobusy č. <b>177, 193</b> zastávka <b>Petýrkova</b>. Parkovat je možné na sídlišti nebo parkovišti nákupního centra Chodov.",
+        "GALERIE": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4788528,
+          50.0296644
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "73.B",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Kunratický les (východní část) - hřiště 73.B",
+        "INFO": "Kunratický les se rozkládá mezi Kunraticemi, Roztyly a Krčí. Najdeme zde více lesních dětských hřišť. Dvě si představíme blíže.",
+        "POPIS": "První (73.A) se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
+        "DOPORUCENI": "V případě, že jste přijeli autem, musíte se vrátit. Pokud ne, můžete pokračovat po zelené značce, údolím jednoho z malých přítoků Kunratického potoka. Cesta klesá, je pohodlná a asi po jednom kilometru dojdete k minizoo-viz. lokalita <b>74</b>.",
+        "SOCIALNI": "Voda ne, WC ne.",
+        "OBCERSTVENI": "U srubu Gizela se poskytuje občerstvení, ale v době naší návštěvy (podzim 2013) bylo zavřeno a nenašli jsme žádnou ceduli s otvírací dobou. Jistotu občerstvení tak představuje zázemí stanice metra Chodov - Centrum Chodov.",
+        "DOPRAVA": "Autobusy č. <b>177, 193</b> zastávka <b>Petýrkova</b>. Parkovat je možné na sídlišti nebo parkovišti nákupního centra Chodov.",
+        "GALERIE": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4843297,
+          50.0254706
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "80",
+      "mesto": "praha2",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Folimanka",
+        "INFO": "Pod Nuselským mostem je situován komplex sportovišť a dětských hřišť (<b>80</b>).",
+        "POPIS": "Dětské hřiště leží v parku na břehu Botiče, kolem něhož vede cyklo a in-line stezka. V oplocené části najdete asi tucet prvků, jako lanovka, multifunkční sestava atd. Povrch hřiště tvoří kačírek a písek. Přestože zde roste několik stromů, stínu je málo. Na hřišti je také hydrant, ovšem mimo provoz, stejně jako dva další v areálu. Vně stojí altán a kašna s vodotrysky. Komplex dále zahrnuje hřiště s umělým povrchem na basketbal, volejbal, malý fotbal a několik prvků pro starší děti v neoplocené části parku (např. skate sestava nebo točící kruh). V areálu se nalézá také objekt správce. Lokalita nabízí zajímavé pohledy na vyšehradské hradby i na Nuselský most, označovaný také Most sebevrahů (od otevření v r. 1973 skokem z něho ukončilo svůj život 200 až 300 lidí-údaje o počtu mrtvých se různí).",
+        "DOPORUCENI": "Pojedete-li dvě stanice tramvají (směr Karlovo náměstí), můžete navštívit botanickou zahradu Na Slupi s krásnými skleníky. Příležitostně se zde konají i zajímavé výstavy (např. kaktusů, papoušků atd.). Více na: <a href='http://www.bz-uk.cz/' target='_blank'>www.bz-uk.cz/</a>.<br />Nedaleko také sídlí muzeum čokolády (od 30. 6. 2014 uzavřené z důvodu rekonstrukce). Informace na: <a href='http://cokoladovydum.cz/muzeum-cokolady-praha.html' target='_blank'>cokoladovydum.cz/muzeum-cokolady-praha.html</a>",
+        "SOCIALNI": "Voda ano, WC ano - v objektu správce. O odemčení toalet je ale nutné požádat správce.",
+        "OBCERSTVENI": "Více možností (restaurace, drobné obchody) nabízí okolí stanice tramvaje - <b>Ostrčilovo náměstí</b>. V objektu správce je příležitostně nabízeno občerstvení.",
+        "DOPRAVA": "Tramvaje č. <b>6, 7, 18, 24,</b> stanice <b>Ostrčilovo náměstí</b>. Zaparkovat je asi nejlepší v podzemních garážích u Lidlu, ulice Na Slupi.",
+        "GALERIE": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4271208,
+          50.0668761
+        ]
+      }
     }
 
   ]
