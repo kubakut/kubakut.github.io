@@ -109,7 +109,7 @@
 
 @media(min-width:768px) and (max-width:991px){
     .leaflet-sidebar {
-        width: 300px;
+        width: 340px;
     }
 
     .leaflet-sidebar.left.visible ~ .leaflet-left {
@@ -123,7 +123,7 @@
 
 @media(min-width:992px) and (max-width:1199px){
     .leaflet-sidebar {
-        width: 300px;
+        width: 340px;
     }
 
     .leaflet-sidebar.left.visible ~ .leaflet-left {
