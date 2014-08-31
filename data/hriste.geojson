@@ -2164,7 +2164,7 @@
     },
 {
       "type": "Feature",
-      "id": "2001",
+      "id": "70",
       "mesto": "praha9",
       "properties": {
         "NAME": "Kbely",
@@ -2542,7 +2542,7 @@
         "SOCIALNI": "Voda ne, chemické WC-areál <b>75.A</b>.",
         "OBCERSTVENI": "Na Roztylském náměstí se nachází kavárna, restaurace a několik obchodů.",
         "DOPRAVA": "Autobusy č. <b>118, 135, 136, 170, 213, 293</b> a tramvaje č. <b>6 a 11</b>, zastávka <b>Spořilov</b>. Parkovat můžete v blízkosti obou hřišť.",
-        "GALERIE": 4
+        "GALERIE": 6    
       },
       "geometry": {
         "type": "Point",
@@ -2565,7 +2565,7 @@
         "SOCIALNI": "Voda ne, chemické WC-areál <b>75.A</b>.",
         "OBCERSTVENI": "Na Roztylském náměstí se nachází kavárna, restaurace a několik obchodů.",
         "DOPRAVA": "Autobusy č. <b>118, 135, 136, 170, 213, 293</b> a tramvaje č. <b>6 a 11</b>, zastávka <b>Spořilov</b>. Parkovat můžete v blízkosti obou hřišť.",
-        "GALERIE": 6
+        "GALERIE": 4
       },
       "geometry": {
         "type": "Point",
@@ -2675,7 +2675,7 @@
       "properties": {
         "NAME": "Kunratický les (východní část) - hřiště 73.A",
         "INFO": "Kunratický les se rozkládá mezi Kunraticemi, Roztyly a Krčí. Najdeme zde více lesních dětských hřišť. Dvě si představíme blíže.",
-        "POPIS": "První (73.A) se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
+        "POPIS": "První <b>(73.A)</b> se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
         "DOPORUCENI": "V případě, že jste přijeli autem, musíte se vrátit. Pokud ne, můžete pokračovat po zelené značce, údolím jednoho z malých přítoků Kunratického potoka. Cesta klesá, je pohodlná a asi po jednom kilometru dojdete k minizoo-viz. lokalita <b>74</b>.",
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "U srubu Gizela se poskytuje občerstvení, ale v době naší návštěvy (podzim 2013) bylo zavřeno a nenašli jsme žádnou ceduli s otvírací dobou. Jistotu občerstvení tak představuje zázemí stanice metra Chodov - Centrum Chodov.",
@@ -2698,7 +2698,7 @@
       "properties": {
         "NAME": "Kunratický les (východní část) - hřiště 73.B",
         "INFO": "Kunratický les se rozkládá mezi Kunraticemi, Roztyly a Krčí. Najdeme zde více lesních dětských hřišť. Dvě si představíme blíže.",
-        "POPIS": "První (73.A) se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
+        "POPIS": "První <b>(73.A)</b> se nachází v blízkosti tzv. Velkého altánu. Pojedete-li autobusem na stanici Petýrkova, na okraji lesa (u semaforu na ulici U Kunratického lesa), narazíte na modrou turistickou značku. Půjdete po kraji lesa (po levě straně bude les a po pravé sídliště) a zakrátko dorazíte k lesnímu hřišti. Na lesní půdě stojí několik dřevěných prvků-autíčka, houpačky, kladina a domek se skluzavkou. Hřiště je situováno u srubu Gizela, samozřejmě ve stínu lesa. Součástí areálu je také ohniště, udírna, venkovní posezení a louka s fotbalovými brankami. U srubu postavili pěkné krmítko. Nezapomeňte na zob pro ptáky! Budete-li pokračovat po modré, asi po 100 m přijdete k Velkému altánu, kde je rozcestník značených cest (modrá a zelená turistická značka). Vy se ale dáte po neznačené asfaltové cestě, směrem odkud jste přišli, tedy k sídlišti a k ulici U Kunratického lesa. Půjdete po trase naučné stezky. Zabloudit nemůžete-jedná se o jedinou neznačenou, byť úzkou asfaltku (slouží i jako cyklostezka). Cesta klesá, po levé straně (za stromy) uvidíte domy sídliště. Brzy narazíte na informační tabuli naučné stezky (č. 13 „Ekosystém lesa“). Cca po osmi stech metrech dojdete k rozcestníku značených cest „Kunratický les“ a vydáte se po zelené, směr Nový hrádek a U krále Václava IV. Po 200 metrech narazíte na druhé větší hřiště (<b>73.B</b>). Plocha hřiště je oplocena. Na lesní půdě a trávě stojí asi tucet atrakcí- dřevěné tepee, domek se skluzavkou, kladina, autíčka, vlak, houpačka, krokodýl atd., vše pochopitelně ze dřeva. K hřišti také patří altán a ohniště. Je zde další informační tabule naučné stezky. Stromy poskytují částečný stín.",
         "DOPORUCENI": "V případě, že jste přijeli autem, musíte se vrátit. Pokud ne, můžete pokračovat po zelené značce, údolím jednoho z malých přítoků Kunratického potoka. Cesta klesá, je pohodlná a asi po jednom kilometru dojdete k minizoo-viz. lokalita <b>74</b>.",
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "U srubu Gizela se poskytuje občerstvení, ale v době naší návštěvy (podzim 2013) bylo zavřeno a nenašli jsme žádnou ceduli s otvírací dobou. Jistotu občerstvení tak představuje zázemí stanice metra Chodov - Centrum Chodov.",
@@ -2749,7 +2749,7 @@
         "SOCIALNI": "Voda ne, WC ne.",
         "OBCERSTVENI": "Kompletní zázemí představují stanice metra <b>Háje</b>. V bezprostřední blízkosti je supermarket.",
         "DOPRAVA": "Stanice metra C, autobusy č. <b>125, 136, 165, 170, 183, 197, 213, 232, 240, 267, 293, 296, 381, 382, 383, 387,</b> vše stanice <b>Háje</b>. Parkování na sídlišti v blízkosti hřiště.",
-        "GALERIE": 10
+        "GALERIE": 5
       },
       "geometry": {
         "type": "Point",
@@ -2800,8 +2800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4271208,
-          50.0668761
+          14.5476619,
+          50.0375078
         ]
       }
     },
@@ -2905,7 +2905,7 @@
       "properties": {
         "NAME": "Letňany",
         "INFO": "Městská část Letňany je hojně vybavena dětskými hřišti. Největší a nejmodernější leží na sídlišti nedalo ulice Tupolevovy.",
-        "POPIS": "Dětské hřiště náleží k rozsáhlému sportovnímu komplexu (<b>46</b>), který je oplocen. Hřiště se skládá z několika částí. Najdeme zde např. lanovou pyramidu, skluzavku, domek s pavoučí sítí atd. Uvnitř areálu bylo vytvořeno několik umělých kopců. Dva z nich spojuje lanový most, takže děti přechází několik metrů nad terénem. Povrch hřišť tvoří kačírek a pryžové desky. Zastíněny jsou pouze některé z atrakcí. Posedět můžeme v  altáncích.<br />Součástí komplexu jsou tři volně přístupná hřiště s umělým povrchem na košíkovou, fotbal nebo nohejbal. Stojí zde také stůl na ping-pong.",
+        "POPIS": "Dětské hřiště náleží k rozsáhlému sportovnímu komplexu (<b>46</b>), který je oplocen. Hřiště se skládá z několika částí. Najdeme zde např. lanovou pyramidu, skluzavku, domek s pavoučí sítí atd. Uvnitř areálu bylo vytvořeno několik umělých kopců. Dva z nich spojuje lanový most, takže děti přechází několik metrů nad terénem. Povrch hřišť tvoří kačírek a pryžové desky. Zastíněny jsou pouze některé z atrakcí. Posedět můžeme v  altáncích. Součástí komplexu jsou tři volně přístupná hřiště s umělým povrchem na košíkovou, fotbal nebo nohejbal. Stojí zde také stůl na ping-pong.",
         "DOPORUCENI": "Příjemné osvěžení může přinést návštěva aqua a fitness centra Lagoon, které je vzdálené cca 300 m. Bližší informace na: <a href='http://www.letnanylagoon.cz' target='_blank'>www.letnanylagoon.cz</a>.",
         "SOCIALNI": "Voda ano - hydrant vně areálu (v době naší návštěvy - srpen 2013 mimo provoz), chemické WC.",
         "OBCERSTVENI": "Širokou škálu občerstvení nabízí Obchodní centrum Letňany, vzdálené asi 500 m. Je zde několik restaurací, řetězce rychlého občerstvení i dětský koutek.",
