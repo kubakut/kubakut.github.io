@@ -13,12 +13,12 @@
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/leaflet.css">
-    <link rel="stylesheet" href="assets/css/MarkerCluster.css">
-    <link rel="stylesheet" href="assets/css/MarkerCluster.Default.css">
-    <link rel="stylesheet" href="assets/css/L.Control.Locate.css">
-    <link rel="stylesheet" href="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.css">
-    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/leaflet.min.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.min.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.Default.min.css">
+    <link rel="stylesheet" href="assets/css/L.Control.Locate.min.css">
+    <link rel="stylesheet" href="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.css">
+    <link rel="stylesheet" href="assets/css/app.min.css">
 
     <link rel="apple-touch-icon" href="assets/img/favicon-152.png">
     <link rel="shortcut icon" sizes="196x196" href="assets/img/favicon-196.png">
@@ -70,7 +70,7 @@
 
                 <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="sidebar.toggle(); return false;"><i class="fa fa-list" style="color: white"></i>&nbsp;&nbsp;Seznam míst</a>
                 </li>
-                  
+
             </ul>
         </div>
         <!--/.navbar-collapse -->
@@ -101,7 +101,7 @@
                             <p>
 
                                 <div class="row">
-                                    
+
                                     <div class="">
 
                                         <!-- demo -->
@@ -110,70 +110,70 @@
 
                                             <!-- panel -->
                                             <div class="jplist-panel box panel-top">
-                                                
+
                                                 <div style="margin-left:14px;">
-                                      <input type="text" style="width:100%; margin-left:-13px;" class="form-control search" placeholder="Hledat" />
-                                    </div>
-                                              
-                                                    <div >
-                                                <!-- reset button -->
+                                                    <input type="text" style="width:100%; margin-left:-13px;" class="form-control search" placeholder="Hledat" />
+                                                </div>
 
-                                                <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset">
-                                                    Reset &nbsp;<i class="fa fa-share"></i>
-                                                </button>
+                                                <div>
+                                                    <!-- reset button -->
 
-                                                <!-- items per page dropdown -->
-                                                <select class="jplist-select" data-control-type="select" data-control-name="group-filter" data-control-action="filter">
-                                                    <ul>
-                                                        <option data-path="default">Praha</option>
-                                                        <option data-path=".praha1">Praha 1</option>
-                                                        <option data-path=".praha2">Praha 2</option>
-                                                        <option data-path=".praha3">Praha 3</option>
-                                                        <option data-path=".praha4">Praha 4</option>
-                                                        <option data-path=".praha5">Praha 5</option>
-                                                        <option data-path=".praha6">Praha 6</option>
-                                                        <option data-path=".praha7">Praha 7</option>
-                                                        <option data-path=".praha8">Praha 8</option>
-                                                        <option data-path=".praha9">Praha 9</option>
-                                                        <option data-path=".praha10">Praha 10</option>
-                                                        <option data-path=".praha11">Praha 11</option>
-                                                        <option data-path=".praha12">Praha 12</option>
-                                                        <option data-path=".praha13">Praha 13</option>
-                                                        <option data-path=".praha14">Praha 14</option>
-                                                        <option data-path=".praha15">Praha 15</option>
-                                                        <option data-path=".praha16">Praha 16</option>
-                                                        <option data-path=".praha17">Praha 17</option>
-                                                        <option data-path=".praha18">Praha 18</option>
-                                                        <option data-path=".praha19">Praha 19</option>
-                                                        <option data-path=".praha20">Praha 20</option>
-                                                        <option data-path=".praha21">Praha 21</option>
-                                                    </ul>
-                                                </select>
-                                                
-                                                   <select class="jplist-select" data-control-type="select" data-control-name="category-filter" data-control-action="filter" style="width:100px;">
-                                                    <ul>
-                                                        <option data-path="default">Kategorie</option>
-                                                        <option data-path=".vl1">Plocha pro míčové hry</option>
-                                                        <option data-path=".vl2">In line stezky, skate parky, BMX areály, dopravní hřiště</option>
-                                                        <option data-path=".vl3">Jiné sporty (lanová centra, minigolf, discgolf, boby)</option>
-                                                        <option data-path=".vl4">Fitness prvky</option>
-                                                        <option data-path=".vl5">Voda na hřišti nebo v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl6">WC na hřišti nebo v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl7">Správce na hřišti</option>
-                                                        <option data-path=".vl8">Částečný stín</option>
-                                                        <option data-path=".vl9">Kultura (muzea, galerie, venkovní sochy, divadla, planetária)</option>
-                                                        <option data-path=".vl10">Naučné stezky</option>
-                                                        <option data-path=".vl11">ZOO koutky</option>
-                                                        <option data-path=".vl12">Restaurace nebo kavárny v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl13">Bazény, vodní atrakce, vodní soustavy</option>
-                                                        
-                                                    </ul>
-                                                </select>
+                                                    <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset">
+                                                        Reset &nbsp;<i class="fa fa-share"></i>
+                                                    </button>
 
-</div>
-                                               
+                                                    <!-- items per page dropdown -->
+                                                    <select class="jplist-select" data-control-type="select" data-control-name="group-filter" data-control-action="filter">
+                                                        <ul>
+                                                            <option data-path="default">Praha</option>
+                                                            <option data-path=".praha1">Praha 1</option>
+                                                            <option data-path=".praha2">Praha 2</option>
+                                                            <option data-path=".praha3">Praha 3</option>
+                                                            <option data-path=".praha4">Praha 4</option>
+                                                            <option data-path=".praha5">Praha 5</option>
+                                                            <option data-path=".praha6">Praha 6</option>
+                                                            <option data-path=".praha7">Praha 7</option>
+                                                            <option data-path=".praha8">Praha 8</option>
+                                                            <option data-path=".praha9">Praha 9</option>
+                                                            <option data-path=".praha10">Praha 10</option>
+                                                            <option data-path=".praha11">Praha 11</option>
+                                                            <option data-path=".praha12">Praha 12</option>
+                                                            <option data-path=".praha13">Praha 13</option>
+                                                            <option data-path=".praha14">Praha 14</option>
+                                                            <option data-path=".praha15">Praha 15</option>
+                                                            <option data-path=".praha16">Praha 16</option>
+                                                            <option data-path=".praha17">Praha 17</option>
+                                                            <option data-path=".praha18">Praha 18</option>
+                                                            <option data-path=".praha19">Praha 19</option>
+                                                            <option data-path=".praha20">Praha 20</option>
+                                                            <option data-path=".praha21">Praha 21</option>
+                                                        </ul>
+                                                    </select>
 
-                                               
+                                                    <select class="jplist-select" data-control-type="select" data-control-name="category-filter" data-control-action="filter" style="width:100px;">
+                                                        <ul>
+                                                            <option data-path="default">Kategorie</option>
+                                                            <option data-path=".vl1">Plocha pro míčové hry</option>
+                                                            <option data-path=".vl2">In line stezky, skate parky, BMX areály, dopravní hřiště</option>
+                                                            <option data-path=".vl3">Jiné sporty (lanová centra, minigolf, discgolf, boby)</option>
+                                                            <option data-path=".vl4">Fitness prvky</option>
+                                                            <option data-path=".vl5">Voda na hřišti nebo v bezprostřední blízkosti</option>
+                                                            <option data-path=".vl6">WC na hřišti nebo v bezprostřední blízkosti</option>
+                                                            <option data-path=".vl7">Správce na hřišti</option>
+                                                            <option data-path=".vl8">Částečný stín</option>
+                                                            <option data-path=".vl9">Kultura (muzea, galerie, venkovní sochy, divadla, planetária)</option>
+                                                            <option data-path=".vl10">Naučné stezky</option>
+                                                            <option data-path=".vl11">ZOO koutky</option>
+                                                            <option data-path=".vl12">Restaurace nebo kavárny v bezprostřední blízkosti</option>
+                                                            <option data-path=".vl13">Bazény, vodní atrakce, vodní soustavy</option>
+
+                                                        </ul>
+                                                    </select>
+
+                                                </div>
+
+
+
                                             </div>
 
 
@@ -260,50 +260,53 @@
                         </li>
                         <li><a href="#contact" data-toggle="tab"><i class="fa fa-envelope"></i>&nbsp;Zanechte vzkaz</a>
                         </li>
-                        
-                       
+
+
                     </ul>
                     <div class="tab-content" id="aboutTabsContent" style="padding-top: 10px;">
                         <div class="tab-pane fade active in" id="about">
-                            
-<div class='panel panel-primary'>
-      <div class='panel-heading'>
-        Úvod
-      </div>
-     <div class='panel-body'>
-        
 
-<p>Aplikace přináší popis atraktivních dětských hřišť v Praze. Hřiště jsme procházeli od <b>léta 2013</b> do <b>léta 2014</b>, takže předkládaný text dokumentuje aktuální stav jednotlivých lokalit. V žádném případě se tedy nejedná o kompilaci staženou z internetu! Kromě toho zde najdete přehled zajímavých míst, která lze v blízkosti hřišť navštívit (muzea, sportoviště, zoo-koutky, naučné stezky apod.) a další praktické informace. </p>
-
-<p>Přehled nyní obsahuje <b>81</b> lokalit s asi <b>130</b> hřišti. Pokud se totiž nedaleko od sebe nachází hřišť několik, zpracováváme je v rámci jedné lokality. V mapě a textu jsou pak kromě čísla označena také písmenem, např. <b>4.A</b> a <b>4.B</b>. Kromě textu a ikony v mapě, vám hřiště přiblíží také původní fotografie. </p>
-
-<p>V textech o hřištích neuvádíme otvírací dobu, protože nepokládáme za účelné stále opakovat totéž. Obecně platí, že většinu hřišť lze navštívit <b>kdykoliv</b>. Pokud se o hřiště stará správce nebo se na noc zamykají, od <b>května </b>do <b>září</b> se <b>otevírají </b>mezi <b>osmou</b> (častěji) a <b>devátou</b> hodinou. Od <b>října</b> do <b>dubna</b> pak mezi <b>devátou</b> (častěji) a <b>desátou</b>. Od <b>května</b> do <b>září</b> se hřiště <b>zavírají</b> ve <b>dvacet</b> až <b>jednadvacet</b> hodin, od <b>října</b> do <b>dubna</b> v <b>sedmnáct</b> až <b>devatenáct</b> hodin. Pokud je hřiště v určitou část roku uzavřené, výslovně to uvádíme.</p>
-
-<p>U každého hřiště naleznete také dostupnost veřejnou dopravou. Předkládané dopravní informace zachycují stav platný v <b>srpnu 2014.</b> Protože se linky městské dopravy často mění, doporučujeme si před návštěvou hřišť ověřit aktuálnost dopravního spojení na stránkách Dopravního podniku: <a href="http://jrportal.dpp.cz/jrportal/" target="_blank">http://jrportal.dpp.cz/jrportal/</a></p>
-
-<p>Všechny uvedené webové odkazy jsme prověřili v <b>srpnu 2014</b> a byly v této době funkční.</p>
-
-<p>Vybavení hřišť, jejich stav i další skutečnosti v textu uváděné se mění. Pokud budete mít připomínky, doplňující informace, nebo jestliže vám ve výčtu nějaké hezké hřiště chybí, napište prosím na&nbsp;mail:&nbsp;<a href="mailto:zastupce.vasak@seznam.cz">zastupce.vasak@seznam.cz</a>, nebo zde do <a href="forum.html">fóra.</a></p>
-         <p>Na webových stránkách projektu (www:hriste…..) jsme pro vás navíc připravili filtry, které umožní rychlou orientaci podle zadaných kritérií. Hřiště jsme rozdělili na skupiny např. podle toho, zda se v areálu nachází plocha pro míčové hry, zda je tam možnost provozovat další sporty, zda se v jejich blízkosti nalézají muzea, galerie, naučné stezky, zoo-koutky apod. nebo zda k vybavení hřiště patří toalety.</p>
-
-<p>Na závěr chceme vyjádřit přání, aby se vám aplikace líbila a pomohla najít místa, kde strávíte příjemné chvíle se svými dětmi.</p>
+                            <div class='panel panel-primary'>
+                                <div class='panel-heading'>
+                                    Úvod
+                                </div>
+                                <div class='panel-body'>
 
 
+                                    <p>Aplikace přináší popis atraktivních dětských hřišť v Praze. Hřiště jsme procházeli od <b>léta 2013</b> do <b>léta 2014</b>, takže předkládaný text dokumentuje aktuální stav jednotlivých lokalit. V žádném případě se tedy nejedná o kompilaci staženou z internetu! Kromě toho zde najdete přehled zajímavých míst, která lze v blízkosti hřišť navštívit (muzea, sportoviště, zoo-koutky, naučné stezky apod.) a další praktické informace.</p>
+
+                                    <p>Přehled nyní obsahuje <b>81</b> lokalit s asi <b>130</b> hřišti. Pokud se totiž nedaleko od sebe nachází hřišť několik, zpracováváme je v rámci jedné lokality. V mapě a textu jsou pak kromě čísla označena také písmenem, např. <b>4.A</b> a <b>4.B</b>. Kromě textu a ikony v mapě, vám hřiště přiblíží také původní fotografie.</p>
+
+                                    <p>V textech o hřištích neuvádíme otvírací dobu, protože nepokládáme za účelné stále opakovat totéž. Obecně platí, že většinu hřišť lze navštívit <b>kdykoliv</b>. Pokud se o hřiště stará správce nebo se na noc zamykají, od <b>května </b>do <b>září</b> se <b>otevírají </b>mezi <b>osmou</b> (častěji) a <b>devátou</b> hodinou. Od <b>října</b> do <b>dubna</b> pak mezi <b>devátou</b> (častěji) a <b>desátou</b>. Od <b>května</b> do <b>září</b> se hřiště <b>zavírají</b> ve <b>dvacet</b> až <b>jednadvacet</b> hodin, od <b>října</b> do <b>dubna</b> v <b>sedmnáct</b> až <b>devatenáct</b> hodin. Pokud je hřiště v určitou část roku uzavřené, výslovně to uvádíme.</p>
+
+                                    <p>U každého hřiště naleznete také dostupnost veřejnou dopravou. Předkládané dopravní informace zachycují stav platný v <b>srpnu 2014.</b> Protože se linky městské dopravy často mění, doporučujeme si před návštěvou hřišť ověřit aktuálnost dopravního spojení na stránkách Dopravního podniku: <a href="http://jrportal.dpp.cz/jrportal/" target="_blank">http://jrportal.dpp.cz/jrportal/</a>
+                                    </p>
+
+                                    <p>Všechny uvedené webové odkazy jsme prověřili v <b>srpnu 2014</b> a byly v této době funkční.</p>
+
+                                    <p>Vybavení hřišť, jejich stav i další skutečnosti v textu uváděné se mění. Pokud budete mít připomínky, doplňující informace, nebo jestliže vám ve výčtu nějaké hezké hřiště chybí, napište prosím na&nbsp;mail:&nbsp;<a href="mailto:zastupce.vasak@seznam.cz">zastupce.vasak@seznam.cz</a>, nebo zde do <a href="forum.html">fóra.</a>
+                                    </p>
+                                    <p>Na webových stránkách projektu (www:hriste…..) jsme pro vás navíc připravili filtry, které umožní rychlou orientaci podle zadaných kritérií. Hřiště jsme rozdělili na skupiny např. podle toho, zda se v areálu nachází plocha pro míčové hry, zda je tam možnost provozovat další sporty, zda se v jejich blízkosti nalézají muzea, galerie, naučné stezky, zoo-koutky apod. nebo zda k vybavení hřiště patří toalety.</p>
+
+                                    <p>Na závěr chceme vyjádřit přání, aby se vám aplikace líbila a pomohla najít místa, kde strávíte příjemné chvíle se svými dětmi.</p>
 
 
-      </div>
-</div>
-                              <div class="panel panel-primary">
+
+
+                                </div>
+                            </div>
+                            <div class="panel panel-primary">
                                 <div class="panel-heading">Sdílejte nás</div>
                                 <ul class="list-group">
                                     <li class="list-group-item">
-                            
-<div class="addthis_sharing_toolbox"></div></li>                                    
-                                                                         
-                                    
+
+                                        <div class="addthis_sharing_toolbox"></div>
+                                    </li>
+
+
                                 </ul>
                             </div>
-                            
+
                             <div class="panel panel-primary">
                                 <div class="panel-heading">Autoři</div>
                                 <ul class="list-group">
@@ -311,46 +314,49 @@
                                     <li class="list-group-item"><b>Jakub Kuthan</b> - technická realizace aplikace a webových stránek</li>
                                     <li class="list-group-item"><b>Václav Pekárek</b> - vkládání datových souborů
                                     </li>
-                                    
+
                                 </ul>
                             </div>
-                            
-                             <div class="panel panel-primary">
+
+                            <div class="panel panel-primary">
                                 <div class="panel-heading">Copyright &copy;</div>
                                 <ul class="list-group">
-                                    <li class="list-group-item">Využití informací obsažených v aplikaci nebo na webových stránkách ke komerčním účelům je možné pouze s písemným souhlasem autorů.</li>                                    
-                                                                         
-                                    
+                                    <li class="list-group-item">Využití informací obsažených v aplikaci nebo na webových stránkách ke komerčním účelům je možné pouze s písemným souhlasem autorů.</li>
+
+
                                 </ul>
                             </div>
-                          
-                           
-                            
-                        </div>
-                        
-                        <div class="tab-pane fade" id="contact">
-                           <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'detskahriste'; // required: replace example with your forum shortname
-        var disqus_config = function () { 
-  this.language = "cs";
-};
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
-    
-                          
+
+
                         </div>
-                 
+
+                        <div class="tab-pane fade" id="contact">
+                            <div id="disqus_thread"></div>
+                            <script type="text/javascript">
+                                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                                var disqus_shortname = 'detskahriste'; // required: replace example with your forum shortname
+                                var disqus_config = function () {
+                                    this.language = "cs";
+                                };
+
+                                /* * * DON'T EDIT BELOW THIS LINE * * */
+                                (function () {
+                                    var dsq = document.createElement('script');
+                                    dsq.type = 'text/javascript';
+                                    dsq.async = true;
+                                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                                })();
+                            </script>
+                            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+                            </noscript>
+                            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -461,18 +467,18 @@
     <script src="assets/js/list.min.js"></script>
     <script src="assets/js/leaflet.js"></script>
     <script src="assets/js/leaflet.markercluster.js"></script>
-    <script src="assets/js/L.Control.Locate.js"></script>
+    <script src="assets/js/L.Control.Locate.min.js"></script>
 
 
-    <script src="assets/leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.js"></script>
-    <script src="assets/leaflet-activearea/L.activearea.js"></script>
-    <script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.js"></script>
-    <script src="assets/js/app.js"></script>
+    <script src="assets/leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.min.js"></script>
+    <script src="assets/leaflet-activearea/L.activearea.min.js"></script>
+    <script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.js"></script>
+    <script src="assets/js/app.min.js"></script>
     <script src="assets/js/jplist.min.js"></script>
 
 
 
-    
+
 </body>
 
 </html>
