@@ -70,6 +70,7 @@
     .leaflet-sidebar {
         width: 100%;
         padding: 0;
+        top: 10px;
     }
 
     .leaflet-sidebar.left {
@@ -152,7 +153,7 @@
 .leaflet-sidebar .close {
     position: absolute;
     right: 20px;
-    top: 20px;
+    top: 30px;
     width: 31px;
     height: 31px;
 
