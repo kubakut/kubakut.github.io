@@ -423,6 +423,8 @@ $("#featureModal").on("hide.bs.modal", function (e) {
   highlight.clearLayers();
 });
 
+
+
 /* Attribution control */
 function updateAttribution(e) {
   $.each(map._layers, function(index, layer) {
@@ -434,6 +436,8 @@ function updateAttribution(e) {
 map.on("layeradd", updateAttribution);
 map.on("layerremove", updateAttribution);
 
+
+
 var attributionControl = L.control({
   position: "bottomright"
 });
@@ -443,6 +447,7 @@ attributionControl.onAdd = function (map) {
   return div;
 };
 map.addControl(attributionControl);
+
 
 var zoomControl = L.control.zoom({
   position: "bottomright"
@@ -505,8 +510,7 @@ var baseLayers = {
 
 var groupedOverlays = {
   "Seznam míst": {
-    "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště": theaterLayer,
-    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Občerstvení": museumLayer
+    "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště": theaterLayer
   },
   //"Reference": {
   //  "Boroughs": boroughs,

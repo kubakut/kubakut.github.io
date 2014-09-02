@@ -57,17 +57,7 @@
                 </li>
                 <li><a href="forum.html" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-comment-o" style="color: white"></i>&nbsp;&nbsp;Fórum</a>
                 </li>
-                <li class="dropdown">
-                    <a id="toolsDrop" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-globe" style="color: white"></i>&nbsp;&nbsp;Nástroje <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="map.fitBounds(boroughs.getBounds()); return false;"><i class="fa fa-arrows-alt"></i>&nbsp;&nbsp;Zobrazit celou mapu</a>
-                        </li>
-                        <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="$('#legendModal').modal('show'); return false;"><i class="fa fa-picture-o"></i>&nbsp;&nbsp;Zobrazit legendu</a>
-                        </li>
-                        <li class="divider hidden-xs"></li>
-                    </ul>
-                </li>
-
+               
                 <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="sidebar.toggle(); return false;"><i class="fa fa-list" style="color: white"></i>&nbsp;&nbsp;Seznam míst</a>
                 </li>
 
@@ -85,16 +75,7 @@
                 </div>
                 <div class="panel-body">
                     <!-- Nav tabs -->
-                    <ul class="nav nav-tabs" id="poi-tabs">
-                        <li class="active">
-                            <a href="#theaters" onclick="$('#poi-tabs a[href=\'#theaters\']').tab('show'); return false;">
-                                <img src="assets/img/hriste.png" height="16px" width="14px">&nbsp;Hřiště</a>
-                        </li>
-                        <li>
-                            <a href="#museums" onclick="$('#poi-tabs a[href=\'#museums\']').tab('show'); return false;">
-                                <img src="assets/img/museum.png" height="16px" width="14px">&nbsp;Občerstvení</a>
-                        </li>
-                    </ul>
+                   
                     <!-- Tab panes -->
                     <div class="tab-content">
                         <div class="tab-pane active" id="theaters">
@@ -118,7 +99,7 @@
                                                 <div>
                                                     <!-- reset button -->
 
-                                                    <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset">
+                                                    <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset" onclick="map.fitBounds(boroughs.getBounds()); return false;">
                                                         Reset &nbsp;<i class="fa fa-share"></i>
                                                     </button>
 
@@ -212,28 +193,7 @@
                             </p>
 
                         </div>
-                        <div class="tab-pane" id="museums">
-                            <p>
-                                <div class="row">
-                                    <div class="col-xs-8 col-md-8">
-                                        <input type="text" class="form-control search" placeholder="Hledat" />
-                                    </div>
-                                    <div class="col-xs-4 col-md-4">
-                                        <button type="button" class="btn btn-primary pull-right sort" data-sort="museum-name"><i class="fa fa-sort"></i>&nbsp;&nbsp;Seřadit</button>
-                                    </div>
-                                </div>
-                            </p>
-                            <div class="sidebar-table">
-                                <table class="table table-hover" id="museum-table">
-                                    <thead class="hidden">
-                                        <tr>
-                                            <th>Name</th>
-                                            <tr>
-                                    </thead>
-                                    <tbody class="list"></tbody>
-                                </table>
-                            </div>
-                        </div>
+                   
                     </div>
                 </div>
             </div>
