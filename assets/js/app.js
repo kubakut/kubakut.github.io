@@ -313,7 +313,20 @@ var theaters = L.geoJson(null, {
         }
       });
       $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'"><p class="'+feature.kategorie+'">'+'</p></td><td style="vertical-align: middle;"><i style="vertical-align: middle;" class="fa fa-chevron-right pull-right"></td></tr>');
-        $('document').ready(function(){
+     
+      theaterSearch.push({
+        name: layer.feature.properties.NAME,
+        address: layer.feature.mesto,
+        source: "Hřiště",
+        id: L.stamp(layer),
+        lat: layer.feature.geometry.coordinates[1],
+        lng: layer.feature.geometry.coordinates[0]
+          
+      });
+        
+    }
+  }
+       $('document').ready(function(){
 				$('#demo').jplist({
 				    
 					itemsBox: '.demo-tbl' 
@@ -327,16 +340,6 @@ var theaters = L.geoJson(null, {
 				});
           
 			});
-      theaterSearch.push({
-        name: layer.feature.properties.NAME,
-        address: layer.feature.mesto,
-        source: "Hřiště",
-        id: L.stamp(layer),
-        lat: layer.feature.geometry.coordinates[1],
-        lng: layer.feature.geometry.coordinates[0]
-      });
-    }
-  }
 });
 $.getJSON("data/hriste.geojson", function (data) {
   theaters.addData(data);
@@ -672,4 +675,5 @@ $(document).one("ajaxStop", function () {
   });
   $(".twitter-typeahead").css("position", "static");
   $(".twitter-typeahead").css("display", "block");
+    
 });
