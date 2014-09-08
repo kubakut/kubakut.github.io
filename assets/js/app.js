@@ -326,7 +326,7 @@ var theaters = L.geoJson(null, {
         
     }
   }
-       $('document').ready(function(){
+    $('document').ready(function(){
 				$('#demo').jplist({
 				    
 					itemsBox: '.demo-tbl' 
