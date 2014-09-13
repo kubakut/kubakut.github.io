@@ -65,7 +65,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #356AA0;
 }
 
 .btn-primary {
@@ -118,7 +118,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    padding: 20px 20px;
     border-color: #28A3F0;
     border-radius: 3px;
     text-transform: uppercase;
@@ -127,6 +127,7 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
     color: #fff;
     background-color: #28A3F0;
+   
 }
 
 .btn-xl:hover,
@@ -271,7 +272,7 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;   
 }
 
 header .intro-text {
@@ -280,11 +281,17 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 25px;    
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
+    font-size: 28px;
     font-style: italic;
-    line-height: 22px;
+    border: 2px;
+    border-radius: 3px;
+    margin-right: auto; 
+    margin-left: auto;
+    width: 34%;
+    
+    
 }
 
 header .intro-text .intro-heading {
@@ -304,9 +311,9 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Open Sans" ,Arial,sans-serif;
         font-size: 40px;
-        font-style: italic;
+        font-style: ;
         line-height: 40px;
     }
 
@@ -322,6 +329,7 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
+    border-top: 10px solid;    
 }
 
 section h2.section-heading {
@@ -341,7 +349,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 }
 

@@ -339,7 +339,7 @@ var theaters = L.geoJson(null, {
                    
 				});
           
-			});
+			
 });
 $.getJSON("data/hriste.geojson", function (data) {
   theaters.addData(data);
