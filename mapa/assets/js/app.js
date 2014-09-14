@@ -214,7 +214,7 @@ var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: false,
   zoomToBoundsOnClick: true,
-  disableClusteringAtZoom: 16
+  disableClusteringAtZoom: 15
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
@@ -223,8 +223,8 @@ var theaters = L.geoJson(null, {
   pointToLayer: function (feature, latlng) {
     return L.marker(latlng, {
       icon: L.divIcon({
-        html: "<table><tr><th style='font-size:13px;' class='label label-danger'>"+feature.id+"</th></tr><tr><td><img style='margin: 0px 0px' src='assets/img/hriste.png'></td></tr></table>",
-        iconSize: [24, 27],
+        html: "<table><tr><th style='font-size:13px;' class='label label-danger'>"+feature.id+"</th></tr><tr><td><img  src='assets/img/hriste.png' width='26' height='30'></td></tr></table>",
+        iconSize: [14, 14],
         iconAnchor: [12, 28],
         className:'text-center',        
       }),
@@ -620,7 +620,7 @@ $(document).one("ajaxStop", function () {
     displayKey: "name",
     source: theatersBH.ttAdapter(),
     templates: {
-      header: "<h4 class='typeahead-header'><img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Hřiště</h4>",
+      header: "<h4 class='typeahead-header'><img src='assets/img/hriste.png' width='24' height='24'>&nbsp;Hřiště</h4>",
       suggestion: Handlebars.compile(["{{name}}<br>&nbsp;<small>{{mesto}}</small>"].join(""))
     }
   }, {
