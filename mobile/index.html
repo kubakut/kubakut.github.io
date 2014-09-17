@@ -10,14 +10,6 @@
     <meta name="description" content="Mapová webová aplikace s dětskými hřišti na území Prahy. Aplikace je tvořena interkativní mapou s filtry, pro snadné vyhledávání.">
     <meta name="keywords" content="dětská, hřiště, praha, mapa, děti, hračky">
     <title>Dětská hřiště Praha - Mapa</title>
-    <script src="assets/js/redirection-mobile.js"></script>
-            <script>
-                 SA.redirection_mobile ({
-        tablet_redirection : "true",
-        mobile_url : "www.hristepraha.cz/mobile",
-        mobile_prefix : "http"
-    });
-            </script>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -30,8 +22,7 @@
     <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
 
     <link rel="apple-touch-icon" href="assets/img/favicon-152.png">
-    <link rel="shortcut icon" sizes="196x196" href="assets/img/favicon-196.png">
-    <link rel="stylesheet" href="assets/css/jplist.min.css" />
+    <link rel="shortcut icon" sizes="196x196" href="assets/img/favicon-196.png">   
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53fdbf906ccd6046"></script>
    <!-- <script>
         function load() {
@@ -109,66 +100,11 @@
                                             </div>
 
 
-                                            <div>
-                                                <!-- reset button -->
-
-                                                <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset" onclick="map.fitBounds(boroughs.getBounds()); return false;">
-                                                    Reset &nbsp;<i class="fa fa-share"></i>
-                                                </button>
-
-                                                <!-- items per page dropdown -->
-                                                <select class="jplist-select" data-control-type="select" data-control-name="group-filter" data-control-action="filter">
-                                                    <ul>
-                                                        <option data-path="default">Praha</option>
-                                                        <option data-path=".praha1">Praha 1</option>
-                                                        <option data-path=".praha2">Praha 2</option>
-                                                        <option data-path=".praha3">Praha 3</option>
-                                                        <option data-path=".praha4">Praha 4</option>
-                                                        <option data-path=".praha5">Praha 5</option>
-                                                        <option data-path=".praha6">Praha 6</option>
-                                                        <option data-path=".praha7">Praha 7</option>
-                                                        <option data-path=".praha8">Praha 8</option>
-                                                        <option data-path=".praha9">Praha 9</option>
-                                                        <option data-path=".praha10">Praha 10</option>
-                                                        <option data-path=".praha11">Praha 11</option>
-                                                        <option data-path=".praha12">Praha 12</option>
-                                                        <option data-path=".praha13">Praha 13</option>
-                                                        <option data-path=".praha14">Praha 14</option>
-                                                        <option data-path=".praha15">Praha 15</option>
-                                                        <option data-path=".praha16">Praha 16</option>
-                                                        <option data-path=".praha17">Praha 17</option>
-                                                        <option data-path=".praha18">Praha 18</option>
-                                                        <option data-path=".praha19">Praha 19</option>
-                                                        <option data-path=".praha20">Praha 20</option>
-                                                        <option data-path=".praha21">Praha 21</option>
-                                                    </ul>
-                                                </select>
-
-                                                <select class="jplist-select" data-control-type="select" data-control-name="category-filter" data-control-action="filter" style="width:100px;">
-                                                    <ul>
-                                                        <option data-path="default">Kategorie</option>
-                                                        <option data-path=".vl1">Plocha pro míčové hry</option>
-                                                        <option data-path=".vl2">In line stezky, skate parky, BMX areály, dopravní hřiště</option>
-                                                        <option data-path=".vl3">Jiné sporty (lanová centra, minigolf, discgolf, boby)</option>
-                                                        <option data-path=".vl4">Fitness prvky</option>
-                                                        <option data-path=".vl5">Voda na hřišti nebo v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl6">WC na hřišti nebo v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl7">Správce na hřišti</option>
-                                                        <option data-path=".vl8">Částečný stín</option>
-                                                        <option data-path=".vl9">Kultura (muzea, galerie, venkovní sochy, divadla, planetária)</option>
-                                                        <option data-path=".vl10">Naučné stezky</option>
-                                                        <option data-path=".vl11">ZOO koutky</option>
-                                                        <option data-path=".vl12">Restaurace nebo kavárny v bezprostřední blízkosti</option>
-                                                        <option data-path=".vl13">Bazény, vodní atrakce, vodní soustavy</option>
-
-                                                    </ul>
-                                                </select>
-
-                                            </div>
+                                       
                                         </div>
                                         <!-- data -->
 
-                                        <div class="sidebar-table" style="margin-top:45px;">
+                                        <div class="sidebar-table">
 
                                             <table class="demo-tbl table table-hover" id="theater-table">
                                                 <thead class="hidden">
@@ -407,7 +343,6 @@
 <script src="assets/leaflet-activearea/L.activearea.min.js"></script>
 <script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.js"></script>
 <script src="assets/js/app.min.js"></script>
-<script src="assets/js/jplist.min.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
