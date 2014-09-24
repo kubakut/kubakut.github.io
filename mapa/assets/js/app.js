@@ -54,7 +54,7 @@ var mapquestOSM =   L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roads/x={x
 	maxZoom: 19,
 	attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 });
-var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day.mobile/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
+var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
   attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>',
   subdomains: '1234',
   mapID: 'newest',
@@ -212,9 +212,10 @@ $.getJSON("data/subways.geojson", function (data) {
 /* Single marker cluster layer to hold all clusters */
 var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
-  showCoverageOnHover: false,
+  showCoverageOnHover: true,
   zoomToBoundsOnClick: true,
-  disableClusteringAtZoom: 15
+  disableClusteringAtZoom: 15,
+  maxClusterRadius:40
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */

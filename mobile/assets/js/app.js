@@ -214,7 +214,8 @@ var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
   showCoverageOnHover: false,
   zoomToBoundsOnClick: true,
-  disableClusteringAtZoom: 15
+  disableClusteringAtZoom: 15,
+  maxClusterRadius:40    
 });
 
 /* Empty layer placeholder to add to layer control for listening when to add/remove theaters to markerClusters layer */
@@ -326,7 +327,7 @@ var theaters = L.geoJson(null, {
         
     }
   }
-    
+   
           
 			
 });
