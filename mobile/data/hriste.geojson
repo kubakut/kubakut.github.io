@@ -419,7 +419,7 @@
       "type": "Feature",
       "id": "10",
       "mesto": "praha2",
-      "kategorie": "vl5 vl6 vl7 vl8 vl9 vl10",
+      "kategorie": "vl5 vl6 vl7 vl8 vl9",
       "properties": {
         "NAME": "Výtoň",
         "INFO": "Praha 2 nabízí více pěkných hřišť, jedno pod Vyšehradem.",
@@ -1155,7 +1155,7 @@
       "type": "Feature",
       "id": "31.A",
       "mesto": "praha8",
-      "kategorie": "vl1",
+      "kategorie": "vl1 vl2",
       "properties": {
         "NAME": "Sídliště Kobylisy - hřiště Třeboradická",
         "INFO": "Lokalita nabízí dvě pěkná moderní hřiště.",
@@ -1661,7 +1661,7 @@
       "type": "Feature",
       "id": "44.A",
       "mesto": "praha15",
-      "kategorie": "vl1",
+      "kategorie": "vl1 vl2",
       "properties": {
         "NAME": "Dubeč - hřiště 44.A",
         "INFO": "Městská část Praha Dubeč disponuje hezčím dětským hřištěm (pro všechny věkové kategorie dětí) než mnohé větší městské části. V areálu se také nachází několik sportovišť.",
@@ -1707,7 +1707,7 @@
       "type": "Feature",
       "id": "59.A",
       "mesto": "praha3",
-      "kategorie": "",
+      "kategorie": "vl5",
       "properties": {
         "NAME": "Židovské pece - Židovské pece 2",
         "INFO": "Podél Jilmové ulice na Žižkově se rozkládá protáhlý park-Židovské pece. Nachází se tam několik hřišť různé velikosti a kvality.",
@@ -2006,6 +2006,7 @@
       "type": "Feature",
       "id": "49",
       "mesto": "praha8",
+      "kategorie": "vl10",
       "properties": {
         "NAME": "Čimický háj",
         "INFO": "Čeká nás pěkná procházka a lesní hřiště.",
@@ -2074,7 +2075,7 @@
       "type": "Feature",
       "id": "54",
       "mesto": "praha13",
-      "kategorie": "",
+      "kategorie": "vl1 vl9",
       "properties": {
         "NAME": "Chalabalova - Lužiny",
         "INFO": "Ve svahu nad centrálním parkem ve Stodůlkách revitalizovali několik hřišť.",
@@ -2165,7 +2166,8 @@
 {
       "type": "Feature",
       "id": "70",
-      "mesto": "praha9",
+      "mesto": "praha19",
+      "kategorie": "vl13 vl9 vl6",
       "properties": {
         "NAME": "Kbely",
         "INFO": "Revitalizace centrálního parku v městské části Kbely stála desítky milionů. Místo tady našla také dětská hřiště.",
@@ -2901,7 +2903,7 @@
       "type": "Feature",
       "id": "46",
       "mesto": "praha18",
-      "kategorie": "",
+      "kategorie": "vl1 vl13 vl8 vl6 vl5",
       "properties": {
         "NAME": "Letňany",
         "INFO": "Městská část Letňany je hojně vybavena dětskými hřišti. Největší a nejmodernější leží na sídlišti nedalo ulice Tupolevovy.",

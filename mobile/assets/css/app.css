@@ -124,7 +124,10 @@ input[type="radio"], input[type="checkbox"] {
 }
 @media (max-width: 992px) {
   .navbar .navbar-brand {
-    font-size: 18px;
+    font-size: 15px;
+  }
+    .nav {
+    font-size: 15px;
   }
 }
 @media (max-width: 767px){
