@@ -331,7 +331,7 @@ var theaters = L.geoJson(null, {
           
 			
 });
-$.getJSON("data/hriste.geojson", function (data) {
+$.getJSON("../mapa/data/hriste.geojson", function (data) {
   theaters.addData(data);
   map.addLayer(theaterLayer);
 });
