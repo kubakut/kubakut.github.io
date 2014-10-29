@@ -2966,6 +2966,75 @@
                     50.0429358
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": "82.A",
+            "mesto": "praha22",
+            "kategorie": "vl1",
+            "properties": {
+                "NAME": "Uhříněves-hřiště 82.A",
+                "INFO": "Hřiště, lesopark a další zajímavá místa-to je Uhříněves.",
+                "POPIS": "<p>Cestu doporučujeme zahájit na Novém náměstí, kde mj. sídlí městské muzeum. Za bytovými domy (směrem k vlakové trati) leží nevelké dětské a sportovní hřiště (<b>82.A</b>). Dětem je určena větší multifunkční sestava se skluzavkou a pískoviště. Na povrchu leží pryžové desky, plocha postrádá stín. Hned vedle si všichni mohou zahrát na hřišti s umělým povrchem pro basketbal a malý fotbal. Hřiště obklopují mantinely a ochranná síť je natažena i nad hrací plochou!</p><p>Až hřiště omrzí, jděte ulicí Přátelství (páteřní komunikace), směrem na Horní Měcholupy. Asi po 700 m odbočte doprava-ulice V Bytovkách. Na jejím počátku najdete hřiště druhé, rozlehlejší (<b>82.B</b>). Také toto není oploceno (kromě nevelké plochy s pískovištěm pro nejmenší) a postrádá stín. Na travnatém povrchu uvidíte delší lanovku, multifunkční domek se skluzavkou, houpačky a několik drobných prvků. Pod atrakcemi leží písek. Poté se dáte nepojmenovanou uličkou mezi domy, projdete okolo Centra pro předškolní děti Šikulka a vyjdete na ulici Vachkova. Přejdete jí a vstoupíte do lesoparku Obora Uhříněves. Půjdete lesní cestou a zanedlouho narazíte na červenou turistickou značku, která vás ale bude provázet pouze 100-150 m. Nikam neodbočujte, zachovávejte směr na Nové náměstí. Lesní cesta vás dovede k Říčanskému potoku, který po dřevěné lávce přejdete. Až budete stát na lávce, podívejte se po proudu. Po pravé straně uvidíte podemletý břeh, důkaz toho, jak vysoko vystoupá voda při povodních. Dále půjdete asfaltovou cestou mezi zahradami a domky, proti proudu potoka, směrem do centra obce. Potok překročíte ještě jednou a vyjdete opět na ulici Přátelství, tentokrát v bezprostřední blízkosti barokního Kostela Všech svatých z 18. století, jenž si prohlédněte. Potom se vydejte směrem do kopce, ke kruhovému objezdu. Zahněte do ulice K Netlukám (směr Netluky a Koloděje) a za novými bytovými domy (ulice Václava Trojana), objevíte nejhezčí z hřišť (<b>82.C</b>). Je oplocené nízkým plotem a na kombinované ploše-tráva, písek, pryžové desky stojí asi 15 prvků. Dva multifunkční domky se skluzavkami a šplhací sítí, několik houpaček, houpadla, točidla, kreslící tabule a dvě pískoviště, která se na noc zakrývají plachtou. Zajímavou atrakci představuje moderní fitness prvek.</p>",
+                "DOPORUCENI": "Pokud budete pokračovat ulicí K Netlukám, můžete si na farmě, která je součástí Výzkumného ústavu živočišné výroby Uhříněves, zakoupit syrové kravské mléko. Více informací na: <a href='http://www.vuzv.cz/index.php?p=aktuality&amp;site=default&amp;article_id=348' target='_blank'>www.vuzv.cz</a>",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Na Novém náměstí a ulici Přátelství najdete kavárnu, cukrárnu, několik restaurací, poštu a mnoho obchodů.",
+                "DOPRAVA": "Pro hřiště <b>82.A,</b> autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 381, 382, 383, 387, stanice Nové náměstí. Pro hřiště <b>82.B</b>, autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 382 a 383, zastávka Picassova a pro hřiště <b>82.C</b>, autobusy č. 266, 269 a 366, stanice K Netlukám. Parkovat lze na Novém náměstí nebo v blízkosti všech tří hřišť.",
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5982497,
+                    50.0305528
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "82.B",
+            "mesto": "praha22",
+            "kategorie": "",
+            "properties": {
+                "NAME": "Uhříněves-hřiště 82.B",
+                "INFO": "Hřiště, lesopark a další zajímavá místa-to je Uhříněves.",
+                "POPIS": "<p>Cestu doporučujeme zahájit na Novém náměstí, kde mj. sídlí městské muzeum. Za bytovými domy (směrem k vlakové trati) leží nevelké dětské a sportovní hřiště (<b>82.A</b>). Dětem je určena větší multifunkční sestava se skluzavkou a pískoviště. Na povrchu leží pryžové desky, plocha postrádá stín. Hned vedle si všichni mohou zahrát na hřišti s umělým povrchem pro basketbal a malý fotbal. Hřiště obklopují mantinely a ochranná síť je natažena i nad hrací plochou!</p><p>Až hřiště omrzí, jděte ulicí Přátelství (páteřní komunikace), směrem na Horní Měcholupy. Asi po 700 m odbočte doprava-ulice V Bytovkách. Na jejím počátku najdete hřiště druhé, rozlehlejší (<b>82.B</b>). Také toto není oploceno (kromě nevelké plochy s pískovištěm pro nejmenší) a postrádá stín. Na travnatém povrchu uvidíte delší lanovku, multifunkční domek se skluzavkou, houpačky a několik drobných prvků. Pod atrakcemi leží písek. Poté se dáte nepojmenovanou uličkou mezi domy, projdete okolo Centra pro předškolní děti Šikulka a vyjdete na ulici Vachkova. Přejdete jí a vstoupíte do lesoparku Obora Uhříněves. Půjdete lesní cestou a zanedlouho narazíte na červenou turistickou značku, která vás ale bude provázet pouze 100-150 m. Nikam neodbočujte, zachovávejte směr na Nové náměstí. Lesní cesta vás dovede k Říčanskému potoku, který po dřevěné lávce přejdete. Až budete stát na lávce, podívejte se po proudu. Po pravé straně uvidíte podemletý břeh, důkaz toho, jak vysoko vystoupá voda při povodních. Dále půjdete asfaltovou cestou mezi zahradami a domky, proti proudu potoka, směrem do centra obce. Potok překročíte ještě jednou a vyjdete opět na ulici Přátelství, tentokrát v bezprostřední blízkosti barokního Kostela Všech svatých z 18. století, jenž si prohlédněte. Potom se vydejte směrem do kopce, ke kruhovému objezdu. Zahněte do ulice K Netlukám (směr Netluky a Koloděje) a za novými bytovými domy (ulice Václava Trojana), objevíte nejhezčí z hřišť (<b>82.C</b>). Je oplocené nízkým plotem a na kombinované ploše-tráva, písek, pryžové desky stojí asi 15 prvků. Dva multifunkční domky se skluzavkami a šplhací sítí, několik houpaček, houpadla, točidla, kreslící tabule a dvě pískoviště, která se na noc zakrývají plachtou. Zajímavou atrakci představuje moderní fitness prvek.</p>",
+                "DOPORUCENI": "Pokud budete pokračovat ulicí K Netlukám, můžete si na farmě, která je součástí Výzkumného ústavu živočišné výroby Uhříněves, zakoupit syrové kravské mléko. Více informací na: <a href='http://www.vuzv.cz/index.php?p=aktuality&amp;site=default&amp;article_id=348' target='_blank'>www.vuzv.cz</a>",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Na Novém náměstí a ulici Přátelství najdete kavárnu, cukrárnu, několik restaurací, poštu a mnoho obchodů.",
+                "DOPRAVA": "Pro hřiště <b>82.A,</b> autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 381, 382, 383, 387, stanice Nové náměstí. Pro hřiště <b>82.B</b>, autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 382 a 383, zastávka Picassova a pro hřiště <b>82.C</b>, autobusy č. 266, 269 a 366, stanice K Netlukám. Parkovat lze na Novém náměstí nebo v blízkosti všech tří hřišť.",
+                "GALERIE": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5931308,
+                    50.0364528
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "82.C",
+            "mesto": "praha22",
+            "kategorie": "vl4",
+            "properties": {
+                "NAME": "Uhříněves-hřiště 82.C",
+                "INFO": "Hřiště, lesopark a další zajímavá místa-to je Uhříněves.",
+                "POPIS": "<p>Cestu doporučujeme zahájit na Novém náměstí, kde mj. sídlí městské muzeum. Za bytovými domy (směrem k vlakové trati) leží nevelké dětské a sportovní hřiště (<b>82.A</b>). Dětem je určena větší multifunkční sestava se skluzavkou a pískoviště. Na povrchu leží pryžové desky, plocha postrádá stín. Hned vedle si všichni mohou zahrát na hřišti s umělým povrchem pro basketbal a malý fotbal. Hřiště obklopují mantinely a ochranná síť je natažena i nad hrací plochou!</p><p>Až hřiště omrzí, jděte ulicí Přátelství (páteřní komunikace), směrem na Horní Měcholupy. Asi po 700 m odbočte doprava-ulice V Bytovkách. Na jejím počátku najdete hřiště druhé, rozlehlejší (<b>82.B</b>). Také toto není oploceno (kromě nevelké plochy s pískovištěm pro nejmenší) a postrádá stín. Na travnatém povrchu uvidíte delší lanovku, multifunkční domek se skluzavkou, houpačky a několik drobných prvků. Pod atrakcemi leží písek. Poté se dáte nepojmenovanou uličkou mezi domy, projdete okolo Centra pro předškolní děti Šikulka a vyjdete na ulici Vachkova. Přejdete jí a vstoupíte do lesoparku Obora Uhříněves. Půjdete lesní cestou a zanedlouho narazíte na červenou turistickou značku, která vás ale bude provázet pouze 100-150 m. Nikam neodbočujte, zachovávejte směr na Nové náměstí. Lesní cesta vás dovede k Říčanskému potoku, který po dřevěné lávce přejdete. Až budete stát na lávce, podívejte se po proudu. Po pravé straně uvidíte podemletý břeh, důkaz toho, jak vysoko vystoupá voda při povodních. Dále půjdete asfaltovou cestou mezi zahradami a domky, proti proudu potoka, směrem do centra obce. Potok překročíte ještě jednou a vyjdete opět na ulici Přátelství, tentokrát v bezprostřední blízkosti barokního Kostela Všech svatých z 18. století, jenž si prohlédněte. Potom se vydejte směrem do kopce, ke kruhovému objezdu. Zahněte do ulice K Netlukám (směr Netluky a Koloděje) a za novými bytovými domy (ulice Václava Trojana), objevíte nejhezčí z hřišť (<b>82.C</b>). Je oplocené nízkým plotem a na kombinované ploše-tráva, písek, pryžové desky stojí asi 15 prvků. Dva multifunkční domky se skluzavkami a šplhací sítí, několik houpaček, houpadla, točidla, kreslící tabule a dvě pískoviště, která se na noc zakrývají plachtou. Zajímavou atrakci představuje moderní fitness prvek.</p>",
+                "DOPORUCENI": "Pokud budete pokračovat ulicí K Netlukám, můžete si na farmě, která je součástí Výzkumného ústavu živočišné výroby Uhříněves, zakoupit syrové kravské mléko. Více informací na: <a href='http://www.vuzv.cz/index.php?p=aktuality&amp;site=default&amp;article_id=348' target='_blank'>www.vuzv.cz</a>",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Na Novém náměstí a ulici Přátelství najdete kavárnu, cukrárnu, několik restaurací, poštu a mnoho obchodů.",
+                "DOPRAVA": "Pro hřiště <b>82.A,</b> autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 381, 382, 383, 387, stanice Nové náměstí. Pro hřiště <b>82.B</b>, autobusy č. 232, 265, 266, 267, 269, 325, 364, 366, 382 a 383, zastávka Picassova a pro hřiště <b>82.C</b>, autobusy č. 266, 269 a 366, stanice K Netlukám. Parkovat lze na Novém náměstí nebo v blízkosti všech tří hřišť.",
+                "GALERIE": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6116742,
+                    50.0332069
+                ]
+            }
         }
     ]
 }
