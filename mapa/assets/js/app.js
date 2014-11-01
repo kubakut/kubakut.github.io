@@ -330,8 +330,8 @@ var theaters = L.geoJson(null, {
   }
     $('document').ready(function(){
 				$('#demo').jplist({
-				    
-					itemsBox: '.demo-tbl' 
+				    debug: true
+					,itemsBox: '.demo-tbl' 
 					,itemPath: '.tbl-item' 
 					,panelPath: '.jplist-panel'
                     ,redrawCallback: function(collection, $dataview, statuses){
