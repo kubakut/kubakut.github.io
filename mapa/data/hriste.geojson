@@ -3035,6 +3035,75 @@
                     50.0332069
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": "83",
+            "mesto": "praha12",
+            "kategorie": "vl1 vl4",
+            "properties": {
+                "NAME": "Modřany (Rodopská ulice)",
+                "INFO": "Pokud vaše děti rády sportují nebo s nimi chcete procvičit dopravní značky a pravidla, doporučujeme návštěvu nového sportovního komplexu v Modřanech.",
+                "POPIS": "<p>Na podzim 2014 bylo v areálu ZŠ a gymnázia otevřeno moderní víceúčelové centrum (<b>83</b>), které je rozděleno na dvě části. První má ryze sportovní charakter. Nachází se zde běžecká a sprinterská dráha, doskočiště, plocha pro vrh koulí, dvě hřiště na malou kopanou či házenou (na jednom jsou také basketbalové koše) a jedno hřiště víceúčelové (opět s koši na basketbal). Na ploše, která je tvořena umělým povrchem navíc provozovatel rozmístil asi 10 moderních fitness strojů, které jsou ale určeny cvičencům starším 15. let. Sportovní areál doplňují tribuny, plocha leží mimo stín a je oplocena.</p><p>Druhou část areálu tvoří in-line dráha, dopravní hřiště a plocha pro pétanque a kuličky. Také tato část je oplocena a zatím bez stínu (jsou zde ale vysázeny desítky, zatím malých stromů).</p>",
+                "DOPORUCENI": "Máte-li rádi přírodu, hned za oplocením si můžete projít menší lesopark-údolí Lhoteckého potoka. V horní části si povšimněte tzv. suchého poldru, který má v případě povodní umožnit kontrolovaný rozliv potoka. A pokud by vašim dětem chybělo klasické dětské hřiště, na druhé straně údolí-cca 500 m daleko, najdete lokalitu č.<b>39</b>.",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Na sídlišti se nachází několik supermarketů, kompletní možnosti nabízí Sofijské náměstí, cca 1 km daleko.",
+                "DOPRAVA": "Tramvaje č. 3 a 17, autobus č. 165, zastávka U Libušského potoka. Parkovat lze na sídlišti, v blízkosti areálu.",
+                "GALERIE": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4231364,
+                    50.0104589
+                ]
+            }
+        },
+ {
+            "type": "Feature",
+            "id": "84.A",
+            "mesto": "praha16",
+            "kategorie": "vl1",
+            "properties": {
+                "NAME": "Zbraslav-hřiště 84.A",
+                "INFO": "Pokud máte rádi lesní zoo nebo podnikáte výlety do přírody, doporučujeme tuto lokalitu.",
+                "POPIS": "<p>Na rohu ulic Paškova a Tunelářů narazíte na první dětské hřiště (<b>84.A</b>). Na zatravněné (pod atrakcemi leží písek) oplocené ploše bez stínu je rozmístěno asi tucet prvků. Dva domky se skluzavkou, houpadla, kladina, houpačky, opičí dráha a drobné atrakce. Součástí areálu je malé hřiště s umělým povrhem a brankami, které obklopuje plot a síť je natažena i nad hrací plochou. </p><p>Na ulici Ottova, nedaleko mostu Závodu míru můžete najít hřiště druhé (<b>84.B</b>). Převážně zatravněná plocha je také oplocena, ale na rozdíl od hřiště předchozího zde i v parných dnech panuje stín. Areál tvoří asi 10 prvků-domek se zatočenou skluzavkou, hrazdičky, houpadla, stůl na ping pong a drobné prvky. Odtud už je to kousek k zoo-koutku. </p>",
+                "DOPORUCENI": " Na druhé straně mostu se rozkládá Břežanské údolí. Podél potoka, který jím protéká (u hájovny), vzniklo již před mnoha lety mini zoo. Chovají tady srnce, jezevce, lišku, divoká prasata, dravé ptáky atd. Vstup se neplatí. Od zoo koutku vedou hned 3 turistické značky a jen na vás záleží, kterou si vyberete.",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Restaurace a obchody jsou soustředěny na Zbraslavském náměstí.",
+                "DOPRAVA": "Pro hřiště <b>84.A</b>, autobusy č. 165 a 241, stanice Sídliště Zbraslav, pro hřiště <b>84.B</b>, autobusy č. 165, 255, 314, 338, 361 a 390, zastávka Most Závodu míru. Parkovat lze v blízkosti hřišť i mini zoo.",
+                "GALERIE": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3849311,
+                    49.9678058
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "84.B",
+            "mesto": "praha16",
+            "kategorie": "vl8 vl11",
+            "properties": {
+                "NAME": "Zbraslav-hřiště 84.B",
+                "INFO": "Pokud máte rádi lesní zoo nebo podnikáte výlety do přírody, doporučujeme tuto lokalitu.",
+                "POPIS": "<p>Na rohu ulic Paškova a Tunelářů narazíte na první dětské hřiště (<b>84.A</b>). Na zatravněné (pod atrakcemi leží písek) oplocené ploše bez stínu je rozmístěno asi tucet prvků. Dva domky se skluzavkou, houpadla, kladina, houpačky, opičí dráha a drobné atrakce. Součástí areálu je malé hřiště s umělým povrhem a brankami, které obklopuje plot a síť je natažena i nad hrací plochou. </p><p>Na ulici Ottova, nedaleko mostu Závodu míru můžete najít hřiště druhé (<b>84.B</b>). Převážně zatravněná plocha je také oplocena, ale na rozdíl od hřiště předchozího zde i v parných dnech panuje stín. Areál tvoří asi 10 prvků-domek se zatočenou skluzavkou, hrazdičky, houpadla, stůl na ping pong a drobné prvky. Odtud už je to kousek k zoo-koutku. </p>",
+                "DOPORUCENI": " Na druhé straně mostu se rozkládá Břežanské údolí. Podél potoka, který jím protéká (u hájovny), vzniklo již před mnoha lety mini zoo. Chovají tady srnce, jezevce, lišku, divoká prasata, dravé ptáky atd. Vstup se neplatí. Od zoo koutku vedou hned 3 turistické značky a jen na vás záleží, kterou si vyberete.",
+                "SOCIALNI": "Voda ne, WC ne.",
+                "OBCERSTVENI": "Restaurace a obchody jsou soustředěny na Zbraslavském náměstí.",
+                "DOPRAVA": "Pro hřiště <b>84.A</b>, autobusy č. 165 a 241, stanice Sídliště Zbraslav, pro hřiště <b>84.B</b>, autobusy č. 165, 255, 314, 338, 361 a 390, zastávka Most Závodu míru. Parkovat lze v blízkosti hřišť i mini zoo.",
+                "GALERIE": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3956772,
+                    49.9716906
+                ]
+            }
         }
     ]
 }
