@@ -58,8 +58,8 @@ var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2
   attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>',
   subdomains: '1234',
   mapID: 'newest',
-  app_id: 'CnMYdeDMhPqbw8Y4jvBu',
-  app_code: '9EJrU_Za45utGoXRQXyGXw',
+  app_id: 'qpmQayVMDvid7tmL0dlT',
+  app_code: 'tw8KKBj_vhTmr_YLSyw1Zw',
   base: 'aerial',
   minZoom: 0,
   maxZoom: 20
