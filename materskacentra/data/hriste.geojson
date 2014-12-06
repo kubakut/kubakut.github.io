@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "1",
+            "mesto": "praha3",            
+            "properties": {
+                "NAME": "Rodinný klub Ulitka",
+                "AKTIVITY": "<p>Jste na mateřské, či rodičovské dovolené se svým děťátkem a začínáte se cítit izolovaně a vyčerpaně? Docházejí Vám nápady na hry s dítětem a nemáte čas ani sami na sebe? Chcete se seznámit i s dalšími rodiči z okolí? Využít volných chvilek s Vaším dítětem smysluplněji? Seznámit jej s dalšími dětmi?</p><p>Navštivte náš rodinný klub Ulitka!</p><p>Čekají na Vás jak aktivity určené dětem, tak program jen pro Vás, ale i činnosti pro malé a velké dohromady. Je pro Vás připraveno nejen cvičení rodičů s dětmi a výtvarné aktivity pro děti i dospělé. Nabízíme i pravidelné přednášky, výuku angličtiny a cvičení pro ženy – to vše s hlídáním dětí zdarma! Odpadne Vám tak starost se sháněním babysittingu a navíc i něco ušetříte.</p><p>Minimálně jednou měsíčně Vám nabízíme odpolední akce pro celé rodiny.</p><p>Klub Ulitka funguje od září 2005 a prošlo jím už tisíce spokojených rodin, které se k nám vracejí i v době, kdy jejich děti již začaly navštěvovat ZŠ. Přijďte se k nám podívat a vyzkoušet, co z našeho programu bude pro Vás a Vaše dítě to nejvhodnější. Jsme tu i pro celou Vaši rodinu!</p>",
+                "KONTAKTY": "<p>Na Balkáně 2866/17a, 130 00, Praha 3 <br />tel.: (+420) 271 771 025-6</p><p><a href='mailto:info@myaktivity.cz'>info@myaktivity.cz</a></p><p><a href='http://www.rkulitka.cz/' target='_blank'>www.rkulitka.cz</a> </p>",
+                "ODOBA": "<p><strong>Volná herna otevřena: </strong></p><p>po: 9.00 - 12.30, 14.00 - 17.00, </p><p>út: 9.00 – 12.00, </p><p>st: 9.00 – 12.30, </p><p>čt: 9.00 – 12.00, </p><p>pá: 10.00 – 12.00</p><p>Aktuální program na webu</p>",                
+                "GALERIE": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4816997,
+                    50.0946139
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "2",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "DDM Praha 8 Spirála",
+                "AKTIVITY": "<p>Spirála je střediskem volného času pro zájmové vzdělávání zabezpečující volnočasové aktivity v průběhu celého roku (včetně dnů, kdy neprobíhá školní vyučování). </p><p>Kroužky</p><p>Tábory</p><p>Víkendové akce</p><p>Semináře</p><p>Workshopy</p><p>Soutěže a mnoho dalšího</p><p>Spirála poskytuje metodickou, odbornou, materiální pomoc účastníkům zájmového vzdělávání. Aktivity jsou určeny veřejnosti od předškolního věku do dospělosti.</p>",
+                "KONTAKTY": "<p><h3>Budova Přemyšlenská </h3>adresa: Přemyšlenská 1102/15, 182 00 Praha 8</p><p>tel. / fax: 284 680 230, 284 681 050</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><h3>Budova Dolákova </h3><p>adresa: Dolákova 537/26, 181 00 Praha 8</p><p>tel. / fax: 233 553 790, 233 552 101</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><p>webové stránky: <a href='http://www.spiralapraha8.cz/' target='_blank'>www.spiralapraha8.cz</a></p>",
+                "ODOBA": "<p>9:00 – 19:00, mimo státní svátky, kdy bývá zavřeno.</p>",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4816997,
+                    50.0946139
+                ]
+            }
+        }
+    ]
+}
