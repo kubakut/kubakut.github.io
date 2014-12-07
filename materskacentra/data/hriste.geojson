@@ -22,10 +22,10 @@
         },
 {
             "type": "Feature",
-            "id": "2",
+            "id": "2.A",
             "mesto": "praha8",            
             "properties": {
-                "NAME": "DDM Praha 8 Spirála",
+                "NAME": "DDM Praha 8 Spirála - Přemýšlenská",
                 "AKTIVITY": "<p>Spirála je střediskem volného času pro zájmové vzdělávání zabezpečující volnočasové aktivity v průběhu celého roku (včetně dnů, kdy neprobíhá školní vyučování). </p><p>Kroužky</p><p>Tábory</p><p>Víkendové akce</p><p>Semináře</p><p>Workshopy</p><p>Soutěže a mnoho dalšího</p><p>Spirála poskytuje metodickou, odbornou, materiální pomoc účastníkům zájmového vzdělávání. Aktivity jsou určeny veřejnosti od předškolního věku do dospělosti.</p>",
                 "KONTAKTY": "<p><h3>Budova Přemyšlenská </h3>adresa: Přemyšlenská 1102/15, 182 00 Praha 8</p><p>tel. / fax: 284 680 230, 284 681 050</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><h3>Budova Dolákova </h3><p>adresa: Dolákova 537/26, 181 00 Praha 8</p><p>tel. / fax: 233 553 790, 233 552 101</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><p>webové stránky: <a href='http://www.spiralapraha8.cz/' target='_blank'>www.spiralapraha8.cz</a></p>",
                 "ODOBA": "<p>9:00 – 19:00, mimo státní svátky, kdy bývá zavřeno.</p>",                
@@ -36,6 +36,25 @@
                 "coordinates": [
                     14.4492183,
                     50.1266622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2.B",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "DDM Praha 8 Spirála - Dolákova",
+                "AKTIVITY": "<p>Spirála je střediskem volného času pro zájmové vzdělávání zabezpečující volnočasové aktivity v průběhu celého roku (včetně dnů, kdy neprobíhá školní vyučování). </p><p>Kroužky</p><p>Tábory</p><p>Víkendové akce</p><p>Semináře</p><p>Workshopy</p><p>Soutěže a mnoho dalšího</p><p>Spirála poskytuje metodickou, odbornou, materiální pomoc účastníkům zájmového vzdělávání. Aktivity jsou určeny veřejnosti od předškolního věku do dospělosti.</p>",
+                "KONTAKTY": "<p><h3>Budova Přemyšlenská </h3>adresa: Přemyšlenská 1102/15, 182 00 Praha 8</p><p>tel. / fax: 284 680 230, 284 681 050</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><h3>Budova Dolákova </h3><p>adresa: Dolákova 537/26, 181 00 Praha 8</p><p>tel. / fax: 233 553 790, 233 552 101</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><p>webové stránky: <a href='http://www.spiralapraha8.cz/' target='_blank'>www.spiralapraha8.cz</a></p>",
+                "ODOBA": "<p>9:00 – 19:00, mimo státní svátky, kdy bývá zavřeno.</p>",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4090708,
+                    50.1331031
                 ]
             }
         }
