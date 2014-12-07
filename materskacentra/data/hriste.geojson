@@ -57,6 +57,44 @@
                     50.1331031
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": "3",
+            "mesto": "praha4",            
+            "properties": {
+                "NAME": "Kulturní Jižní Město, o.p.s., Chodovská tvrz",
+                "AKTIVITY": "<p>Chodovská tvrz je nejvýznamnější historickou památkou na Jižním Městě. Její historie sahá až do 13. století, ale svou stávající programovou nabídkou se pohybuje v aktuální současnosti. Naší hlavní snahou je zprostředkovávat kontakt se současným výtvarným uměním, pořádání koncertů a nedělních pohádkových představení pro naše nejmenší. Každoročním vrcholem sezóny koncertů je pak letní festival Tóny Chodovské tvrze s Jaroslavem Svěceným.</p>",
+                "KONTAKTY": "<p>Kulturní Jižní Město, o.p.s., Chodovská tvrz, Ledvinova 9, Praha 4</p><p><a href='http://www.chodovskatvrz.cz/' target='_blank'>www.chodovskatvrz.cz</a>, <a href='mailto:pokladna@chodovskatvrz.cz'>pokladna@chodovskatvrz.cz</a>, tel. 267 914 831</p>",
+                "ODOBA": "<p>Galerie a pokladny: úterý – neděle od 13. do 19. hodiny</p><p>Nedělní divadélka pro děti se pořádají každou neděli od 15. hodiny, říjen až duben.</p>",                
+                "GALERIE": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4990606,
+                    50.0346725
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "4",
+            "mesto": "praha13",            
+            "properties": {
+                "NAME": "RC Macek Kolovraty o.s.",
+                "AKTIVITY": "<p>RC Macek Kolovraty o.s. je organizace, která je založená na dobrovolné práci maminek a tatínků převážně žijících v Kolovratech. Fungujeme pro všechny rodiče a prarodiče a jejich děti, kteří chtějí aktivně trávit svůj čas. Vaše děti si u nás pohrají a vy si odpočinete třeba u kávy. Kormě dopolední herničky pořádáme spoustu odpoledních aktivit – jógu pro děti, výtvarné dílničky, hudbohraní nebo třeba kroužek plastikového modelářství. Během roku zase různé jednorázové aktivity jako jsou např. Vítání jara, Dýňová slavnost nebo Masopust.</p>",
+                "KONTAKTY": "<p>Klubovna - Mírová 66/21, 103 00 Praha 113</p><p>+ 420 776 730 960</p><p><a href='mailto:macek.kolovraty@seznam.cz'>macek.kolovraty@seznam.cz</a></p>",
+                "ODOBA": "<p>Hernička úterý a čtvrtek  9-11, Kroužky úterý, středa, čtvrtek od 17. hodiny</p>",                
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6275556,
+                    50.0108364
+                ]
+            }
         }
     ]
 }
