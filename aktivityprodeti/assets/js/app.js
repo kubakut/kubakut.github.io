@@ -334,7 +334,7 @@ var baseLayers = {
     "Satelitní": mapquestHYB
 }, groupedOverlays = {
         "Seznam míst": {
-            "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Mat.&nbsp;centra": theaterLayer
+            "<img src='assets/img/hriste.png' width='24' height='28'>&nbsp;Aktivity pro děti": theaterLayer
         }
     }, layerControl = L.control.groupedLayers(baseLayers, groupedOverlays, {
         collapsed: isCollapsed
