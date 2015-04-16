@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="utf-8">
+   <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="description" content="Mapová webová aplikace s dětskými hřišti na území Prahy. Aplikace je tvořena interkativní mapou s filtry, pro snadné vyhledávání.">
+    <meta name="keywords" content="dětská, hřiště, praha, mapa, děti, hračky, aktivity">
+    <title>Aktivity pro děti - Mapa</title>
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/leaflet.min.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.min.css">
+    <link rel="stylesheet" href="assets/css/MarkerCluster.Default.min.css">
+    <link rel="stylesheet" href="assets/css/L.Control.Locate.min.css">
+    <link rel="stylesheet" href="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.css">
+    <link rel="stylesheet" href="assets/css/app.min.css">    
+
+    <link rel="apple-touch-icon" href="assets/img/fav256.png">
+    <link rel="shortcut icon" sizes="196x196" href="assets/img/fav256.png">
+    <link rel="stylesheet" href="assets/css/jplist.min.css" />
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53fdbf906ccd6046"></script>
+   <!-- <script>
+        function load() {
+            $('#aboutModal').modal('show');
+            return false;
+        }
+        window.onload = load;
+    </script>-->
+
+</head>
+
+
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Aktivity pro děti</a>
+    </div>
+    <div class="navbar-collapse collapse">
+        <!--<form class="navbar-form navbar-right" role="search">
+          <div class="form-group has-feedback navbar-right">
+              <input id="searchbox" type="text" placeholder="Hledat" class="form-control">
+              <span id="searchicon" class="fa fa-search form-control-feedback"></span>
+          </div>
+        </form>-->
+        <ul class="nav navbar-nav">
+            
+            <li><a href="forum.html" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-comment-o" style="color: white"></i>&nbsp;&nbsp;Fórum</a>
+            </li>
+
+            <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="sidebar.toggle(); return false;"><i class="fa fa-list" style="color: white"></i>&nbsp;&nbsp;Seznam míst</a>
+            </li>            
+
+        </ul>
+    </div>
+    <!--/.navbar-collapse -->
+</div>
+
+<div id="map"></div>
+<div id="sidebar" style="margin-top:3px;">
+    <div class="sidebar-wrapper">
+        <div class="panel panel-default" style="margin: 0px; border: none; border-radius: 0px; -webkit-box-shadow: none; box-shadow: none;">
+            <div class="panel-heading">
+                <h3 class="panel-title">Seznam míst</h3>
+            </div>
+            <div class="panel-body">
+                <!-- Nav tabs -->
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                    <div class="tab-pane active" id="theaters">
+                        <p>
+
+                            <div class="row">
+
+                                <div class="">
+
+                                    <!-- demo -->
+                                    <div id="demo" class="box jplist" style="margin:15px; margin-top:-10px;">
+
+
+                                        <!-- panel -->
+                                        <div class="jplist-panel box panel-top">
+
+
+
+                                            <div class="input-group margin-bottom-sm">
+                                                <span class="input-group-addon"><i class="fa fa-search fa-fw"></i></span>
+                                                <input type="text" style="font-weight: bold; width:95%; height:100%;" class="form-control search" placeholder="Hledat" />
+                                            </div>
+
+
+                                            <div>
+                                                <!-- reset button -->
+
+                                                <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset" onclick="map.fitBounds(boroughs.getBounds()); return false;">
+                                                    Reset &nbsp;<i class="fa fa-share"></i>
+                                                </button>
+
+                                                <!-- items per page dropdown -->
+                                                <select class="jplist-select" data-control-type="select" data-control-name="group-filter" data-control-action="filter">
+                                                    <ul>
+
+                                                        <option data-path="default">Praha</option>
+                                                  <!--  <option data-path=".praha1">Praha 1</option>
+                                                        <option data-path=".praha2">Praha 2</option>
+-->
+                                                        <option data-path=".praha3">Praha 3</option>
+                                                        <option data-path=".praha4">Praha 4</option>
+                                                        <option data-path=".praha5">Praha 5</option>
+                                                        <option data-path=".praha6">Praha 6</option>
+<!--                                                        <option data-path=".praha7">Praha 7</option>-->
+                                                        <option data-path=".praha8">Praha 8</option>
+<!--                                                        <option data-path=".praha9">Praha 9</option>.-->
+                                                        <option data-path=".praha10">Praha 10</option>
+<!--
+                                                        <option data-path=".praha11">Praha 11</option>
+                                                        <option data-path=".praha12">Praha 12</option>
+-->
+                                                        <option data-path=".praha13">Praha 13</option>
+<!--
+                                                        <option data-path=".praha14">Praha 14</option>
+                                                        <option data-path=".praha15">Praha 15</option>
+                                                        <option data-path=".praha16">Praha 16</option>
+                                                        <option data-path=".praha17">Praha 17</option>
+                                                        <option data-path=".praha18">Praha 18</option>
+                                                        <option data-path=".praha19">Praha 19</option>
+-->
+                                                        <option data-path=".praha20">Praha 20</option>
+<!--
+                                                        <option data-path=".praha21">Praha 21</option>
+                                                        <option data-path=".praha22">Praha 22</option>
+-->
+                                                        <option data-path=".nepraha">Středočeský kraj</option>.
+                                                    </ul>
+                                                </select>
+
+                                               
+
+                                            </div>
+                                        </div>
+                                        <!-- data -->
+
+                                        <div class="sidebar-table" style="margin-top:45px;">
+
+                                            <table class="demo-tbl table table-hover" id="theater-table">
+                                                <thead class="hidden">
+                                                    <tr>
+                                                        <th>Name</th>
+                                                        <tr>
+                                                </thead>
+                                                <tbody class="list">
+
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <!-- end of data -->
+                                    </div>
+                                    <!-- end of demo -->
+                                </div>
+                            </div>
+                        </p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="loading">
+    <div class="loading-indicator">
+        <div class="progress progress-striped active">
+            <div class="progress-bar progress-bar-info" style="width: 100%"></div>
+        </div>
+    </div>
+</div>
+
+
+<!-- /.modal -->
+
+<div class="modal fade" id="legendModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Mapová legenda</h4>
+            </div>
+            <div class="modal-body">
+                <p>...</p>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+
+<!-- /.modal -->
+
+<div class="modal fade" id="featureModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title text-primary" id="feature-title"></h4>
+            </div>
+
+
+            <strong></strong>
+
+            <div class="modal-body" id="feature-info"></div>
+            <div class="modal-body" id="feature-gal"></div>
+
+
+
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Zavřít</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<div class="modal fade" id="attributionModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button class="close" type="button" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">
+              Zdroje map...
+            </h4>
+            </div>
+            <div class="modal-body">
+                <div id="attribution"></div>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<script src="assets/js/jquery-1.11.0.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/typeahead.bundle.min.js"></script>
+<script src="assets/js/handlebars.min.js"></script>
+<script src="assets/js/list.min.js"></script>
+<script src="assets/js/leaflet.js"></script>
+<script src="assets/js/leaflet.markercluster.js"></script>
+<script src="assets/js/L.Control.Locate.min.js"></script>
+
+
+<script src="assets/leaflet-groupedlayercontrol/leaflet.groupedlayercontrol.min.js"></script>
+<script src="assets/leaflet-activearea/L.activearea.min.js"></script>
+<script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.js"></script>
+<script src="assets/js/app.js"></script>
+<script src="assets/js/jplist.min.js"></script>
+
+
+
+</body>
+
+</html>

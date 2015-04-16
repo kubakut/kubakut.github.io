@@ -1,0 +1,442 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "1",
+            "mesto": "praha3",            
+            "properties": {
+                "NAME": "Rodinný klub Ulitka",
+                "AKTIVITY": "<p>Jste na mateřské, či rodičovské dovolené se svým děťátkem a začínáte se cítit izolovaně a vyčerpaně? Docházejí Vám nápady na hry s dítětem a nemáte čas ani sami na sebe? Chcete se seznámit i s dalšími rodiči z okolí? Využít volných chvilek s Vaším dítětem smysluplněji? Seznámit jej s dalšími dětmi?</p><p>Navštivte náš rodinný klub Ulitka!</p><p>Čekají na Vás jak aktivity určené dětem, tak program jen pro Vás, ale i činnosti pro malé a velké dohromady. Je pro Vás připraveno nejen cvičení rodičů s dětmi a výtvarné aktivity pro děti i dospělé. Nabízíme i pravidelné přednášky, výuku angličtiny a cvičení pro ženy – to vše s hlídáním dětí zdarma! Odpadne Vám tak starost se sháněním babysittingu a navíc i něco ušetříte.</p><p>Minimálně jednou měsíčně Vám nabízíme odpolední akce pro celé rodiny.</p><p>Klub Ulitka funguje od září 2005 a prošlo jím už tisíce spokojených rodin, které se k nám vracejí i v době, kdy jejich děti již začaly navštěvovat ZŠ. Přijďte se k nám podívat a vyzkoušet, co z našeho programu bude pro Vás a Vaše dítě to nejvhodnější. Jsme tu i pro celou Vaši rodinu!</p>",
+                "KONTAKTY": "<p>Na Balkáně 2866/17a, 130 00, Praha 3 <br />tel.: (+420) 271 771 025-6</p><p><a href='mailto:info@myaktivity.cz'>info@myaktivity.cz</a></p><p><a href='http://www.rkulitka.cz/' target='_blank'>www.rkulitka.cz</a></p> <p><a href='https://cs-cz.facebook.com/klubulitka' target='_blank'>Facebook</a>  </p>",
+                "ODOBA": "<p><strong>Volná herna otevřena: </strong></p><p>po: 9.00 - 12.30, 14.00 - 17.00, </p><p>út: 9.00 – 12.00, </p><p>st: 9.00 – 12.30, </p><p>čt: 9.00 – 12.00, </p><p>pá: 10.00 – 12.00</p><p>Aktuální program na webu</p>",                
+                "GALERIE": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4816997,
+                    50.0946139
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "2.A",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "DDM Praha 8 Spirála - Přemýšlenská",
+                "AKTIVITY": "<p>Spirála je střediskem volného času pro zájmové vzdělávání zabezpečující volnočasové aktivity v průběhu celého roku (včetně dnů, kdy neprobíhá školní vyučování). </p><p>Kroužky</p><p>Tábory</p><p>Víkendové akce</p><p>Semináře</p><p>Workshopy</p><p>Soutěže a mnoho dalšího</p><p>Spirála poskytuje metodickou, odbornou, materiální pomoc účastníkům zájmového vzdělávání. Aktivity jsou určeny veřejnosti od předškolního věku do dospělosti.</p>",
+                "KONTAKTY": "<p><h3>Budova Přemyšlenská </h3>adresa: Přemyšlenská 1102/15, 182 00 Praha 8</p><p>tel. / fax: 284 680 230, 284 681 050</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><h3>Budova Dolákova </h3><p>adresa: Dolákova 537/26, 181 00 Praha 8</p><p>tel. / fax: 233 553 790, 233 552 101</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><p>webové stránky: <a href='http://www.spiralapraha8.cz/' target='_blank'>www.spiralapraha8.cz</a></p>",
+                "ODOBA": "<p>9:00 – 19:00, mimo státní svátky, kdy bývá zavřeno.</p>",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4492183,
+                    50.1266622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "2.B",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "DDM Praha 8 Spirála - Dolákova",
+                "AKTIVITY": "<p>Spirála je střediskem volného času pro zájmové vzdělávání zabezpečující volnočasové aktivity v průběhu celého roku (včetně dnů, kdy neprobíhá školní vyučování). </p><p>Kroužky</p><p>Tábory</p><p>Víkendové akce</p><p>Semináře</p><p>Workshopy</p><p>Soutěže a mnoho dalšího</p><p>Spirála poskytuje metodickou, odbornou, materiální pomoc účastníkům zájmového vzdělávání. Aktivity jsou určeny veřejnosti od předškolního věku do dospělosti.</p>",
+                "KONTAKTY": "<p><h3>Budova Přemyšlenská </h3>adresa: Přemyšlenská 1102/15, 182 00 Praha 8</p><p>tel. / fax: 284 680 230, 284 681 050</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><h3>Budova Dolákova </h3><p>adresa: Dolákova 537/26, 181 00 Praha 8</p><p>tel. / fax: 233 553 790, 233 552 101</p><p>e-mail: <a href='mailto:info@ddmpraha8.cz'>info@ddmpraha8.cz</a></p><p>webové stránky: <a href='http://www.spiralapraha8.cz/' target='_blank'>www.spiralapraha8.cz</a></p>",
+                "ODOBA": "<p>9:00 – 19:00, mimo státní svátky, kdy bývá zavřeno.</p>",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4090708,
+                    50.1331031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "3",
+            "mesto": "praha4",            
+            "properties": {
+                "NAME": "Kulturní Jižní Město, o.p.s., Chodovská tvrz",
+                "AKTIVITY": "<p>Chodovská tvrz je nejvýznamnější historickou památkou na Jižním Městě. Její historie sahá až do 13. století, ale svou stávající programovou nabídkou se pohybuje v aktuální současnosti. Naší hlavní snahou je zprostředkovávat kontakt se současným výtvarným uměním, pořádání koncertů a nedělních pohádkových představení pro naše nejmenší. Každoročním vrcholem sezóny koncertů je pak letní festival Tóny Chodovské tvrze s Jaroslavem Svěceným.</p>",
+                "KONTAKTY": "<p>Kulturní Jižní Město, o.p.s., Chodovská tvrz, Ledvinova 9, Praha 4</p><p><a href='http://www.chodovskatvrz.cz/' target='_blank'>www.chodovskatvrz.cz</a>, <a href='mailto:pokladna@chodovskatvrz.cz'>pokladna@chodovskatvrz.cz</a>, tel. 267 914 831</p>",
+                "ODOBA": "<p>Galerie a pokladny: úterý – neděle od 13. do 19. hodiny</p><p>Nedělní divadélka pro děti se pořádají každou neděli od 15. hodiny, říjen až duben.</p>",                
+                "GALERIE": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4990606,
+                    50.0346725
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "4",
+            "mesto": "praha13",            
+            "properties": {
+                "NAME": "RC Macek Kolovraty o.s.",
+                "AKTIVITY": "<p>RC Macek Kolovraty o.s. je organizace, která je založená na dobrovolné práci maminek a tatínků převážně žijících v Kolovratech. Fungujeme pro všechny rodiče a prarodiče a jejich děti, kteří chtějí aktivně trávit svůj čas. Vaše děti si u nás pohrají a vy si odpočinete třeba u kávy. Kormě dopolední herničky pořádáme spoustu odpoledních aktivit – jógu pro děti, výtvarné dílničky, hudbohraní nebo třeba kroužek plastikového modelářství. Během roku zase různé jednorázové aktivity jako jsou např. Vítání jara, Dýňová slavnost nebo Masopust.</p>",
+                "KONTAKTY": "<p>Klubovna - Mírová 66/21, 103 00 Praha 113</p><p>+ 420 776 730 960</p><p><a href='mailto:macek.kolovraty@seznam.cz'>macek.kolovraty@seznam.cz</a></p>",
+                "ODOBA": "<p>Hernička úterý a čtvrtek  9-11, Kroužky úterý, středa, čtvrtek od 17. hodiny</p>",                
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6275556,
+                    50.0108364
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "5",
+            "mesto": "nepraha",            
+            "properties": {
+                "NAME": "Mateřské centrum Permoníček, o.s.",
+                "AKTIVITY": "<p>Naše mateřské centrum funguje především jako místo pro setkávání rodičů a dětí. Děti se zde seznamují s kolektivem, poznávají nové kamarády a mohou se zapojit do různých aktivit. Maminkám přináší možnost společenského kontaktu, navázání nových přátelství, seberealizace i čerpání inspirace pro výchovu dětí a rozšíření herního repertoáru.</p><p>Našim příznivcům nabízíme:<br />- nekuřácké zázemí pro setkávání rodičů a dětí a navazování kontaktů,<br />- aktivní využití volného času dětí a rodin,<br />- možnost seberealizace, výměnu zkušeností a nápadů,<br />- pravidelné kroužky pro předškolní děti a dospělé,<br />- jednorázové akce pro veřejnost,<br />- bezplatnou inzertní službu,<br />- možnost bezplatného zapůjčení časopisů a odborné literatury na dobu pobytu v herně.</p>",
+                "KONTAKTY": "<p>Mateřské centrum Permoníček, o.s.<br />Masarykovo náměstí 195<br />Jílové u Prahy, 254 01<br /><a href='http://www.mcpermonicek.cz/' target='_blank'>www.mcpermonicek.cz</a>,&nbsp;<a href='mailto:permonicek@mcpermonicek.cz'>permonicek@mcpermonicek.cz</a> </p><p>tel. 739 633 715</p>",
+                "ODOBA": "<p>Otevírací doba se řídí konáním pravidelných kroužků a nepravidelných aktivit.<br/> Harmonogram pravidelných kroužků k nalezení zde:&nbsp;<a href='http://www.mcpermonicek.cz/kalendar/pravidelny-program' target='_blank'>http://www.mcpermonicek.cz/kalendar/pravidelny-program</a>.<br/> Nepravidelné aktivity jsou zveřejňovány zde: <a href='http://www.mcpermonicek.cz/cs/planovane-akce/' target='_blank'>http://www.mcpermonicek.cz/cs/planovane-akce/</a></p>",                
+                "GALERIE": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4936839,
+                    49.8937917
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "6",
+            "mesto": "praha4",            
+            "properties": {
+                "NAME": "Rodinné centrum U motýlků",
+                "AKTIVITY": "<p>Dva sály - mnoho aktivit v jeden čas! Každodenní miniškolka pro děti od 2 let. Řada kurzů pro děti i dospělé. Plně vybavená odpolední herna se vstupem zdarma v pondělí až čtvrtek, k níž náleží zahrada s dětským hřištěm a pískovištěm. Tvořivé dílny pro děti během volné herny. Odborné i naučné semináře a přednášky. Jednorázové akce pro celé rodiny (pohádkový les, Andersenova noc, sportovní dny, Svatomartinský průvod, vánoční rozsvěcení stromu s programem a trhem). Pronájem prostor pro narozeninové oslavy.</p>",
+                "KONTAKTY": "<p>Golčova 24/7, 148 00 Praha 4-Kunratice. <a href='http://www.umotylku.cz/' target='_blank'>www.umotylku.cz</a>, <a href='mailto:info@umotylku.cz'>info@umotylku.cz</a></p>",
+                "ODOBA": "<p>8:00 - 13:00: miniškolka</p><p>16:00 - 18:00: volná herna a tvořivé dílny Kurzy celodenně, přednášky a semináře pro dospělé večer.</p>",                
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4834231,
+                    50.0116472
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "7",
+            "mesto": "praha10",            
+            "properties": {
+                "NAME": "Bambulky -  centrum pro rodinné aktivity",
+                "AKTIVITY": "<p>Kurzy pro děti 2-8 let: Flétna, Výtvarná dílna, Keramická dílna, Odpoledne v pohybu, Angličtina </p><p>Kurzy pro děti 0-4 let: Cvičení rodiče s dětmi</p><p>Kurzy pro dospělé: Keramika</p>",
+                "KONTAKTY": "<p>Mirošovická 260/4, Praha 10, PSČ 100 00 </p><p>Email: <a href='mailto:bambulky@bambulky.cz'>bambulky@bambulky.cz</a></p><p><strong>Ivana Hoffmannová:</strong>&nbsp;tel. 777 19 14 16<br /><strong>Martina Schlechterová:</strong>&nbsp;tel. 603 57 23 31</p>",
+                "ODOBA": "<p>Po – Čt: 9:00 – 13:00, 15:00 – 18:00</p><p>Pá: 9:00 – 13:00</p>",                
+                "GALERIE": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5088625,
+                    50.0729933
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "8",
+            "mesto": "praha3",            
+            "properties": {
+                "NAME": "Vojenský historický ústav Praha – Armádní muzeum Žižkov.",
+                "AKTIVITY": "<p>OPERACE HISTORIKON - EDUKATIVNÍ PROJEKT PRO ZÁKLADNÍ A STŘEDNÍ ŠKOLY</p><p>Vojenský historický ústav Praha, ve snaze pomoci školám ve výuce dějin 20. století, již čtvrtým rokem realizuje úspěšný edukativní projekt pro žáky základních a studenty středních škol. Cílem projektu „OPERACE HISTORIKON“ je nabídnout kvalitní program, který zvýší zájem žáků a studentů o dějiny naší země a zároveň svou náplní obohatí výuku vlastivědy a dějepisu na školách. Projekt se plně realizuje v Armádním muzeu Žižkov. Další informace o projektu najdete na: <a href='http://www.vhu.cz/nabidka-programu/' target='_blank'>http://www.vhu.cz/nabidka-programu/</a></p><p>Hlavními pilíři edukativního programu jsou komentované prohlídky s průvodcem, přednášky a práce s pracovními listy. V případě zájmu je nutné si exkurzi dopředu objednat na tel.: 973 204 951 nebo na <a href='mailto:historikon@seznam.cz'>historikon@seznam.cz</a>. Program je určen pro školní skupiny. </p><p>Vstup do Armádního muzea Žižkov, průvodcovské služby i pracovní listy jsou zcela ZDARMA.</p>",
+                "KONTAKTY": "<p>Vojenský historický ústav Praha, U Památníku 2, 130 05, Praha 3 – Žižkov </p><p>Kontaktní osoba: Mgr. Petra Raisichová, tel.: 973 204 951, <a href='mailto:historikon@seznam.cz' >historikon@seznam.cz</a> </p>",
+"ODOBA": "<p>Běžná otevírací doba muzea: úterý-neděle: 10.00 – 18.00</p><p>Komentované prohlídky a přednášky pro školy: úterý-pátek: 10.00-15.00</p>",                
+                "GALERIE": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4449722,
+                    50.0873383
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.A",
+            "mesto": "praha5",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Jezdecké středisko Zmrzlík",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3142050,
+                    50.0115211
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.B",
+            "mesto": "praha5",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Klub Klamovka",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3792528,
+                    50.0714733
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.C",
+            "mesto": "praha5",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Stanice přírodovědců",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4003231,
+                    50.0751008
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.D",
+            "mesto": "praha6",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Stadion mládeže",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3847422,
+                    50.1065794
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.E",
+            "mesto": "praha6",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Stanice techniků",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3926489,
+                    50.1105961
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "9.F",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "DDM hl. m. Prahy - Informační centrum pro mládež a Karlínské Spektrum",
+                "AKTIVITY": "<ul><li>Jsme největší volnočasové zařízení v České republice s tradicí od roku 1950. Pro všechny věkové kategorie nabízíme přes 500 kroužků, ateliérů, kurzů a oddílů. Zaměřením pravidelných činností uspokojíme i ty nejnáročnější. Svědčí o tom každoročně vzrůstající počet zájemců. V letošním školní roce je jich celkem 4.000. </li><li>Poskytujeme vzdělávání pro předškoláky prostřednictvím center pro předškolní děti. Pro tuto věkovou kategorii pořádáme i kroužky a tábory. </li><li>Organizujeme velké množství akcí pro veřejnost: divadelní, pěvecká či taneční vystoupení a přehlídky, výstavy, výlety, soutěže, oslavy výročních svátků (masopust, vánoční a velikonoční dílny, mikulášské besídky, Dny dětí...) atd. </li><li>Za rok uspořádáme kolem 150 táborů všech typů a zaměření pro všechny věkové kategorie pro více než 3.000 zájemců. </li><li>Zaměřujeme se také na vzdělávací a výukové programy a kurzy pro žáky a učitele základních a středních škol. </li><li>Koordinujeme a organizujeme mezinárodní aktivity (výměny mládeže a Evropská dobrovolná služba v rámci programu Erasmus+...). </li><li>Již několik let úspěšně pořádáme velmi populární oborové soutěže (přírodovědné olympiády, POPRASK …). </li><li>Celoročně provozujeme vlastní ubytovací zařízení ve Střelských Hošticích, v Janských Lázních, ve Vřesníku u Humpolce, v Lomech u Jindřichova Hradce, ve Lhotce u Mělníka, v Podhradí u Ledče nad Sázavou, ve Višňové u Křivoklátu. Určené jsou nejenom nám, ale i školám, školským zařízením, NNO, firmám, veřejnosti aj. </li><li>Ve svých otevřených klubech vytváříme zázemí pro činnost neorganizované mládeže. </li><li>Hlídáme úroveň vzdělávání a kvalitu našich akcí. </li><li>Zřizovatelem je hlavní město Praha, které naši činnost kontroluje. </li></ul>",
+                "KONTAKTY": "<p>Jezdecké středisko Zmrzlík DDM hl. m. Prahy, Na Zmrzlíku 3, 155 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:zmrzlik@ddmpraha.cz'>zmrzlik@ddmpraha.cz</a> <br />Klub Klamovka DDM hl. m. Prahy, Podbělohorská 3, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>,<a href='mailto:klamovka@ddmpraha.cz'>klamovka@ddmpraha.cz</a> <br />Stanice přírodovědců DDM hl. m. Prahy, Drtinova 1a, 150 00 Praha 5, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:priroda@ddmpraha.cz'>priroda@ddmpraha.cz</a> <br />Stadion mládeže DDM hl. m. Prahy, Na Kotlářce 1, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:stadion@ddmpraha.cz'>stadion@ddmpraha.cz</a> <br />Stanice techniků DDM hl. m. Prahy, Pod Juliskou 2a, 160 00 Praha 6, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:technici@ddmpraha.cz'>technici@ddmpraha.cz</a> <br />Informační centrum pro mládež DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:icm@ddmpraha.cz'>icm@ddmpraha.cz</a> <br />Karlínské Spektrum DDM hl. m. Prahy, Karlínské nám. 7, 186 00 Praha 8, <a href='http://www.ddmpraha.cz/' target='_blank'>www.ddmpraha.cz</a>, <a href='mailto:spektrum@ddmpraha.cz'>spektrum@ddmpraha.cz</a></p>",
+"ODOBA": "Po-Pá: 8 – 22 hodin",                
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4487353,
+                    50.0907475
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "10",
+            "mesto": "praha8",            
+            "properties": {
+                "NAME": "A centrum - Váš průvodce těhotenstvím a rodičovstvím",
+                "AKTIVITY": "<p>Rodinné centrum (sídlící mezi Florencí a Karlínským náměstím) nabízí již od roku 1998 nepřeberné množství vzdělávacích a pohybových programů pro páry připravující se na početí dítěte, pro těhotné ženy a jejich partnery, pro rodiče s dětmi i širokou veřejnost.</a></p><ul><li>Pravidelné lekce (např. Gravidjóga, Pilates, Muzikoterapie pro těhotné, Cvičení na míči pro mámy s dětmi, Jóga po porodu, Společné tančení pro mámy s dětmi, Společné tvoření pro (pra)rodiče s dětmi, Hrajeme si montessori, Andílci pro děti do 1 roku, Skřítci 1 – 2 roky a další)</li><li>Pravidelné i jednorázové workshopy a přednášky (např. Jak naučit děti usínat a dobře spát, Masáže dětí a kojenců s aromakosmetikou, Předporodní příprava Ivany Königsmarkové, Nošení dětí v šátku, Látkové pleny moderně, Bezplenková metoda, Dětiště aneb pěstování souhry s dětmi, Prožitková hudební pedagogika a prvky muzikoterapie a mnoho dalších)</li><li>Poradny pro těhotné, pro ženy, pro rodiče s dětmi</li><li>Masáže (shiatsu, aromaterapeutická, lávovými kameny, zdravotní masáž pánve a kříže atd.)</li><li>Kraniosakrální terapie</li><li>lektorský kurz: Lektorka vědomé a aktivní přípravy na mateřství a rodičovství</li><li>Aktivity v rámci projektu Jak jinak (<a href='http://www.jakjinak.info/' target='_blank'>http://www.jakjinak.info/</a>)</li></ul><p>Dále A centrum umožňuje pronajímání prostor a půjčování potřeb pro porod a následnou péči o děti (porodní bazének a stoličku, šátky na nošení dětí…).</p>",
+                "KONTAKTY": "<p>A centrum – Váš průvodce těhotenstvím a rodičovstvím, o. p. s.</p><p>Vítkova 10</p><p>Praha 8 – Karlín, 186 00</p><p>tel.: 224 811 190 </p><p>mobil: 605 253 345</p><p>e-mail: <a href='mailto:info@acentrum.eu'>info@acentrum.eu</a> </p><p><a href='http://www.acentrum.eu/' target='_blank'>http://www.acentrum.eu</a></p><p>Jak se k nám dostanete: tramvají č. 8 nebo 3 na zastávku Karlínské náměstí nebo pěšky přímo od metra Florenc.</p><p>Parkování: v okolí A centra se nenacházejí parkovací zóny, je tedy možné parkovat bezplatně. Je ovšem dobré počítat s časovou rezervou pro hledání místa k zaparkování. Také je možné využít parkoviště u viaduktu v ulici Prvního pluku za 30 Kč na hodinu.</p>",
+"ODOBA": "<p><b>Pondělí</b></p><p>09.00 - 12.00 HRAJEME SI MONTESSORI</p><p><b>Středa</b></p><p>09.15 - 10.15 ZVONEČEK pro děti lezoucí a nelezoucí</p><p>10.45 - 11.45 ZVONEČEK pro děti chodící do 4 let (cyklus)</p><p>14.30 - 15.30 ANDĚLÍČCI do 1 roku (cyklus)</p><p>15.30 - 16.30 SKŘÍTCI 1 - 2 roky (cyklus)</p><p><b>Čtvrtek</b></p><p>09.00 - 12.00 HRAJEME SI MONTESSORI</p><p><b>Pátek</b></p><p>09.00 - 12.00 HRAJEME SI MONTESSORI</p><p>10.00 - 11.00 SKŘÍTCI 1 - 2 roky (cyklus)</p><p>11.15 - 12.15 INDIÁNI 2 - 3 roky (cyklus)</p><p>12.30 - 13.30 ANDĚLÍČCI do 1 roku (cyklus)</p>",                
+                "GALERIE": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4460547,
+                    50.0904464
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "11",
+            "mesto": "praha20",            
+            "properties": {
+                "NAME": "Chvalský zámek",
+                "AKTIVITY": "<p>Chvalský zámek je malebná budova v zázemí Chvalské tvrze, obklopená několika restauracemi, s bezproblémovou možností parkování. Najdete zde romantické zámecké salonky, půvabné kryté nádvoří i tajemné pískovcové sklepení vytesané ve skále. Toto kulturní a společenské centrum nabízí akce a aktivity určené široké veřejnosti se speciálním zaměřením na výstavy a akce pro děti, jejich rodiče i prarodiče, školní i dětské kolektivy. Výstavní projekty jsou koncipovány formou interaktivních výstav a umožňují návštěvníkům vnímat vystavené artefakty několika smysly najednou.</p><p>Na zámku se můžete každý měsíc potkat s princeznami, rytíři, skřítky či vílami v rámci pohádkových víkendů, které nabízejí komentované prohlídky zámeckých prostor i výstavv se zaměřením na dětské návštěvníky. Mezi další oblíbené akce pro děti patří Svatojánský bál princů a princezen, Tajemná noc či Strašidelná noc na zámku. Návštěvníky tradičních akcí jistě zaujme Masopustní průvod, Svatoludmilská pouť, Adventní trhy, Živý betlém o štědrém dni či Zavírání Vánoc s průvodem tří králů a velbloudy. Chvalský zámek pravidelně vyhlašuje výtvarné soutěže</p><p>pro děti a malí návštěvníci zámku se mohou zapojit do soutěže víly Ohnivky, která neodmyslitelně patří k zámeckých symbolům.</p><p>Navíc: Chvalský zámek je bezbariérový. Do všech poschodí se lze dostat výtahem – vstup</p><p>s kočárkem či invalidním vozíkem je možný.</p>",
+                "KONTAKTY": "<p>Chvalský zámek</p><p>Na Chvalské tvrzi 857</p><p>193 21 Praha 20 – Horní Počernice</p><p><a href='http://www.chvalskyzamek.cz/' target='_blank'>www.chvalskyzamek.cz</a></p><p><a href='mailto:infocentrum@chvalskyzamek.cz'>infocentrum@chvalskyzamek.cz</a>, tel: 281 860 130</p>",
+"ODOBA": "<p>otevřeno: celoročně denně včetně víkendů 9 – 17 hodin (24. 12. pouze 14 – 16 hodin)</p><p>zavřeno: 1. 1., 25. 12., 26. 12., 31. 12.</p>",                
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5955597,
+                    50.1113628
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "12",
+            "mesto": "praha6",            
+            "properties": {
+                "NAME": "Centrum inspirace a tvořivosti",
+                "AKTIVITY": "<p>Centrum inspirace a tvořivosti je rodinné a komunitní centrum určené dětem i rodičům, prarodičům a rodinám. Nachází se v příjemném prostředí městské části Prahy 6 - Bubenči.</p><p>Od roku 2002 je provozováno neziskovou organizací Občanská inspirace. Organizace realizuje vzdělávací projekty pro děti i dospělé, provozuje poradnu pro rodiče a logopedické poradenství. Pořádá interaktivní a psychosociální programy pro rodiče s dětmi předškolního věku a otevřené jednorázové akce pro děti i dospělé. Mezi pravidelné zájmové aktivity patří: výtvarné a keramické dílny, hudební činnosti, pohybová a taneční výchova, dopolední školička pro předškoláky a environmentální programy pro děti.<p/><p>V rámci vzdělávacího projektu Inspirace a impulsy rozvíjíme pracovní a psychosociální kompetence osob, zejména rodičů na MD a RD. Cílem těchto aktivit je, aby se zmíněná cílová skupina snadněji uplatnila na trhu práce. Projekty realizujeme s cílem rozvíjet komunitní, kulturní a sociální život obyvatel nejen Prahy&nbsp;6, ale i blízkého i vzdálenějšího okolí našeho centra.<p/><p>Součástí Centra je i provozování veřejné venkovní knihovny v bývalé telefonní budce - KNIHOBUDKY, ve které můžete odložit, ale i získat knížky nebo i hračky pro děti. </p>",
+                "KONTAKTY": "<p>Centrum inspirace a tvořivosti<br/>Charlese de Gaulla 18,<br/>Praha 6, 160 00<br/>(budova MŠ, přízemí)</p><p><a href='http://www.obcanskainspirace.cz/' target='_blank'>www.obcanskainspirace.cz</a>, <a href='mailto:info@obcanskainspirace.cz'>info@obcanskainspirace.cz</a><br />+420 721 770 462 </p>",
+"ODOBA": "<p>PO - ČT: 8.30 - 16:00 hodin,</p><p>PÁ:  8.30 - 14:00 hodin</p>",                
+                "GALERIE": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3994486,
+                    50.1047581
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "13",
+            "mesto": "nepraha",            
+            "properties": {
+                "NAME": "Rodinné centrum Buštěhradský pelíšek, z.s.",
+                "AKTIVITY": "<p>Místo nejen pro maminky na mateřské či rodičovské dovolené, ale pro celé rodiny, k setkávání, vzdělávání a aktivnímu společnému trávení volného času. Mezi pravidelné aktivity patří volná či tematická herna, pohádková odpoledne, výtvarné dílny pro děti, čteme knížku v Pelíšku, pohybové hry pro děti do tří let s rodiči, taneční průprava pro děti do šesti let bez rodičů, chytré hraní s montessori prvky, klub bez maminek, zdarma psychologická poradna pro děti i dospělé s možností hlídání dětí, angličtina pro dospělé s možností hlídání dětí či hathajóga pro dospělé. Pravidelný program doplňují sezónní, často venkovní akce, pro celé rodiny – např. Svatomartinský lampiónový průvod, Svatojánské hledání pokladu, Ořešínský Vandráček, rodinné koncerty, drakiáda, hledání velikonočních vajíček, Májové veselení a další. Dále bazárky s použitým zbožím pro potřeby rodiny, vzdělávací kurzy a semináře např. z oblasti zdraví a výživy, zvyšování rodičovských kompetencí, slaďování rodinného a profesního života, atd., ale i relaxační odpoledne či výtvarné večerní dílny pro rodiče. Mezi aktivity centra patří i účast na charitativních akcích a akcích s ekologickým zaměřením.</p>",
+                "KONTAKTY": "<p>RC Buštěhradský pelíšek, z.s. sídlí v 1. patře Kulturního střediska, </p><p>ulice Kladenská 207, Buštěhrad 273 43</p><p><a href='http://www.mcpelisek.cz/' target='_blank'>www.mcpelisek.cz</a></p><p><a href='mailto:rcpelisek@email.cz'>rcpelisek@email.cz</a></p><p>739 771 706</p>",
+"ODOBA": "<p>Pravidelné aktivity v pravidelnou dobu, tematické akce i o víkendu, nutno sledovat aktuální rozpis na webových stránkách.</p>",                
+                "GALERIE": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1833211,
+                    50.1522008
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "14",
+            "mesto": "praha9",            
+            "properties": {
+                "NAME": "Mateřské centrum Cirkus",
+                "AKTIVITY": "<p>Mateřské centrum Cirkus poskytuje rodinám na severním okraji Prahy (Čakovice, Třeboradice, Miškovice, Líbeznice apod.) služby již 11 let. Organizuje jednorázové akce na podporu rodiny a rozvoje komunitního života v obci - společné výlety, vycházky s ekologickým zaměřením, bazary, plesy, divadelní představení, odborné přednášky pro rodiče (psychologie, zdraví, logopedie, zdravá výživa apod.). Současně pořádá různé pravidelné kurzy pro děti a rodiče (pohybové, výtvarné, dramatické, výchovné atp.).</p><p>MC Cirkus se aktivně účastní veškerých aktivit veřejného života v Čakovicích a okolí a intenzivně spolupracuje se Sítí Mateřských center.</p>",
+                "KONTAKTY": "<p>Jizerská 18, Praha 9, Čakovice </p><p><a href='http://www.mccirkus.cz/' target='_blank'>www.mccirkus.cz</a> , <a href='mailto:info@mccirkus.cz'>info@mccirkus.cz</a>,</p><p>tel: 737444367</p>",
+"ODOBA": "<p>Celotýdenní provoz podle rozvrhu zveřejněného na webových stránkách.</p>",                
+                "GALERIE": 0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5244514,
+                    50.1499386
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "15",
+            "mesto": "praha6",            
+            "properties": {
+                "NAME": "Montessori mateřské centrum",
+                "AKTIVITY": "<p>MONTESSORI MATEŘSKÉ CENTRUM Praha 6 - Ořechovka pro Vás připravilo žádané MONTESSORI PRACOVNY určené pro maminky s dětmi od 1 do 4 let.</p><p>Čeká na Vás připravené prostředí plné Montessori pomůcek speciálně určených pro vývojové potřeby dítěte. </p><p>Diskuze a konzultace na téma výchovy a vzdělávání dětí předškolního věku v duchu respektovat a být respektován.</p><p>V rámci lekcí Vám poradíme:</p><p>• Jak posílit Váš vztah s dítětem.</p><p>• Jak si efektivně hrát a komunikovat s dítětem.</p><p>• Jak se napojit na Vaše dítě.</p><p>• Jak připravit ideální Montessori prostředí doma.</p><br/><p>Vaše dítě se naučí:</p><p>• Spolupracovat.</p><p>• Respektovat sebe i ostatní.</p><p>• Být samostatné.</p><p>• Být zodpovědné.</p>",
+                "KONTAKTY": "<p>Montessori mateřské centrum, Malá 2, Praha 6.</p><p><a href='http://www.montecentrum.cz/' target='_blank'>www.montecentrum.cz</a></p><p>Mgr. Dagmar Egemová, Email: <a href='mailto:dasa.egemova@seznam.cz'>dasa.egemova@seznam.cz</a></p><p>Telefon: 607 788 562</p>",
+"ODOBA": "<p>Lekce probíhají každý všední den od 9 do 10:15 a od 10:45 do 12 hod.</p>",                
+                "GALERIE": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3863378,
+                    50.0966853
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "16",
+            "mesto": "praha10",            
+            "properties": {
+                "NAME": "Toulcův Dvůr – Středisko ekologické výchovy hlavního města Prahy",
+                "AKTIVITY": "<p>Středisko ekologické výchovy hl. m. Prahy sídlí v přírodně i historicky ojedinělém areálu. Prostor dnešního Toulcova Dvora byl dle archeologických nálezů osídlen již ve 12. až 13. století, budovy jsou zapsány ve Státním seznamu kulturních památek. Od roku 1994 prochází celý areál rozsáhlou rekonstrukcí, za pomoci Magistrátu hlavního města Prahy a za finančního přispění Evropské unie se podařilo statek přetvořit ve funkční celek s vysokou estetickou hodnotou.</p><p>K Toulcovu Dvoru náleží rovněž 10 hektarů pestrého přírodního areálu. Vidět u nás můžete les, louku, mokřad, pole, sad i pastviny. Areál slouží návštěvníkům k relaxaci, dětem a školám k výuce a našim domácím zvířatům k pastvě. Je součástí přírodního parku Záběhlice – Hostivař, jehož smyslem je chránit krajinný ráz.</p><p>Najdete u nás také farmu domácích zvířat původních českých plemen. Naše farma je výuková a terapeutická, využíváme ji pro ekologickou výchovu v rámci výukových programů, seminářů a zájmových kroužků. V rámci dlouhodobého projektu Noemova archa se zde setkáte s řadou ohrožených národních plemen, jako je česká červinka, přeštické prase, valašská ovce nebo huculský kůň. </p><p>Kromě historických budov, přírodního areálu a farmy Vám nabízíme nepřeberné množství volnočasových aktivit pro děti i dospělé, programy pro školy a mateřské školy. Pro děti všech věkových kategorií připravujeme celou řadu zájmových kroužků a programů, které probíhají v klubovnách i přírodním areálu. Najdete u nás jezdecké a jezdecko-chovatelské kroužky, tvořivé kroužky i včelařský kroužek. Pro dospělé pořádáme pravidelné přednášky různého zaměření. Kromě již jmenovaného pořádá Toulcův Dvůr akce pro veřejnost, např. Dožínkové slavnosti, Den zvířat, Velikonoční a Mikulášský jarmark a mnoho dalšího. Nabídku našich služeb doplňuje Zdravá Jídelna, projekt sociálního podnikání, která vaří z kvalitních surovin pro veřejnost, školy, školky, firmy či soukromé akce. </p><p>V neposlední řadě nabízíme možnost docházky Vašich dětí do environmentálně zaměřené Mateřské školky Semínko, kde je kladen důraz zejména na dostatek pohybu dětí v přírodě, kontakt se zvířaty a zdravé stravování. V rámci MŠ je možno navštěvovat i lesní třídu Lesníček.</p><p>Přijměte tedy naše pozvání a přijďte si k nám odpočinout od městského shonu!</p>",
+                "KONTAKTY": "<p><b>Toulcův Dvůr, Středisko ekologické výchovy hlavního města Prahy</b></p><p>Kubatova 32/1, 102 00 Praha 10 – Hostivař</p><p><a href='http://www.toulcuvdvur.cz/' target='_blank'>www.toulcuvdvur.cz</a></p><p>e-mail: <a href='mailto:info@toulcuvdvur.cz'>info@toulcuvdvur.cz</a></p><p>tel.: 272 660 500</p>",
+"ODOBA": "<p><b>Areál</b>: denně 8 – 18 h,</p><p><b>Zdravá Jídelna</b>: denně 10 – 17 h.</p><p><b>Infocentrum Toulcův Dvůr</b>: Po – Pá: 11 – 16:30 h; So, Ne: 10 – 17 h</p>",                
+                "GALERIE": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5194211,
+                    50.0484744
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "17",
+            "mesto": "praha10",            
+            "properties": {
+                "NAME": "Koala Café",
+                "AKTIVITY": "<p>Dětské zábavní centrum s kavárnou. Pokud řešíte, stejně jako většina rodičů malých neposedů, kam s nimi ve volné chvíli v Praze vyrazit, pak určitě stojí za vyzkoušení dětské zábavní centrum Koala Café v Hostivaři. Představujete si, že si budou moci spokojeně a bezpečně pohrát, zařádit si s ostatními dětmi? Tato herna bude dobrou volbou. Vy si pak můžete vybrat, jestli se chcete vrátit do dětských let a zařádit si společně s nimi nebo zda si dopřejete zaslouženou chvilku odpočinku v příjemné nekuřácké kavárně s nabídkou výborné čerstvě pražené kávy, zákusků, občerstvení a širokou škálou nápojů. wifi připojení je zdarma. Koala Café se specializuje také na pořádání dětských narozeninových oslav, firemních setkání, ale i různých zábavných a tvořivých programů. Součástí centra je profesionální fotografické studio, které Vaše zážitky zaznamená. Celek je vytvořen tak, aby se tu všichni cítili jako doma a odcházeli s pocitem příjemně strávených okamžiků. Jednoduše vyjádřeno: Koala Café…je dětský podnik!</p>",
+                "KONTAKTY": "<p>Koala Café, Dolnoměcholupská 209/17, Praha 10, Hostivař</p><p>e-mail: <a href='mailto:info@koalacafe.cz'>info@koalacafe.cz</a>, telefon: 212 241 171, <a href='http://www.koalacafe.cz/' target='_blank'>www.koalacafe.cz</a></p>",
+"ODOBA": "<p>PO – NE, od 10: do 19:00 hodin.</p>",                
+                "GALERIE": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5428839,
+                    50.0553425
+                ]
+            }
+        }
+    ]
+}
