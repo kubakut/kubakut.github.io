@@ -52,10 +52,9 @@ var mapquestOAM = L.tileLayer("http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.
 var mapquestOSM =   L.tileLayer('http://openmapsurfer.uni-hd.de/tiles/roads/x={x}&y={y}&z={z}', {
 	minZoom: 0,
 	maxZoom: 19,
-    center: [14.338222, 50.04878],
 	attribution: 'Imagery from <a href="http://giscience.uni-hd.de/">GIScience Research Group @ University of Heidelberg</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
 });
-var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
+var mapquestHYB = L.tileLayer('http://{s}.{base}.maps.cit.api.here.com/maptile/2.1/maptile/{mapID}/hybrid.day.mobile/{z}/{x}/{y}/256/png8?app_id={app_id}&app_code={app_code}', {
   attribution: 'Map &copy; 1987-2014 <a href="http://developer.here.com">HERE</a>',
   subdomains: '1234',
   mapID: 'newest',
@@ -213,7 +212,7 @@ $.getJSON("data/subways.geojson", function (data) {
 /* Single marker cluster layer to hold all clusters */
 var markerClusters = new L.MarkerClusterGroup({
   spiderfyOnMaxZoom: true,
-  showCoverageOnHover: true,
+  showCoverageOnHover: false,
   zoomToBoundsOnClick: true,
   disableClusteringAtZoom: 15,
   maxClusterRadius:40
@@ -228,7 +227,7 @@ var theaters = L.geoJson(null, {
         html: "<table><tr><th style='font-size:13px;' class='label label-danger'>"+feature.id+"</th></tr><tr><td><img  src='assets/img/hriste.png' width='26' height='30'></td></tr></table>",
         iconSize: [14, 14],
         iconAnchor: [12, 28],
-        className:'text-center',        
+        className:'text-center',
       }),
       title: feature.properties.NAME,
       riseOnHover: true
@@ -279,10 +278,10 @@ var theaters = L.geoJson(null, {
       "</div>"+
 "</div>"
  ;
-      
-        
+
+
       var nadpis = feature.id + ". " + feature.properties.NAME;
-      
+
       layer.on({
         click: function (e) {
           var galerie ="";
@@ -290,21 +289,21 @@ var theaters = L.geoJson(null, {
           $("#feature-info").html(content);
         for ( var i = 0; i < feature.properties.GALERIE; i++ ) {
             galerie = galerie+'<obr>';
-    
-}    
-           
-            
+
+}
+
+
           $("#feature-gal").html(galerie);
-            
+
           $(document).ready( function() {
               $("obr").each( function(i) {
-                  $(this).prepend("<center><a href='img/"+feature.id+"/"+(++i)+".JPG' target='_blank'><img style='margin: 10px 0px' src='img/"+feature.id+"/"+(i)+".JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail' /></a></center>");	
+                  $(this).prepend("<center><a href='../img/"+feature.id+"/"+(++i)+".JPG' target='_blank'><img style='margin: 10px 0px' src='../mapa/img/"+feature.id+"/"+(i)+".JPG'  height='auto' max-width: 100%; class='img-responsive img-thumbnail' /></a></center>");
         });
- 
-});   
 
-  
-  
+});
+
+
+
           $("#featureModal").modal("show");
           highlight.clearLayers().addLayer(L.circleMarker([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], {
             stroke: false,
@@ -315,7 +314,7 @@ var theaters = L.geoJson(null, {
         }
       });
       $("#theater-table > tbody").append('<tr class="tbl-item" style="cursor: pointer;" onclick="sidebarClick('+L.stamp(layer)+'); return false;"><td class="theater-name ">'+ "<b>"+ '<p class="title">' + (feature.id) + "</b>.</p> " +layer.feature.properties.NAME+'<p class="'+feature.mesto+'"><p class="'+feature.kategorie+'">'+'</p></td><td style="vertical-align: middle;"><i style="vertical-align: middle;" class="fa fa-chevron-right pull-right"></td></tr>');
-     
+
       theaterSearch.push({
         name: layer.feature.properties.NAME,
         address: layer.feature.mesto,
@@ -323,27 +322,16 @@ var theaters = L.geoJson(null, {
         id: L.stamp(layer),
         lat: layer.feature.geometry.coordinates[1],
         lng: layer.feature.geometry.coordinates[0]
-          
+
       });
-        
+
     }
   }
-    $('document').ready(function(){
-				$('#demo').jplist({
-				    debug: true
-					,itemsBox: '.demo-tbl' 
-					,itemPath: '.tbl-item' 
-					,panelPath: '.jplist-panel'
-                    ,redrawCallback: function(collection, $dataview, statuses){
-                    var theaterList = new List("theaters", {valueNames: ["theater-name"]}).sort("theater-name", {order:"asc"});
-                 }						    
-                   
-                   
-				});
-          
-			
+
+
+
 });
-$.getJSON("data/hriste.geojson", function (data) {
+$.getJSON("../mapa/data/hriste.geojson", function (data) {
   theaters.addData(data);
   map.addLayer(theaterLayer);
 });
@@ -677,5 +665,5 @@ $(document).one("ajaxStop", function () {
   });
   $(".twitter-typeahead").css("position", "static");
   $(".twitter-typeahead").css("display", "block");
-    
+
 });

@@ -10,6 +10,14 @@
     <meta name="description" content="Mapová webová aplikace s dětskými hřišti na území Prahy. Aplikace je tvořena interkativní mapou s filtry, pro snadné vyhledávání.">
     <meta name="keywords" content="dětská, hřiště, praha, mapa, děti, hračky">
     <title>Dětská hřiště Praha - Mapa</title>
+    <script src="assets/js/redirection-mobile.js"></script>
+            <script>
+                 SA.redirection_mobile ({
+        tablet_redirection : "true",
+        mobile_url : "www.hristepraha.cz/mobile",
+        mobile_prefix : "http"
+    });
+            </script>
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -18,10 +26,11 @@
     <link rel="stylesheet" href="assets/css/MarkerCluster.Default.min.css">
     <link rel="stylesheet" href="assets/css/L.Control.Locate.min.css">
     <link rel="stylesheet" href="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.css">
-    <link rel="stylesheet" href="assets/css/app.min.css">  
+    <link rel="stylesheet" href="assets/css/app.min.css">    
 
     <link rel="apple-touch-icon" href="assets/img/fav256.png">
-    <link rel="shortcut icon" href="assets/img/fav256.png">   
+    <link rel="shortcut icon" sizes="196x196" href="assets/img/fav256.png">
+    <link rel="stylesheet" href="assets/css/jplist.min.css" />
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53fdbf906ccd6046"></script>
    <!-- <script>
         function load() {
@@ -59,7 +68,7 @@
 
             <li><a href="#" data-toggle="collapse" data-target=".navbar-collapse.in" onclick="sidebar.toggle(); return false;"><i class="fa fa-list" style="color: white"></i>&nbsp;&nbsp;Seznam míst</a>
             </li>
-            <li><a href="/mapa" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-desktop" style="color: white"></i>&nbsp;&nbsp;Přepnout na PC verzi</a>
+            <li><a href="/mobile" data-toggle="collapse" data-target=".navbar-collapse.in"><i class="fa fa-mobile" style="color: white"></i>&nbsp;&nbsp;Přepnout na mobilní verzi</a>
             </li>
 
         </ul>
@@ -101,11 +110,67 @@
                                             </div>
 
 
-                                       
+                                            <div>
+                                                <!-- reset button -->
+
+                                                <button type="button" class="jplist-reset-btn" data-control-type="reset" data-control-name="reset" data-control-action="reset" onclick="map.fitBounds(boroughs.getBounds()); return false;">
+                                                    Reset &nbsp;<i class="fa fa-share"></i>
+                                                </button>
+
+                                                <!-- items per page dropdown -->
+                                                <select class="jplist-select" data-control-type="select" data-control-name="group-filter" data-control-action="filter">
+                                                    <ul>
+                                                        <option data-path="default">Praha</option>
+                                                        <option data-path=".praha1">Praha 1</option>
+                                                        <option data-path=".praha2">Praha 2</option>
+                                                        <option data-path=".praha3">Praha 3</option>
+                                                        <option data-path=".praha4">Praha 4</option>
+                                                        <option data-path=".praha5">Praha 5</option>
+                                                        <option data-path=".praha6">Praha 6</option>
+                                                        <option data-path=".praha7">Praha 7</option>
+                                                        <option data-path=".praha8">Praha 8</option>
+                                                        <option data-path=".praha9">Praha 9</option>
+                                                        <option data-path=".praha10">Praha 10</option>
+                                                        <option data-path=".praha11">Praha 11</option>
+                                                        <option data-path=".praha12">Praha 12</option>
+                                                        <option data-path=".praha13">Praha 13</option>
+                                                        <option data-path=".praha14">Praha 14</option>
+                                                        <option data-path=".praha15">Praha 15</option>
+                                                        <option data-path=".praha16">Praha 16</option>
+                                                        <option data-path=".praha17">Praha 17</option>
+                                                        <option data-path=".praha18">Praha 18</option>
+                                                        <option data-path=".praha19">Praha 19</option>
+                                                        <option data-path=".praha20">Praha 20</option>
+                                                        <option data-path=".praha21">Praha 21</option>
+                                                        <option data-path=".praha22">Praha 22</option>
+                                                    </ul>
+                                                </select>
+
+                                                <select class="jplist-select" data-control-type="select" data-control-name="category-filter" data-control-action="filter" style="width:100px;">
+                                                    <ul>
+                                                        <option data-path="default">Kategorie</option>
+                                                        <option data-path=".vl1">Plocha pro míčové hry</option>
+                                                        <option data-path=".vl2">In line stezky, skate parky, BMX areály, dopravní hřiště</option>
+                                                        <option data-path=".vl3">Jiné sporty (lanová centra, minigolf, discgolf, boby)</option>
+                                                        <option data-path=".vl4">Fitness prvky</option>
+                                                        <option data-path=".vl5">Voda-hydrant nebo umyvadlo</option>
+                                                        <option data-path=".vl6">WC na hřišti nebo v bezprostřední blízkosti</option>
+                                                        <option data-path=".vl7">Správce na hřišti</option>
+                                                        <option data-path=".vl8">Částečný stín</option>
+                                                        <option data-path=".vl9">Kultura (muzea, galerie, venkovní sochy, divadla, planetária)</option>
+                                                        <option data-path=".vl10">Naučné stezky</option>
+                                                        <option data-path=".vl11">ZOO koutky</option>
+                                                        <option data-path=".vl12">Restaurace nebo kavárny v bezprostřední blízkosti</option>
+                                                        <option data-path=".vl13">Bazény, vodní atrakce, vodní soustavy</option>
+
+                                                    </ul>
+                                                </select>
+
+                                            </div>
                                         </div>
                                         <!-- data -->
 
-                                        <div class="sidebar-table">
+                                        <div class="sidebar-table" style="margin-top:45px;">
 
                                             <table class="demo-tbl table table-hover" id="theater-table">
                                                 <thead class="hidden">
@@ -167,7 +232,7 @@
 
 
 
-                                <p><b>Vítáme vás na webových stránkách, které jsme vytvořili jako podporu a doplnění pro aplikaci, která mapuje atraktivní dětská hřiště v Praze.</b></p>
+                 <p><b>Vítáme vás na webových stránkách, které jsme vytvořili jako podporu a doplnění pro aplikaci, která mapuje atraktivní dětská hřiště v Praze.</b></p>
 
 <p>Na projektu jsme začali pracovat před dvěma lety. Nejprve jsme oslovili úřady všech městských částí s prosbou, aby nám pomohly vybrat nejzajímavější dětská hřiště v jejich katastru. Musíme ocenit, že nám byly nápomocny všechny radnice, bez výjimky. Poté jsme prošli dostupné internetové projekty podobného zaměření, abychom si ověřili, že jsme žádné pěkné hřiště neopomněli.</p> <p><b>V průběhu roku 2013 a 2014 jsme každé z vytipovaných hřišť minimálně dvakrát navštívili, s cílem poznat jak hřiště, tak i jeho bezprostřední okolí.</b></p>
 
@@ -180,6 +245,7 @@
 <p>Vybavení hřišť, jejich stav i další skutečnosti v textu uváděné se mění. Pokud budete mít připomínky, doplňující informace, nebo jestliže vám ve výčtu nějaké hezké hřiště chybí, napište prosím na mail: <a href="mailto:zastupce.vasak@seznam.cz">zastupce.vasak@seznam.cz</a>, nebo zde do <a href="forum.html">fóra</a>.</p>
 
 <p>Závěrem vám přejeme, abyste na hřištích strávili s dětmi příjemné chvíle.</p>
+
                                 <img src="assets/img/6.jpg" class="img-responsive" alt="Obrázek">
 
                             </div>
@@ -339,6 +405,7 @@
 <script src="assets/leaflet-activearea/L.activearea.min.js"></script>
 <script src="assets/leaflet-sidebar-0.1.5/L.Control.Sidebar.min.js"></script>
 <script src="assets/js/app.min.js"></script>
+<script src="assets/js/jplist.min.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
