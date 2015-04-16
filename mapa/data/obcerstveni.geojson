@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "properties": {
+        "NAME": "OC Palladium",
+        "POPIS": "Obchodní centrum Palladium nabízí mnoho možností, jak se občerstvit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42901849746704,
+          50.08920622937759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2",
+      "properties": {
+        "NAME": "Cukrárna Světozor",
+        "POPIS": "Cukrárna 'Ovocný Světozor' prosnulá svým výběrem zmrzlin - <a href='http://www.ovocnysvetozor.cz' target='_blank'>www.ovocnysvetozor.cz</a>."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.425046145915983,
+          50.08178173663968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "properties": {
+      "NAME": "Šlechtova restaurace",
+      "POPIS": "Zveme Vás s rodinou a přáteli do magické tajemné Stromovky, lenošit na deku zahrát si speedminton, frisbee, petangue, kuželky nebo si půjčit přenosný gril a užít si chutě plný den... Chceme Vám všem poskytnout možnost maximálně příjemného, atraktivního, aktivního prožití volného času."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.417603015899656,
+          50.104702055190415
+        ]
+      }
+    }
+  ]
+}
