@@ -190,11 +190,11 @@
             "id": "2",
             "mesto": "praha7",
             "kategorie": "vl1 vl4 vl6 vl8",
-            "properties": {               
+            "properties": {
                 "NAME": "Holešovice, Jateční",
                 "INFO": "Nedaleko Holešovické tržnice, skryté za vysokou zdí, je situováno dětské hřiště.",
                 "POPIS": "Dětské hřiště<b> (2)</b> se rozkládá v zeleni, na poměrně rozlehlé ploše. Vchod je z ulice Jateční. V areálu rostou vzrostlé stromy, takže plocha leží v částečném stínu. Na povrchu roste tráva, pod atrakcemi leží převážně písek. Atrakcí tu mají kolem deseti. Patří k nim dva domky se skluzavkami, lezecká sestava, houpačky, kladina a několik točidel. Některé atrakce by ovšem potřebovaly nový nátěr, neboť jsou bohužel posprejované. V části areálu se nachází sportovní hřiště s umělým povrchem a dvěma basketbalovými koši. Prostor je vhodný také ke hře na schovávanou. Bát o děti se nemusíte. Celý areál chrání vysoký plot a zeď. ",
-                "DOPORUCENI": "Nedaleko, v parčíku na Tusarově ulici, mohou starší děti a dospělí vyzkoušet půltucet kovových cvičebních strojů (fit park).",                
+                "DOPORUCENI": "Nedaleko, v parčíku na Tusarově ulici, mohou starší děti a dospělí vyzkoušet půltucet kovových cvičebních strojů (fit park).",
                 "SOCIALNI": "Voda ne, chemické WC.",
                 "OBCERSTVENI": "Na ulicích Komunardů a Tusarova najdete několik restaurací a mnoho drobných obchodů.",
                 "DOPRAVA": "Tramvaje č. 1, 14, 25, zastávka Tusarova. Parkovat můžete u hřiště, ale parkovací místa bývají v této lokalitě obsazena.",
@@ -305,7 +305,7 @@
             "id": "5",
             "mesto": "praha1",
             "kategorie": "vl5 vl6 vl7 vl8",
-            "properties": {           
+            "properties": {
                 "NAME": "Vrchlického sady (Hlavní nádraží)",
                 "INFO": "Před Hlavním nádražím vyrostlo moderní, rozsáhlé hřiště <b>(5)</b>, vhodné pro všechny věkové kategorie dětí.",
                 "POPIS": "Nalézá se na okraji parku (Vrchlického sady), od něhož je odděleno vysokým plotem, což dětem poskytuje dostatek klidu. Unikátní je vstup, který zajištuje brána otevíraná automaticky prostřednictvím tlačítek. Na hřišti najdeme pódium, kde se pořádají programy pro děti a menší stupňovité hlediště. Výčet herních prvků je bohatý, celkem jich můžeme napočítat kolem 20. Jedná se např. o lanovou pyramidu a síť, visutý most, dům labyrint, loď atd. Vyhledávanou atrakci představuje lanovka, dlouhá kolem 15 m. Jsou zde i dvě pumpy, WC, hodiny a budka správce. Povrch hřiště tvoří písek, kačírek a pryžové desky. V areálu roste i několik vzrostlých stromů. Některé atrakce jsou chráněny před přímým sluncem prostřednictvím zatahovacích plachet na vodících lištách. O to se stará správce. ",
@@ -496,7 +496,7 @@
                 "DOPORUCENI": "Protože k životnímu cyklu patří také smrt, projděte se s dětmi po starém hřbitově v sousedství. Celý rok zde panuje příšeří, hroby zarůstá břečťan a místo dýchá neopakovatelnou atmosférou.",
                 "SOCIALNI": "Voda ano, WC ano.",
                 "OBCERSTVENI": "Správce hřiště prodává chlazené nápoje a zmrzliny. ",
-                "DOPRAVA": "Metro A, tramvaje č. 5, 10, 13, 16, 26, autobusy č. 124, 139, 150, 163, 188, 213, 297, vše zastávka Želivského. Pak asi 500 m pěšky podél hřbitovní zdi. Parkování v přilehlých ulicích.",
+                "DOPRAVA": "Metro A, tramvaje č. 5, 10, 11, 13, 16, 26, autobusy č. 124, 139, 150, 163, 188, 213, 297, vše zastávka Želivského. Pak asi 500 m pěšky podél hřbitovní zdi. Parkování v přilehlých ulicích.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -519,7 +519,7 @@
                 "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>. Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
                 "SOCIALNI": "Voda ano - Vítkov 2 (hřiště <b>13.B</b>), WC ne (možnost využít toaletu v Památníku).",
                 "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
-                "DOPRAVA": "Tramvaje č. 1, 9, autobusy č. 133, 136, 207 vše zastávka Ohrada. V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, autobusy č. 133, 136, 207 vše zastávka Ohrada.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
                 "GALERIE": 2
             },
             "geometry": {
@@ -542,7 +542,7 @@
                 "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>. Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
                 "SOCIALNI": "Voda ano - Vítkov 2 (hřiště <b>13.B</b>), WC ne (možnost využít toaletu v Památníku).",
                 "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
-                "DOPRAVA": "Tramvaje č. 1, 9, autobusy č. 133, 136, 207 vše zastávka Ohrada. V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, autobusy č. 133, 136, 207 vše zastávka Ohrada.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
                 "GALERIE": 3
             },
             "geometry": {
@@ -565,7 +565,7 @@
                 "DOPORUCENI": "Výlet je možné zpestřit návštěvou Památníku s obří jezdeckou sochou Jana Žižky. Další informace: <a href='http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html' target='_blank'>www.nm.cz</a>. Zajímavější, než návštěva Památníku, ale pro děti asi bude „Armádní muzeum Žižkov“ dokumentující převážně vojenskou historii 1. poloviny 20. století. Více na: <a href='http://www.vhu.cz/muzea/zakladni-informace-o-am-zizkov/' target='_blank'>www.vhu.cz</a> ",
                 "SOCIALNI": "Voda ano - Vítkov 2 (hřiště <b>13.B</b>), WC ne (možnost využít toaletu v Památníku).",
                 "OBCERSTVENI": "Na střeše Památníku je kavárna s terasou a krásným výhledem na Prahu. Velký výběr restaurací nabízí Koněvova třída.",
-                "DOPRAVA": "Tramvaje č. 1, 9, autobusy č. 133, 136, 207 vše zastávka Ohrada. V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, autobusy č. 133, 136, 207 vše zastávka Ohrada.  V Koněvově ulici, u zastávky autobusu, leží menší parkoviště. Parkoviště najdete také  u Památníku. Vjezd však mají povolen auta pouze se souhlasem MHMP.",
                 "GALERIE": 4
             },
             "geometry": {
@@ -680,7 +680,7 @@
                 "DOPORUCENI": "Na Andělu navštivte s dětmi unikátní soubor modelových kolejišť, nádraží nebo model Prahy v měřítku 1:1000. Více informací na: <a href='http://www.kralovstvi-zeleznic.cz/' target='_blank'>www.kralovstvi-zeleznic.cz</a> ",
                 "SOCIALNI": "Voda ne, chemické WC.",
                 "OBCERSTVENI": "V ulici Vltavská naleznete několik restaurací. Bohaté možnosti stravování ovšem nabízí celá lokalita Anděla.",
-                "DOPRAVA": " Metro B, tramvaje č.&nbsp;&nbsp;4, 6, 7, 9, 10, 12, 14, 16, 20, autobusy č. 167, 191, vše stanice Anděl, nebo tramvaje č.&nbsp;4, 7, 14, zastávka Zborovská. Doporučujeme parkování v garážích nákupního centra Nový Smíchov.",
+                "DOPRAVA": "Metro B, tramvaje č.&nbsp;4, 6, 7, 9, 10, 12, 14, 16, 20, autobusy č. 167, 191, vše stanice Anděl, nebo tramvaje č.&nbsp;4, 7, 10, 14, 16 zastávka Zborovská. Doporučujeme parkování v garážích nákupního centra Nový Smíchov.",
                 "GALERIE": 5
             },
             "geometry": {
@@ -749,7 +749,7 @@
                 "DOPORUCENI": "Pár set metrů od hřiště se nachází rozsáhlý komplex České zemědělské univerzity. Před budovou Agronomické fakulty mohou děti obdivovat sluneční hodiny z leštěné žuly a za budovou Rektorátu najdete růžovou a japonskou zahradu. Obdivovat můžete spojení kamenů a jehličnanů. Hned vedle uvidíte umělé jezírko, kde žijí mj. japonští kapři a v létě jsou v provozu vodotrysky.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "U zastávky autobusu Výhledské náměstí jsou potraviny, na nedalekém Brandejském náměstí můžete navštívit creperii s kavárnou. Najíst se lze rovněž v areálu vysokoškolské menzy (cca 100 m od japonské zahrady), kde jsou restaurace.",
-                "DOPRAVA": "Autobusy č. 147 a 160, zastávka Výhledské náměstí nebo č. 107 a 160, stanice Zemědělská univerzita a dojít pár set metrů pěšky. Zaparkovat můžete u hřiště.",
+                "DOPRAVA": "Autobusy č. 147, 160, 359 zastávka Výhledské náměstí nebo č. 107, 147, 160, 359 stanice Zemědělská univerzita a dojít pár set metrů pěšky. Zaparkovat můžete u hřiště.",
                 "GALERIE": 8
             },
             "geometry": {
@@ -841,7 +841,7 @@
                 "DOPORUCENI": "Pokud vaše děti mají kola BMX neváhejte a navštivte velký areál určený pro jízdu na těchto kolech. Areál se rozkládá cca 100 metrů od dětského hřiště-křižovatka ulic U Boroviček a Ke Kulturnímu domu. V úterý až čtvrtek od 15 do 19 hodin bývá areál z důvodu tréninku sportovního klubu uzavřen! A na louce,&nbsp;v bezprostřední blízkosti areálu BMX, uvidíte tabuli č. 16, která je součástí naučné stezky vedoucí lokalitou Řepy-tzv. Řepská naučná stezka.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "U zastávky autobusu Selských baterií najdete restauraci. Další možnosti poskytuje nákupní areál u&nbsp;křižovatky ulic Makovského a Slánské.",
-                "DOPRAVA": " Autobus č. 264, zastávka Selských baterií nebo zastávka autobusů č. 108, 214, 225, 264, 347 a tramvaje č.&nbsp;22 a 25, vše stanice Bílá Hora. Parkování je možné u hřiště a areálu BMX.",
+                "DOPRAVA": "Autobus č. 264, zastávka Selských baterií nebo zastávka autobusů č. 108, 264, 347 a tramvaj č.&nbsp;22, vše stanice Bílá Hora. Parkování je možné u hřiště a areálu BMX.",
                 "GALERIE": 10
             },
             "geometry": {
@@ -864,7 +864,7 @@
                 "DOPORUCENI": "Jděte parkem směrem k Vítěznému náměstí. Odměněni budete půltuctem soch a plastik, jako: „Vzduchoplavec“, „EL Niňo“ nebo „Malý Marťan“. Více se o koncepci parku dozvíte z informační tabule, kterou najdete v blízkosti prvků pro starší děti.",
                 "SOCIALNI": "Voda ano (hydrant v parku). WC ne.",
                 "OBCERSTVENI": "V dolní části parku stojí samoobslužná restaurace s terasou. U stanice tramvaje je prodejna potravin.",
-                "DOPRAVA": "Tramvaje č. 2, 20, 26, stanice Hadovka. Parkovat lze u parku. Avšak v pracovní dny bývají parkovací místa zaplněná.",
+                "DOPRAVA": "Tramvaje č. 20, 26, stanice Hadovka. Parkovat lze u parku. V pracovní den bývají ale ulice díky velkému množství aut zaměstnanců okolních kanceláří zaplněné.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -910,7 +910,7 @@
                 "DOPORUCENI": "Na vltavském rameni jsou hejna vodních ptáků, takže nezapomeňte pečivo. A pokud se na návštěvu vypravíte na podzim, doporučujeme sáček na kaštany. Děti jich v Thomayerových sadech najdou opravdu hodně.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "U vstupu do sadů stojí stánek rychlého občerstvení. Lepší je ale využít nabídku „Pizzerie U Divadla“ v Zenklově ulici, kde mají dětský koutek a model Libeňského zámečku.",
-                "DOPRAVA": "Metro B, tramvaje č. 1, 3, 8, 10, 12, 16, 25, autobus č. 109 vše stanice Palmovka. Parkování možné u závory, před vstupem do Thomayerových sadů.",
+                "DOPRAVA": "Metro B, tramvaje č. 1, 3, 8, 10, 12, 16, 25, autobusy č. 109, 140, 185, 302,  vše stanice Palmovka. Parkování možné u závory, před vstupem do Thomayerových sadů.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -933,7 +933,7 @@
                 "DOPORUCENI": "Na vltavském rameni jsou hejna vodních ptáků, takže nezapomeňte pečivo. A pokud se na návštěvu vypravíte na podzim, doporučujeme sáček na kaštany. Děti jich v Thomayerových sadech najdou opravdu hodně.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "U vstupu do sadů stojí stánek rychlého občerstvení. Lepší je ale využít nabídku „Pizzerie U Divadla“ v Zenklově ulici, kde mají dětský koutek a model Libeňského zámečku.",
-                "DOPRAVA": "Metro B, tramvaje č. 1, 3, 8, 10, 12, 16, 25, autobus č. 109 vše stanice Palmovka. Parkování možné u závory, před vstupem do Thomayerových sadů.",
+                "DOPRAVA": "Metro B, tramvaje č. 1, 3, 8, 10, 12, 16, 25, autobusy č. 109, 140, 185, 302,  vše stanice Palmovka. Parkování možné u závory, před vstupem do Thomayerových sadů.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -1140,7 +1140,7 @@
                 "DOPORUCENI": "Návštěva parku je vhodná pro celou rodinu, zvláště pak pro zvídavé děti i dospělé. Mladší zaujmou především vodní atrakce, takže pro návštěvu je vhodné zvolit slunečný den a nezapomenout ručník!",
                 "SOCIALNI": "Voda ano, WC ano.",
                 "OBCERSTVENI": "Nedaleko autobusové zastávky Plaňanská najdete restauraci a pizzerii jako rychlé občerstvení.",
-                "DOPRAVA": "Stanice autobusů č. 133,163,188, 297 zastávka Plaňanská. Parkování v okolních ulicích.",
+                "DOPRAVA": "Stanice autobusů č. 133,163,188, zastávka Plaňanská. Parkování v okolních ulicích.",
                 "GALERIE": 14
             },
             "geometry": {
@@ -1209,7 +1209,7 @@
                 "DOPORUCENI": "V blízkosti hlavního vstupu, u zdi obory a ulice Na Vypichu, leží dopravní a dětské hřiště <b>(25.C)</b>, které je prioritně určené k dopravní výchově dětí ZŠ Praha 6. Dětské atrakce jsou rozptýleny na několika místech areálu. Zkusit lze lanovku, lezeckou stěnu a pyramidu, multifunkční sestavy, houpačky, kolotoč, fitness prvky nebo stůl na ping-pong. Pod atrakcemi leží kačírek, písek nebo roste tráva. Část plochy zastiňují stromy. Kromě toho je součástí areálu hřiště s umělým povrchem a basketbalovými koši. V areálu stojí také zděný objekt DDM Praha 6. Pro veřejnost je areál otevřen odpoledne a o víkendech. Část roku je ale zavřeno úplně. Více informací najdete na: <a href='http://www.ddmp6.cz/dopravni-hriste/' target='_blank'>www.ddmp6.cz</a>",
                 "SOCIALNI": "Voda ne, po areálu obory je rozmístěno několik chemických WC.",
                 "OBCERSTVENI": "U vstupu z ulice U Hvězdy se nachází restaurace se zahrádkou.",
-                "DOPRAVA": "Tramvaje č. 1, 2, 18 a autobusy č. 179, 191, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
+                "DOPRAVA": "Metro A, tramvaje č. 1, 18, autobusy č. 108, 168, 191, 264, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
                 "GALERIE": 4
             },
             "geometry": {
@@ -1232,7 +1232,7 @@
                 "DOPORUCENI": "V blízkosti hlavního vstupu, u zdi obory a ulice Na Vypichu, leží dopravní a dětské hřiště <b>(25.C)</b>, které je prioritně určené k dopravní výchově dětí ZŠ Praha 6. Dětské atrakce jsou rozptýleny na několika místech areálu. Zkusit lze lanovku, lezeckou stěnu a pyramidu, multifunkční sestavy, houpačky, kolotoč, fitness prvky nebo stůl na ping-pong. Pod atrakcemi leží kačírek, písek nebo roste tráva. Část plochy zastiňují stromy. Kromě toho je součástí areálu hřiště s umělým povrchem a basketbalovými koši. V areálu stojí také zděný objekt DDM Praha 6. Pro veřejnost je areál otevřen odpoledne a o víkendech. Část roku je ale zavřeno úplně. Více informací najdete na: <a href='http://www.ddmp6.cz/dopravni-hriste/' target='_blank'>www.ddmp6.cz</a>",
                 "SOCIALNI": "Voda ne, po areálu obory je rozmístěno několik chemických WC.",
                 "OBCERSTVENI": "U vstupu z ulice U Hvězdy se nachází restaurace se zahrádkou.",
-                "DOPRAVA": "Tramvaje č. 1, 2, 18 a autobusy č. 179, 191, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
+                "DOPRAVA": "Metro A, tramvaje č. 1, 18, autobusy č. 108, 168, 191, 264, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -1255,7 +1255,7 @@
                 "DOPORUCENI": "V blízkosti hlavního vstupu, u zdi obory a ulice Na Vypichu, leží dopravní a dětské hřiště <b>(25.C)</b>, které je prioritně určené k dopravní výchově dětí ZŠ Praha 6. Dětské atrakce jsou rozptýleny na několika místech areálu. Zkusit lze lanovku, lezeckou stěnu a pyramidu, multifunkční sestavy, houpačky, kolotoč, fitness prvky nebo stůl na ping-pong. Pod atrakcemi leží kačírek, písek nebo roste tráva. Část plochy zastiňují stromy. Kromě toho je součástí areálu hřiště s umělým povrchem a basketbalovými koši. V areálu stojí také zděný objekt DDM Praha 6. Pro veřejnost je areál otevřen odpoledne a o víkendech. Část roku je ale zavřeno úplně. Více informací najdete na: <a href='http://www.ddmp6.cz/dopravni-hriste/' target='_blank'>www.ddmp6.cz</a>",
                 "SOCIALNI": "Voda ne, po areálu obory je rozmístěno několik chemických WC.",
                 "OBCERSTVENI": "U vstupu z ulice U Hvězdy se nachází restaurace se zahrádkou.",
-                "DOPRAVA": "Tramvaje č. 1, 2, 18 a autobusy č. 179, 191, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
+                "DOPRAVA": "Metro A, tramvaje č. 1, 18, autobusy č. 108, 168, 191, 264, vše zastávka Petřiny. Parkování kolem náměstí Heyrovského.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -1531,7 +1531,7 @@
                 "DOPORUCENI": "Návštěvu tohoto hřiště lze spojit procházkou s hřištěm na Butovické ulici <b>(51)</b>.",
                 "SOCIALNI": "Voda ne, chemické WC.",
                 "OBCERSTVENI": "Zázemí stanice metra Jinonice.",
-                "DOPRAVA": "Metro B, autobusy č. 137 a 176, stanice Jinonice. Parkování v ulicích okolo hřišť.",
+                "DOPRAVA": "Metro B, autobusy č. 137, 143,  stanice Jinonice. Parkování v ulicích okolo hřišť.",
                 "GALERIE": 5
             },
             "geometry": {
@@ -1577,7 +1577,7 @@
                 "DOPORUCENI": "Pokud nemáte dost času k návštěvě obou vnitrobloků, zajímavější je patrně ten u Amforové ulice.",
                 "SOCIALNI": "Voda ne. WC ne.",
                 "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
-                "DOPRAVA": "Autobusy č. 174, 214, 225, 230, 249, 256, 301, 352, vše zastávka Amforová. Parkovat lze v ulicích sídliště.",
+                "DOPRAVA": "Autobusy č. 142, 174, 179, 230, 255, 301, 352, vše zastávka Amforová. Parkovat lze v ulicích sídliště.",
                 "GALERIE": 10
             },
             "geometry": {
@@ -1600,7 +1600,7 @@
                 "DOPORUCENI": "Pokud nemáte dost času k návštěvě obou vnitrobloků, zajímavější je patrně ten u Amforové ulice.",
                 "SOCIALNI": "Voda ne. WC ne.",
                 "OBCERSTVENI": "Zázemí stanice metra Lužiny.",
-                "DOPRAVA": "Autobusy č. 174, 214, 225, 230, 249, 256, 301, 352, vše zastávka Amforová. Parkovat lze v ulicích sídliště.",
+                "DOPRAVA": "Autobusy č. 142, 174, 179, 230, 255, 301, 352, vše zastávka Amforová. Parkovat lze v ulicích sídliště.",
                 "GALERIE": 6
             },
             "geometry": {
@@ -1715,7 +1715,7 @@
                 "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
                 "SOCIALNI": "Voda ano - hydrant - hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
                 "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
-                "DOPRAVA": "Tramvaje č. 1, 9, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
                 "GALERIE": 2
             },
             "geometry": {
@@ -1738,7 +1738,7 @@
                 "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
                 "SOCIALNI": "Voda ano - hydrant - hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
                 "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
-                "DOPRAVA": "Tramvaje č. 1, 9, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
                 "GALERIE": 4
             },
             "geometry": {
@@ -1761,7 +1761,7 @@
                 "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
                 "SOCIALNI": "Voda ano - hydrant - hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
                 "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
-                "DOPRAVA": "Tramvaje č. 1, 9, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
                 "GALERIE": 1
             },
             "geometry": {
@@ -1783,7 +1783,7 @@
                 "DOPORUCENI": "Máte-li rádi tramvaje, v ulici Na Vápence se rozkládá areál Vozovny Žižkov. Občas zde pořádají dny otevřených dveří.",
                 "SOCIALNI": "Voda ano - hydrant - hřiště <b>59.A</b>, druhý na okraji parku (blízko dopravního hřiště), chemické WC u hřiště <b>59.B</b>.",
                 "OBCERSTVENI": "Na Koněvově ulici a třídě Jana Masaryka se nachází restaurace i obchody.",
-                "DOPRAVA": "Tramvaje č. 1, 9, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
+                "DOPRAVA": "Tramvaje č. 1, 9, 11, zastávka Strážní. Parkování v ulicích kolem parku, ale parkovací místa bývají plná!",
                 "GALERIE": 3
             },
             "geometry": {
@@ -1806,7 +1806,7 @@
                 "DOPORUCENI": "V areálu Chodovské tvrze se pořádají výstavy, koncerty, hrají se představení pro děti atd. <br>Více informací na: <a href='http://www.chodovskatvrz.cz/' target='_blank'>www.chodovskatvrz.cz</a> ",
                 "SOCIALNI": "Voda ano - hydrant, chemické WC.",
                 "OBCERSTVENI": "Restaurace Pavlovín v areálu.",
-                "DOPRAVA": "Autobusy č. 170, 177, 181, 197, zastávka Benkova. Parkování u tvrze.",
+                "DOPRAVA": "Autobusy č. 170 a 197, zastávka Benkova. Parkování u tvrze.",
                 "GALERIE": 11
             },
             "geometry": {
@@ -1829,7 +1829,7 @@
                 "DOPORUCENI": "Pokud hrajete bowling, kousek od zastávky Blatiny můžete využít bowlingové centrum spojené s restaurací.",
                 "SOCIALNI": "Voda ano, WC ano.",
                 "OBCERSTVENI": "U zastávky tramvají Blatiny najdete restaurace, cukrárnu, pekárnu, supermarket atd.",
-                "DOPRAVA": "Tramvaje č. 9, 10, autobus č. 180, zastávka Blatiny. Parkování u hřiště.",
+                "DOPRAVA": "Tramvaje č. 9, 10, 16, autobus č. 180, zastávka Blatiny. Parkování u hřiště.",
                 "GALERIE": 9
             },
             "geometry": {
@@ -2105,7 +2105,7 @@
                 "DOPORUCENI": "U hřiště se nachází tenisový areál. Tvoří ho cca deset antukových kurtů a nafukovací hala. K výhodám patří další, byť malé dětské hřiště pro nejmenší. Pokud si budete chtít zahrát tenis, mohou se zde malé děti dobře zabavit. V prostorách komplexu se také nabízí občerstvení.",
                 "SOCIALNI": "Voda ne, chemické WC (vně hřiště na Butovické ulici)",
                 "OBCERSTVENI": "U autobusové zastávky Karlštejnská stojí restaurace a několik malých obchodů.",
-                "DOPRAVA": "Autobus 176, zastávka Karlštejnská. Parkování v ulicích nebo u tenisového areálu.",
+                "DOPRAVA": "Autobus 143, zastávka Karlštejnská. Parkování v ulicích nebo u tenisového areálu.",
                 "GALERIE": 5
             },
             "geometry": {
@@ -2266,7 +2266,7 @@
                 "DOPORUCENI": "V bezprostřední blízkosti hřiště <b>60.A</b> se nachází areál DDM Ulita. Kromě pronájmu sportovišť si v recepci lze vypůjčit talíře na freesbee. Ty pak využijete na pěkném hřišti na discgolf, které leží na okraji lesoparku, hned pod areálem DDM. Discgolf mohou hrát všichni. Místo jamek jsou nainstalovány zvláštní koše. Hod znesnadňují vzrostlé stromy. Více informací o otvírací době DDM najdete na jejich webu: <a href='http://www.ulita.cz/' target='_blank'>www.ulita.cz</a><br />Pro ty, kteří rádi plavou, pak doporučujeme návštěvu krytého a venkovního bazénu Pražačka",
                 "SOCIALNI": "Voda ano - hydrant, chemické WC - obé u hřiště <b>60.A</b>.",
                 "OBCERSTVENI": "U tramvajové zastávky Strážní se nachází několik restaurací i drobné obchody.",
-                "DOPRAVA": "Stanice tramvají č. 1, 9, zastávka Strážní. Parkování u DDM Ulita.",
+                "DOPRAVA": "Stanice tramvají č. 1, 9, 11, zastávka Strážní. Parkování u DDM Ulita.",
                 "GALERIE": 5
             },
             "geometry": {
@@ -2289,7 +2289,7 @@
                 "DOPORUCENI": "V bezprostřední blízkosti hřiště <b>60.A</b> se nachází areál DDM Ulita. Kromě pronájmu sportovišť si v recepci lze vypůjčit talíře na freesbee. Ty pak využijete na pěkném hřišti na discgolf, které leží na okraji lesoparku, hned pod areálem DDM. Discgolf mohou hrát všichni. Místo jamek jsou nainstalovány zvláštní koše. Hod znesnadňují vzrostlé stromy. Více informací o otvírací době DDM najdete na jejich webu: <a href='http://www.ulita.cz/' target='_blank'>www.ulita.cz</a><br />Pro ty, kteří rádi plavou, pak doporučujeme návštěvu krytého a venkovního bazénu Pražačka",
                 "SOCIALNI": "Voda ano - hydrant, chemické WC - obé u hřiště <b>60.A</b>.",
                 "OBCERSTVENI": "U tramvajové zastávky Strážní se nachází několik restaurací i drobné obchody.",
-                "DOPRAVA": "Stanice tramvají č. 1, 9, zastávka Strážní. Parkování u DDM Ulita.",
+                "DOPRAVA": "Stanice tramvají č. 1, 9, 11, zastávka Strážní. Parkování u DDM Ulita.",
                 "GALERIE": 3
             },
             "geometry": {
@@ -2496,7 +2496,7 @@
                 "DOPORUCENI": "Protože žádné z hřišť není dominantní, ideální variantou je projít všechna.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "Sídlištní nákupní komplex u stanice autobusu Červeňanského.",
-                "DOPRAVA": "Autobusy č. 174, 235 zastávka Velká Ohrada nebo Červeňanského. Parkovat lze v ulicích sídliště.",
+                "DOPRAVA": "Autobusy č. 142, 174, 184 zastávka Velká Ohrada nebo Červeňanského. Parkovat lze v ulicích sídliště.",
                 "GALERIE": 7
             },
             "geometry": {
@@ -2519,7 +2519,7 @@
                 "DOPORUCENI": "Protože žádné z hřišť není dominantní, ideální variantou je projít všechna.",
                 "SOCIALNI": "Voda ne, WC ne.",
                 "OBCERSTVENI": "Sídlištní nákupní komplex u stanice autobusu Červeňanského.",
-                "DOPRAVA": "Autobusy č. 174, 235 zastávka Velká Ohrada nebo Červeňanského. Parkovat lze v ulicích sídliště.",
+                "DOPRAVA": "Autobusy č. 142, 174, 184 zastávka Velká Ohrada nebo Červeňanského. Parkovat lze v ulicích sídliště.",
                 "GALERIE": 4
             },
             "geometry": {
@@ -2611,7 +2611,7 @@
                 "DOPORUCENI": "Pokud budete mít více času, navštivte upravený Malešický park s vodními a akustickými atrakcemi (lokalita <b>33</b>). U stanice autobusu Plaňanská pak stojí informační tabule s mapou naučné stezky svatého Josefa, která vás provede zajímavými místy Malešic.",
                 "SOCIALNI": "Vod ne, WC ne. Sociální zařízení lze v pracovní dny použít v prostorách blízké polikliniky.",
                 "OBCERSTVENI": "Nedaleko autobusové zastávky Plaňanská leží restaurace a pizzerie jako rychlé občerstvení („pizza do krabice“).",
-                "DOPRAVA": "Autobusy č. 133, 163, 188, 297, zastávka Plaňanská. Parkování před poliklinikou Malešice.",
+                "DOPRAVA": "Autobusy č. 133, 163, 188, zastávka Plaňanská. Parkování před poliklinikou Malešice.",
                 "GALERIE": 9
             },
             "geometry": {
@@ -2818,7 +2818,7 @@
                 "DOPORUCENI": "V lesoparku, nedaleko hřiště <b>(56.B)</b>, můžete navštívit unikátní lanové centrum. Překážky jsou umístěné přímo v korunách stromů. Více informací na: <a href='http://www.ilanac.cz/' target='_blank'>www.ilanac.cz</a>.<br />V blízkém areálu Hostivařského koupaliště najdete několik hřišť, půjčovnu lodiček, pláže, občerstvení atd. Více na: <a href='http://www.hostivarskaprehrada.cz' target='_blank'>www.hostivarskaprehrada.cz</a>.",
                 "SOCIALNI": "Voda ne, WC ne (kromě areálu koupaliště).",
                 "OBCERSTVENI": "Nejbližší možnost představuje bistro u koupaliště.",
-                "DOPRAVA": "Autobusy č. 177 a 181, zastávka K Obecním hájovnám. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka Jižní Město - autobusy č. 136, 165, 170 a 213. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
+                "DOPRAVA": "Autobus č. 181, zastávka K Obecním hájovnám. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka Jižní Město - autobusy č. 136, 165, 170 a 213. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
                 "GALERIE": 4
             },
             "geometry": {
@@ -2841,7 +2841,7 @@
                 "DOPORUCENI": "V lesoparku, nedaleko hřiště <b>(56.B)</b>, můžete navštívit unikátní lanové centrum. Překážky jsou umístěné přímo v korunách stromů. Více informací na: <a href='http://www.ilanac.cz/' target='_blank'>www.ilanac.cz</a>.<br />V blízkém areálu Hostivařského koupaliště najdete několik hřišť, půjčovnu lodiček, pláže, občerstvení atd. Více na: <a href='http://www.hostivarskaprehrada.cz' target='_blank'>www.hostivarskaprehrada.cz</a>.",
                 "SOCIALNI": "Voda ne, WC ne (kromě areálu koupaliště).",
                 "OBCERSTVENI": "Nejbližší možnost představuje bistro u koupaliště.",
-                "DOPRAVA": "Autobusy č. 177 a 181, zastávka K Obecním hájovnám. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka Jižní Město - autobusy č. 136, 165, 170 a 213. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
+                "DOPRAVA": "Autobus č. 181, zastávka K Obecním hájovnám. Pokud byste chtěli navštívit pouze druhé hřiště, koupaliště a lanové centrum, je bližší zastávka Jižní Město - autobusy č. 136, 165, 170 a 213. U lanového centra a koupaliště se nachází parkoviště (ulice K Jezeru - příjezd od Hostivaře).",
                 "GALERIE": 7
             },
             "geometry": {
@@ -2910,7 +2910,7 @@
                 "DOPORUCENI": "Příjemné osvěžení může přinést návštěva aqua a fitness centra Lagoon, které je vzdálené cca 300 m. Bližší informace na: <a href='http://www.letnanylagoon.cz' target='_blank'>www.letnanylagoon.cz</a>.",
                 "SOCIALNI": "Voda ano - hydrant vně areálu (v době naší návštěvy - srpen 2013 mimo provoz), chemické WC.",
                 "OBCERSTVENI": "Širokou škálu občerstvení nabízí Obchodní centrum Letňany, vzdálené asi 500 m. Je zde několik restaurací, řetězce rychlého občerstvení i dětský koutek.",
-                "DOPRAVA": "Autobusy 110, 140, 195, 201, 269, 351, 365, 377, stanice Tupolevova. U zastávky se nachází parkoviště.",
+                "DOPRAVA": "Autobusy 110, 140, 195, 201, 269, 351, 377, stanice Tupolevova. U zastávky se nachází parkoviště.",
                 "GALERIE": 10
             },
             "geometry": {
