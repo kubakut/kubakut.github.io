@@ -3104,6 +3104,76 @@
                     49.9716906
                 ]
             }
-        }
+        },
+ {
+      "type": "Feature",
+      "id": "85.A",
+      "mesto": "praha5",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Prokopské údolí a Dalejské údolí - hřiště 85.A",
+        "INFO": "Máte chuť na půldenní výlet? Jezdíte rádi na kole? Chcete dětem ukázat domácí zvířata? Hrají si děti rády v zeleni? Zajímá vás geologie? Brouzdají se vaše děti rády v potoce? Pokud něco z toho platí, navštivte Prokopské a Dalejské údolí (<b>85</b>).",
+        "POPIS": "<p>Pokud si chcete výlet užít celý, doporučujeme využít vlak a vystoupit na zastávce Praha Holyně. 50 metrů od zastávky najdete zelenou turistickou značku, po které se vydáte zpátky, směrem do Hlubočep. Po několika stech metrech narazíte na chráněný geologický útvar s výskytem zkamenělin (Červený lom) a obdivovat budete příkré skalní srázy, balvanová moře a suťová pole. Zájemci o botaniku si mohou prohlédnout zástupce teplomilné květeny. Děti bude cesta bavit, už proto, že není obtížná a podél ní šumí Dalejský potok. </p><p>Po necelém kilometru se na louce, pod suťovými svahy rozkládá první hřiště (<b>85.A</b>). Na travnaté ploše uvidíte několik dřevěných atrakcí: 2 klasické houpačky, autíčka, vlak, menší domek se skluzavkou, kladinu na zemi a multifunkční sestavu se sítí a skluzavkou pojatou jako loď. Pod většími atrakcemi leží písek nebo kačírek. Posedět můžete kolem 3 stolů a na okraji louky si lze rozdělat oheň. Plocha postrádá stín. Ještě zajímavější, než atrakce bude pro některé děti potok, který se v tomto úseku rozlévá do větší šířky, takže proud je mírný a hloubka nevelká. K tomuto hřišti lze přiřadit rovněž nedaleké fitness prvky, na něž narazíte cca o 100 metrů dále. Jedná se o hrazdy a další jednoduchá zařízení k protažení těla. </p><p>Asi po 500 metrech přijdete k malému hřišťátku (<b>85.B</b>). Pod vysokým kaštanem se můžete na chvilku zastavit a sednout si kolem stolu. Děti zatím zkusí několik houpaček, skluzavku a pár drobných prvků-auto, vlak, kladinu na zemi. Kaštan poskytuje částečný stín. Pod atrakcemi leží kačírek a roste tráva.</p><p>O kousek dál se rozkládá krásná louka, na níž zřejmě majitel blízkého domu vykouzlit z prken a větví několik zvířat-velblouda, slona nebo psy. Součástí areálu je také výběh ovcí a koz, které můžete tvrdým pečivem krmit. Posedíte buď přímo na trávě nebo na několika lavičkách. Odtud je již kousek do Hlubočep. Než se dostanete do civilizace, nezapomeňte učinit kratinkou odbočku k prokopskému Jezírku. Jedná se o vápencový zatopený lom.</p><p>V Hlubočepích nepřehlédněte mohutný kamenný železniční viadukt. Od prvního hřiště vede celá trasa po asfaltce, která se báječně hodí pro nenáročný cyklistický výlet.</p>",
+        "DOPORUCENI": "Obě popisovaná hřiště bývají za slunečných dní plná dětí. Pokud chcete mít klid nebo nemáte čas projít trasu celou, navštivte hřiště nedaleko stanice autobusu Hlubočepská, kousek za železniční tratí (<b>85.C</b>). Z chodníku v Kosořské ulici musíte sejít po několika schodech). Na poměrně velké louce se rozkládá asi 10 dřevěných atrakcí: několik houpaček z mohutných klád, houpadla, 2 pískoviště, konstrukce s basketbalovými koši (ovšem nesprávné výšky) a 2 velké multifunkční sestavy se skluzavkami a opičím mostem ve formě lodí. Zaujmout mohou i odpadkové koše s namalovanými obličeji. Povrch hřiště je travnatý, pod atrakcemi leží písek. Interiér hřiště doplňují 2 zamčené dřevěné domky a chemické WC. Několik vzrostlých stromů poskytuje částečný stín. Za přednost lze pokládat fakt, že kolem hřiště stojí vysoký plot, částečně zarostlý zelení, takže dětem můžete poskytnout volnost, ale nemusíte se o ně bát. Pozor, v pracovní dny do 12. hodin je hřiště rezervováno pro místní mateřskou školku!</p>",
+        "SOCIALNI": "Voda ne, chemické WC na hřišti <b>85.C</b>. ",
+        "OBCERSTVENI": "Kolem stanice Hlubočepská se koncentruje několik zařízení - zahradní restaurace, kavárna, pizzerie, potraviny. ",
+        "DOPRAVA": "Pokud chcete absolvovat celou trasu, doporučujeme vlak, který vyjíždí ze stanice Smíchovské nádraží. Vystoupíte na zastávce Praha Holyně. Zpět k metru se dostanete ze zastávky Hlubočepská- autobus č. 120. Parkovat lze u viaduktu na Hlubočepské ulici.",
+        "GALERIE": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3605469,
+          50.0391714
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "85.B",
+      "mesto": "praha5",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Prokopské údolí a Dalejské údolí - hřiště 85.B",
+        "INFO": "Máte chuť na půldenní výlet? Jezdíte rádi na kole? Chcete dětem ukázat domácí zvířata? Hrají si děti rády v zeleni? Zajímá vás geologie? Brouzdají se vaše děti rády v potoce? Pokud něco z toho platí, navštivte Prokopské a Dalejské údolí (<b>85</b>).",
+        "POPIS": "<p>Pokud si chcete výlet užít celý, doporučujeme využít vlak a vystoupit na zastávce Praha Holyně. 50 metrů od zastávky najdete zelenou turistickou značku, po které se vydáte zpátky, směrem do Hlubočep. Po několika stech metrech narazíte na chráněný geologický útvar s výskytem zkamenělin (Červený lom) a obdivovat budete příkré skalní srázy, balvanová moře a suťová pole. Zájemci o botaniku si mohou prohlédnout zástupce teplomilné květeny. Děti bude cesta bavit, už proto, že není obtížná a podél ní šumí Dalejský potok. </p><p>Po necelém kilometru se na louce, pod suťovými svahy rozkládá první hřiště (<b>85.A</b>). Na travnaté ploše uvidíte několik dřevěných atrakcí: 2 klasické houpačky, autíčka, vlak, menší domek se skluzavkou, kladinu na zemi a multifunkční sestavu se sítí a skluzavkou pojatou jako loď. Pod většími atrakcemi leží písek nebo kačírek. Posedět můžete kolem 3 stolů a na okraji louky si lze rozdělat oheň. Plocha postrádá stín. Ještě zajímavější, než atrakce bude pro některé děti potok, který se v tomto úseku rozlévá do větší šířky, takže proud je mírný a hloubka nevelká. K tomuto hřišti lze přiřadit rovněž nedaleké fitness prvky, na něž narazíte cca o 100 metrů dále. Jedná se o hrazdy a další jednoduchá zařízení k protažení těla. </p><p>Asi po 500 metrech přijdete k malému hřišťátku (<b>85.B</b>). Pod vysokým kaštanem se můžete na chvilku zastavit a sednout si kolem stolu. Děti zatím zkusí několik houpaček, skluzavku a pár drobných prvků-auto, vlak, kladinu na zemi. Kaštan poskytuje částečný stín. Pod atrakcemi leží kačírek a roste tráva.</p><p>O kousek dál se rozkládá krásná louka, na níž zřejmě majitel blízkého domu vykouzlit z prken a větví několik zvířat-velblouda, slona nebo psy. Součástí areálu je také výběh ovcí a koz, které můžete tvrdým pečivem krmit. Posedíte buď přímo na trávě nebo na několika lavičkách. Odtud je již kousek do Hlubočep. Než se dostanete do civilizace, nezapomeňte učinit kratinkou odbočku k prokopskému Jezírku. Jedná se o vápencový zatopený lom.</p><p>V Hlubočepích nepřehlédněte mohutný kamenný železniční viadukt. Od prvního hřiště vede celá trasa po asfaltce, která se báječně hodí pro nenáročný cyklistický výlet.</p>",
+        "DOPORUCENI": "Obě popisovaná hřiště bývají za slunečných dní plná dětí. Pokud chcete mít klid nebo nemáte čas projít trasu celou, navštivte hřiště nedaleko stanice autobusu Hlubočepská, kousek za železniční tratí (<b>85.C</b>). Z chodníku v Kosořské ulici musíte sejít po několika schodech). Na poměrně velké louce se rozkládá asi 10 dřevěných atrakcí: několik houpaček z mohutných klád, houpadla, 2 pískoviště, konstrukce s basketbalovými koši (ovšem nesprávné výšky) a 2 velké multifunkční sestavy se skluzavkami a opičím mostem ve formě lodí. Zaujmout mohou i odpadkové koše s namalovanými obličeji. Povrch hřiště je travnatý, pod atrakcemi leží písek. Interiér hřiště doplňují 2 zamčené dřevěné domky a chemické WC. Několik vzrostlých stromů poskytuje částečný stín. Za přednost lze pokládat fakt, že kolem hřiště stojí vysoký plot, částečně zarostlý zelení, takže dětem můžete poskytnout volnost, ale nemusíte se o ně bát. Pozor, v pracovní dny do 12. hodin je hřiště rezervováno pro místní mateřskou školku!</p>",
+        "SOCIALNI": "Voda ne, chemické WC na hřišti <b>85.C</b>. ",
+        "OBCERSTVENI": "Kolem stanice Hlubočepská se koncentruje několik zařízení - zahradní restaurace, kavárna, pizzerie, potraviny. ",
+        "DOPRAVA": "Pokud chcete absolvovat celou trasu, doporučujeme vlak, který vyjíždí ze stanice Smíchovské nádraží. Vystoupíte na zastávce Praha Holyně. Zpět k metru se dostanete ze zastávky Hlubočepská- autobus č. 120. Parkovat lze u viaduktu na Hlubočepské ulici.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3767261,
+          50.0406733
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "id": "85.C",
+      "mesto": "praha5",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Prokopské údolí a Dalejské údolí - hřiště 85.C",
+        "INFO": "Máte chuť na půldenní výlet? Jezdíte rádi na kole? Chcete dětem ukázat domácí zvířata? Hrají si děti rády v zeleni? Zajímá vás geologie? Brouzdají se vaše děti rády v potoce? Pokud něco z toho platí, navštivte Prokopské a Dalejské údolí (<b>85</b>).",
+        "POPIS": "<p>Pokud si chcete výlet užít celý, doporučujeme využít vlak a vystoupit na zastávce Praha Holyně. 50 metrů od zastávky najdete zelenou turistickou značku, po které se vydáte zpátky, směrem do Hlubočep. Po několika stech metrech narazíte na chráněný geologický útvar s výskytem zkamenělin (Červený lom) a obdivovat budete příkré skalní srázy, balvanová moře a suťová pole. Zájemci o botaniku si mohou prohlédnout zástupce teplomilné květeny. Děti bude cesta bavit, už proto, že není obtížná a podél ní šumí Dalejský potok. </p><p>Po necelém kilometru se na louce, pod suťovými svahy rozkládá první hřiště (<b>85.A</b>). Na travnaté ploše uvidíte několik dřevěných atrakcí: 2 klasické houpačky, autíčka, vlak, menší domek se skluzavkou, kladinu na zemi a multifunkční sestavu se sítí a skluzavkou pojatou jako loď. Pod většími atrakcemi leží písek nebo kačírek. Posedět můžete kolem 3 stolů a na okraji louky si lze rozdělat oheň. Plocha postrádá stín. Ještě zajímavější, než atrakce bude pro některé děti potok, který se v tomto úseku rozlévá do větší šířky, takže proud je mírný a hloubka nevelká. K tomuto hřišti lze přiřadit rovněž nedaleké fitness prvky, na něž narazíte cca o 100 metrů dále. Jedná se o hrazdy a další jednoduchá zařízení k protažení těla. </p><p>Asi po 500 metrech přijdete k malému hřišťátku (<b>85.B</b>). Pod vysokým kaštanem se můžete na chvilku zastavit a sednout si kolem stolu. Děti zatím zkusí několik houpaček, skluzavku a pár drobných prvků-auto, vlak, kladinu na zemi. Kaštan poskytuje částečný stín. Pod atrakcemi leží kačírek a roste tráva.</p><p>O kousek dál se rozkládá krásná louka, na níž zřejmě majitel blízkého domu vykouzlit z prken a větví několik zvířat-velblouda, slona nebo psy. Součástí areálu je také výběh ovcí a koz, které můžete tvrdým pečivem krmit. Posedíte buď přímo na trávě nebo na několika lavičkách. Odtud je již kousek do Hlubočep. Než se dostanete do civilizace, nezapomeňte učinit kratinkou odbočku k prokopskému Jezírku. Jedná se o vápencový zatopený lom.</p><p>V Hlubočepích nepřehlédněte mohutný kamenný železniční viadukt. Od prvního hřiště vede celá trasa po asfaltce, která se báječně hodí pro nenáročný cyklistický výlet.</p>",
+        "DOPORUCENI": "Obě popisovaná hřiště bývají za slunečných dní plná dětí. Pokud chcete mít klid nebo nemáte čas projít trasu celou, navštivte hřiště nedaleko stanice autobusu Hlubočepská, kousek za železniční tratí (<b>85.C</b>). Z chodníku v Kosořské ulici musíte sejít po několika schodech). Na poměrně velké louce se rozkládá asi 10 dřevěných atrakcí: několik houpaček z mohutných klád, houpadla, 2 pískoviště, konstrukce s basketbalovými koši (ovšem nesprávné výšky) a 2 velké multifunkční sestavy se skluzavkami a opičím mostem ve formě lodí. Zaujmout mohou i odpadkové koše s namalovanými obličeji. Povrch hřiště je travnatý, pod atrakcemi leží písek. Interiér hřiště doplňují 2 zamčené dřevěné domky a chemické WC. Několik vzrostlých stromů poskytuje částečný stín. Za přednost lze pokládat fakt, že kolem hřiště stojí vysoký plot, částečně zarostlý zelení, takže dětem můžete poskytnout volnost, ale nemusíte se o ně bát. Pozor, v pracovní dny do 12. hodin je hřiště rezervováno pro místní mateřskou školku!</p>",
+        "SOCIALNI": "Voda ne, chemické WC na hřišti <b>85.C</b>. ",
+        "OBCERSTVENI": "Kolem stanice Hlubočepská se koncentruje několik zařízení - zahradní restaurace, kavárna, pizzerie, potraviny. ",
+        "DOPRAVA": "Pokud chcete absolvovat celou trasu, doporučujeme vlak, který vyjíždí ze stanice Smíchovské nádraží. Vystoupíte na zastávce Praha Holyně. Zpět k metru se dostanete ze zastávky Hlubočepská- autobus č. 120. Parkovat lze u viaduktu na Hlubočepské ulici.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3942892,
+          50.0399292
+        ]
+      }
+    }
+
     ]
 }
