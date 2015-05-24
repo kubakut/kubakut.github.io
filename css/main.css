@@ -9,6 +9,12 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.fixed-panel {
+              min-height: 600px;
+              max-height: 600px;
+              overflow-y: scroll;
+        }
+
 .text-muted {
     color: #777;
 }
@@ -127,7 +133,7 @@ fieldset[disabled] .btn-primary.active {
     font-weight: 700;
     color: #fff;
     background-color: #28A3F0;
-   
+
 }
 
 .btn-xl:hover,
@@ -273,7 +279,7 @@ header {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;   
+    -o-background-size: cover;
 }
 
 header .intro-text {
@@ -282,17 +288,17 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;    
+    margin-bottom: 25px;
     font-family: Calibri,sans-serif;
     font-size: 28px;
     font-style: italic;
     border: 2px;
     border-radius: 3px;
-    margin-right: auto; 
+    margin-right: auto;
     margin-left: auto;
     width: 34%;
-    
-    
+
+
 }
 
 header .intro-text .intro-heading {
@@ -317,7 +323,7 @@ header .intro-text .intro-heading {
         border: 2px;
         border-radius: 3px;
         font-style: italic;
-        
+
     }
 
     header .intro-text .intro-heading {
@@ -332,7 +338,7 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
-    border-top: 10px solid;    
+    border-top: 10px solid;
 }
 
 section h2.section-heading {
