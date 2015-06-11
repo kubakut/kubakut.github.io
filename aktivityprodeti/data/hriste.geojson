@@ -475,6 +475,25 @@
                     50.0833319
                 ]
             }
+        },
+{
+            "type": "Feature",
+            "id": "20",
+            "mesto": "nepraha",
+            "properties": {
+                "NAME": "Rodinné centrum Milovice",
+                "AKTIVITY": "<p>Rodinné centrum vytváří veřejný prostor, kde se setkávají rodiče, děti, nově přistěhovaní obyvatelé z různých koutů republiky, lidé z různých etnických skupin, cizinci, ateisté i věřící, lidé různého věku a s různými handicapy.</p><p>Nabízí preventivní programy na podporu rodiny – kontinuální kurz péče o novorozence        a batolata (čt a pá od 9 do 12 hod.), volné herny pro rodiče s dětmi, přednášky a besedy zaměřené na rozvoj rodičovských kompetencí (vývoj a výchova dětí),  kurzy - efektivní rodičovští, škola lásky v rodině a předporodní kurz atd.</p><p>Volnočasové aktivity pro děti – kroužky – dětský folklórní soubor Mlynařice, keramický atd. podle aktuální nabídky.</p><p>Volnočasové aktivity pro celé rodiny – Slavnost rodin (květen), Cesta pohádkovým lesem (září).</p><p>Ostatní – bazary dětského a těhotenského ošacení (březen, září), půjčovna kojeneckých potřeba a dalších pomůcek pro děti.</p>",
+"KONTAKTY": "<p>nám. 30. června 507, Milovice</p><p>e-mail: <a href='mailto:info@rcmilovice.cz'>info@rcmilovice.cz</a>, telefon: + 420 728 656 530, <a href='http://www.rcmilovice.cz/' target='_blank'>www.rcmilovice.cz</a>,</p>",
+"ODOBA": "<p><strong>Otevírací doba:</strong></p><p>Pondělí až čtvrtek: 9:00 – 18:00</p><p>Pátek: 9:00 - 12:00</p><p>Podrobný program nepravidelných programů a akcí na <a href='http://www.rcmilovice.cz/' target='_blank'>www.rcmilovice.cz</a></p>",
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8769903,
+                    50.2290625
+                ]
+            }
         }
     ]
 }
