@@ -494,6 +494,44 @@
                     50.2290625
                 ]
             }
+        },
+{
+            "type": "Feature",
+            "id": "21",
+            "mesto": "praha9",
+            "properties": {
+                "NAME": "Veselý čertík",
+                "AKTIVITY": "<p>Veselý čertík je nejen mateřské centrum, ale i rodinný klub, který nabízí široké spektrum aktivit pro děti a jejich rodiče. Zaměřujeme se zejména na organizování pravidelných kroužků a kurzů, rovněž pořádáme jednorázové akce pro děti i rodiče. Součástí klubu je i velká herna    a posezení pro rodiče, které má tu správnou klubovou atmosféru.</p><p>Velmi rádi vás přivítáme v našem klubu a budeme rádi, když se stanete jeho součástí. Neváhejte tedy vystrčit své růžky a přijďte mezi nás.</p><p><strong>Nabídka našich pravidelných aktivit:</strong></p><p>Cvičení s miminky, Hrátky s batolátky, Čertovský kombomix, Dětská jóga, Divadelní přípravka, Dětský sboreček „Čertíci“, Baletní přípravka, Výtvarka v pohybu, Montessori pracovna, Playground english, HŠ Yamaha class, Krůček do školky, Letní příměstské tábory, Logopedická poradna.</p><p>Jednorázové aktivity pro děti i rodiče: Malá čtení v rámci kampaně „Celé Česko čte dětem“ , Karneval, Haloween, Mikulášskou, Večerní tvoření a semináře, Dětský bazar – jarní a podzimní a další.</p>",
+"KONTAKTY": "<p>Národních hrdinů 3 ( 2.p. nad restaurací Léta Páně), Praha 9 – Dolní Počernice</p><p>e-mail: <a href='mailto:info@veselycertik.cz '>info@veselycertik.cz </a>, telefon: + 420 725 555 321 – Ilona Dušková, <a href='http://www.veselycertik.cz/' target='_blank'>www.veselycertik.cz</a>,</p><a href='https://www.facebook.com/pages/Vesel%C3%BD-%C4%8Cert%C3%ADk-mate%C5%99sk%C3%A9-centrum-a-rodinn%C3%BD-klub/169605503088279?ref=hl' target='_blank'>Facebook</a></p>",
+"ODOBA": "<p><strong>Otevírací doba:</strong></p><p>Pondělí: 9:00 – 11:30 - 15:00 – 18:00</p><p>Úterý: 9:00 – 12:00 – 15:00 – 18:00</p><p>Středa: dopoledne vyhrazeno pro školičku, 15:00 – 18:00</p><p>Čtvrtek: 9:00 – 12:00 – 15:00 – 18:00</p><p>Pátek: 9:00 – 12:00</p><p>Sobota a neděle: zavřeno</p>",
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5801533,
+                    50.0879008
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "22",
+            "mesto": "praha5",
+            "properties": {
+                "NAME": "Rodinné centrum Kamarád Chameleon",
+                "AKTIVITY": "<p>Jsme rodinné centrum s miniškolkou určenou pro děti od 1 do 4 let.Nabízíme rodičům jedinečnou možnost, jak skloubit rodinný a pracovní život. Díky projektu <strong>Miniškolka se sdílenou kanceláří</strong> mohou rodiče využívat naše prostory k práci a vzdělávání se, zatímco děti budou mít vlastní program s chůvami. Pro účastníky projektu je   <strong>miniškolka ZDARMA</strong>.</p><p>V průběhu školního roku pořádáme pro děti různé kroužky, pro maminky cvičení, přednášky a kurzy.</p><p><strong>Aktuální informace na webových stránkách</strong></p>",
+"KONTAKTY": "<p>Rodinné centrum Kamarád Chameleon Zahradníčkova 1118/2, 150 00 Praha 5</p><p>Kde nás najdete: 8 minut tram 9, 10 z Anděla, tram zastávka Poštovka</p><p>e-mail: <a href='mailto:info@kamaradchamelen.cz'>info@kamaradchamelen.cz</a>, telefon: + 420 603 20 20 35</p><p><a href='http://www.kamaradchameleon.cz/' target='_blank'>www.kamaradchameleon.cz</a>,</p>",
+"ODOBA": "<p>Od září 2015 bude otevřeno po celý týden a budou probíhat dopolední i odpolední kroužky pro děti a maminky s dětmi.</p>",
+                "GALERIE": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3553117,
+                    50.0697047
+                ]
+            }
         }
     ]
 }
