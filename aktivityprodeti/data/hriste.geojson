@@ -121,9 +121,9 @@
             "mesto": "praha4",
             "properties": {
                 "NAME": "Rodinné centrum U motýlků",
-                "AKTIVITY": "<p>Dva sály - mnoho aktivit v jeden čas! Každodenní miniškolka pro děti od 2 let. Řada kurzů pro děti i dospělé. Plně vybavená odpolední herna se vstupem zdarma v pondělí až čtvrtek, k níž náleží zahrada s dětským hřištěm a pískovištěm. Tvořivé dílny pro děti během volné herny. Odborné i naučné semináře a přednášky. Jednorázové akce pro celé rodiny (pohádkový les, Andersenova noc, sportovní dny, Svatomartinský průvod, vánoční rozsvěcení stromu s programem a trhem). Pronájem prostor pro narozeninové oslavy.</p>",
-                "KONTAKTY": "<p>Golčova 24/7, 148 00 Praha 4-Kunratice. <a href='http://www.umotylku.cz/' target='_blank'>www.umotylku.cz</a>, <a href='mailto:info@umotylku.cz'>info@umotylku.cz</a></p>",
-                "ODOBA": "<p>8:00 - 13:00: miniškolka</p><p>16:00 - 18:00: volná herna a tvořivé dílny Kurzy celodenně, přednášky a semináře pro dospělé večer.</p>",
+                "AKTIVITY": "<p>Zaveden&eacute; rodinn&eacute; centrum v Praze 4 &ndash; Kunratic&iacute;ch, kter&eacute; nab&iacute;z&iacute; &scaron;irok&eacute; spektrum služeb pro rodinu i &scaron;irokou veřejnost včetně podpory mezigeneračn&iacute;ho soužit&iacute;.</p> <p><br /> - Dětsk&aacute; skupina pro 12 dět&iacute; již od 2 let, denně od 8 do15 hodin.<br /> - Sportovn&iacute; i v&yacute;ukov&eacute; kurzy pro děti i dospěl&eacute;.<br /> - Jednor&aacute;zov&eacute; z&aacute;bavn&eacute; akce (Poh&aacute;dkov&yacute; les, Svatomartinsk&aacute; j&iacute;zda, Mikul&aacute;&scaron;sk&aacute;).<br /> - Velk&aacute; voln&aacute; herna zdarma denně kromě p&aacute;tku od 16 do 18 hodin.<br /> - V&yacute;tvarn&eacute;, hudebn&iacute;, dramatick&eacute; a kreamick&eacute; d&iacute;lny v&nbsp;r&aacute;mci odpoledn&iacute; herny.<br /> - Semin&aacute;ře a předn&aacute;&scaron;ky pro dospěl&eacute;.<br /> - Bazary dětsk&eacute;ho oblečen&iacute; a potřeb.<br /> - Profesion&aacute;ln&iacute; focen&iacute; rodin.<br /> - Dětsk&yacute; t&aacute;bor i př&iacute;městsk&eacute; t&aacute;bory po cel&eacute; l&eacute;to.<br /> - Pron&aacute;jem prostor pro soukrom&eacute; oslavy.</p>",
+                "KONTAKTY": "<p>Rodinné centrum U motýlků, Golčova 24/7, 148 00 Praha 4-Kunratice. <a href='http://www.umotylku.cz/' target='_blank'>www.umotylku.cz</a>, <a href='mailto:info@umotylku.cz'>info@umotylku.cz</a></p><p>tel: 608 323 545</p>",
+                "ODOBA": "<p>Ponděl&iacute; &ndash; čtvrtek: 8:00 &ndash; 15:00, 16:00 &ndash; 18:00 hodin.<br /> P&aacute;tek: 8:00 &ndash; 13:00 hodin.</p>",
                 "GALERIE": 6
             },
             "geometry": {
@@ -530,6 +530,25 @@
                 "coordinates": [
                     14.3553117,
                     50.0697047
+                ]
+            }
+        },
+{
+            "type": "Feature",
+            "id": "23",
+            "mesto": "praha1",
+            "properties": {
+                "NAME": "Rodinné centrum YMCA",
+                "AKTIVITY": "<p>Rodinné centrum YMCA (RCY) v Haštalské ulici je pokračovatelem Mateřského centra Na Poříčí, které bylo prvním mateřským centrem v České republice. Naším zřizovatelem je YMCA Praha, která zaštiťuje ještě další dvě mateřské centra: Domeček na Jižním městě a Klubíčko na Černém Mostě a další aktivity pro děti, mládež a celé rodiny.</p><p>Nab&iacute;z&iacute;me:</p><ul> <li>Hernu pro rodiče s&nbsp;dětmi, (1x t&yacute;dně multikulturn&iacute; hernu pro cizince)</li> <li>4x v&nbsp;t&yacute;dnu &scaron;količku Sovičku pro děti od 2,5 let</li> <li>1x t&yacute;dně &scaron;panělsk&aacute; &scaron;kolka</li> <li>Letn&iacute; př&iacute;městsk&eacute; t&aacute;boř&iacute;čky</li> <li>Cvičen&iacute; &ndash; Pillates, J&oacute;ga, Čchi-kung</li> <li>Kurzy a kroužky pro děti, dospěl&eacute; a pro rodiče s&nbsp;dětmi</li> <li>Semin&aacute;ře, předn&aacute;&scaron;ky, workshopy</li> <li>Divad&yacute;lka, keramick&eacute; a tvořiv&eacute; d&iacute;lny</li> <li>Prostor pro poř&aacute;d&aacute;n&iacute; akc&iacute; a dětsk&yacute;ch oslav</li> <li>Akce &ndash; Masopust, Velikonočn&iacute; d&iacute;lny, Den dět&iacute;, V&aacute;nočn&iacute; d&iacute;lny, Mikul&aacute;&scaron;sk&aacute;, Cesta světel k&nbsp;uv&iacute;t&aacute;n&iacute; adventu a dal&scaron;&iacute;</li> </ul><p>Centrum dále nabízí rodinné a partnerské poradenství, kontakty na odborníky a programy zaměřené na spolupráci a komunikaci rodičů s dětmi.</p>",
+"KONTAKTY": "<p>Haštalská 21, Praha 1, 110 00</p><p>e-mail: <a href='mailto:ymca.hastalska@gmail.com'>ymca.hastalska@gmail.com</a>, telefon: + 420 774 409 660</p><p><a href='http://www.rodinne-centrum-ymca.cz/' target='_blank'>www.rodinne-centrum-ymca.cz</a>,</p>",
+"ODOBA": "<p>PO 8-14 &scaron;količka Sovička, 16-19 &scaron;panělsk&aacute; &scaron;kolka</p> <p>&Uacute;T 8-14 &scaron;količka Sovička, 14:30-17:30 otevřen&aacute; herna</p> <p>ST 8-14 &scaron;količka Sovička, 14:30-17:30 otevřen&aacute; herna</p> <p>ČT 10-16 otevřen&aacute; herna</p> <p>P&Aacute; 8-14 &scaron;količka Sovička</p> <p>SO,NE dětsk&eacute; oslavy a jin&eacute; akce</p> <p>&nbsp;</p> <p>Podrobn&yacute; program naleznete na www str&aacute;nk&aacute;ch.</p>",
+                "GALERIE": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4259003,
+                    50.0914447
                 ]
             }
         }
