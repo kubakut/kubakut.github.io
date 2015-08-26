@@ -3173,7 +3173,31 @@
           50.0399292
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "86",
+      "mesto": "praha4",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Náměstí Generála Kutlvašra",
+        "INFO": "Hledáte azyl v parných dnech? Ano? Pak nepřehlédněte pěkné hřiště v Nuslích.",
+"POPIS": "<p>Náměstí Generála Kutlvašra pojmenované po legionáři a veliteli Pražského povstání představuje nevelkou plochu zeleně ve svahu nad Táborskou ulicí, v bezprostřední blízkosti radnice v Nuslích. Mj. se zde starají o pěknou květinovou výzdobu. Podstatnou část náměstí zabírá rozlehlé dětské hřiště <strong>(86)</strong>. Je oplocené, atrakce se rozkládají mezi vzrostlými stromy. Tím se dostáváme k hlavní přednosti hřiště. I ve slunečných dnech zde panuje stín! Hracích prvků je více než tucet. Patří k nim menší lanová pyramida, velký domek se skluzavkou (vše z plastu), lanovka, hrazdy, několik typů houpaček a houpadel, kolotoč pro nejmenší, kreslící tabule, multifunkční dřevěná sestava nebo prvek s plastovými válci k procvičení rovnováhy. Atrakce jsou vhodné spíše pro mladší děti. Povrch hřiště tvoří písek, pod atrakcemi leží kačírek.</p>",
+        "DOPORUCENI": "Na hřišti chybí voda. Pár desítek metrů od hřiště-ve svahu pod sokolovnou (ulice Svatoslavova) proto nepřehlédněte vodní sestavu, která se dětem bude určitě líbit. Myslím, že je vhodná rovněž ke krátkému „cachtání“. K soustavě se dostanete po několika schodech. Prostor doplňuje několik laviček. Pokud vás zajímá sakrální architektura, o pár set metrů dále si prohlédněte kostel sv. Václava z počátku 20. století (ulice Vladimírova).",
+        "SOCIALNI": "Voda ne, chemické WC. ",
+        "OBCERSTVENI": "Restaurace a obchody jsou soustředěny nedaleko-na Táborské nebo Svatoslavově ulici. ",
+        "DOPRAVA": "Autobus č. 193 a tramvaj č. 18, stanice Palouček. Kolem hřiště se sice nachází parkovací místa, ale bývají plná.",
+        "GALERIE": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4384197,
+          50.0622189
+        ]
+      }
     }
+
 
     ]
 }
