@@ -653,12 +653,12 @@
             "properties": {
                 "NAME": "Braník, Na Mlejnku",
                 "INFO": "V blízkosti Barrandovského mostu v Braníku se rozkládá jedno z nejrozsáhlejších dětských hřišť v Praze.",
-                "POPIS": " Hřiště <b>(15)</b> je situováno u ulice Na Mlejnku, do těsného sousedství mostu, od něhož je odděleno bariérou a pásem křovin a stromů. Dostanete se k němu od zastávky MHD „Pobřežní cesta“, podchodem pod Jižní spojkou. Je zde rozmístěno na patnáct převážně dřevěných a barevně výrazných prvků. Jedná se zejména o různé typy domků spojených se šplhacími prvky a skluzavkami. Nechybí ale ani lanovka (v době naší návštěvy na ní ovšem chyběla závěsná kotva) nebo velká lokomotiva pojatá jako skluzavka. Přirozeně oddělená je část pro předškoláky s drobnými prvky. Na ploše uvidíte také několik převážně březových a borových remízků a skupin keřů. Povrch hřiště tvoří tráva, pod atrakcemi leží písek. Přestože tady roste dost zeleně, většina prvků stojí mimo stín. Rušivě může působit hluk dopravy na Barrandovském mostě. Na mostě si všimněte mohutných betonových plastik od J. Klimeše. Podél Vltavy vede cyklo a in-line stezka.",
+                "POPIS": " Hřiště <b>(15)</b> je situováno u ulice Na Mlejnku, do těsného sousedství mostu, od něhož je odděleno bariérou a pásem křovin a stromů. Dostanete se k němu od zastávky MHD „Pobřežní cesta“, podchodem pod Jižní spojkou, případně od zastávky autobusů U Staré pošty. Na ploše je rozmístěno asi tucet hracích prvků. Jedná se o menší lanovou pyramidu, houpačky, větší plastový multifunkční prvek a další tentokrát dřevěnou sestavu s několika domky, můstkem, skluzavku atp. Přirozeně oddělená je část pro předškoláky s drobnými atrakcemi, jako houpačky, houpadla, nevelký dřevěný domek, altánek, prvek se skluzavkou a pískoviště s mlýnkem. Na ploše uvidíte také několik převážně březových a borových remízků a skupin keřů. Povrch hřiště tvoří tráva, pod atrakcemi leží písek. Přestože tady roste dost zeleně, většina prvků stojí mimo stín. Vybavení doplňuje mnoho laviček, ale areálu by slušel kvalitnější úklid. Rušivě může působit hluk dopravy na Barrandovském mostě. Na mostě si všimněte mohutných betonových plastik od J. Klimeše. Podél Vltavy vede cyklo a in-line stezka, na níž narazíte hned za oplocením hřiště.",
                 "DOPORUCENI": "Areál je vhodný ke hře na schovávanou a v letních dnech i k opalování.",
                 "SOCIALNI": "Voda ne, chemické WC vně hřiště.",
                 "OBCERSTVENI": "U křižovatky ulic Modřanské a Ke Krči najdete pizzerii a restauraci s venkovním posezením.",
-                "DOPRAVA": "Tramvaje č. 3, 17, autobus č. 253, zastávka Pobřežní cesta, nebo autobusy č. 170, 196, 197, stanice U&nbsp;Staré pošty. Parkování v ulici Na Mlejnku.",
-                "GALERIE": 7
+                "DOPRAVA": "Tramvaje č. 3, 17, autobus č. 253, zastávka Pobřežní cesta, nebo autobusy č. 170, 196, 197, stanice U&nbsp;Staré pošty. Parkování v ulici Na Mlejnku, u hřiště.",
+                "GALERIE": 5
             },
             "geometry": {
                 "type": "Point",
