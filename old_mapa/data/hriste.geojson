@@ -3196,7 +3196,31 @@
           50.0622189
         ]
       }
+    },
+{
+      "type": "Feature",
+      "id": "87",
+      "mesto": "praha6",
+      "kategorie": "",
+      "properties": {
+        "NAME": "Park Maxe van der Stoela",
+        "INFO": "Pokud se chystáte na Pražský hrad, můžete dětem jeho prohlídku okořenit návštěvou parku, jehož hlavní atrakcí bude vodní soustava.",
+"POPIS": "<p>Park Maxe van der Stoela byl revitalizován údajně za 60 milionů korun. Za tuto vysokou částku získala veřejnost plochu zeleně a vody, děti navíc hřiště. Atraktivní bude především cca 50 m dlouhá strouha, která se klikatí mezi pískovcovými kvádry a dlažbou. Najdete tu několik přepadů, mlýnek, drobnou fontánu tryskající z kamene a několik stavidel, které mohou děti obsluhovat. Stružka je široká pár desítek centimetrů a mělká, takže ani nejmenším nehrozí nebezpečí. K dětským atrakcím patří kladina, hrazda, točidlo pro čtyři, prvky k procvičení rovnováhy, větší lanová pyramida, houpačka a prolézací sestava z klád. Pod některými atrakcemi leží kačírek, jiné však bohužel stojí přímo na trávě, takže pokud je vlhko, děti budou špinavé od bahna. Nepochopitelné, že na to tvůrci hřiště nemysleli!</p><p>Ve spodní části parku se rozkládá rybníček, dlouhý několik desítek metrů. Je obložen pískovcovými kvádry a na jednom ze svahů byly vysázeny okrasné rostliny. Parkem vede rovněž kratší in-line okruh. Na ploše rostou desítky, zatím malých stromků, takže hřiště zatím postrádá stín. U hradební zdi se naštěstí tyčí vzrostlé stromy. Areál doplňuje větší počet laviček. Na závěr je třeba poznamenat, že Max van der Stel byl nizozemským ministrem zahraničních věcí, který se mj. zapsal do historie Charty 77.</p>",
+        "DOPORUCENI": "Spojit návštěvu parku s prohlídkou Pražského hradu, případně si zasportovat na venkovním <a href='http://www.koupalistepetynka.cz/'>koupališti Petynka</a>, jež leží nedaleko.Pro někoho může být atraktivní rovněž <a href='http://www.dpp.cz/muzeum-mhd/'>Muzeum MHD ve střešovické vozovně</a>.",
+        "SOCIALNI": "Voda ne, WC ne (vzhledem k ceně projektu neomluvitelné).",
+        "OBCERSTVENI": "V nejbližším okolí to je pouze nevelká kavárna Halabala pro rodiny s dětmi a dětským koutkem.",
+        "DOPRAVA": "Tramvaj č. 25, zastávka Hládkov, případně tramvaj č. 22, stanice Brusnice. Vzhledem k dopravní situaci je parkování v nejbližším okolí hřiště vyloučené!",
+        "GALERIE": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3873631,
+          50.0912331
+        ]
+      }
     }
+
 
 
     ]
