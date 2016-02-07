@@ -520,10 +520,10 @@
             "mesto": "praha5",
             "properties": {
                 "NAME": "Rodinné centrum Kamarád Chameleon",
-                "AKTIVITY": "<p>Jsme rodinné centrum s miniškolkou určenou pro děti od 1 do 4 let.Nabízíme rodičům jedinečnou možnost, jak skloubit rodinný a pracovní život. Díky projektu <strong>Miniškolka se sdílenou kanceláří</strong> mohou rodiče využívat naše prostory k práci a vzdělávání se, zatímco děti budou mít vlastní program s chůvami. Pro účastníky projektu je   <strong>miniškolka ZDARMA</strong>.</p><p>V průběhu školního roku pořádáme pro děti různé kroužky, pro maminky cvičení, přednášky a kurzy.</p><p><strong>Aktuální informace na webových stránkách</strong></p>",
-"KONTAKTY": "<p>Rodinné centrum Kamarád Chameleon Zahradníčkova 1118/2, 150 00 Praha 5</p><p>Kde nás najdete: 8 minut tram 9, 10 z Anděla, tram zastávka Poštovka</p><p>e-mail: <a href='mailto:info@kamaradchamelen.cz'>info@kamaradchamelen.cz</a>, telefon: + 420 603 20 20 35</p><p><a href='http://www.kamaradchameleon.cz/' target='_blank'>www.kamaradchameleon.cz</a>,</p>",
-"ODOBA": "<p>Od září 2015 bude otevřeno po celý týden a budou probíhat dopolední i odpolední kroužky pro děti a maminky s dětmi.</p>",
-                "GALERIE": 4
+                "AKTIVITY": "<p>Jsme rodinné centrum s miniškolkou určenou pro děti od 1 do 4 let.</p><p>Nabízíme rodičům jedinečnou možnost, jak skloubit rodinný a pracovní život. Rodiče mohou využívat naše prostory k práci a vzdělávání se, zatímco děti budou mít vlastní program s kvalifikovanými chůvami.</p><p>V průběhu školního roku pořádáme pro děti předškolního věku rozmanité kroužky, jako například Přírodní tvůrčí dílna, Hrajeme si s písničkou, pro těhotné a pro maminky s miminky nabízíme lekce tance a jógy, rodičům přinášíme přednášky a kurzy na aktuální témata.</p><p>Aktuální informace na <a href='http://www.kamaradchameleon.cz' target='_blank'>www.kamaradchameleon.cz</a></p>",
+"KONTAKTY": "<p>Rodinné centrum Kamarád Chameleon<br> Zahradníčkova 1118/2, 150 00 Praha 5</p><p>Tel: 603 20 20 35, <a href='mailto:info@kamaradchamelen.cz'>info@kamaradchamelen.cz</a></p><p><a href='http://www.kamaradchameleon.cz/' target='_blank'>www.kamaradchameleon.cz</a></p><p>Kde nás najdete: 8 minut tram 9, 10 z Anděla, tram zastávka Poštovka</p>",
+"ODOBA": "<p>Miniškolka je otevřena každý všední den od 8 hodin. V odpoledních hodinách je otevřeno v závislosti na aktuálním vypsaném programu kroužků.</p>",
+                "GALERIE": 6
             },
             "geometry": {
                 "type": "Point",
